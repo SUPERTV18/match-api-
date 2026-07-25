@@ -28,7 +28,7 @@
       "name": "بايرن ميونخ",
       "flag": "https://imgs.ysscores.com/teams/128/2351690288818.png"
     },
-    "extra": true,
+    "extra": false,
     "channels": [
       { "name": "", "url": "go:ssc11" },
       { "name": "", "url": "go:ssc1" }
@@ -46,7 +46,7 @@
       "name": "ميلان",
       "flag": "https://imgs.ysscores.com/teams/128/3181690283002.png"
     },
-    "extra": true,
+    "extra": false,
     "channels": [
       { "name": "جودة تلقائية", "url": "go:adsp1" },
       { "name": "كويت الرياضية", "url": "go:KuwaitSP" },
@@ -101,7 +101,7 @@
       "name": "استون فيلا",
       "flag": "https://imgs.ysscores.com/teams/128/9921723414870.png"
     },
-    "extra": true,
+    "extra": false,
     "channels": [
     { "name": "ON Sport", "url": "go:ONTime3" }
     ]
