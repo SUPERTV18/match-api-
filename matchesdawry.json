@@ -154,7 +154,8 @@
     },
     "extra": false,
     "channels": [
-    { "name": "ALWAN 1", "url": "go:ALWAN1" }
+    { "name": "ALWAN 1", "url": "go:ALWAN1" },
+    { "name": "الشارقة الرياضية", "url": "go:shsport" }
     ]
   },
   {
