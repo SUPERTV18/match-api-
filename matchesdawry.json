@@ -1,6 +1,6 @@
 [
   {
-    "league": "مباراة ودية ",
+    "league": "مباراة ودية x",
     "title": " × دورتموند",
     "time": "2026-08-01T13:00:00",
     "team1": {
@@ -141,7 +141,7 @@
   ]
   },
   {
-    "league": "مباراة ودية ",
+    "league": "مباراة ودية x",
     "title": "تشيلسي × ",
     "time": "2026-08-01T12:45:00",
     "team2": {
@@ -159,7 +159,7 @@
     ]
   },
   {
-    "league": "مباراة ودية ",
+    "league": "مباراة ودية x",
     "title": "مان سيتي × ",
     "time": "2026-08-01T14:30:00",
     "team1": {
@@ -177,7 +177,7 @@
   ]
   },
   {
-    "league": "مباراة ودية ",
+    "league": "مباراة ودية x",
     "title": "مان يونايتد × ",
     "time": "2026-08-01T16:00:00",
     "team2": {
@@ -195,7 +195,7 @@
     ]
   },
 {
-  "league": "مباراة ودية ",
+  "league": "مباراة ودية x",
   "title": "روما × ",
   "time": "2026-08-01T16:00:00",
   "team1": {
@@ -212,7 +212,7 @@
   ]
 },
 {
-  "league": "مباراة ودية ",
+  "league": "مباراة ودية x",
   "title": "ريال مدريد × ",
   "time": "2026-08-01T19:00:00",
   "team2": {
@@ -229,7 +229,7 @@
   ]
 },
 {
-  "league": "مباراة ودية ",
+  "league": "مباراة ودية x",
   "title": "ارسنال × ",
   "time": "2026-08-01T21:00:00",
   "team1": {
@@ -249,7 +249,7 @@
   ]
 },
 {
-  "league": "مباراة ودية ",
+  "league": "مباراة ودية x",
   "title": "النصر × ",
   "time": "2026-08-01T20:00:00",
   "team1": {
@@ -266,34 +266,21 @@
   ]
 },
   {
-  "league": "كأس العالم x",
-  "title": "غانا × ",
-  "time": "2026-07-07T23:00:00",
+  "league": "مباراة ودية ",
+  "title": "ليفربول × ",
+  "time": "2026-08-02T23:00:00",
   "team2": {
-    "name": "كولومبيا",
-    "flag": "https://imgs.ysscores.com/teams/128/8411763070902.png"
+    "name": "ليفربول",
+    "flag": "https://imgs.ysscores.com/teams/128/4081724601375.png"
   },
   "team1": {
-    "name": "سويسرا",
-    "flag": "https://imgs.ysscores.com/teams/128/1011763087595.png"
+    "name": "ليدز يونايتد",
+    "flag": "https://imgs.ysscores.com/teams/128/4691690458244.png"
   },
   "extra": true,
   "channels": [
-    { "name": "TOD", "url": "go:TOD11" },
-    { "name": "الفجر", "url": "go:Alfajr1" },
     { "name": "ALWAN 1", "url": "go:ALWAN1" },
-      { "name": "ALWAN 1", "url": "go:gogo1" },
-      { "name": "ALWAN 2", "url": "go:gogo2" },
-      { "name": "MULTI", "url": "go:max24K" },
-    { "name": "MULTI", "url": "go:max44K" },
-    { "name": "FHD", "url": "go:max2FHD" },
-    { "name": "FHD", "url": "go:max4FHD" },
-    { "name": "HD", "url": "go:max2HD" },
-    { "name": "HD", "url": "go:max4HD" },
-    { "name": "SD", "url": "go:max2SD" },
-    { "name": "SD", "url": "go:max4SD" },
-    { "name": "LOW", "url": "go:max2LOW" },
-    { "name": "LOW", "url": "go:max4LOW" }
+      { "name": "ALWAN 1", "url": "go:gogo1" }
   ]
 },
 {
