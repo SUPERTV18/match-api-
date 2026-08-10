@@ -57,11 +57,11 @@
     "league": "مباراة ودية ",
     "title": "يوفنتوس × ",
     "time": "2026-08-11T13:00:00",
-    "team1": {
+    "team2": {
       "name": "باليرمو",
       "flag": "https://imgs.ysscores.com/teams/128/7091750168797.png"
     },
-    "team2": {
+    "team1": {
       "name": "يوفنتوس",
       "flag": "https://imgs.ysscores.com/teams/128/9331690283003.png"
     },
