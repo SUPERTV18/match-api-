@@ -54,12 +54,12 @@
     ]
   },
   {
-    "league": "مباراة ودية x",
+    "league": "مباراة ودية ",
     "title": "يوفنتوس × ",
-    "time": "2026-07-25T21:00:00",
+    "time": "2026-08-11T13:00:00",
     "team1": {
-      "name": "ستاندارد لييج",
-      "flag": "https://imgs.ysscores.com/teams/128/4911690370549.png"
+      "name": "باليرمو",
+      "flag": "https://imgs.ysscores.com/teams/128/7091750168797.png"
     },
     "team2": {
       "name": "يوفنتوس",
@@ -67,18 +67,16 @@
     },
     "extra": false,
     "channels": [
-      { "name": "جودة تلقائية", "url": "go:adsp1" },
-      { "name": "كويت الرياضية", "url": "go:KuwaitSP" },
-      { "name": "ON Sport", "url": "go:ONTime1" }
+      { "name": "الشارقة الرياضية", "url": "go:shsport" }
     ]
   },
   {
-    "league": "مباراة ودية x",
+    "league": "دوري أبطال آسيا للنخبة ",
     "title": " × الاتحاد",
-    "time": "2026-07-25T20:00:00",
+    "time": "2026-08-11T19:00:00",
     "team1": {
-      "name": "لاس بالماس",
-      "flag": "https://imgs.ysscores.com/teams/128/791690196744.png"
+      "name": "الجزيرة",
+      "flag": "https://imgs.ysscores.com/teams/128/4171716154082.png"
     },
     "team2": {
       "name": "الاتحاد",
@@ -86,7 +84,8 @@
     },
     "extra": false,
     "channels": [
-      { "name": "STC", "url": "go:STC3" }
+      { "name": "ALWAN 1", "url": "go:ALWAN1" },
+      { "name": "MULTI", "url": "go:adsp1" }
     ]
   },
   {
