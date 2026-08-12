@@ -262,8 +262,45 @@
     { "name": "الشارقة الرياضية", "url": "go:shsport" }
   ]
   },
+{
+  "league": "الدوري السعودي ",
+  "title": "الأهلي × ",
+  "time": "2026-08-13T21:00:00",
+  "team2": {
+    "name": "الدرعية",
+    "flag": "https://imgs.ysscores.com/teams/128/17835195657588.png"
+  },
+  "team1": {
+    "name": "الأهلي",
+    "flag": "https://imgs.ysscores.com/teams/128/9091751485160.png"
+  },
+  "extra": false,
+  "channels": [
+    { "name": "ALWAN 1", "url": "go:ALWAN1" },
+    { "name": "MULTI", "url": "go:server9" },
+    { "name": "FHD", "url": "go:Thman2HD" },
+    { "name": "HD", "url": "go:Thman2SD" }
+  ]
+},
+{
+  "league": "الدوري السعودي x",
+  "title": "النصر × ",
+  "time": "2026-08-01T20:00:00",
+  "team1": {
+    "name": "إستريلا أمادورا",
+      "flag": "https://imgs.ysscores.com/teams/128/3151690385137.png"
+  },
+  "team2": {
+    "name": "النصر",
+    "flag": "https://imgs.ysscores.com/teams/128/1371747772080.png"
+  },
+  "extra": false,
+  "channels": [
+      { "name": "STC", "url": "go:STC1" }
+  ]
+},
   {
-    "league": "دوري ابطال اسيا للنخبة x",
+    "league": "الدوري السعودي x",
     "title": " × الاتحاد",
     "time": "2026-08-11T19:00:00",
     "team1": {
@@ -297,23 +334,24 @@
       { "name": "الكويت الرياضية", "url": "go:KuwaitSP" }
   ]
   },
-{
-  "league": "مباراة ودية x",
-  "title": "النصر × ",
-  "time": "2026-08-01T20:00:00",
-  "team1": {
-    "name": "إستريلا أمادورا",
-      "flag": "https://imgs.ysscores.com/teams/128/3151690385137.png"
+  {
+    "league": "دوري ابطال اسيا للنخبة x",
+    "title": " × الاتحاد",
+    "time": "2026-08-11T19:00:00",
+    "team1": {
+      "name": "الجزيرة",
+      "flag": "https://imgs.ysscores.com/teams/128/4171716154082.png"
+    },
+    "team2": {
+      "name": "الاتحاد",
+      "flag": "https://imgs.ysscores.com/teams/128/2231690298782.png"
+    },
+    "extra": false,
+    "channels": [
+      { "name": "ALWAN 1", "url": "go:ALWAN1" },
+      { "name": "MULTI", "url": "go:adsp1" }
+    ]
   },
-  "team2": {
-    "name": "النصر",
-    "flag": "https://imgs.ysscores.com/teams/128/1371747772080.png"
-  },
-  "extra": false,
-  "channels": [
-      { "name": "STC", "url": "go:STC1" }
-  ]
-},
 {
   "league": "كأس السوبر الأوروبي x",
   "title": " × باريس سان جيرمان",
@@ -345,30 +383,6 @@
     { "name": "SD", "url": "http://185.191.126.127:8080/live//b0:99:d7:15:88:50/3090914536649669/325794.m3u8" },
     { "name": "LOW", "url": "go:Bein1low" },
     { "name": "LOW", "url": "go:Bein2low" }
-  ]
-},
-{
-  "league": "كأس العالم x",
-  "title": "كندا × ",
-  "time": "2026-06-24T22:00:00",
-  "team2": {
-    "name": "كندا",
-    "flag": "https://imgs.ysscores.com/teams/128/2281763070530.png"
-  },
-  "team1": {
-    "name": "سويسرا",
-    "flag": "https://imgs.ysscores.com/teams/128/1011763087595.png"
-  },
-  "extra": false,
-  "channels": [
-    { "name": "POST 2", "url": "go:POST2" },
-    { "name": "الفجر", "url": "go:Alfajr3" },
-    { "name": "ALWAN 2", "url": "go:ALWAN2" },
-    { "name": "MULTI", "url": "go:max24K" },
-    { "name": "FHD", "url": "go:max2FHD" },
-    { "name": "HD", "url": "go:max2HD" },
-    { "name": "SD", "url": "go:max2SD" },
-    { "name": "LOW", "url": "go:max2LOW" }
   ]
 },
 {
