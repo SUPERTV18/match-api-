@@ -62,7 +62,7 @@
       "name": "انتر ميلان",
       "flag": "https://imgs.ysscores.com/teams/128/3101690283003.png"
     },
-    "extra": true,
+    "extra": false,
     "channels": [
     { "name": "ALWAN 2", "url": "go:ALWAN2" },
     { "name": "الشارقة الرياضية", "url": "go:shsport" }
@@ -115,7 +115,7 @@
     "name": "ليدز يونايتد",
     "flag": "https://imgs.ysscores.com/teams/128/4691690458244.png"
   },
-  "extra": true,
+  "extra": false,
   "channels": [
     { "name": "ALWAN 1", "url": "go:ALWAN1" },
       { "name": "ALWAN 1", "url": "go:gogo1" }
@@ -256,7 +256,7 @@
       "name": "انتر ميلان",
       "flag": "https://imgs.ysscores.com/teams/128/3101690283003.png"
     },
-    "extra": true,
+    "extra": false,
     "channels": [
     { "name": "ALWAN 2", "url": "go:ALWAN2" },
     { "name": "الشارقة الرياضية", "url": "go:shsport" }
@@ -309,7 +309,7 @@
     "name": "النصر",
     "flag": "https://imgs.ysscores.com/teams/128/1371747772080.png"
   },
-  "extra": true,
+  "extra": false,
   "channels": [
       { "name": "STC", "url": "go:STC1" }
   ]
