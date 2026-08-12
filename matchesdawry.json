@@ -80,7 +80,7 @@
       "name": "ليدز يونايتد",
     "flag": "https://imgs.ysscores.com/teams/128/4691690458244.png"
     },
-    "extra": true,
+    "extra": false,
     "channels": [
     { "name": "ALWAN 4", "url": "go:ALWAN4" }
     ]
@@ -97,7 +97,7 @@
     "name": "ارسنال",
     "flag": "https://imgs.ysscores.com/teams/128/1701690118820.png"
   },
-  "extra": true,
+  "extra": false,
   "channels": [
     { "name": "ALWAN 5", "url": "go:ALWAN5" },
       { "name": "جودة تلقائية", "url": "go:adsp2" }
@@ -150,7 +150,7 @@
     "name": "ديبورتيفو لاكورونيا",
     "flag": "https://imgs.ysscores.com/teams/128/2961698772258.png"
   },
-  "extra": true,
+  "extra": false,
   "channels": [
     { "name": "ALWAN 3", "url": "go:ALWAN3" },
       { "name": "جودة تلقائية", "url": "go:adsp1" }
