@@ -278,8 +278,8 @@
   "channels": [
     { "name": "ALWAN 1", "url": "go:ALWAN1" },
     { "name": "MULTI", "url": "go:server9" },
-    { "name": "FHD", "url": "go:Thman2HD" },
-    { "name": "HD", "url": "go:Thman2SD" }
+    { "name": "HD", "url": "http://bazoka.co/live/709368369/580683430/137388.m3u8" },
+    { "name": "SD", "url": "http://bazoka.co/live/709368369/580683430/137385.m3u8" }
   ]
 },
 {
