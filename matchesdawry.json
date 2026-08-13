@@ -277,8 +277,8 @@
   "extra": false,
   "channels": [
     { "name": "ALWAN 2", "url": "go:ALWAN2" },
-    { "name": "MULTI", "url": "go:Thman1HD" },
-    { "name": "HD", "url": "go:Thman1HD" },
+    { "name": "MULTI", "url": "go:server10" },
+    { "name": "HD", "url": "go:Thman2HD" },
     { "name": "SD", "url": "http://bazoka.co/live/709368369/580683430/137385.m3u8" }
   ]
 },
