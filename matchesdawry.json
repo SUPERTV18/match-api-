@@ -266,11 +266,11 @@
   "league": "الدوري السعودي ",
   "title": "الأهلي × ",
   "time": "2026-08-13T21:00:00",
-  "team2": {
+  "team1": {
     "name": "الدرعية",
     "flag": "https://imgs.ysscores.com/teams/128/17835195657588.png"
   },
-  "team1": {
+  "team2": {
     "name": "الأهلي",
     "flag": "https://imgs.ysscores.com/teams/128/9091751485160.png"
   },
