@@ -385,6 +385,7 @@
   "channels": [
       { "name": "ALWAN 3", "url": "go:ALWAN3" },
     { "name": "MULTI", "url": "go:server9" },
+    { "name": "MULTI HDR", "url": "go:Thman1LOW" },
     { "name": "HD", "url": "go:Thman1HD" },
     { "name": "SD", "url": "http://185.191.126.127:8080/live//b0:99:d7:15:88:50/3090914536649669/421785.m3u8" }
   ]
@@ -405,6 +406,7 @@
     "channels": [
       { "name": "ALWAN 6", "url": "go:ALWAN6" },
     { "name": "MULTI", "url": "go:server10" },
+      { "name": "MULTI HDR", "url": "go:Thman2LOW" },
     { "name": "HD", "url": "go:Thman2HD" },
     { "name": "SD", "url": "http://185.191.126.127:8080/live//b0:99:d7:15:88:50/3090914536649669/421786.m3u8" }
     ]
