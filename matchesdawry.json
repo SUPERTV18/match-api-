@@ -50,7 +50,7 @@
     ]
   },
   {
-    "league": "مباراة ودية ",
+    "league": "مباراة ودية x",
     "title": "توتنهام × ",
     "time": "2026-08-16T14:00:00",
     "team1": {
@@ -67,7 +67,7 @@
     ]
   },
   {
-    "league": "كأس الدرع الخيرية الانجليزي ",
+    "league": "كأس الدرع الخيرية الانجليزي x",
     "title": "مان سيتي × ",
     "time": "2026-08-16T17:00:00",
     "team2": {
@@ -129,7 +129,7 @@
   ]
 },
   {
-  "league": "مباراة ودية ",
+  "league": "مباراة ودية x",
   "title": "ليفربول × ",
   "time": "2026-08-16T20:00:00",
   "team1": {
@@ -149,7 +149,7 @@
   ]
 },
   {
-    "league": "مباراة ودية ",
+    "league": "مباراة ودية x",
     "title": "برشلونة × ",
     "time": "2026-08-16T17:30:00",
     "team1": {
@@ -166,7 +166,7 @@
   ]
   },
 {
-  "league": "مباراة ودية ",
+  "league": "مباراة ودية x",
   "title": "ريال مدريد × ",
   "time": "2026-08-16T18:00:00",
   "team1": {
@@ -293,7 +293,7 @@
   },
   
 {
-  "league": "كأس السوبر الفرنسي ",
+  "league": "كأس السوبر الفرنسي x",
   "title": " × باريس سان جيرمان",
   "time": "2026-08-16T21:45:00",
   "team2": {
@@ -428,6 +428,90 @@
 },
   {
     "league": "الدوري السعودي x",
+    "title": " × الاتحاد",
+    "time": "2026-08-15T21:00:00",
+    "team2": {
+      "name": "الخلود",
+      "flag": "https://imgs.ysscores.com/teams/128/5501757530062.png"
+    },
+    "team1": {
+      "name": "الاتحاد",
+      "flag": "https://imgs.ysscores.com/teams/128/2231690298782.png"
+    },
+    "extra": false,
+    "channels": [
+      { "name": "ALWAN 6", "url": "go:ALWAN6" },
+    { "name": "MULTI", "url": "go:server10" },
+      { "name": "MULTI HDR", "url": "go:Thman2LOW" },
+    { "name": "HD", "url": "go:Thman2HD" },
+    { "name": "SD", "url": "http://185.191.126.127:8080/live//b0:99:d7:15:88:50/3090914536649669/421786.m3u8" }
+    ]
+  },
+  
+{
+  "league": "كأس خادم الحرمين الشريفين ",
+  "title": "الأهلي × ",
+  "time": "2026-08-17T19:00:00",
+  "team1": {
+    "name": "الانوار",
+    "flag": "https://imgs.ysscores.com/teams/128/17835196621248.png"
+  },
+  "team2": {
+    "name": "الأهلي",
+    "flag": "https://imgs.ysscores.com/teams/128/9091751485160.png"
+  },
+  "extra": false,
+  "channels": [
+    { "name": "ALWAN 2", "url": "go:ALWAN2" },
+    { "name": "MULTI", "url": "go:server10" },
+    { "name": "HD", "url": "go:Thman2HD" },
+    { "name": "SD", "url": "http://bazoka.co/live/709368369/580683430/137385.m3u8" }
+  ]
+},
+  
+{
+  "league": "كأس خادم الحرمين الشريفين x",
+  "title": "الهلال × ",
+  "time": "2026-08-14T21:00:00",
+  "team2": {
+    "name": "الهلال",
+    "flag": "https://imgs.ysscores.com/teams/128/8761690298716.png"
+  },
+  "team1": {
+    "name": "الرائد",
+    "flag": "https://imgs.ysscores.com/teams/128/251724712283.png"
+  },
+  "extra": false,
+  "channels": [
+    { "name": "ALWAN 3", "url": "go:ALWAN3" },
+    { "name": "MULTI", "url": "go:server9" },
+    { "name": "HD", "url": "go:Thman1HD" },
+    { "name": "SD", "url": "http://185.191.126.127:8080/live//b0:99:d7:15:88:50/3090914536649669/421785.m3u8" }
+  ]
+},
+{
+  "league": "كأس خادم الحرمين الشريفين x",
+  "title": "النصر × ",
+  "time": "2026-08-15T21:00:00",
+  "team2": {
+    "name": "الفتح",
+      "flag": "https://imgs.ysscores.com/teams/128/4171690300306.png"
+  },
+  "team1": {
+    "name": "النصر",
+    "flag": "https://imgs.ysscores.com/teams/128/1371747772080.png"
+  },
+  "extra": false,
+  "channels": [
+      { "name": "ALWAN 3", "url": "go:ALWAN3" },
+    { "name": "MULTI", "url": "go:server9" },
+    { "name": "MULTI HDR", "url": "go:Thman1LOW" },
+    { "name": "HD", "url": "go:Thman1HD" },
+    { "name": "SD", "url": "http://185.191.126.127:8080/live//b0:99:d7:15:88:50/3090914536649669/421785.m3u8" }
+  ]
+},
+  {
+    "league": "كأس خادم الحرمين الشريفين x",
     "title": " × الاتحاد",
     "time": "2026-08-15T21:00:00",
     "team2": {
