@@ -199,11 +199,9 @@
   "extra": false,
   "channels": [
     { "name": "TOD", "url": "go:TOD11" },
-    { "name": "الفجر", "url": "http://185.191.126.127:8080/live//b0:99:d7:15:88:50/3090914536649669/463532.m3u8" },
-    { "name": "ALWAN 1", "url": "go:ALWAN2" },
-      { "name": "ALWAN 1", "url": "go:gogo2" },
+    { "name": "ALWAN 2", "url": "go:ALWAN2" },
       { "name": "MULTI", "url": "go:CONNECT2" },
-    { "name": "FHD", "url": "go:Bei21hd" },
+    { "name": "FHD", "url": "go:Bei2hd" },
     { "name": "HD", "url": "go:Bein2hd2" },
     { "name": "SD", "url": "go:Bein2sd" },
     { "name": "LOW", "url": "go:Bein2low" }
