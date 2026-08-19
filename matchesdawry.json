@@ -201,7 +201,7 @@
     { "name": "TOD", "url": "go:TOD12" },
     { "name": "ALWAN 2", "url": "go:ALWAN2" },
       { "name": "MULTI", "url": "go:CONNECT2" },
-    { "name": "FHD", "url": "go:Bei2hd" },
+    { "name": "FHD", "url": "go:Bein2hd" },
     { "name": "HD", "url": "go:Bein2hd2" },
     { "name": "SD", "url": "go:Bein2sd" },
     { "name": "LOW", "url": "go:Bein2low" }
