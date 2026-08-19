@@ -149,7 +149,7 @@
   ]
 },
   {
-    "league": "كأس جوان غامبر ",
+    "league": "كأس جوان غامبر x",
     "title": "برشلونة × ",
     "time": "2026-08-19T21:00:00",
     "team2": {
@@ -185,7 +185,7 @@
 },
   
 {
-  "league": "الدوري الاسباني ",
+  "league": "الدوري الاسباني x",
   "title": "اتليتكو مدريد × ",
   "time": "2026-08-19T22:00:00",
   "team1": {
@@ -410,20 +410,20 @@
 },
   
 {
-  "league": "الدوري السعودي x",
+  "league": "الدوري السعودي ",
   "title": "الهلال × ",
-  "time": "2026-08-14T21:00:00",
-  "team1": {
+  "time": "2026-08-20T21:00:00",
+  "team2": {
     "name": "الهلال",
     "flag": "https://imgs.ysscores.com/teams/128/8761690298716.png"
   },
-  "team2": {
+  "team1": {
     "name": "الفيصلي",
-    "flag": "https://imgs.ysscores.com/teams/128/5731692998559.png"
+    "flag": "https://imgs.ysscores.com/teams/128/9981690292497.png"
   },
   "extra": false,
   "channels": [
-    { "name": "ALWAN 2", "url": "go:ALWAN1" },
+    { "name": "ALWAN 5", "url": "go:ALWAN5" },
     { "name": "MULTI", "url": "go:server9" },
     { "name": "HD", "url": "go:Thman1HD" },
     { "name": "SD", "url": "http://185.191.126.127:8080/live//b0:99:d7:15:88:50/3090914536649669/421785.m3u8" }
@@ -649,27 +649,21 @@
   ]
 },
 {
-  "league": "كأس العالم x",
-  "title": "تركيا × ",
+  "league": "الدوري الاوروبي ",
+  "title": "طرابزون سبور × ",
   "time": "2026-06-26T05:00:00",
   "team1": {
-    "name": "تركيا",
-    "flag": "https://imgs.ysscores.com/teams/128/2991693826429.png"
+    "name": "طرابزون سبور",
+    "flag": "https://imgs.ysscores.com/teams/128/7531690127980.png"
   },
   "team2": {
-    "name": "امريكا",
-    "flag": "https://imgs.ysscores.com/teams/128/2411763117653.png"
+    "name": "فرينكفاروزي",
+    "flag": "https://imgs.ysscores.com/teams/128/6411690370517.png"
   },
   "extra": false,
   "channels": [
-      { "name": "POST 1", "url": "go:POST1" },
       { "name": "ALWAN 1", "url": "go:ALWAN1" },
-      { "name": "الفجر", "url": "go:Alfajr1" },
-      { "name": "MULTI", "url": "go:max14K" },
-      { "name": "FHD", "url": "go:max1FHD" },
-      { "name": "HD", "url": "go:max1HD" },
-      { "name": "SD", "url": "go:max1SD" },
-      { "name": "LOW", "url": "go:max1LOW" }
+      { "name": "ON Sport", "url": "go:ONTime3" }
   ]
 },
 {
