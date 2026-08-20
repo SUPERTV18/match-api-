@@ -425,6 +425,7 @@
   "channels": [
     { "name": "ALWAN 5", "url": "go:ALWAN5" },
     { "name": "MULTI", "url": "go:server9" },
+    { "name": "MULTI HDR", "url": "go:Thman1LOW" },
     { "name": "HD", "url": "go:Thman1HD" },
     { "name": "SD", "url": "http://185.191.126.127:8080/live//b0:99:d7:15:88:50/3090914536649669/421785.m3u8" }
   ]
