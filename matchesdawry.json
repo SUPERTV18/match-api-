@@ -349,7 +349,7 @@
       { "name": "ALWAN 3", "url": "go:ALWAN3" },
     { "name": "MULTI", "url": "go:Premfhd1" },
       { "name": "HD", "url": "go:Premhd1" },
-      { "name": "SHASHA", "url": "go:SHASHA1" }
+      { "name": "SHASHA", "url": "http://185.191.126.127:8080/live/b0:99:d7:15:88:50/3090914536649669/443029.m3u8" }
   ]
   },
   {
