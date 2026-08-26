@@ -33,33 +33,32 @@
     ]
   },
   {
-    "league": "الدوري الانجليزي x",
+    "league": "كأس الرابطة الانجليزية ",
     "title": "تشيلسي × ",
-    "time": "2026-08-24T22:00:00",
+    "time": "2026-08-27T21:30:00",
     "team1": {
       "name": "تشيلسي",
     "flag": "https://imgs.ysscores.com/teams/128/2571690118280.png"
     },
     "team2": {
-      "name": "فولهام",
-      "flag": "https://imgs.ysscores.com/teams/128/4711690118927.png"
+      "name": "لوتون تاون",
+      "flag": "https://imgs.ysscores.com/teams/128/2431690118243.png"
     },
     "extra": false,
     "channels": [
-      { "name": "SUPER TV 1", "url": "go:supertv1" },
-    { "name": "TOD", "url": "go:TOD11" },
-    { "name": "الفجر", "url": "http://185.191.126.127:8080/live//b0:99:d7:15:88:50/3090914536649669/463532.m3u8" },
-    { "name": "ALWAN 1", "url": "go:ALWAN1" },
-      { "name": "ALWAN 1", "url": "go:gogo1" },
-      { "name": "MULTI", "url": "go:CONNECT1" },
-    { "name": "FHD", "url": "go:Bein1hd" },
-    { "name": "HD", "url": "go:Bein1hd2" },
-    { "name": "SD", "url": "go:Bein1sd" },
-    { "name": "LOW", "url": "go:Bein1low" }
+      { "name": "SUPER TV 1", "url": "go:supertv3" },
+    { "name": "TOD", "url": "go:TOD13" },
+    { "name": "ALWAN 1", "url": "go:ALWAN2" },
+    { "name": "ALWAN 1", "url": "go:gogo2" },
+    { "name": "MULTI", "url": "go:CONNECT3" },
+    { "name": "FHD", "url": "go:Bein3hd" },
+    { "name": "HD", "url": "go:Bein3hd2" },
+    { "name": "SD", "url": "go:Bein3sd" },
+    { "name": "LOW", "url": "go:Bein3low" }
     ]
   },
   {
-    "league": "كأس الرابطة الانجليزية ",
+    "league": "كأس الرابطة الانجليزية x",
     "title": "توتنهام × ",
     "time": "2026-08-26T21:45:00",
     "team2": {
@@ -170,33 +169,7 @@
   },
   "extra": false,
   "channels": [
-    { "name": "SUPER TV 1", "url": "go:supertv1" },
-    { "name": "TOD", "url": "go:TOD11" },
-    { "name": "الفجر", "url": "http://185.191.126.127:8080/live//b0:99:d7:15:88:50/3090914536649669/463532.m3u8" },
-    { "name": "ALWAN 1", "url": "go:ALWAN1" },
-      { "name": "ALWAN 1", "url": "go:gogo1" },
-      { "name": "MULTI", "url": "go:CONNECT1" },
-    { "name": "FHD", "url": "go:Bein1hd" },
-    { "name": "HD", "url": "go:Bein1hd2" },
-    { "name": "SD", "url": "go:Bein1sd" },
-    { "name": "LOW", "url": "go:Bein1low" }
-  ]
-},
-  {
-    "league": "الدوري الاسباني x",
-    "title": "برشلونة × ",
-    "time": "2026-08-23T22:30:00",
-    "team2": {
-      "name": "التشي",
-      "flag": "https://imgs.ysscores.com/teams/128/6441698766179.png"
-    },
-    "team1": {
-      "name": "برشلونة",
-    "flag": "https://imgs.ysscores.com/teams/128/9541690196746.png"
-    },
-    "extra": false,
-    "channels": [
-      { "name": "SUPER TV 1", "url": "go:supertv2" },
+    { "name": "SUPER TV 1", "url": "go:supertv2" },
     { "name": "TOD", "url": "go:TOD12" },
     { "name": "الفجر", "url": "http://185.191.126.127:8080/live//b0:99:d7:15:88:50/3090914536649669/463532.m3u8" },
     { "name": "ALWAN 2", "url": "go:ALWAN1" },
@@ -206,9 +179,35 @@
     { "name": "SD", "url": "go:Bein2sd" },
     { "name": "LOW", "url": "go:Bein2low" }
   ]
+},
+  {
+    "league": "الدوري الاسباني ",
+    "title": "برشلونة × ",
+    "time": "2026-08-27T22:00:00",
+    "team2": {
+      "name": "اتلتيك بلباو",
+      "flag": "https://imgs.ysscores.com/teams/128/1061690197944.png"
+    },
+    "team1": {
+      "name": "برشلونة",
+    "flag": "https://imgs.ysscores.com/teams/128/9541690196746.png"
+    },
+    "extra": false,
+    "channels": [
+    { "name": "SUPER TV 1", "url": "go:supertv1" },
+    { "name": "TOD", "url": "go:TOD11" },
+    { "name": "الفجر", "url": "http://185.191.126.127:8080/live//b0:99:d7:15:88:50/3090914536649669/463532.m3u8" },
+    { "name": "ALWAN 1", "url": "go:ALWAN1" },
+    { "name": "ALWAN 1", "url": "go:gogo1" },
+    { "name": "MULTI", "url": "go:CONNECT1" },
+    { "name": "FHD", "url": "go:Bein1hd" },
+    { "name": "HD", "url": "go:Bein1hd2" },
+    { "name": "SD", "url": "go:Bein1sd" },
+    { "name": "LOW", "url": "go:Bein1low" }
+  ]
   },
 {
-  "league": "الدوري الاسباني ",
+  "league": "الدوري الاسباني x",
   "title": "ريال مدريد × ",
   "time": "2026-08-26T22:00:00",
   "team1": {
@@ -651,7 +650,7 @@
   },
   
 {
-  "league": "الدوري المصري ",
+  "league": "الدوري المصري x",
   "title": "الزمالك × ",
   "time": "2026-08-26T20:00:00",
   "team2": {
@@ -668,37 +667,37 @@
   ]
 },
   {
-  "league": "الدوري المصري x",
+  "league": "الدوري المصري ",
   "title": "بيراميدز × ",
-  "time": "2026-08-22T20:00:00",
-  "team2": {
+  "time": "2026-08-27T20:00:00",
+  "team1": {
     "name": "بيراميدز",
     "flag": "https://imgs.ysscores.com/teams/128/5771692283569.png"
   },
-  "team1": {
-    "name": "غزل المحلة",
-    "flag": "https://imgs.ysscores.com/teams/128/9801725831886.png"
+  "team2": {
+    "name": "ابوقير",
+    "flag": "https://imgs.ysscores.com/teams/128/8611715098753.png"
   },
   "extra": false,
   "channels": [
-    { "name": "ON Sport", "url": "go:ONTime1" }
+    { "name": "ON Sport Max", "url": "go:ONTime2" }
   ]
 },
   {
-  "league": "الدوري المصري x",
+  "league": "الدوري المصري ",
   "title": " × المصري",
-  "time": "2026-08-22T20:00:00",
-  "team1": {
+  "time": "2026-08-27T20:00:00",
+  "team2": {
     "name": "المصري",
     "flag": "https://imgs.ysscores.com/teams/128/1521694644423.png"
   },
-  "team2": {
-    "name": "سموحة",
-    "flag": "https://imgs.ysscores.com/teams/128/481694082088.png"
+  "team1": {
+    "name": "المقاولون العرب",
+    "flag": "https://imgs.ysscores.com/teams/128/2721694082551.png"
   },
   "extra": false,
   "channels": [
-    { "name": "On Sport Max", "url": "go:ONTime2" }
+    { "name": "On Sport ", "url": "go:ONTime1" }
   ]
 },
   {
@@ -736,7 +735,7 @@
   ]
   },
 {
-  "league": "كأس القارات للأندية ",
+  "league": "كأس القارات للأندية x",
   "title": " × ",
   "time": "2026-08-26T21:00:00",
   "team1": {
@@ -806,7 +805,7 @@
   ]
 },
   {
-  "league": "دوري أبطال أوروبا ",
+  "league": "دوري أبطال أوروبا x",
   "title": " × ",
   "time": "2026-06-26T22:00:00",
   "team2": {
@@ -829,21 +828,21 @@
   ]
 },
 {
-  "league": "الدوري الاوروبي x",
+  "league": "الدوري الاوروبي ",
   "title": "طرابزون سبور × ",
-  "time": "2026-08-20T20:00:00",
-  "team1": {
+  "time": "2026-08-27T21:30:00",
+  "team2": {
     "name": "طرابزون سبور",
     "flag": "https://imgs.ysscores.com/teams/128/7531690127980.png"
   },
-  "team2": {
+  "team1": {
     "name": "فرينكفاروزي",
     "flag": "https://imgs.ysscores.com/teams/128/6411690370517.png"
   },
   "extra": false,
   "channels": [
-      { "name": "ALWAN 1", "url": "go:ALWAN1" },
-      { "name": "ON Sport", "url": "go:ONTime3" }
+      { "name": "ALWAN 5", "url": "go:ALWAN5" },
+      { "name": "ON Sport Plus", "url": "go:ONTime3" }
   ]
 },
   {
