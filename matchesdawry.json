@@ -506,6 +506,7 @@
   },
   "extra": false,
   "channels": [
+    { "name": "SUPER TV 1", "url": "go:supertv3" },
     { "name": "ALWAN 5", "url": "go:ALWAN5" },
       { "name": "MULTI", "url": "go:CONNECT3" },
     { "name": "FHD", "url": "go:Bein3hd" },
