@@ -320,7 +320,7 @@
     ]
   },
   {
-    "league": "كأس ألمانيا ",
+    "league": "كأس ألمانيا x",
     "title": "بايرن ميونخ × ",
     "time": "2026-09-02T21:45:00",
     "team2": {
@@ -770,16 +770,16 @@
   ]
 },
   {
-  "league": "الدوري المصري x",
+  "league": "الدوري المصري ",
   "title": "الاهلي × ",
-  "time": "2026-09-28T20:00:00",
-  "team2": {
+  "time": "2026-09-03T20:00:00",
+  "team1": {
     "name": "الاهلي",
     "flag": "https://imgs.ysscores.com/teams/128/9591694714907.png"
   },
-  "team1": {
-    "name": "زد",
-    "flag": "https://imgs.ysscores.com/teams/128/8411694619351.png"
+  "team2": {
+    "name": "سموحة",
+    "flag": "https://imgs.ysscores.com/teams/128/481694082088.png"
   },
   "extra": false,
   "channels": [
