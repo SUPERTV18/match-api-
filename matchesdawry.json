@@ -302,7 +302,7 @@
     ]
   },
   {
-    "league": "كأس ألمانيا ",
+    "league": "كأس ألمانيا x",
     "title": " × دورتموند",
     "time": "2026-09-01T21:45:00",
     "team2": {
@@ -320,12 +320,12 @@
     ]
   },
   {
-    "league": "الدوري الالماني x",
+    "league": "كأس ألمانيا ",
     "title": "بايرن ميونخ × ",
-    "time": "2026-09-28T21:30:00",
+    "time": "2026-09-02T21:45:00",
     "team2": {
-      "name": "شتوتجارت",
-      "flag": "https://imgs.ysscores.com/teams/128/8731690288819.png"
+      "name": "أسنابروك",
+      "flag": "https://imgs.ysscores.com/teams/128/3631690370539.png"
     },
     "team1": {
       "name": "بايرن ميونخ",
@@ -333,9 +333,8 @@
     },
     "extra": false,
     "channels": [
-      { "name": "ALWAN 4", "url": "go:ALWAN4" },
-      { "name": "MBC Action", "url": "go:mbcaction" },
-    { "name": "MBC شاهد | رياضة", "url": "go:ssc11" }
+      { "name": "ALWAN 1", "url": "go:ALWAN1" },
+    { "name": "MULTI", "url": "go:adsp1" }
     ]
   },
   {
@@ -574,7 +573,7 @@
 },
   
 {
-  "league": "الدوري السعودي ",
+  "league": "الدوري السعودي x",
   "title": "الهلال × ",
   "time": "2026-09-01T21:00:00",
   "team1": {
