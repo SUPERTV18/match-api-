@@ -227,6 +227,7 @@
   "extra": false,
   "channels": [
     { "name": "SUPER TV 1", "url": "go:supertv3" },
+    { "name": "POST 3", "url": "go:POST3" },
     { "name": "الفجر", "url": "http://185.191.126.127:8080/live//b0:99:d7:15:88:50/3090914536649669/463532.m3u8" },
     { "name": "ALWAN 1", "url": "go:ALWAN1" },
     { "name": "ALWAN 1", "url": "go:gogo1" },
