@@ -471,7 +471,7 @@
     "name": "ليون",
     "flag": "https://imgs.ysscores.com/teams/128/4081690287528.png"
   },
-  "extra": true,
+  "extra": false,
   "channels": [
     { "name": "ALWAN 4", "url": "go:ALWAN4" },
       { "name": "MULTI", "url": "go:CONNECT4" },
@@ -939,7 +939,7 @@
       "name": "ايطاليا",
       "flag": "https://imgs.ysscores.com/teams/128/4141763081186.png"
     },
-    "extra": true,
+    "extra": false,
     "channels": [
       { "name": "ALWAN 2", "url": "go:ALWAN2" },
       { "name": "MULTI", "url": "go:CONNECT3" },
@@ -961,7 +961,7 @@
       "name": "أوكرانيا",
       "flag": "https://imgs.ysscores.com/teams/128/6961763117440.png"
     },
-    "extra": true,
+    "extra": false,
     "channels": [
       { "name": "SUPER TV 1", "url": "go:supertv1" },
       { "name": "SUPER TV 2", "url": "go:supertv2" },
@@ -1012,7 +1012,7 @@
       "name": "النرويج",
     "flag": "https://imgs.ysscores.com/teams/128/1891763084487.png"
     },
-    "extra": true,
+    "extra": false,
     "channels": [
       { "name": "SUPER TV 1", "url": "go:supertv1" },
       { "name": "TOD", "url": "go:TOD11" },
@@ -1044,7 +1044,7 @@
       "name": "بلجيكا",
       "flag": "https://imgs.ysscores.com/teams/128/6271763069075.png"
     },
-    "extra": true,
+    "extra": false,
     "channels": [
       { "name": "الفجر", "url": "go:Alfajr1" },
       { "name": "ALWAN 1", "url": "go:ALWAN1" },
