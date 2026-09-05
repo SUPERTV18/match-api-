@@ -72,14 +72,14 @@
     },
     "extra": false,
     "channels": [
-    { "name": "SUPER TV 1", "url": "go:supertv3" },
-    { "name": "POST 3", "url": "go:POST3" },
+    { "name": "SUPER TV 1", "url": "go:supertv2" },
+    { "name": "POST 2", "url": "go:POST2" },
     { "name": "ALWAN 3", "url": "go:ALWAN3" },
-    { "name": "MULTI", "url": "go:CONNECT3" },
-    { "name": "FHD", "url": "go:Bein3hd" },
-    { "name": "HD", "url": "go:Bein3hd2" },
-    { "name": "SD", "url": "go:Bein3sd" },
-    { "name": "LOW", "url": "go:Bein3low" }
+    { "name": "MULTI", "url": "go:CONNECT2" },
+    { "name": "FHD", "url": "go:Bein2hd" },
+    { "name": "HD", "url": "go:Bein2hd2" },
+    { "name": "SD", "url": "go:Bein2sd" },
+    { "name": "LOW", "url": "go:Bein2low" }
     ]
   },
   {
