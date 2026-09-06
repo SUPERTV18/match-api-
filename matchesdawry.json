@@ -532,11 +532,10 @@
   "extra": false,
   "channels": [
     { "name": "SUPER TV 1", "url": "go:supertv3" },
-    { "name": "POST 5", "url": "go:POST5" },
     { "name": "ALWAN 5", "url": "go:ALWAN5" },
     { "name": "FHD", "url": "go:Bein5hd" },
     { "name": "HD", "url": "go:Bein5hd2" },
-    { "name": "SD", "url": "Bein5lsd" },
+    { "name": "SD", "url": "Bein5sd" },
     { "name": "LOW", "url": "go:Bein5low" }
   ]
 },
