@@ -1092,7 +1092,6 @@
     },
     "extra": false,
     "channels": [
-      {
         { "name": "SUPER TV 1", "url": "go:supertv1" },
       { "name": "SUPER TV AP", "url": "go:server1" },
     { "name": "POST 1", "url": "go:POST1" },
