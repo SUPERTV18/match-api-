@@ -643,11 +643,11 @@
     "league": "الدوري السعودي ",
     "title": " × الاتحاد",
     "time": "2026-09-08T21:00:00",
-    "team1": {
+    "team2": {
       "name": "الفيحاء",
       "flag": "https://imgs.ysscores.com/teams/128/9981690292497.png"
     },
-    "team2": {
+    "team1": {
       "name": "الاتحاد",
       "flag": "https://imgs.ysscores.com/teams/128/2231690298782.png"
     },
@@ -779,7 +779,7 @@
   ]
 },
   {
-  "league": "الدوري المصري ",
+  "league": "الدوري المصري x",
   "title": " × المصري",
   "time": "2026-09-07T20:00:00",
   "team2": {
