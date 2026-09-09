@@ -1094,7 +1094,6 @@
     "channels": [
         { "name": "SUPER TV 1", "url": "go:supertv1" },
       { "name": "SUPER TV AP", "url": "go:server1" },
-    { "name": "POST 1", "url": "go:POST1" },
     { "name": "الفجر", "url": "go:Alfajr1" },
     { "name": "ALWAN 1", "url": "go:ALWAN1" },
     { "name": "MULTI", "url": "go:CONNECT1" },
@@ -1120,7 +1119,6 @@
     "channels": [
       { "name": "SUPER TV 1", "url": "go:supertv1" },
       { "name": "SUPER TV AP", "url": "go:server1" },
-    { "name": "POST 1", "url": "go:POST1" },
     { "name": "الفجر", "url": "go:Alfajr1" },
     { "name": "ALWAN 4", "url": "go:ALWAN4" },
     { "name": "MULTI", "url": "go:CONNECT1" },
@@ -1147,7 +1145,6 @@
     "channels": [
     { "name": "SUPER TV 1", "url": "go:supertv3" },
     { "name": "SUPER TV AP", "url": "go:server3" },
-    { "name": "POST 3", "url": "go:POST3" },
     { "name": "الفجر", "url": "go:Alfajr5" },
     { "name": "ALWAN 2", "url": "go:ALWAN2" },
     { "name": "MULTI", "url": "go:CONNECT3" },
@@ -1173,7 +1170,6 @@
     "channels": [
         { "name": "SUPER TV 1", "url": "go:supertv2" },
       { "name": "SUPER TV AP", "url": "go:server2" },
-      { "name": "POST 2", "url": "go:POST2" },
       { "name": "الفجر", "url": "go:Alfajr3" },
       { "name": "ALWAN 2", "url": "go:ALWAN1" },
       { "name": "MULTI", "url": "go:CONNECT2" },
@@ -1198,7 +1194,6 @@
     "extra": false,
     "channels": [
         { "name": "SUPER TV 1", "url": "go:supertv4" },
-      { "name": "POST 4", "url": "go:POST4" },
       { "name": "الفجر", "url": "go:Alfajr4" },
       { "name": "ALWAN 3", "url": "go:ALWAN3" },
       { "name": "MULTI", "url": "go:CONNECT4" },
