@@ -424,6 +424,26 @@
       { "name": "SHASHA", "url": "go:SHASHA1" }
   ]
 },
+  {
+  "league": "الدوري الايطالي ",
+  "title": "فيورنتينا × ",
+  "time": "2026-09-11T21:45:00",
+  "team1": {
+    "name": "فينيسيا",
+    "flag": "https://imgs.ysscores.com/teams/128/771690370510.png"
+  },
+  "team2": {
+    "name": "فيورنتينا",
+    "flag": "https://imgs.ysscores.com/teams/128/1231690283002.png"
+  },
+  "extra": false,
+  "channels": [
+    { "name": "ALWAN 3", "url": "go:ALWAN3" },
+    { "name": "MULTI", "url": "go:Premfhd1" },
+      { "name": "HD", "url": "go:Premhd1" },
+      { "name": "SHASHA", "url": "go:SHASHA1" }
+  ]
+},
 {
   "league": "الدوري الفرنسي x",
   "title": " × باريس سان جيرمان",
