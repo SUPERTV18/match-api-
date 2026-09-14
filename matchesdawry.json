@@ -1140,7 +1140,7 @@
     "extra": false,
     "channels": [
       { "name": "ALWAN 2", "url": "go:ALWAN2" },
-      { "name": "الكأس 6", "url": "go:alkass6" },
+      { "name": "الكأس 5", "url": "go:alkass5" },
     { "name": "MULTI", "url": "go:CONNECT1" },
     { "name": "FHD", "url": "go:Bein1hd" },
     { "name": "HD", "url": "go:Bein1hd2" },
