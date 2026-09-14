@@ -129,12 +129,12 @@
     ]
   },
 {
-  "league": "الدوري الانجليزي x",
+  "league": "كأس الرابطة الانجليزية ",
   "title": "ارسنال × ",
-  "time": "2026-09-12T22:00:00",
+  "time": "2026-09-15T22:00:00",
   "team1": {
-    "name": "سندرلاند",
-      "flag": "https://imgs.ysscores.com/teams/128/10001690823905.png"
+    "name": "ايبسويتش",
+      "flag": "https://imgs.ysscores.com/teams/128/8291690370545.png"
   },
   "team2": {
     "name": "ارسنال",
@@ -142,41 +142,39 @@
   },
   "extra": false,
   "channels": [
-    { "name": "SUPER TV 1", "url": "go:supertv1" },
-    { "name": "SUPER TV AP", "url": "go:server2" },
+    { "name": "SUPER TV 4", "url": "go:supertv4" },
     { "name": "الفجر", "url": "go:Alfajr3" },
-    { "name": "ALWAN 1", "url": "go:ALWAN1" },
-      { "name": "ALWAN 1", "url": "go:gogo1" },
-      { "name": "MULTI", "url": "go:CONNECT1" },
-    { "name": "FHD", "url": "go:Bein1hd" },
-    { "name": "HD", "url": "go:Bein1hd2" },
-    { "name": "SD", "url": "go:Bein1sd" },
-    { "name": "LOW", "url": "go:Bein1low" }
+    { "name": "ALWAN 1", "url": "go:ALWAN4" },
+      { "name": "MULTI", "url": "go:CONNECT4" },
+    { "name": "FHD", "url": "go:Bein4hd" },
+    { "name": "HD", "url": "go:Bein4hd2" },
+    { "name": "SD", "url": "go:Bein4sd" },
+    { "name": "LOW", "url": "go:Bein4low" }
   ]
 },
   {
-  "league": "الدوري الانجليزي x",
+  "league": "كأس الرابطة الانجليزية ",
   "title": "ليفربول × ",
-  "time": "2026-09-12T17:00:00",
+  "time": "2026-09-15T22:00:00",
   "team1": {
     "name": "ليفربول",
     "flag": "https://imgs.ysscores.com/teams/128/4081724601375.png"
   },
   "team2": {
-    "name": "فولهام",
-    "flag": "https://imgs.ysscores.com/teams/128/4711690118927.png"
+    "name": "توتنهام",
+    "flag": "https://imgs.ysscores.com/teams/128/2501692467226.png"
   },
   "extra": false,
   "channels": [
-    { "name": "SUPER TV 1", "url": "go:supertv1" },
+    { "name": "SUPER TV 3", "url": "go:supertv3" },
     { "name": "الفجر", "url": "go:Alfajr1" },
-    { "name": "ALWAN 1", "url": "go:ALWAN1" },
-      { "name": "ALWAN 1", "url": "go:gogo1" },
-      { "name": "MULTI", "url": "go:CONNECT1" },
-    { "name": "FHD", "url": "go:Bein1hd" },
-    { "name": "HD", "url": "go:Bein1hd2" },
-    { "name": "SD", "url": "go:Bein1sd" },
-    { "name": "LOW", "url": "go:Bein1low" }
+    { "name": "SUPER TV AP", "url": "go:server3" },
+    { "name": "ALWAN 1", "url": "go:ALWAN2" },
+    { "name": "MULTI", "url": "go:CONNECT3" },
+    { "name": "FHD", "url": "go:Bein3hd" },
+    { "name": "HD", "url": "go:Bein3hd2" },
+    { "name": "SD", "url": "go:Bein3sd" },
+    { "name": "LOW", "url": "go:Bein3low" }
   ]
 },
   {
@@ -206,24 +204,24 @@
   ]
   },
 {
-  "league": "الدوري الاسباني x",
+  "league": "الدوري الاسباني ",
   "title": "ريال مدريد × ",
-  "time": "2026-09-12T22:00:00",
-  "team1": {
+  "time": "2026-09-15T22:00:00",
+  "team2": {
     "name": "ريال مدريد",
     "flag": "https://imgs.ysscores.com/teams/128/1871690196746.png"
   },
-  "team2": {
-    "name": "رايو فاليكانو",
-    "flag": "https://imgs.ysscores.com/teams/128/1511690196745.png"
+  "team1": {
+    "name": "التشي",
+    "flag": "https://imgs.ysscores.com/teams/128/6441698766179.png"
   },
   "extra": false,
   "channels": [
     { "name": "SUPER TV 1", "url": "go:supertv2" },
-    { "name": "SUPER TV AP", "url": "go:server1" },
+    { "name": "SUPER TV AP", "url": "go:server2" },
     { "name": "الفجر", "url": "go:Alfajr1" },
-    { "name": "ALWAN 2", "url": "go:ALWAN2" },
-    { "name": "ALWAN 2", "url": "go:gogo2" },
+    { "name": "ALWAN 1", "url": "go:ALWAN1" },
+    { "name": "ALWAN 1", "url": "go:gogo1" },
     { "name": "MULTI", "url": "go:CONNECT2" },
     { "name": "FHD", "url": "go:Bein2hd" },
     { "name": "HD", "url": "go:Bein2hd2" },
@@ -350,7 +348,7 @@
     ]
   },
 {
-  "league": "الدوري الايطالي ",
+  "league": "الدوري الايطالي x",
   "title": "روما × ",
   "time": "2026-09-14T19:30:00",
   "team1": {
@@ -390,7 +388,7 @@
     ]
   },
   {
-    "league": "الدوري الايطالي ",
+    "league": "الدوري الايطالي x",
     "title": "انتر ميلان × ",
     "time": "2026-09-14T21:45:00",
     "team2": {
@@ -586,7 +584,7 @@
   ]
 },
   {
-    "league": "الدوري التركي ",
+    "league": "الدوري التركي x",
     "title": "فنربخشة × ",
     "time": "2026-09-14T20:00:00",
     "team2": {
@@ -847,33 +845,33 @@
   ]
 },
   {
-  "league": "الدوري المصري x",
+  "league": "الدوري المصري ",
   "title": " × المصري",
-  "time": "2026-09-07T20:00:00",
-  "team2": {
+  "time": "2026-09-15T20:00:00",
+  "team1": {
     "name": "المصري",
     "flag": "https://imgs.ysscores.com/teams/128/1521694644423.png"
   },
-  "team1": {
-    "name": "السويس بتروجيت",
-    "flag": "https://imgs.ysscores.com/teams/128/17873555652953.png"
+  "team2": {
+    "name": "الاتحاد السكندري",
+    "flag": "https://imgs.ysscores.com/teams/128/3771694082184.png"
   },
   "extra": false,
   "channels": [
-    { "name": "On Sport ", "url": "go:ONTime1" }
+    { "name": "On Sport Max", "url": "go:ONTime2" }
   ]
 },
   {
-  "league": "الدوري المصري x",
+  "league": "الدوري المصري ",
   "title": "الاهلي × ",
-  "time": "2026-09-09T20:00:00",
+  "time": "2026-09-15T20:00:00",
   "team2": {
     "name": "الاهلي",
     "flag": "https://imgs.ysscores.com/teams/128/9591694714907.png"
   },
   "team1": {
-    "name": "المقاولون العرب",
-    "flag": "https://imgs.ysscores.com/teams/128/2721694082551.png"
+    "name": "ابو قير",
+    "flag": "https://imgs.ysscores.com/teams/128/8611715098753.png"
   },
   "extra": false,
   "channels": [
@@ -968,7 +966,7 @@
   ]
 },
   {
-    "league": "دوري ابطال اسيا للنخبة ",
+    "league": "دوري ابطال اسيا للنخبة x",
     "title": "القوة الجوية × ",
     "time": "2026-09-14T16:45:00",
     "team1": {
@@ -991,7 +989,7 @@
     ]
   },
   {
-    "league": "دوري ابطال اسيا للنخبة ",
+    "league": "دوري ابطال اسيا للنخبة x",
     "title": "شباب الأهلي × ",
     "time": "2026-09-14T19:00:00",
     "team1": {
@@ -1014,7 +1012,7 @@
     ]
   },
   {
-    "league": "دوري ابطال اسيا للنخبة ",
+    "league": "دوري ابطال اسيا للنخبة x",
     "title": " × الاتحاد",
     "time": "2026-09-14T19:00:00",
     "team1": {
@@ -1037,7 +1035,7 @@
     ]
   },
   {
-    "league": "دوري ابطال اسيا للنخبة ",
+    "league": "دوري ابطال اسيا للنخبة x",
     "title": "السد × ",
     "time": "2026-09-14T21:15:00",
     "team1": {
@@ -1060,7 +1058,7 @@
     ]
   },
   {
-    "league": "دوري ابطال اسيا للنخبة ",
+    "league": "دوري ابطال اسيا للنخبة x",
     "title": "الأهلي × ",
     "time": "2026-09-14T21:15:00",
     "team1": {
@@ -1083,7 +1081,7 @@
     ]
   },
   {
-    "league": "دوري ابطال اسيا للنخبة ",
+    "league": "دوري ابطال اسيا للنخبة x",
     "title": "الوصل × ",
     "time": "2026-09-14T21:15:00",
     "team1": {
@@ -1105,21 +1103,44 @@
     ]
   },
   {
-    "league": "دوري ابطال اسيا للنخبة x",
-    "title": " × الاتحاد",
-    "time": "2026-09-14T19:00:00",
+    "league": "دوري ابطال اسيا للنخبة ",
+    "title": "النصر × ",
+    "time": "2026-09-15T19:00:00",
     "team1": {
-      "name": "الشمال",
-      "flag": "https://imgs.ysscores.com/teams/128/2961722879498.png"
+      "name": "العين",
+      "flag": "https://imgs.ysscores.com/teams/128/4661724620117.png"
     },
     "team2": {
-      "name": "الاتحاد",
-      "flag": "https://imgs.ysscores.com/teams/128/2231690298782.png"
+      "name": "النصر",
+      "flag": "https://imgs.ysscores.com/teams/128/1371747772080.png"
     },
     "extra": false,
     "channels": [
       { "name": "ALWAN 1", "url": "go:ALWAN1" },
       { "name": "الكأس 5", "url": "go:alkass5" },
+    { "name": "MULTI", "url": "go:CONNECT1" },
+    { "name": "FHD", "url": "go:Bein1hd" },
+    { "name": "HD", "url": "go:Bein1hd2" },
+    { "name": "SD", "url": "go:Bein1sd" },
+    { "name": "LOW", "url": "go:Bein1low" }
+    ]
+  },
+  {
+    "league": "دوري ابطال اسيا للنخبة ",
+    "title": "الهلال × ",
+    "time": "2026-09-15T21:15:00",
+    "team1": {
+      "name": "الهلال",
+      "flag": "https://imgs.ysscores.com/teams/128/8761690298716.png"
+    },
+    "team2": {
+      "name": "الغرافة",
+      "flag": "https://imgs.ysscores.com/teams/128/3761719156653.png"
+    },
+    "extra": false,
+    "channels": [
+      { "name": "ALWAN 2", "url": "go:ALWAN2" },
+      { "name": "الكأس 6", "url": "go:alkass6" },
     { "name": "MULTI", "url": "go:CONNECT1" },
     { "name": "FHD", "url": "go:Bein1hd" },
     { "name": "HD", "url": "go:Bein1hd2" },
