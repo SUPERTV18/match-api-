@@ -144,7 +144,7 @@
   "channels": [
     { "name": "SUPER TV 4", "url": "go:supertv4" },
     { "name": "الفجر", "url": "go:Alfajr3" },
-    { "name": "ALWAN 1", "url": "go:ALWAN4" },
+    { "name": "ALWAN 4", "url": "go:ALWAN4" },
       { "name": "MULTI", "url": "go:CONNECT4" },
     { "name": "FHD", "url": "go:Bein4hd" },
     { "name": "HD", "url": "go:Bein4hd2" },
@@ -169,7 +169,7 @@
     { "name": "SUPER TV 3", "url": "go:supertv3" },
     { "name": "الفجر", "url": "go:Alfajr1" },
     { "name": "SUPER TV AP", "url": "go:server3" },
-    { "name": "ALWAN 1", "url": "go:ALWAN2" },
+    { "name": "ALWAN 3", "url": "go:ALWAN3" },
     { "name": "MULTI", "url": "go:CONNECT3" },
     { "name": "FHD", "url": "go:Bein3hd" },
     { "name": "HD", "url": "go:Bein3hd2" },
@@ -865,11 +865,11 @@
   "league": "الدوري المصري ",
   "title": "الاهلي × ",
   "time": "2026-09-15T20:00:00",
-  "team2": {
+  "team1": {
     "name": "الاهلي",
     "flag": "https://imgs.ysscores.com/teams/128/9591694714907.png"
   },
-  "team1": {
+  "team2": {
     "name": "ابو قير",
     "flag": "https://imgs.ysscores.com/teams/128/8611715098753.png"
   },
