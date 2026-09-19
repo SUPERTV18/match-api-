@@ -196,6 +196,7 @@
     "channels": [
     { "name": "SUPER TV 1", "url": "go:supertv1" },
     { "name": "ALWAN 1", "url": "go:ALWAN1" },
+    { "name": "MULTI", "url": "go:CONNECT1" },
     { "name": "FHD", "url": "go:Bein1hd" },
     { "name": "HD", "url": "go:Bein1hd2" },
     { "name": "SD", "url": "go:Bein1sd" },
