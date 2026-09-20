@@ -120,6 +120,7 @@
     "extra": false,
     "channels": [
     { "name": "SUPER TV 2", "url": "go:supertv2" },
+      { "name": "SUPER TV NM", "url": "go:server2" },
     { "name": "ALWAN 2", "url": "go:ALWAN2" },
     { "name": "MULTI", "url": "go:CONNECT2" },
     { "name": "FHD", "url": "go:Bein2hd" },
@@ -213,6 +214,7 @@
   "extra": false,
   "channels": [
     { "name": "SUPER TV 1", "url": "go:supertv1" },
+    { "name": "SUPER TV NM", "url": "go:server1" },
     { "name": "ALWAN 1", "url": "go:ALWAN1" },
     { "name": "MULTI", "url": "go:CONNECT1" },
     { "name": "FHD", "url": "go:Bein1hd" },
