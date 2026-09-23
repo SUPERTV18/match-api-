@@ -992,9 +992,13 @@
     "channels": [
       { "name": "ALKASS 1", "url": "go:alkass1" },
     { "name": "ALKASS 2", "url": "go:alkass2" },
+    { "name": "AD SPORTS 1", "url": "go:adsp1" },
     { "name": "ALWAN 1", "url": "go:ALWAN1" },
     { "name": "KSA Sports 1", "url": "go:ksa1" },
     { "name": "OMAN Sports", "url": "go:omansport" },
+    { "name": "Kuwait Sports", "url": "go:KuwaitSP" },
+    { "name": "الشارقة الرياضية", "url": "go:shsport" },
+    { "name": "mbc Action", "url": "go:mbcaction" },
     { "name": "SHASHA", "url": "go:SHASHA1" }
     ]
   },
@@ -1017,9 +1021,13 @@
   "channels": [
     { "name": "ALKASS 1", "url": "go:alkass1" },
     { "name": "ALKASS 2", "url": "go:alkass2" },
+    { "name": "AD SPORTS 1", "url": "go:adsp1" },
     { "name": "ALWAN 1", "url": "go:ALWAN1" },
     { "name": "KSA Sports 1", "url": "go:ksa1" },
     { "name": "OMAN Sports", "url": "go:omansport" },
+    { "name": "Kuwait Sports", "url": "go:KuwaitSP" },
+    { "name": "الشارقة الرياضية", "url": "go:shsport" },
+    { "name": "mbc Action", "url": "go:mbcaction" },
     { "name": "SHASHA", "url": "go:SHASHA1" }
   ]
 },
