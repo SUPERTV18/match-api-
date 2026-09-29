@@ -36,7 +36,7 @@
   {
     "league": "مباراة ودية ",
     "title": "البرازيل × ",
-    "time": "2026-09-29T01:00:00",
+    "time": "2026-09-29T13:00:00",
     "team2": {
       "name": "البرازيل",
       "flag": "https://imgs.ysscores.com/teams/128/4331763069849.png"
@@ -116,7 +116,7 @@
     "time": "2026-09-29T16:00:00",
     "team2": {
       "name": "السودان",
-      "flag": "https://imgs.ysscores.com/teams/128/1031693833009.png"
+      "flag": "https://imgs.ysscores.com/teams/128/6511763087361.png"
     },
     "team1": {
       "name": "موزمبيق",
@@ -346,11 +346,11 @@
   "league": "تصفيات كأس أمم أفريقيا ",
   "title": "مصر × ",
   "time": "2026-09-29T16:00:00",
-  "team2": {
+  "team1": {
     "name": "جنوب السودان",
       "flag": "https://imgs.ysscores.com/teams/128/3441763087125.png"
   },
-  "team1": {
+  "team2": {
     "name": "مصر",
     "flag": "https://imgs.ysscores.com/teams/128/9301763071949.png"
   },
@@ -902,28 +902,26 @@
     ]
   },
   {
-    "league": "كأس الخليج العربي 27 x",
+    "league": "كأس الخليج العربي 27 ",
     "title": "السعودية × ",
-    "time": "2026-09-23T21:00:00",
+    "time": "2026-09-29T20:30:00",
     "team1": {
       "name": "السعودية",
       "flag": "https://imgs.ysscores.com/teams/128/7231728507982.png"
     },
     "team2": {
-      "name": "الكويت",
-      "flag": "https://imgs.ysscores.com/teams/128/7891763081821.png"
+      "name": "العراق",
+      "flag": "https://imgs.ysscores.com/teams/128/8191763081021.png"
     },
     "extra": false,
     "channels": [
       { "name": "ALKASS 1", "url": "go:alkass1" },
-    { "name": "ALKASS 2", "url": "go:alkass2" },
     { "name": "AD SPORTS 1", "url": "go:adsp1" },
     { "name": "ALWAN 1", "url": "go:ALWAN1" },
     { "name": "KSA Sports 1", "url": "go:ksa1" },
     { "name": "OMAN Sports", "url": "go:omansport" },
     { "name": "Kuwait Sports", "url": "go:KuwaitSP" },
     { "name": "الشارقة الرياضية", "url": "go:shsport" },
-    { "name": "mbc Action", "url": "go:mbcaction" },
     { "name": "SHASHA", "url": "go:SHASHA1" }
     ]
   },
@@ -983,27 +981,25 @@
       ]
   },
   {
-    "league": "كأس الخليج العربي 27 x",
+    "league": "كأس الخليج العربي 27 ",
     "title": "عمان × ",
-    "time": "2026-09-26T21:00:00",
+    "time": "2026-09-29T20:30:00",
     "team1": {
       "name": "عمان",
       "flag": "https://imgs.ysscores.com/teams/128/3811693834375.png"
     },
     "team2": {
-      "name": "السعودية",
-      "flag": "https://imgs.ysscores.com/teams/128/7231728507982.png"
+      "name": "الكويت",
+      "flag": "https://imgs.ysscores.com/teams/128/7891763081821.png"
     },
     "extra": false,
     "channels": [
-      { "name": "ALKASS 1", "url": "go:alkass1" },
     { "name": "ALKASS 2", "url": "go:alkass2" },
     { "name": "AD SPORTS 2", "url": "go:adsp2" },
     { "name": "ALWAN 2", "url": "go:ALWAN2" },
-    { "name": "KSA Sports 1", "url": "go:ksa1" },
+    { "name": "KSA Sports 2", "url": "go:ksa2" },
     { "name": "OMAN Sports", "url": "go:omansport" },
-    { "name": "Kuwait Sports", "url": "go:KuwaitSP" },
-    { "name": "الشارقة الرياضية", "url": "go:shsport" },
+    { "name": "Kuwait Sports ", "url": "go:KuwaitSP" },
     { "name": "mbc Action", "url": "go:mbcaction" },
     { "name": "SHASHA", "url": "go:SHASHA1" }
     ]
