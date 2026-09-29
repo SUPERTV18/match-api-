@@ -125,10 +125,10 @@
     "extra": false,
     "channels": [
       { "name": "ALWAN 4", "url": "go:ALWAN4" },
-    { "name": "FHD", "url": "go:Bein5hd" },
-    { "name": "HD", "url": "go:Bein5hd2" },
-    { "name": "SD", "url": "go:Bein5sd" },
-    { "name": "LOW", "url": "go:Bein5low" }
+    { "name": "FHD", "url": "go:Bein4hd" },
+    { "name": "HD", "url": "go:Bein4hd2" },
+    { "name": "SD", "url": "go:Bein4sd" },
+    { "name": "LOW", "url": "go:Bein4low" }
     ]
   },
   {
