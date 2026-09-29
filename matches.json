@@ -34,7 +34,7 @@
     ]
   },
   {
-    "league": "مباراة ودية ",
+    "league": "مباراة ودية x",
     "title": "البرازيل × ",
     "time": "2026-09-29T13:00:00",
     "team2": {
@@ -51,7 +51,7 @@
   ]
   },
   {
-    "league": "تصفيات كأس أمم أفريقيا ",
+    "league": "تصفيات كأس أمم أفريقيا x",
     "title": "ليبيا × ",
     "time": "2026-09-29T19:00:00",
     "team2": {
@@ -73,7 +73,7 @@
     ]
   },
   {
-    "league": "تصفيات كأس أمم أفريقيا ",
+    "league": "تصفيات كأس أمم أفريقيا x",
     "title": "الكاميرون × ",
     "time": "2026-09-29T22:00:00",
     "team2": {
@@ -111,7 +111,7 @@
     ]
   },
   {
-    "league": "تصفيات كأس أمم أفريقيا ",
+    "league": "تصفيات كأس أمم أفريقيا x",
     "title": "السودان × ",
     "time": "2026-09-29T16:00:00",
     "team2": {
@@ -178,7 +178,7 @@
     ]
   },
   {
-    "league": "تصفيات كأس أمم أفريقيا ",
+    "league": "تصفيات كأس أمم أفريقيا x",
     "title": " × موريتانيا",
     "time": "2026-09-29T22:00:00",
     "team2": {
@@ -223,7 +223,7 @@
     ]
   },
   {
-    "league": "تصفيات كأس أمم أفريقيا ",
+    "league": "تصفيات كأس أمم أفريقيا x",
     "title": "المغرب × ",
     "time": "2026-09-29T16:00:00",
     "team1": {
@@ -321,7 +321,7 @@
   ]
 },
 {
-  "league": "تصفيات كأس أمم أفريقيا ",
+  "league": "تصفيات كأس أمم أفريقيا x",
   "title": "الجزائر × ",
   "time": "2026-09-29T16:00:00",
   "team1": {
@@ -343,7 +343,7 @@
   ]
 },
 {
-  "league": "تصفيات كأس أمم أفريقيا ",
+  "league": "تصفيات كأس أمم أفريقيا x",
   "title": "مصر × ",
   "time": "2026-09-29T16:00:00",
   "team1": {
@@ -365,7 +365,7 @@
   ]
 },
   {
-  "league": "دوري الأمم الأوروبية ",
+  "league": "دوري الأمم الأوروبية x",
   "title": "سويسرا × ",
   "time": "2026-09-29T21:45:00",
   "team2": {
@@ -640,7 +640,7 @@
   ]
 },
   {
-  "league": "دوري الأمم الأوروبية ",
+  "league": "دوري الأمم الأوروبية x",
   "title": "اسبانيا × ",
   "time": "2026-09-29T21:45:00",
   "team1": {
@@ -822,7 +822,7 @@
     ]
   },
   {
-    "league": "دوري الأمم الأوروبية ",
+    "league": "دوري الأمم الأوروبية x",
     "title": "انجلترا × ",
     "time": "2026-09-29T21:45:00",
     "team2": {
@@ -902,7 +902,7 @@
     ]
   },
   {
-    "league": "كأس الخليج العربي 27 ",
+    "league": "كأس الخليج العربي 27 x",
     "title": "السعودية × ",
     "time": "2026-09-29T20:30:00",
     "team1": {
@@ -980,8 +980,33 @@
     { "name": "SHASHA", "url": "go:SHASHA1" }
       ]
   },
+  
   {
     "league": "كأس الخليج العربي 27 ",
+    "title": "قطر × ",
+    "time": "2026-09-30T20:30:00",
+    "team1": {
+      "name": "البحرين",
+      "flag": "https://imgs.ysscores.com/teams/128/9791763068542.png"
+    },
+    "team2": {
+      "name": "اليمن",
+      "flag": "https://imgs.ysscores.com/teams/128/621763118201.png"
+    },
+    "extra": false,
+    "channels": [
+    { "name": "ALKASS 2", "url": "go:alkass2" },
+    { "name": "AD SPORTS 2", "url": "go:adsp2" },
+    { "name": "ALWAN 2", "url": "go:ALWAN2" },
+    { "name": "KSA Sports 2", "url": "go:ksa2" },
+    { "name": "OMAN Sports", "url": "go:omansport" },
+    { "name": "Kuwait Sports", "url": "go:KuwaitSP" },
+    { "name": "الشارقة الرياضية", "url": "go:shsport" },
+    { "name": "SHASHA", "url": "go:SHASHA2" }
+      ]
+  },
+  {
+    "league": "كأس الخليج العربي 27 x",
     "title": "عمان × ",
     "time": "2026-09-29T20:30:00",
     "team1": {
@@ -1005,23 +1030,22 @@
     ]
   },
   {
-    "league": "كأس الخليج العربي 27 x",
+    "league": "كأس الخليج العربي 27 ",
     "title": "الامارات × ",
-    "time": "2026-09-27T21:00:00",
-    "team2": {
+    "time": "2026-09-30T20:30:00",
+    "team1": {
       "name": "الامارات",
       "flag": "https://imgs.ysscores.com/teams/128/2561694436716.png"
     },
-    "team1": {
-      "name": "البحرين",
-      "flag": "https://imgs.ysscores.com/teams/128/9791763068542.png"
+    "team2": {
+      "name": "قطر",
+      "flag": "https://imgs.ysscores.com/teams/128/4211693824633.png"
     },
     "extra": false,
     "channels": [
       { "name": "ALKASS 1", "url": "go:alkass1" },
-    { "name": "ALKASS 2", "url": "go:alkass2" },
     { "name": "AD SPORTS 1", "url": "go:adsp1" },
-    { "name": "ALWAN 2", "url": "go:ALWAN2" },
+    { "name": "ALWAN 1", "url": "go:ALWAN1" },
     { "name": "KSA Sports 1", "url": "go:ksa1" },
     { "name": "OMAN Sports", "url": "go:omansport" },
     { "name": "Kuwait Sports", "url": "go:KuwaitSP" },
