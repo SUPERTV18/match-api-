@@ -14,6 +14,7 @@
     "extra": false,
     "channels": [
     { "name": "ALWAN 1", "url": "go:ALWAN1" },
+    { "name": "SHASHA", "url": "go:SHASHA1" }
     ]
   },
   {
