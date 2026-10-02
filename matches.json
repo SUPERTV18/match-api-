@@ -1,6 +1,6 @@
 [
   {
-    "league": "مباراة ودية ",
+    "league": "مباراة ودية x",
     "title": "لأرجنتين × ",
     "time": "2026-10-01T03:00:00",
     "team1": {
@@ -530,7 +530,7 @@
   ]
 },
 {
-  "league": "دوري الأمم الأوروبية ",
+  "league": "دوري الأمم الأوروبية x",
   "title": "هولندا × ",
   "time": "2026-10-01T21:45:00",
   "team2": {
@@ -552,7 +552,7 @@
   ]
 },
   {
-  "league": "دوري الأمم الأوروبية ",
+  "league": "دوري الأمم الأوروبية x",
   "title": "النرويج × ",
   "time": "2026-10-01T21:45:00",
   "team1": {
@@ -574,7 +574,7 @@
   ]
 },
 {
-  "league": "دوري الأمم الأوروبية ",
+  "league": "دوري الأمم الأوروبية x",
   "title": "المانيا × ",
   "time": "2026-10-01T21:45:00",
   "team1": {
@@ -596,25 +596,25 @@
   ]
 },
 {
-  "league": "مباراة ودية x",
-  "title": "نيجيريا × بولندا",
-  "time": "2026-10-03T21:45:00",
-  "team1": {
-    "name": "نيجيريا",
-    "flag": "https://imgs.ysscores.com/teams/128/9961763084205.png"
-  },
+  "league": "دوري الأمم الأوروبية ",
+  "title": " × بولندا",
+  "time": "2026-10-02T21:45:00",
   "team2": {
+    "name": "رومانيا",
+    "flag": "https://imgs.ysscores.com/teams/128/6501763085627.png"
+  },
+  "team1": {
     "name": "بولندا",
     "flag": "https://imgs.ysscores.com/teams/128/7861763085396.png"
   },
   "extra": false,
   "channels": [
-    { "name": "ALWAN 3", "url": "go:ALWAN3" },
+    { "name": "ALWAN 5", "url": "go:ALWAN5" },
     { "name": "MULTI", "url": "go:CONNECT4" },
-    { "name": "FHD", "url": "go:Bein2hd" },
-    { "name": "HD", "url": "go:Bein2hd2" },
-    { "name": "SD", "url": "go:Bein2sd" },
-    { "name": "LOW", "url": "go:Bein2low" }
+    { "name": "FHD", "url": "go:Bein4hd" },
+    { "name": "HD", "url": "go:Bein4hd2" },
+    { "name": "SD", "url": "go:Bein4sd" },
+    { "name": "LOW", "url": "go:Bein4low" }
   ]
 },
   {
@@ -640,12 +640,12 @@
   ]
 },
   {
-  "league": "دوري الأمم الأوروبية x",
+  "league": "دوري الأمم الأوروبية ",
   "title": " × بلجيكا",
-  "time": "2026-10-28T21:45:00",
+  "time": "2026-10-02T21:45:00",
   "team2": {
-    "name": "فرنسا",
-    "flag": "https://imgs.ysscores.com/teams/128/2961763078000.png"
+    "name": "تركيا",
+    "flag": "https://imgs.ysscores.com/teams/128/171763117169.png"
   },
   "team1": {
     "name": "بلجيكا",
@@ -653,7 +653,7 @@
   },
   "extra": false,
   "channels": [
-    { "name": "ALWAN 1", "url": "go:ALWAN1" },
+    { "name": "ALWAN 2", "url": "go:ALWAN2" },
     { "name": "MULTI", "url": "go:CONNECT2" },
     { "name": "FHD", "url": "go:Bein2hd" },
     { "name": "HD", "url": "go:Bein2hd2" },
@@ -662,53 +662,48 @@
   ]
 },
   {
-  "league": "دوري الأمم الأوروبية x",
+  "league": "دوري الأمم الأوروبية ",
   "title": "السويد × ",
-  "time": "2026-10-28T21:45:00",
-  "team1": {
+  "time": "2026-10-02T21:45:00",
+  "team2": {
     "name": "السويد",
     "flag": "https://imgs.ysscores.com/teams/128/2981763087554.png"
   },
-  "team2": {
-    "name": "بولندا",
-    "flag": "https://imgs.ysscores.com/teams/128/7861763085396.png"
+  "team1": {
+    "name": "البوسنة والهرسك",
+    "flag": "https://imgs.ysscores.com/teams/128/4711763069706.png"
   },
   "extra": false,
   "channels": [
     { "name": "ALWAN 3", "url": "go:ALWAN3" },
-    { "name": "MULTI", "url": "go:CONNECT4" },
-    { "name": "FHD", "url": "go:Bein4hd" },
-    { "name": "HD", "url": "go:Bein4hd2" },
-    { "name": "SD", "url": "go:Bein4sd" },
-    { "name": "LOW", "url": "go:Bein4low" }
+    { "name": "MULTI", "url": "go:CONNECT3" },
+      { "name": "FHD", "url": "go:Bein3hd" },
+      { "name": "HD", "url": "go:Bein3hd2" },
+      { "name": "SD", "url": "go:Bein3sd" },
+      { "name": "LOW", "url": "go:Bein3low" }
   ]
 },
   {
-  "league": "كأس العالم x",
+  "league": "دوري الأمم الأوروبية ",
   "title": "فرنسا × ",
-  "time": "2026-10-19T00:00:00",
+  "time": "2026-10-02T21:45:00",
   "team1": {
     "name": "فرنسا",
     "flag": "https://imgs.ysscores.com/teams/128/2961763078000.png"
   },
   "team2": {
-    "name": "انجلترا",
-      "flag": "https://imgs.ysscores.com/teams/128/5831763072178.png"
+    "name": "ايطاليا",
+    "flag": "https://imgs.ysscores.com/teams/128/4141763081186.png"
   },
   "extra": false,
   "channels": [
     { "name": "SUPER TV 1", "url": "go:supertv1" },
-    { "name": "الفجر", "url": "go:Alfajr1" },
-      { "name": "MULTI", "url": "go:max14K" },
-      { "name": "MULTI", "url": "go:max24K" },
-      { "name": "FHD", "url": "go:max1FHD" },
-      { "name": "FHD", "url": "go:max2FHD" },
-      { "name": "HD", "url": "go:max1HD" },
-      { "name": "HD", "url": "go:max2HD" },
-      { "name": "SD", "url": "go:max1SD" },
-      { "name": "SD", "url": "go:max2SD" },
-      { "name": "LOW", "url": "go:max1LOW" },
-      { "name": "LOW", "url": "go:max2LOW" }
+    { "name": "ALWAN 1", "url": "go:ALWAN1" },
+    { "name": "MULTI", "url": "go:CONNECT1" },
+    { "name": "FHD", "url": "go:Bein1hd" },
+    { "name": "HD", "url": "go:Bein1hd2" },
+    { "name": "SD", "url": "go:Bein1sd" },
+    { "name": "LOW", "url": "go:Bein1low" }
   ]
 },
   {
@@ -777,7 +772,7 @@
     ]
   },
   {
-    "league": "دوري الأمم الأوروبية ",
+    "league": "دوري الأمم الأوروبية x",
     "title": " × البرتغال",
     "time": "2026-10-01T21:45:00",
     "team2": {
