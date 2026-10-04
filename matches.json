@@ -1,6 +1,6 @@
 [
   {
-    "league": "مباراة ودية ",
+    "league": "مباراة ودية x",
     "title": "لأرجنتين × ",
     "time": "2026-10-04T03:00:00",
     "team1": {
@@ -207,7 +207,7 @@
     ]
   },
   {
-    "league": "مباراة ودية ",
+    "league": "مباراة ودية x",
     "title": "المغرب × ",
     "time": "2026-10-04T21:00:00",
     "team1": {
@@ -323,7 +323,7 @@
   ]
 },
 {
-  "league": "مباراة ودية ",
+  "league": "مباراة ودية x",
   "title": "مصر × ",
   "time": "2026-10-04T21:00:00",
   "team2": {
@@ -522,7 +522,7 @@
   ]
 },
 {
-  "league": "دوري الأمم الأوروبية ",
+  "league": "دوري الأمم الأوروبية x",
   "title": "هولندا × ",
   "time": "2026-10-04T21:45:00",
   "team1": {
@@ -566,7 +566,7 @@
   ]
 },
 {
-  "league": "دوري الأمم الأوروبية ",
+  "league": "دوري الأمم الأوروبية x",
   "title": "المانيا × ",
   "time": "2026-10-04T21:45:00",
   "team2": {
@@ -588,14 +588,14 @@
   ]
 },
 {
-  "league": "دوري الأمم الأوروبية x",
+  "league": "دوري الأمم الأوروبية ",
   "title": " × بولندا",
-  "time": "2026-10-02T21:45:00",
-  "team2": {
-    "name": "رومانيا",
-    "flag": "https://imgs.ysscores.com/teams/128/6501763085627.png"
-  },
+  "time": "2026-10-05T21:45:00",
   "team1": {
+    "name": "البوسنة والهرسك",
+    "flag": "https://imgs.ysscores.com/teams/128/4711763069706.png"
+  },
+  "team2": {
     "name": "بولندا",
     "flag": "https://imgs.ysscores.com/teams/128/7861763085396.png"
   },
@@ -654,20 +654,20 @@
   ]
 },
   {
-  "league": "دوري الأمم الأوروبية x",
+  "league": "دوري الأمم الأوروبية ",
   "title": "السويد × ",
-  "time": "2026-10-02T21:45:00",
+  "time": "2026-10-05T21:45:00",
   "team2": {
     "name": "السويد",
     "flag": "https://imgs.ysscores.com/teams/128/2981763087554.png"
   },
   "team1": {
-    "name": "البوسنة والهرسك",
-    "flag": "https://imgs.ysscores.com/teams/128/4711763069706.png"
+    "name": "رومانيا",
+    "flag": "https://imgs.ysscores.com/teams/128/6501763085627.png"
   },
   "extra": false,
   "channels": [
-    { "name": "ALWAN 3", "url": "go:ALWAN3" },
+    { "name": "ALWAN 6", "url": "go:ALWAN6" },
     { "name": "MULTI", "url": "go:CONNECT3" },
       { "name": "FHD", "url": "go:Bein3hd" },
       { "name": "HD", "url": "go:Bein3hd2" },
@@ -676,16 +676,16 @@
   ]
 },
   {
-  "league": "دوري الأمم الأوروبية x",
+  "league": "دوري الأمم الأوروبية ",
   "title": "فرنسا × ",
-  "time": "2026-10-02T21:45:00",
+  "time": "2026-10-05T21:45:00",
   "team1": {
     "name": "فرنسا",
     "flag": "https://imgs.ysscores.com/teams/128/2961763078000.png"
   },
   "team2": {
-    "name": "ايطاليا",
-    "flag": "https://imgs.ysscores.com/teams/128/4141763081186.png"
+      "name": "بلجيكا",
+      "flag": "https://imgs.ysscores.com/teams/128/6271763069075.png"
   },
   "extra": false,
   "channels": [
@@ -725,8 +725,8 @@
     "title": "ايطاليا × ",
     "time": "2026-10-25T21:45:00",
     "team2": {
-      "name": "بلجيكا",
-      "flag": "https://imgs.ysscores.com/teams/128/6271763069075.png"
+    "name": "تركيا",
+    "flag": "https://imgs.ysscores.com/teams/128/171763117169.png"
     },
     "team1": {
       "name": "ايطاليا",
@@ -735,10 +735,11 @@
     "extra": false,
     "channels": [
       { "name": "ALWAN 2", "url": "go:ALWAN2" },
-      { "name": "FHD", "url": "go:Bein6hd" },
-      { "name": "HD", "url": "go:Bein6hd2" },
-      { "name": "SD", "url": "go:Bein6sd" },
-      { "name": "LOW", "url": "go:Bein6low" }
+    { "name": "MULTI", "url": "go:CONNECT2" },
+    { "name": "FHD", "url": "go:Bein2hd" },
+    { "name": "HD", "url": "go:Bein2hd2" },
+    { "name": "SD", "url": "go:Bein2sd" },
+    { "name": "LOW", "url": "go:Bein2low" }
     ]
   },
   {
@@ -764,7 +765,7 @@
     ]
   },
   {
-    "league": "دوري الأمم الأوروبية ",
+    "league": "دوري الأمم الأوروبية x",
     "title": " × البرتغال",
     "time": "2026-10-04T21:45:00",
     "team1": {
