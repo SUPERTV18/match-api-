@@ -301,12 +301,12 @@
   ]
 },
 {
-  "league": "تصفيات كأس أمم أفريقيا x",
+  "league": "مباراة ودية ",
   "title": "الجزائر × ",
-  "time": "2026-10-29T16:00:00",
+  "time": "2026-10-06T20:00:00",
   "team1": {
-    "name": "بوروندي",
-    "flag": "https://imgs.ysscores.com/teams/128/5171763070406.png"
+    "name": "النيجر",
+    "flag": "https://imgs.ysscores.com/teams/128/6141763084139.png"
   },
   "team2": {
     "name": "الجزائر",
@@ -314,12 +314,7 @@
   },
   "extra": false,
   "channels": [
-    { "name": "ALWAN 3", "url": "go:ALWAN3" },
-    { "name": "MULTI", "url": "go:CONNECT2" },
-    { "name": "FHD", "url": "go:Bein2hd" },
-    { "name": "HD", "url": "go:Bein2hd2" },
-    { "name": "SD", "url": "go:Bein2sd" },
-    { "name": "LOW", "url": "go:Bein2low" }
+    { "name": "ENTV", "url": "go:ENTV" }
   ]
 },
 {
@@ -500,7 +495,7 @@
   ]
 },
 {
-  "league": "دوري الأمم الأوروبية ",
+  "league": "دوري الأمم الأوروبية x",
   "title": "تركيا × ",
   "time": "2026-10-05T21:45:00",
   "team1": {
@@ -588,7 +583,7 @@
   ]
 },
 {
-  "league": "دوري الأمم الأوروبية ",
+  "league": "دوري الأمم الأوروبية x",
   "title": " × بولندا",
   "time": "2026-10-05T21:45:00",
   "team1": {
@@ -610,16 +605,16 @@
   ]
 },
   {
-  "league": "دوري الأمم الأوروبية x",
+  "league": "دوري الأمم الأوروبية ",
   "title": "اسبانيا × ",
-  "time": "2026-10-03T21:45:00",
-  "team1": {
+  "time": "2026-10-06T21:45:00",
+  "team2": {
     "name": "اسبانيا",
     "flag": "https://imgs.ysscores.com/teams/128/6231763087210.png"
   },
-  "team2": {
-    "name": "التشيك",
-      "flag": "https://imgs.ysscores.com/teams/128/1641763071555.png"
+  "team1": {
+    "name": "كرواتيا",
+    "flag": "https://imgs.ysscores.com/teams/128/7661763071283.png"
   },
   "extra": false,
   "channels": [
@@ -654,7 +649,7 @@
   ]
 },
   {
-  "league": "دوري الأمم الأوروبية ",
+  "league": "دوري الأمم الأوروبية x",
   "title": "السويد × ",
   "time": "2026-10-05T21:45:00",
   "team2": {
@@ -676,7 +671,7 @@
   ]
 },
   {
-  "league": "دوري الأمم الأوروبية ",
+  "league": "دوري الأمم الأوروبية x",
   "title": "فرنسا × ",
   "time": "2026-10-05T21:45:00",
   "team1": {
@@ -787,25 +782,25 @@
     ]
   },
   {
-    "league": "دوري الأمم الأوروبية x",
+    "league": "دوري الأمم الأوروبية ",
     "title": "انجلترا × ",
-    "time": "2026-10-03T19:00:00",
-    "team2": {
+    "time": "2026-10-06T21:45:00",
+    "team1": {
       "name": "انجلترا",
       "flag": "https://imgs.ysscores.com/teams/128/5831763072178.png"
     },
-    "team1": {
-      "name": "كرواتيا",
-      "flag": "https://imgs.ysscores.com/teams/128/7661763071283.png"
+    "team2": {
+      "name": "التشيك",
+      "flag": "https://imgs.ysscores.com/teams/128/1641763071555.png"
     },
     "extra": false,
     "channels": [
     { "name": "ALWAN 3", "url": "go:ALWAN3" },
-      { "name": "MULTI", "url": "go:CONNECT1" },
-    { "name": "FHD", "url": "go:Bein1hd" },
-    { "name": "HD", "url": "go:Bein1hd2" },
-    { "name": "SD", "url": "go:Bein1sd" },
-    { "name": "LOW", "url": "go:Bein1low" }
+    { "name": "MULTI", "url": "go:CONNECT2" },
+    { "name": "FHD", "url": "go:Bein2hd" },
+    { "name": "HD", "url": "go:Bein2hd2" },
+    { "name": "SD", "url": "go:Bein2sd" },
+    { "name": "LOW", "url": "go:Bein2low" }
     ]
   },
   {
@@ -837,12 +832,12 @@
     ]
   },
   {
-    "league": "كأس العالم x",
+    "league": "مباراة ودية ",
     "title": "الأردن × ",
-    "time": "2026-10-23T06:00:00",
+    "time": "2026-10-06T20:00:00",
     "team2": {
-    "name": "الجزائر",
-    "flag": "https://imgs.ysscores.com/teams/128/981693834281.png"
+    "name": "فنزويلا",
+    "flag": "https://imgs.ysscores.com/teams/128/3031763117870.png"
     },
     "team1": {
       "name": "الأردن",
@@ -850,20 +845,8 @@
     },
     "extra": false,
     "channels": [
-      { "name": "POST 2", "url": "go:POST2" },
-      { "name": "الفجر", "url": "go:Alfajr1" },
-      { "name": "ALWAN 1", "url": "go:ALWAN1" },
-      { "name": "ALWAN 2", "url": "go:ALWAN2" },
-      { "name": "MULTI", "url": "go:max24K" },
-      { "name": "MULTI", "url": "go:max44K" },
-      { "name": "FHD", "url": "go:max2FHD" },
-      { "name": "FHD", "url": "go:max4FHD" },
-      { "name": "HD", "url": "go:max2HD" },
-      { "name": "HD", "url": "go:max4HD" },
-      { "name": "SD", "url": "go:max2SD" },
-      { "name": "SD", "url": "go:max4SD" },
-      { "name": "LOW", "url": "go:max2LOW" },
-      { "name": "LOW", "url": "go:max4LOW" }
+      { "name": "ALWAN 6", "url": "go:ALWAN6" },
+      { "name": "الأردن الرياضية", "url": "go:jordansp" }
     ]
   },
   {
