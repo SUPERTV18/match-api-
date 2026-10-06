@@ -1,8 +1,26 @@
 [
   {
+    "league": "مباراة ودية ",
+    "title": "لأرجنتين × ",
+    "time": "2026-10-07T02:00:00",
+    "team1": {
+      "name": "الأرجنتين",
+      "flag": "https://imgs.ysscores.com/teams/128/5861694177479.png"
+    },
+    "team2": {
+      "name": "بنين",
+      "flag": "https://imgs.ysscores.com/teams/128/8421763069265.png"
+    },
+    "extra": false,
+    "channels": [
+    { "name": "ALWAN 1", "url": "go:ALWAN1" },
+    { "name": "SHASHA", "url": "go:SHASHA1" }
+    ]
+  },
+  {
     "league": "كأس الرابطة الانجليزية x",
     "title": "استون فيلا × ",
-    "time": "2026-09-25T22:00:00",
+    "time": "2026-10-25T22:00:00",
     "team2": {
       "name": "بورتو",
       "flag": "https://imgs.ysscores.com/teams/128/4801690385949.png"
@@ -35,7 +53,7 @@
   {
     "league": "الدوري الانجليزي x",
     "title": "تشيلسي × ",
-    "time": "2026-09-18T22:00:00",
+    "time": "2026-10-18T22:00:00",
     "team2": {
       "name": "تشيلسي",
     "flag": "https://imgs.ysscores.com/teams/128/2571690118280.png"
@@ -60,7 +78,7 @@
   {
     "league": "الدوري الانجليزي x",
     "title": "توتنهام × ",
-    "time": "2026-09-19T14:30:00",
+    "time": "2026-10-19T14:30:00",
     "team1": {
       "name": "توتنهام",
     "flag": "https://imgs.ysscores.com/teams/128/2501692467226.png"
@@ -84,7 +102,7 @@
   {
     "league": "الدوري الانجليزي x",
     "title": "مان سيتي × ",
-    "time": "2026-09-20T16:00:00",
+    "time": "2026-10-20T16:00:00",
     "team1": {
       "name": "مانشستر سيتي",
     "flag": "https://imgs.ysscores.com/teams/128/4481690118308.png"
@@ -108,7 +126,7 @@
   {
     "league": "الدوري الانجليزي x",
     "title": "مان يونايتد × ",
-    "time": "2026-09-20T18:30:00",
+    "time": "2026-10-20T18:30:00",
     "team2": {
       "name": "مانشستر يونايتد",
       "flag": "https://imgs.ysscores.com/teams/128/4871690119302.png"
@@ -132,7 +150,7 @@
 {
   "league": "الدوري الانجليزي x",
   "title": "ارسنال × ",
-  "time": "2026-09-19T17:00:00",
+  "time": "2026-10-19T17:00:00",
   "team1": {
     "name": "برايتون",
       "flag": "https://imgs.ysscores.com/teams/128/2271696710594.png"
@@ -156,7 +174,7 @@
   {
   "league": "الدوري الانجليزي x",
   "title": "ليفربول × ",
-  "time": "2026-09-20T16:00:00",
+  "time": "2026-10-20T16:00:00",
   "team1": {
     "name": "ليفربول",
     "flag": "https://imgs.ysscores.com/teams/128/4081724601375.png"
@@ -179,7 +197,7 @@
   {
     "league": "الدوري الاسباني x",
     "title": "برشلونة × ",
-    "time": "2026-09-19T22:00:00",
+    "time": "2026-10-19T22:00:00",
     "team1": {
       "name": "اشبيليه",
       "flag": "https://imgs.ysscores.com/teams/128/6931690196743.png"
@@ -202,7 +220,7 @@
 {
   "league": "الدوري الاسباني x",
   "title": "ريال مدريد × ",
-  "time": "2026-09-20T17:15:00",
+  "time": "2026-10-20T17:15:00",
   "team2": {
     "name": "ريال مدريد",
     "flag": "https://imgs.ysscores.com/teams/128/1871690196746.png"
@@ -226,7 +244,7 @@
 {
   "league": "الدوري الاسباني x",
   "title": "اتليتكو مدريد × ",
-  "time": "2026-09-16T20:00:00",
+  "time": "2026-10-16T20:00:00",
   "team1": {
     "name": "اتليتكو مدريد",
     "flag": "https://imgs.ysscores.com/teams/128/1431719588699.png"
@@ -250,7 +268,7 @@
   {
     "league": "الدوري الالماني x",
     "title": " × دورتموند",
-    "time": "2026-09-19T19:30:00",
+    "time": "2026-10-19T19:30:00",
     "team2": {
       "name": "شتوتجارت",
       "flag": "https://imgs.ysscores.com/teams/128/8731690288819.png"
@@ -268,7 +286,7 @@
   {
     "league": "الدوري الالماني x",
     "title": "بايرن ميونخ × ",
-    "time": "2026-09-18T21:30:00",
+    "time": "2026-10-18T21:30:00",
     "team1": {
       "name": "يونيون برلين",
       "flag": "https://imgs.ysscores.com/teams/128/6521690288816.png"
@@ -287,7 +305,7 @@
   {
     "league": "كأس ألمانيا x",
     "title": " × دورتموند",
-    "time": "2026-09-01T21:45:00",
+    "time": "2026-10-01T21:45:00",
     "team2": {
       "name": "هامبورج",
       "flag": "https://imgs.ysscores.com/teams/128/17882168342490.png"
@@ -305,7 +323,7 @@
   {
     "league": "كأس ألمانيا x",
     "title": "بايرن ميونخ × ",
-    "time": "2026-09-02T21:45:00",
+    "time": "2026-10-02T21:45:00",
     "team2": {
       "name": "أسنابروك",
       "flag": "https://imgs.ysscores.com/teams/128/3631690370539.png"
@@ -323,7 +341,7 @@
   {
     "league": "الدوري الايطالي x",
     "title": "ميلان × ",
-    "time": "2026-09-20T21:45:00",
+    "time": "2026-10-20T21:45:00",
     "team2": {
       "name": "ليتشي",
       "flag": "https://imgs.ysscores.com/teams/128/9031690283003.png"
@@ -343,7 +361,7 @@
 {
   "league": "الدوري الايطالي x",
   "title": "روما × ",
-  "time": "2026-09-14T19:30:00",
+  "time": "2026-10-14T19:30:00",
   "team1": {
     "name": "تورينو",
       "flag": "https://imgs.ysscores.com/teams/128/7501690283003.png"
@@ -363,7 +381,7 @@
   {
     "league": "الدوري الايطالي x",
     "title": "يوفنتوس × ",
-    "time": "2026-09-20T19:00:00",
+    "time": "2026-10-20T19:00:00",
     "team2": {
       "name": "اتلانتا",
       "flag": "https://imgs.ysscores.com/teams/128/17795813126107.png"
@@ -383,7 +401,7 @@
   {
     "league": "الدوري الايطالي x",
     "title": "انتر ميلان × ",
-    "time": "2026-09-19T19:00:00",
+    "time": "2026-10-19T19:00:00",
     "team1": {
       "name": "روما",
     "flag": "https://imgs.ysscores.com/teams/128/17722024059541.png"
@@ -403,7 +421,7 @@
   {
   "league": "الدوري الايطالي x",
   "title": "نابولي × ",
-  "time": "2026-09-20T13:30:00",
+  "time": "2026-10-20T13:30:00",
   "team1": {
     "name": "فيورنتينا",
     "flag": "https://imgs.ysscores.com/teams/128/1231690283002.png"
@@ -423,7 +441,7 @@
   {
   "league": "الدوري الايطالي x",
   "title": "فيورنتينا × ",
-  "time": "2026-09-11T21:45:00",
+  "time": "2026-10-11T21:45:00",
   "team1": {
     "name": "فينيسيا",
     "flag": "https://imgs.ysscores.com/teams/128/771690370510.png"
@@ -443,7 +461,7 @@
 {
   "league": "الدوري الفرنسي x",
   "title": " × باريس سان جيرمان",
-  "time": "2026-09-20T21:45:00",
+  "time": "2026-10-20T21:45:00",
   "team2": {
     "name": "باريس سان جيرمان",
     "flag": "https://imgs.ysscores.com/teams/128/4461690287785.png"
@@ -467,7 +485,7 @@
 {
   "league": "الدوري الفرنسي x",
   "title": "ليون × ",
-  "time": "2026-09-19T21:45:00",
+  "time": "2026-10-19T21:45:00",
   "team2": {
     "name": "رين",
     "flag": "https://imgs.ysscores.com/teams/128/5061690287944.png"
@@ -489,7 +507,7 @@
   {
   "league": "الدوري الفرنسي x",
   "title": "موناكو × ",
-  "time": "2026-09-18T21:45:00",
+  "time": "2026-10-18T21:45:00",
   "team1": {
     "name": "موناكو",
     "flag": "https://imgs.ysscores.com/teams/128/3861690287583.png"
@@ -511,7 +529,7 @@
   {
   "league": "الدوري الفرنسي x",
   "title": "مارسيليا × ",
-  "time": "2026-09-11T21:45:00",
+  "time": "2026-10-11T21:45:00",
   "team1": {
     "name": "رين",
     "flag": "https://imgs.ysscores.com/teams/128/5061690287944.png"
@@ -533,7 +551,7 @@
   {
   "league": "الدوري التركي x",
   "title": "غلطة سراي × ",
-  "time": "2026-09-19T20:00:00",
+  "time": "2026-10-19T20:00:00",
   "team2": {
     "name": "غلطة سراي",
     "flag": "https://imgs.ysscores.com/teams/128/2081756067376.png"
@@ -557,7 +575,7 @@
   {
   "league": "الدوري التركي x",
   "title": "طرابزون سبور × ",
-  "time": "2026-09-12T20:00:00",
+  "time": "2026-10-12T20:00:00",
   "team2": {
     "name": "طرابزون سبور",
     "flag": "https://imgs.ysscores.com/teams/128/7531690127980.png"
@@ -580,7 +598,7 @@
   {
     "league": "الدوري التركي x",
     "title": "فنربخشة × ",
-    "time": "2026-09-20T17:00:00",
+    "time": "2026-10-20T17:00:00",
     "team1": {
       "name": "فنربخشة",
       "flag": "https://imgs.ysscores.com/teams/128/681690127723.png"
@@ -601,7 +619,7 @@
   {
     "league": "الدوري التركي x",
     "title": "بشكتاش × ",
-    "time": "2026-09-20T20:00:00",
+    "time": "2026-10-20T20:00:00",
     "team2": {
       "name": "آميد سبورتيف",
       "flag": "https://imgs.ysscores.com/teams/128/17874487583392.png"
@@ -622,7 +640,7 @@
   {
     "league": "الدوري الهولندي x",
     "title": " × اياكس",
-    "time": "2026-09-05T21:00:00",
+    "time": "2026-10-05T21:00:00",
     "team1": {
       "name": "اياكس",
       "flag": "https://imgs.ysscores.com/teams/128/1361751718344.png"
@@ -639,7 +657,7 @@
 {
   "league": "الدوري السعودي x",
   "title": "الأهلي × ",
-  "time": "2026-09-11T21:00:00",
+  "time": "2026-10-11T21:00:00",
   "team2": {
     "name": "الحزم",
     "flag": "https://imgs.ysscores.com/teams/128/111690298803.png"
@@ -660,7 +678,7 @@
 {
   "league": "الدوري السعودي x",
   "title": "الهلال × ",
-  "time": "2026-09-12T18:50:00",
+  "time": "2026-10-12T18:50:00",
   "team2": {
     "name": "الهلال",
     "flag": "https://imgs.ysscores.com/teams/128/8761690298716.png"
@@ -680,7 +698,7 @@
 {
   "league": "الدوري السعودي x",
   "title": "النصر × ",
-  "time": "2026-09-12T21:00:00",
+  "time": "2026-10-12T21:00:00",
   "team2": {
     "name": "الخليج",
       "flag": "https://imgs.ysscores.com/teams/128/7451690299071.png"
@@ -701,7 +719,7 @@
   {
     "league": "الدوري السعودي x",
     "title": " × الاتحاد",
-    "time": "2026-09-11T18:45:00",
+    "time": "2026-10-11T18:45:00",
     "team1": {
       "name": "الفيصلي",
       "flag": "https://imgs.ysscores.com/teams/128/5731692998559.png"
@@ -722,7 +740,7 @@
 {
   "league": "كأس خادم الحرمين الشريفين x",
   "title": "الأهلي × ",
-  "time": "2026-09-17T19:00:00",
+  "time": "2026-10-17T19:00:00",
   "team1": {
     "name": "الانوار",
     "flag": "https://imgs.ysscores.com/teams/128/17835196621248.png"
@@ -743,7 +761,7 @@
 {
   "league": "كأس خادم الحرمين الشريفين x",
   "title": "الهلال × ",
-  "time": "2026-09-14T21:00:00",
+  "time": "2026-10-14T21:00:00",
   "team2": {
     "name": "الهلال",
     "flag": "https://imgs.ysscores.com/teams/128/8761690298716.png"
@@ -763,7 +781,7 @@
 {
   "league": "كأس خادم الحرمين الشريفين x",
   "title": "النصر × ",
-  "time": "2026-09-18T21:00:00",
+  "time": "2026-10-18T21:00:00",
   "team1": {
     "name": "الفتح",
       "flag": "https://imgs.ysscores.com/teams/128/17835195657588.png"
@@ -784,7 +802,7 @@
   {
     "league": "كأس خادم الحرمين الشريفين x",
     "title": " × الاتحاد",
-    "time": "2026-09-15T19:15:00",
+    "time": "2026-10-15T19:15:00",
     "team1": {
       "name": "النجمة",
       "flag": "https://imgs.ysscores.com/teams/128/8571691930620.png"
@@ -804,16 +822,16 @@
   },
   
 {
-  "league": "الدوري المصري x",
+  "league": "كأس الرابطة المصرية ",
   "title": "الزمالك × ",
-  "time": "2026-09-16T20:00:00",
+  "time": "2026-10-07T20:00:00",
   "team1": {
     "name": "الزمالك",
     "flag": "https://imgs.ysscores.com/teams/128/7971694082496.png"
   },
   "team2": {
-    "name": "غزل المحلة",
-    "flag": "https://imgs.ysscores.com/teams/128/9801725831886.png"
+    "name": "زد",
+    "flag": "https://imgs.ysscores.com/teams/128/8411694619351.png"
   },
   "extra": false,
   "channels": [
@@ -821,33 +839,33 @@
   ]
 },
   {
-  "league": "الدوري المصري x",
+  "league": "كأس الرابطة المصرية ",
   "title": "بيراميدز × ",
-  "time": "2026-09-17T20:00:00",
-  "team2": {
+  "time": "2026-10-07T1700:00",
+  "team1": {
     "name": "بيراميدز",
     "flag": "https://imgs.ysscores.com/teams/128/5771692283569.png"
   },
-  "team1": {
-    "name": "الشرقية انبي",
-    "flag": "https://imgs.ysscores.com/teams/128/17874779322765.png"
+  "team2": {
+    "name": "القناة",
+    "flag": "https://imgs.ysscores.com/teams/128/5821715097236.png"
   },
   "extra": false,
   "channels": [
-    { "name": "ON Sport ", "url": "go:ONTime1" }
+    { "name": "ON Sport PLUS", "url": "go:ONTime3" }
   ]
 },
   {
-  "league": "الدوري المصري x",
+  "league": "كأس الرابطة المصرية ",
   "title": " × المصري",
-  "time": "2026-09-15T20:00:00",
-  "team1": {
+  "time": "2026-10-07T20:00:00",
+  "team2": {
     "name": "المصري",
     "flag": "https://imgs.ysscores.com/teams/128/1521694644423.png"
   },
-  "team2": {
-    "name": "الاتحاد السكندري",
-    "flag": "https://imgs.ysscores.com/teams/128/3771694082184.png"
+  "team1": {
+    "name": "سيراميكا",
+    "flag": "https://imgs.ysscores.com/teams/128/631694081965.png"
   },
   "extra": false,
   "channels": [
@@ -855,26 +873,26 @@
   ]
 },
   {
-  "league": "الدوري المصري x",
+  "league": "كأس الرابطة المصرية ",
   "title": "الاهلي × ",
-  "time": "2026-09-15T20:00:00",
+  "time": "2026-10-07T17:00:00",
   "team1": {
     "name": "الاهلي",
     "flag": "https://imgs.ysscores.com/teams/128/9591694714907.png"
   },
   "team2": {
-    "name": "ابو قير",
-    "flag": "https://imgs.ysscores.com/teams/128/8611715098753.png"
+    "name": "بترول اسيوط",
+    "flag": "https://imgs.ysscores.com/teams/128/5831736286055.png"
   },
   "extra": false,
   "channels": [
-    { "name": "ON Sport", "url": "go:ONTime1" }
+    { "name": "ON Sport Max", "url": "go:ONTime2" }
   ]
 },
   {
     "league": "مباراة ودية x",
     "title": "سبورتينغ × ",
-    "time": "2026-09-31T20:45:00",
+    "time": "2026-10-31T20:45:00",
     "team1": {
       "name": "سبورتينغ لشبونة",
       "flag": "https://imgs.ysscores.com/teams/128/17829367926898.png"
@@ -891,7 +909,7 @@
   {
   "league": "دوري ابطال افريقيا x",
   "title": "الزمالك × ",
-  "time": "2026-09-12T20:00:00",
+  "time": "2026-10-12T20:00:00",
   "team2": {
     "name": "الميناء الجيبوتي",
     "flag": "https://imgs.ysscores.com/teams/128/17882944105420.png"
@@ -908,7 +926,7 @@
   {
     "league": "دوري ابطال افريقيا x",
     "title": " × بيراميدز",
-    "time": "2026-09-13T20:00:00",
+    "time": "2026-10-13T20:00:00",
     "team2": {
       "name": "غورماهيا",
       "flag": "https://imgs.ysscores.com/teams/128/2981720801428.png"
@@ -925,7 +943,7 @@
   {
     "league": "كأس الكونفيدرالية x",
     "title": "زد × ",
-    "time": "2026-09-12T20:00:00",
+    "time": "2026-10-12T20:00:00",
     "team2": {
       "name": "زد",
       "flag": "https://imgs.ysscores.com/teams/128/8411694619351.png"
@@ -942,7 +960,7 @@
 {
   "league": "كأس القارات للأندية x",
   "title": " × ",
-  "time": "2026-09-19T16:00:00",
+  "time": "2026-10-19T16:00:00",
   "team2": {
     "name": "الاهلي",
     "flag": "https://imgs.ysscores.com/teams/128/9091751485160.png"
@@ -961,7 +979,7 @@
   {
     "league": "دوري ابطال اسيا للنخبة x",
     "title": "القوة الجوية × ",
-    "time": "2026-09-14T16:45:00",
+    "time": "2026-10-14T16:45:00",
     "team1": {
       "name": "نيفتشي فيرغانا",
       "flag": "https://imgs.ysscores.com/teams/128/131717498348.png"
@@ -984,7 +1002,7 @@
   {
     "league": "دوري ابطال اسيا للنخبة x",
     "title": "شباب الأهلي × ",
-    "time": "2026-09-14T19:00:00",
+    "time": "2026-10-14T19:00:00",
     "team1": {
       "name": "شباب الأهلي",
       "flag": "https://imgs.ysscores.com/teams/128/5261690300570.png"
@@ -1007,7 +1025,7 @@
   {
     "league": "دوري ابطال اسيا للنخبة x",
     "title": " × الاتحاد",
-    "time": "2026-09-14T19:00:00",
+    "time": "2026-10-14T19:00:00",
     "team1": {
       "name": "الشمال",
       "flag": "https://imgs.ysscores.com/teams/128/2961722879498.png"
@@ -1030,7 +1048,7 @@
   {
     "league": "دوري ابطال اسيا للنخبة x",
     "title": "السد × ",
-    "time": "2026-09-14T21:15:00",
+    "time": "2026-10-14T21:15:00",
     "team1": {
       "name": "استقلال طهران",
       "flag": "https://imgs.ysscores.com/teams/128/4531723738539.png"
@@ -1053,7 +1071,7 @@
   {
     "league": "دوري ابطال اسيا للنخبة x",
     "title": "الأهلي × ",
-    "time": "2026-09-14T21:15:00",
+    "time": "2026-10-14T21:15:00",
     "team1": {
       "name": "الأهلي",
       "flag": "https://imgs.ysscores.com/teams/128/9091751485160.png"
@@ -1076,7 +1094,7 @@
   {
     "league": "دوري ابطال اسيا للنخبة x",
     "title": "الوصل × ",
-    "time": "2026-09-14T21:15:00",
+    "time": "2026-10-14T21:15:00",
     "team1": {
       "name": "القادسية",
       "flag": "https://imgs.ysscores.com/teams/128/6611724280721.png"
@@ -1098,7 +1116,7 @@
   {
     "league": "دوري ابطال اسيا للنخبة x",
     "title": "النصر × ",
-    "time": "2026-09-15T19:00:00",
+    "time": "2026-10-15T19:00:00",
     "team1": {
       "name": "العين",
       "flag": "https://imgs.ysscores.com/teams/128/4661724620117.png"
@@ -1121,7 +1139,7 @@
   {
     "league": "دوري ابطال اسيا للنخبة x",
     "title": "الهلال × ",
-    "time": "2026-09-15T21:15:00",
+    "time": "2026-10-15T21:15:00",
     "team1": {
       "name": "الهلال",
       "flag": "https://imgs.ysscores.com/teams/128/8761690298716.png"
@@ -1144,7 +1162,7 @@
   {
     "league": "دوري ابطال اسيا 2 x",
     "title": "التعاون × ",
-    "time": "2026-09-16T19:00:00",
+    "time": "2026-10-16T19:00:00",
     "team1": {
       "name": "النهضة",
       "flag": "https://imgs.ysscores.com/teams/128/4141691930732.png"
@@ -1166,7 +1184,7 @@
   {
     "league": "دوري ابطال اسيا 2 x",
     "title": "الوحدة × ",
-    "time": "2026-09-16T19:00:00",
+    "time": "2026-10-16T19:00:00",
     "team1": {
       "name": "الوحدة",
       "flag": "https://imgs.ysscores.com/teams/128/8811690300661.png"
@@ -1189,7 +1207,7 @@
   {
     "league": "دوري ابطال اسيا 2 x",
     "title": "الريان × ",
-    "time": "2026-09-16T21:15:00",
+    "time": "2026-10-16T21:15:00",
     "team1": {
       "name": "الريان",
       "flag": "https://imgs.ysscores.com/teams/128/8521718101575.png"
@@ -1212,7 +1230,7 @@
 {
   "league": "كأس السوبر الأوروبي x",
   "title": " × باريس سان جيرمان",
-  "time": "2026-09-12T22:00:00",
+  "time": "2026-10-12T22:00:00",
   "team1": {
     "name": "باريس سان جيرمان",
     "flag": "https://imgs.ysscores.com/teams/128/4461690287785.png"
@@ -1245,7 +1263,7 @@
   {
     "league": "دوري ابطال اوروبا x",
     "title": "استون فيلا × ",
-    "time": "2026-09-08T19:45:00",
+    "time": "2026-10-08T19:45:00",
     "team2": {
       "name": "استون فيلا",
       "flag": "https://imgs.ysscores.com/teams/128/9921723414870.png"
@@ -1270,7 +1288,7 @@
   {
     "league": "دوري ابطال اوروبا x",
     "title": "ريال مدريد × ",
-    "time": "2026-09-08T22:00:00",
+    "time": "2026-10-08T22:00:00",
     "team1": {
       "name": "ريال مدريد",
       "flag": "https://imgs.ysscores.com/teams/128/1871690196746.png"
@@ -1296,7 +1314,7 @@
   {
     "league": "دوري ابطال اوروبا x",
     "title": "مانشستر سيتي × ",
-    "time": "2026-09-08T22:00:00",
+    "time": "2026-10-08T22:00:00",
     "team1": {
       "name": "بورتو",
       "flag": "https://imgs.ysscores.com/teams/128/4801690385949.png"
@@ -1323,7 +1341,7 @@
  {
   "league": "دوري ابطال اوروبا x",
   "title": "ليل × ",
-  "time": "2026-09-08T22:00:00",
+  "time": "2026-10-08T22:00:00",
   "team1": {
     "name": "ليل",
     "flag": "https://imgs.ysscores.com/teams/128/381690287334.png"
@@ -1333,8 +1351,8 @@
     "flag": "https://imgs.ysscores.com/teams/128/17645945054618.png"
   },
   "status": "",
-  "stoppedAt": "2026-09-23T01:00:00",
-  "resumeAt": "2026-09-23T03:00:00",
+  "stoppedAt": "2026-10-23T01:00:00",
+  "resumeAt": "2026-10-23T03:00:00",
   "extra": false,
   "channels": [
     { "name": "SUPER TV 1", "url": "go:supertv3" },
@@ -1351,7 +1369,7 @@
   {
     "league": "دوري ابطال اوروبا x",
     "title": "بروسيا دورتموند × ",
-    "time": "2026-09-08T22:00:00",
+    "time": "2026-10-08T22:00:00",
     "team1": {
       "name": "بروسيا دورتموند",
       "flag": "https://imgs.ysscores.com/teams/128/4201690288818.png"
@@ -1376,7 +1394,7 @@
   {
     "league": "دوري ابطال اوروبا x",
     "title": " × برشلونة",
-    "time": "2026-09-09T19:45:00",
+    "time": "2026-10-09T19:45:00",
     "team1": {
       "name": "برشلونة",
       "flag": "https://imgs.ysscores.com/teams/128/9541690196746.png"
@@ -1402,7 +1420,7 @@
   {
     "league": "دوري ابطال اوروبا x",
     "title": "باريس سان جيرمان × ",
-    "time": "2026-09-09T22:00:00",
+    "time": "2026-10-09T22:00:00",
     "team1": {
       "name": "باريس سان جيرمان",
       "flag": "https://imgs.ysscores.com/teams/128/4461690287785.png"
@@ -1428,7 +1446,7 @@
   {
     "league": "دوري ابطال اوروبا x",
     "title": "ليفربول × ",
-    "time": "2026-09-09T22:00:00",
+    "time": "2026-10-09T22:00:00",
     "team1": {
       "name": "ليفربول",
       "flag": "https://imgs.ysscores.com/teams/128/4081724601375.png"
@@ -1453,7 +1471,7 @@
   {
     "league": "دوري ابطال اوروبا x",
     "title": "ارسنال × ",
-    "time": "2026-09-09T22:00:00",
+    "time": "2026-10-09T22:00:00",
     "team1": {
       "name": "نابولي",
       "flag": "https://imgs.ysscores.com/teams/128/9521720636634.png"
@@ -1478,7 +1496,7 @@
   {
     "league": "دوري ابطال اوروبا x",
     "title": "سبورتينغ لشبونة × ",
-    "time": "2026-09-09T22:00:00",
+    "time": "2026-10-09T22:00:00",
     "team1": {
       "name": "سبورتينغ لشبونة",
       "flag": "https://imgs.ysscores.com/teams/128/17829367926898.png"
@@ -1501,7 +1519,7 @@
   {
   "league": "دوري ابطال اوروبا x",
   "title": " × ",
-  "time": "2026-09-10T19:45:00",
+  "time": "2026-10-10T19:45:00",
   "team1": {
     "name": "فنربخشة",
     "flag": "https://imgs.ysscores.com/teams/128/681690127723.png"
@@ -1526,7 +1544,7 @@
   {
     "league": "دوري ابطال اوروبا x",
     "title": "ايندهوفن × ",
-    "time": "2026-09-10T19:45:00",
+    "time": "2026-10-10T19:45:00",
     "team1": {
       "name": "ايندهوفن",
       "flag": "https://imgs.ysscores.com/teams/128/3391690378187.png"
@@ -1551,7 +1569,7 @@
   {
     "league": "دوري ابطال اوروبا x",
     "title": "مانشستر يونايتد × ",
-    "time": "2026-09-10T22:00:00",
+    "time": "2026-10-10T22:00:00",
     "team1": {
       "name": "مانشستر يونايتد",
       "flag": "https://imgs.ysscores.com/teams/128/4871690119302.png"
@@ -1577,7 +1595,7 @@
   {
     "league": "دوري ابطال اوروبا x",
     "title": "بايرن ميونح × ",
-    "time": "2026-09-10T22:00:00",
+    "time": "2026-10-10T22:00:00",
     "team1": {
       "name": "بايرن ميونح",
       "flag": "https://imgs.ysscores.com/teams/128/2351690288818.png"
@@ -1602,7 +1620,7 @@
   {
     "league": "الدوري الاوروبي x",
     "title": "ميلان × ",
-    "time": "2026-09-16T22:00:00",
+    "time": "2026-10-16T22:00:00",
     "team1": {
       "name": "ميلان",
       "flag": "https://imgs.ysscores.com/teams/128/3181690283002.png"
@@ -1627,7 +1645,7 @@
   {
     "league": "الدوري الاوروبي x",
     "title": "يوفنتوس × ",
-    "time": "2026-09-17T22:00:00",
+    "time": "2026-10-17T22:00:00",
     "team1": {
       "name": "يوفنتوس",
       "flag": "https://imgs.ysscores.com/teams/128/9331690283003.png"
@@ -1652,7 +1670,7 @@
   {
     "league": "الدوري الاوروبي x",
     "title": "بشكتاش × ",
-    "time": "2026-09-17T22:00:00",
+    "time": "2026-10-17T22:00:00",
     "team1": {
       "name": "بشكتاش",
       "flag": "https://imgs.ysscores.com/teams/128/2171690128210.png"
@@ -1675,7 +1693,7 @@
   {
     "league": "الدوري الاوروبي x",
     "title": "كريستال بالاس × ",
-    "time": "2026-09-17T22:00:00",
+    "time": "2026-10-17T22:00:00",
     "team1": {
       "name": "كريستال بالاس",
       "flag": "https://imgs.ysscores.com/teams/128/6121690118883.png"
@@ -1697,7 +1715,7 @@
   {
     "league": "الدوري الاوروبي x",
     "title": "سيلتك × ",
-    "time": "2026-09-17T22:00:00",
+    "time": "2026-10-17T22:00:00",
     "team1": {
       "name": "سيلتك",
       "flag": "https://imgs.ysscores.com/teams/128/9291690387713.png"
@@ -1717,7 +1735,7 @@
 {
   "league": "الدوري الاوروبي x",
   "title": "طرابزون سبور × ",
-  "time": "2026-09-27T21:30:00",
+  "time": "2026-10-27T21:30:00",
   "team2": {
     "name": "طرابزون سبور",
     "flag": "https://imgs.ysscores.com/teams/128/7531690127980.png"
