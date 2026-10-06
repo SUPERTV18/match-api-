@@ -981,24 +981,26 @@
     ]
   },
   {
-    "league": "كأس الخليج العربي 27 x",
+    "league": "كأس الخليج العربي 27 ",
     "title": "الامارات × ",
-    "time": "2026-10-03T21:30:00",
-    "team1": {
+    "time": "2026-10-06T21:00:00",
+    "team2": {
       "name": "الامارات",
       "flag": "https://imgs.ysscores.com/teams/128/2561694436716.png"
     },
-    "team2": {
-      "name": "عمان",
-    "flag": "https://imgs.ysscores.com/teams/128/7281763084559.png"
+    "team1": {
+      "name": "السعودية",
+      "flag": "https://imgs.ysscores.com/teams/128/7231728507982.png"
     },
     "extra": false,
     "channels": [
     { "name": "AD SPORTS 1", "url": "go:adsp1" },
+    { "name": "AD SPORTS 2", "url": "go:adsp2" },
     { "name": "ALWAN 1", "url": "go:ALWAN1" },
     { "name": "KSA Sports 1", "url": "go:ksa1" },
-    { "name": "KSA Sports 1", "url": "go:ksa1" },
+    { "name": "KSA Sports 2", "url": "go:ksa2" },
     { "name": "ALKASS 1", "url": "go:alkass1" },
+    { "name": "ALKASS 2", "url": "go:alkass2" },
     { "name": "OMAN Sports", "url": "go:omansport" },
     { "name": "Kuwait Sports", "url": "go:KuwaitSP" },
     { "name": "الشارقة الرياضية", "url": "go:shsport" },
