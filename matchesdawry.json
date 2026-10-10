@@ -125,18 +125,17 @@
     "league": "الدوري الانجليزي ",
     "title": "مان يونايتد × ",
     "time": "2026-10-10T19:30:00",
-    "team2": {
+    "team1": {
       "name": "مانشستر يونايتد",
       "flag": "https://imgs.ysscores.com/teams/128/4871690119302.png"
     },
-    "team1": {
+    "team2": {
       "name": "توتنهام",
     "flag": "https://imgs.ysscores.com/teams/128/2501692467226.png"
     },
     "extra": false,
     "channels": [
     { "name": "SUPER TV 1", "url": "go:supertv1" },
-      { "name": "SUPER TV NM", "url": "go:server1" },
     { "name": "ALWAN 2", "url": "go:ALWAN2" },
     { "name": "MULTI", "url": "go:CONNECT1" },
     { "name": "FHD", "url": "go:Bein1hd" },
@@ -196,11 +195,11 @@
     "league": "الدوري الاسباني ",
     "title": "برشلونة × ",
     "time": "2026-10-10T19:30:00",
-    "team1": {
+    "team2": {
       "name": "خيتافي",
       "flag": "https://imgs.ysscores.com/teams/128/3451691957863.png"
     },
-    "team2": {
+    "team1": {
       "name": "برشلونة",
     "flag": "https://imgs.ysscores.com/teams/128/9541690196746.png"
     },
