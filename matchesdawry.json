@@ -1700,7 +1700,7 @@
     "extra": false,
     "channels": [
     { "name": "SUPER TV 4", "url": "go:supertv4" },
-    { "name": "ALWAN 4", "url": "go:ALWAN4" },
+    { "name": "ALWAN 5", "url": "go:ALWAN5" },
     { "name": "FHD", "url": "go:Bein7hd" },
     { "name": "HD", "url": "go:Bein7hd2" },
     { "name": "SD", "url": "go:Bein7sd" },
