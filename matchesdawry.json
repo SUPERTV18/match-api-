@@ -18,6 +18,23 @@
     ]
   },
   {
+    "league": "الدوري الأمريكي لكرة القدم ",
+    "title": "انتر ميامي × ",
+    "time": "2026-10-15T02:30:00",
+    "team1": {
+      "name": "انتر ميامي",
+      "flag": "https://imgs.ysscores.com/teams/128/571691409672.png"
+    },
+    "team2": {
+      "name": "نيويورك سيتي",
+      "flag": "https://imgs.ysscores.com/teams/128/6771691411138.png"
+    },
+    "extra": false,
+    "channels": [
+    { "name": "ALWAN 1", "url": "go:ALWAN1" }
+    ]
+  },
+  {
     "league": "كأس الرابطة الانجليزية x",
     "title": "استون فيلا × ",
     "time": "2026-10-25T22:00:00",
