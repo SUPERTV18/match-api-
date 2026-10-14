@@ -1355,7 +1355,6 @@
     },
     "extra": false,
     "channels": [
-    { "name": "الفجر", "url": "go:Alfajr5" },
     { "name": "ALWAN 3", "url": "go:ALWAN3" },
     { "name": "MULTI", "url": "go:CONNECT4" },
     { "name": "FHD", "url": "go:Bein4hd" },
@@ -1429,6 +1428,7 @@
     "extra": false,
     "channels": [
       { "name": "ALWAN 5", "url": "go:ALWAN5" },
+      { "name": "الفجر", "url": "go:Alfajr5" },
     { "name": "FHD", "url": "go:Bein5hd" },
     { "name": "HD", "url": "go:Bein5hd2" },
     { "name": "SD", "url": "go:Bein5sd" },
