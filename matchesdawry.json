@@ -1390,7 +1390,7 @@
   {
     "league": "دوري ابطال اوروبا ",
     "title": "ريال مدريد × ",
-    "time": "2026-10-20T22:00:00",
+    "time": "2026-10-21T22:00:00",
     "team1": {
       "name": "ريال مدريد",
       "flag": "https://imgs.ysscores.com/teams/128/1871690196746.png"
@@ -1683,11 +1683,11 @@
     "league": "دوري ابطال اوروبا ",
     "title": "سبورتينغ لشبونة × ",
     "time": "2026-10-21T22:00:00",
-    "team2": {
+    "team1": {
       "name": "سبورتينغ لشبونة",
       "flag": "https://imgs.ysscores.com/teams/128/17829367926898.png"
     },
-    "team1": {
+    "team2": {
       "name": "لاسك",
       "flag": "https://imgs.ysscores.com/teams/128/5301690370548.png"
     },
