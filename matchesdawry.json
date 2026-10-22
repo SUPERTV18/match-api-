@@ -868,7 +868,7 @@
   ]
 },
   {
-  "league": "الدوري المصري ",
+  "league": "الدوري المصري x",
   "title": "الاهلي × ",
   "time": "2026-10-21T20:00:00",
   "team1": {
@@ -1366,7 +1366,7 @@
   ]
 },
   {
-    "league": "دوري ابطال اوروبا ",
+    "league": "دوري ابطال اوروبا x",
     "title": "استون فيلا × ",
     "time": "2026-10-21T22:00:00",
     "team1": {
@@ -1388,7 +1388,7 @@
     ]
   },
   {
-    "league": "دوري ابطال اوروبا ",
+    "league": "دوري ابطال اوروبا x",
     "title": "ريال مدريد × ",
     "time": "2026-10-21T22:00:00",
     "team1": {
@@ -1510,7 +1510,7 @@
       ]
   },
   {
-    "league": "دوري ابطال اوروبا ",
+    "league": "دوري ابطال اوروبا x",
     "title": "انتر ميلان × ",
     "time": "2026-10-21T22:00:00",
     "team2": {
@@ -1612,7 +1612,7 @@
     ]
   },
   {
-    "league": "دوري ابطال اوروبا ",
+    "league": "دوري ابطال اوروبا x",
     "title": " × غلطة سراي",
     "time": "2026-10-21T19:45:00",
     "team1": {
@@ -1634,7 +1634,7 @@
     ]
   },
   {
-    "league": "دوري ابطال اوروبا ",
+    "league": "دوري ابطال اوروبا x",
     "title": "ارسنال × ",
     "time": "2026-10-21T22:00:00",
     "team1": {
@@ -1681,7 +1681,7 @@
     ]
   },
   {
-    "league": "دوري ابطال اوروبا ",
+    "league": "دوري ابطال اوروبا x",
     "title": "سبورتينغ لشبونة × ",
     "time": "2026-10-21T22:00:00",
     "team1": {
@@ -1771,7 +1771,7 @@
     ]
   },
   {
-    "league": "دوري ابطال اوروبا ",
+    "league": "دوري ابطال اوروبا x",
     "title": "مانشستر يونايتد × ",
     "time": "2026-10-21T19:45:00",
     "team2": {
@@ -1838,21 +1838,20 @@
     ]
   },
   {
-    "league": "الدوري الاوروبي x",
+    "league": "الدوري الاوروبي ",
     "title": "ميلان × ",
-    "time": "2026-10-15T19:45:00",
+    "time": "2026-10-22T22:00:00",
     "team2": {
       "name": "ميلان",
       "flag": "https://imgs.ysscores.com/teams/128/3181690283002.png"
     },
     "team1": {
-      "name": "سالزبورج",
-      "flag": "https://imgs.ysscores.com/teams/128/3591690370551.png"
+      "name": "بورنموث",
+      "flag": "https://imgs.ysscores.com/teams/128/7651690118769.png"
     },
     "extra": false,
     "channels": [
-    { "name": "SUPER TV 1", "url": "go:supertv1" },
-    { "name": "الفجر", "url": "go:Alfajr3" },
+    { "name": "الفجر", "url": "go:Alfajr1" },
     { "name": "ALWAN 1", "url": "go:ALWAN1" },
     { "name": "MULTI", "url": "go:CONNECT1" },
     { "name": "FHD", "url": "go:Bein1hd" },
@@ -1882,20 +1881,19 @@
     ]
   },
   {
-    "league": "الدوري الاوروبي x",
+    "league": "الدوري الاوروبي ",
     "title": "يوفنتوس × ",
-    "time": "2026-10-15T22:00:00",
+    "time": "2026-10-22T19:45:00",
     "team1": {
       "name": "يوفنتوس",
       "flag": "https://imgs.ysscores.com/teams/128/9331690283003.png"
     },
     "team2": {
-      "name": "سبلتا فيجو",
-      "flag": "https://imgs.ysscores.com/teams/128/9611690196747.png"
+      "name": "رين",
+      "flag": "https://imgs.ysscores.com/teams/128/5061690287944.png"
     },
     "extra": false,
     "channels": [
-    { "name": "SUPER TV 1", "url": "go:supertv1" },
     { "name": "الفجر", "url": "go:Alfajr1" },
     { "name": "ALWAN 1", "url": "go:ALWAN1" },
     { "name": "MULTI", "url": "go:CONNECT1" },
@@ -1906,12 +1904,12 @@
     ]
   },
   {
-    "league": "الدوري الاوروبي x",
+    "league": "الدوري الاوروبي ",
     "title": "مارسيليا × ",
-    "time": "2026-10-15T22:00:00",
+    "time": "2026-10-22T19:45:00",
     "team2": {
-      "name": "أولمباكوس",
-      "flag": "https://imgs.ysscores.com/teams/128/1401690370533.png"
+      "name": "شتورم غراتس",
+      "flag": "https://imgs.ysscores.com/teams/128/2931738149991.png"
     },
     "team1": {
       "name": "مارسيليا",
@@ -1919,34 +1917,34 @@
     },
     "extra": false,
     "channels": [
-    { "name": "ALWAN 5", "url": "go:ALWAN5" },
+    { "name": "ALWAN 4", "url": "go:ALWAN4" },
+      { "name": "MULTI", "url": "go:CONNECT3" },
+    { "name": "FHD", "url": "go:Bein3hd" },
+    { "name": "HD", "url": "go:Bein3hd2" },
+    { "name": "SD", "url": "go:Bein3sd" },
+    { "name": "LOW", "url": "go:Bein3low" }
+    ]
+  },
+  {
+    "league": "الدوري الاوروبي ",
+    "title": "بشكتاش × ",
+    "time": "2026-10-22T22:00:00",
+    "team1": {
+      "name": "بشكتاش",
+      "flag": "https://imgs.ysscores.com/teams/128/2171690128210.png"
+    },
+    "team2": {
+      "name": "كريستال بالاس",
+      "flag": "https://imgs.ysscores.com/teams/128/6121690118883.png"
+    },
+    "extra": false,
+    "channels": [
+    { "name": "ALWAN 2", "url": "go:ALWAN2" },
     { "name": "MULTI", "url": "go:CONNECT2" },
     { "name": "FHD", "url": "go:Bein2hd" },
     { "name": "HD", "url": "go:Bein2hd2" },
     { "name": "SD", "url": "go:Bein2sd" },
     { "name": "LOW", "url": "go:Bein2low" }
-    ]
-  },
-  {
-    "league": "الدوري الاوروبي x",
-    "title": "بشكتاش × ",
-    "time": "2026-10-15T22:00:00",
-    "team2": {
-      "name": "بشكتاش",
-      "flag": "https://imgs.ysscores.com/teams/128/2171690128210.png"
-    },
-    "team1": {
-      "name": "هوفنهايم",
-      "flag": "https://imgs.ysscores.com/teams/128/5141690288816.png"
-    },
-    "extra": false,
-    "channels": [
-    { "name": "ALWAN 2", "url": "go:ALWAN2" },
-    { "name": "MULTI", "url": "go:CONNECT3" },
-    { "name": "FHD", "url": "go:Bein3hd" },
-    { "name": "HD", "url": "go:Bein3hd2" },
-    { "name": "SD", "url": "go:Bein3sd" },
-    { "name": "LOW", "url": "go:Bein3low" }
     ]
   },
   {
@@ -1972,45 +1970,110 @@
     ]
   },
   {
-    "league": "الدوري الاوروبي x",
+    "league": "الدوري الاوروبي ",
+    "title": "ليون × ",
+    "time": "2026-10-22T22:00:00",
+    "team1": {
+      "name": "هوفنهايم",
+      "flag": "https://imgs.ysscores.com/teams/128/5141690288816.png"
+    },
+    "team2": {
+      "name": "ليون",
+      "flag": "https://imgs.ysscores.com/teams/128/4081690287528.png"
+    },
+    "extra": false,
+    "channels": [
+    { "name": "ALWAN 3", "url": "go:ALWAN3" },
+    { "name": "MULTI", "url": "go:CONNECT4" },
+    { "name": "FHD", "url": "go:Bein4hd" },
+    { "name": "HD", "url": "go:Bein4hd2" },
+    { "name": "SD", "url": "go:Bein4sd" },
+    { "name": "LOW", "url": "go:Bein4low" }
+    ]
+  },
+  {
+    "league": "الدوري الاوروبي ",
     "title": "سيلتك × ",
-    "time": "2026-10-17T22:00:00",
+    "time": "2026-10-22T22:00:00",
     "team1": {
       "name": "سيلتك",
       "flag": "https://imgs.ysscores.com/teams/128/9291690387713.png"
     },
     "team2": {
-      "name": "فرينكفاروزي",
-      "flag": "https://imgs.ysscores.com/teams/128/6411690370517.png"
+      "name": "سيلتا فيجو",
+      "flag": "https://imgs.ysscores.com/teams/128/9611690196747.png"
     },
     "extra": false,
     "channels": [
-    { "name": "FHD", "url": "go:Bein5hd" },
-    { "name": "HD", "url": "go:Bein5hd2" },
-    { "name": "SD", "url": "go:Bein5sd" },
-    { "name": "LOW", "url": "go:Bein5low" }
+      { "name": "ALWAN 4", "url": "go:ALWAN4" },
+    { "name": "FHD", "url": "go:Bein6hd" },
+    { "name": "HD", "url": "go:Bein6hd2" },
+    { "name": "SD", "url": "go:Bein6sd" },
+    { "name": "LOW", "url": "go:Bein6low" }
     ]
   },
 {
-  "league": "دوري المؤتمر الأوروبي x",
+  "league": "دوري المؤتمر الأوروبي ",
   "title": "طرابزون سبور × ",
-  "time": "2026-10-15T19:45:00",
-  "team2": {
+  "time": "2026-10-22T19:45:00",
+  "team1": {
     "name": "طرابزون سبور",
     "flag": "https://imgs.ysscores.com/teams/128/7531690127980.png"
   },
-  "team1": {
-    "name": "بالوسيور",
-    "flag": "https://imgs.ysscores.com/teams/128/2361751839313.png"
+  "team2": {
+    "name": "هارتس",
+    "flag": "https://imgs.ysscores.com/teams/128/7521690370544.png"
   },
   "extra": false,
   "channels": [
       { "name": "ALWAN 3", "url": "go:ALWAN3" },
+      { "name": "MULTI", "url": "go:CONNECT2" },
+    { "name": "FHD", "url": "go:Bein2hd" },
+    { "name": "HD", "url": "go:Bein2hd2" },
+    { "name": "SD", "url": "go:Bein2sd" },
+    { "name": "LOW", "url": "go:Bein2low" }
+  ]
+},
+  {
+    "league": "دوري المؤتمر الاوروبي ",
+    "title": "موناكو × ",
+    "time": "2026-10-22T22:00:00",
+    "team1": {
+      "name": "موناكو",
+      "flag": "https://imgs.ysscores.com/teams/128/3861690287583.png"
+    },
+    "team2": {
+      "name": "فرايبورج",
+      "flag": "https://imgs.ysscores.com/teams/128/4771690288817.png"
+    },
+    "extra": false,
+    "channels": [
       { "name": "MULTI", "url": "go:CONNECT3" },
     { "name": "FHD", "url": "go:Bein3hd" },
     { "name": "HD", "url": "go:Bein3hd2" },
     { "name": "SD", "url": "go:Bein3sd" },
     { "name": "LOW", "url": "go:Bein3low" }
-  ]
-}
+    ]
+  },
+  {
+    "league": "دوري المؤتمر الاوروبي ",
+    "title": "اياكس × ",
+    "time": "2026-10-22T22:00:00",
+    "team1": {
+      "name": "اياكس",
+      "flag": "https://imgs.ysscores.com/teams/128/1361751718344.png"
+    },
+    "team2": {
+      "name": "اتلانتا",
+      "flag": "https://imgs.ysscores.com/teams/128/17795813126107.png"
+    },
+    "extra": false,
+    "channels": [
+      { "name": "MULTI", "url": "go:CONNECT5" },
+    { "name": "FHD", "url": "go:Bein5hd" },
+    { "name": "HD", "url": "go:Bein5hd2" },
+    { "name": "SD", "url": "go:Bein5sd" },
+    { "name": "LOW", "url": "go:Bein5low" }
+    ]
+  }
 ]
