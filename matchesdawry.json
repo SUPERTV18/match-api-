@@ -657,78 +657,79 @@
     ]
   },
 {
-  "league": "الدوري السعودي x",
+  "league": "الدوري السعودي ",
   "title": "الأهلي × ",
-  "time": "2026-10-19T18:05:00",
-  "team1": {
-    "name": "الفيحاء",
-    "flag": "https://imgs.ysscores.com/teams/128/9981690292497.png"
-  },
+  "time": "2026-10-23T21:00:00",
   "team2": {
+    "name": "الخليج",
+    "flag": "https://imgs.ysscores.com/teams/128/7451690299071.png"
+  },
+  "team1": {
     "name": "الأهلي",
     "flag": "https://imgs.ysscores.com/teams/128/9091751485160.png"
   },
   "extra": false,
   "channels": [
-    { "name": "ALWAN 5", "url": "go:ALWAN5" },
     { "name": "MULTI", "url": "go:server10" },
     { "name": "HD", "url": "go:Thman2HD" }
   ]
 },
   
 {
-  "league": "الدوري السعودي x",
+  "league": "الدوري السعودي ",
   "title": "الهلال × ",
-  "time": "2026-10-19T21:00:00",
-  "team1": {
+  "time": "2026-10-23T21:00:00",
+  "team2": {
     "name": "الهلال",
     "flag": "https://imgs.ysscores.com/teams/128/8761690298716.png"
   },
-  "team2": {
-    "name": "الحزم",
-    "flag": "https://imgs.ysscores.com/teams/128/111690298803.png"
+  "team1": {
+    "name": "القادسية",
+    "flag": "https://imgs.ysscores.com/teams/128/6611724280721.png"
   },
   "extra": false,
   "channels": [
-    { "name": "ALWAN 5", "url": "go:ALWAN5" },
+    { "name": "ALWAN 6", "url": "go:ALWAN6" },
     { "name": "MULTI", "url": "go:server9" },
     { "name": "HD", "url": "go:Thman1HD" }
   ]
 },
 {
-  "league": "الدوري السعودي x",
+  "league": "الدوري السعودي ",
   "title": "النصر × ",
-  "time": "2026-10-20T21:00:00",
-  "team2": {
-    "name": "نيوم",
-      "flag": "https://imgs.ysscores.com/teams/128/9361751106662.png"
-  },
+  "time": "2026-10-23T16:30:00",
   "team1": {
+    "name": "الفيصلي",
+      "flag": "https://imgs.ysscores.com/teams/128/5731692998559.png"
+  },
+  "team2": {
     "name": "النصر",
     "flag": "https://imgs.ysscores.com/teams/128/1371747772080.png"
   },
   "extra": false,
   "channels": [
-    { "name": "MULTI", "url": "go:server10" },
-    { "name": "HD", "url": "go:Thman2HD" }
+    { "name": "ALWAN 2", "url": "go:ALWAN2" },
+    { "name": "MULTI", "url": "go:server9" },
+    { "name": "HD", "url": "go:Thman1HD" }
   ]
 },
   {
-    "league": "الدوري السعودي x",
+    "league": "الدوري السعودي ",
     "title": " × الاتحاد",
-    "time": "2026-10-20T21:00:00",
-    "team1": {
-      "name": "الاتفاق",
-    "flag": "https://imgs.ysscores.com/teams/128/1151690298845.png"
-    },
+    "time": "2026-10-23T18:30:00",
     "team2": {
+      "name": "الدرعية",
+    "flag": "https://imgs.ysscores.com/teams/128/17835195657588.png"
+    },
+    "team1": {
       "name": "الاتحاد",
       "flag": "https://imgs.ysscores.com/teams/128/2231690298782.png"
     },
     "extra": false,
     "channels": [
-    { "name": "MULTI", "url": "go:server9" },
-    { "name": "HD", "url": "go:Thman1HD" }
+      { "name": "ALWAN 4", "url": "go:ALWAN4" },
+    { "name": "MULTI", "url": "go:server10" },
+    { "name": "HD", "url": "go:Thman2HD" }
     ]
   },
   
@@ -1838,7 +1839,7 @@
     ]
   },
   {
-    "league": "الدوري الاوروبي ",
+    "league": "الدوري الاوروبي x",
     "title": "ميلان × ",
     "time": "2026-10-22T22:00:00",
     "team2": {
@@ -1881,7 +1882,7 @@
     ]
   },
   {
-    "league": "الدوري الاوروبي ",
+    "league": "الدوري الاوروبي x",
     "title": "يوفنتوس × ",
     "time": "2026-10-22T19:45:00",
     "team1": {
@@ -1904,7 +1905,7 @@
     ]
   },
   {
-    "league": "الدوري الاوروبي ",
+    "league": "الدوري الاوروبي x",
     "title": "مارسيليا × ",
     "time": "2026-10-22T19:45:00",
     "team2": {
@@ -1926,7 +1927,7 @@
     ]
   },
   {
-    "league": "الدوري الاوروبي ",
+    "league": "الدوري الاوروبي x",
     "title": "بشكتاش × ",
     "time": "2026-10-22T22:00:00",
     "team1": {
@@ -1970,7 +1971,7 @@
     ]
   },
   {
-    "league": "الدوري الاوروبي ",
+    "league": "الدوري الاوروبي x",
     "title": "ليون × ",
     "time": "2026-10-22T22:00:00",
     "team1": {
@@ -1992,7 +1993,7 @@
     ]
   },
   {
-    "league": "الدوري الاوروبي ",
+    "league": "الدوري الاوروبي x",
     "title": "سيلتك × ",
     "time": "2026-10-22T22:00:00",
     "team1": {
@@ -2013,7 +2014,7 @@
     ]
   },
 {
-  "league": "دوري المؤتمر الأوروبي ",
+  "league": "دوري المؤتمر الأوروبي x",
   "title": "طرابزون سبور × ",
   "time": "2026-10-22T19:45:00",
   "team1": {
@@ -2035,7 +2036,7 @@
   ]
 },
   {
-    "league": "دوري المؤتمر الأوروبي ",
+    "league": "دوري المؤتمر الأوروبي x",
     "title": "موناكو × ",
     "time": "2026-10-22T22:00:00",
     "team1": {
@@ -2056,7 +2057,7 @@
     ]
   },
   {
-    "league": "دوري المؤتمر الأوروبي ",
+    "league": "دوري المؤتمر الأوروبي x",
     "title": "اياكس × ",
     "time": "2026-10-22T22:00:00",
     "team1": {
