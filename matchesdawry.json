@@ -68,16 +68,16 @@
     ]
   },
   {
-    "league": "الدوري الانجليزي x",
+    "league": "الدوري الانجليزي ",
     "title": "تشيلسي × ",
-    "time": "2026-10-17T14:30:00",
-    "team2": {
+    "time": "2026-10-24T19:30:00",
+    "team1": {
       "name": "تشيلسي",
     "flag": "https://imgs.ysscores.com/teams/128/2571690118280.png"
     },
-    "team1": {
-      "name": "ايفرتون",
-    "flag": "https://imgs.ysscores.com/teams/128/8461690118694.png"
+    "team2": {
+      "name": "توتنهام",
+    "flag": "https://imgs.ysscores.com/teams/128/2501692467226.png"
     },
     "extra": false,
     "channels": [
@@ -115,26 +115,26 @@
     ]
   },
   {
-    "league": "الدوري الانجليزي x",
+    "league": "الدوري الانجليزي ",
     "title": "مان سيتي × ",
-    "time": "2026-10-17T17:00:00",
-    "team1": {
+    "time": "2026-10-24T14:30:00",
+    "team2": {
       "name": "مانشستر سيتي",
     "flag": "https://imgs.ysscores.com/teams/128/4481690118308.png"
     },
-    "team2": {
-      "name": "ايبسويتش تاون",
-    "flag": "https://imgs.ysscores.com/teams/128/8291690370545.png"
+    "team1": {
+      "name": "استون فيلا",
+      "flag": "https://imgs.ysscores.com/teams/128/9921723414870.png"
     },
     "extra": false,
     "channels": [
-    { "name": "SUPER TV 1", "url": "go:supertv2" },
+    { "name": "SUPER TV 1", "url": "go:supertv1" },
     { "name": "ALWAN 1", "url": "go:ALWAN1" },
-      { "name": "MULTI", "url": "go:CONNECT2" },
-    { "name": "FHD", "url": "go:Bein2hd" },
-    { "name": "HD", "url": "go:Bein2hd2" },
-    { "name": "SD", "url": "go:Bein2sd" },
-    { "name": "LOW", "url": "go:Bein2low" }
+    { "name": "MULTI", "url": "go:CONNECT1" },
+    { "name": "FHD", "url": "go:Bein1hd" },
+    { "name": "HD", "url": "go:Bein1hd2" },
+    { "name": "SD", "url": "go:Bein1sd" },
+    { "name": "LOW", "url": "go:Bein1low" }
   ]
   },
   {
@@ -161,12 +161,12 @@
     ]
   },
 {
-  "league": "الدوري الانجليزي x",
+  "league": "الدوري الانجليزي ",
   "title": "ارسنال × ",
-  "time": "2026-10-18T18:30:00",
+  "time": "2026-10-24T17:00:00",
   "team2": {
-    "name": "نوتينغهام",
-      "flag": "https://imgs.ysscores.com/teams/128/7741690119007.png"
+    "name": "ايفرتون",
+      "flag": "https://imgs.ysscores.com/teams/128/8461690118694.png"
   },
   "team1": {
     "name": "ارسنال",
@@ -259,19 +259,20 @@
   ]
 },
 {
-  "league": "الدوري الاسباني x",
+  "league": "الدوري الاسباني ",
   "title": "اتليتكو مدريد × ",
-  "time": "2026-10-17T17:15:00",
-  "team2": {
+  "time": "2026-10-24T22:00:00",
+  "team1": {
     "name": "اتليتكو مدريد",
     "flag": "https://imgs.ysscores.com/teams/128/1431719588699.png"
   },
-  "team1": {
-    "name": "اسبانيول",
-    "flag": "https://imgs.ysscores.com/teams/128/4481690370529.png"
+  "team2": {
+    "name": "لاكورونيا",
+    "flag": "https://imgs.ysscores.com/teams/128/2961698772258.png"
   },
   "extra": false,
   "channels": [
+    { "name": "ALWAN 1", "url": "go:ALWAN1" },
     { "name": "MULTI", "url": "go:CONNECT2" },
     { "name": "FHD", "url": "go:Bein2hd" },
     { "name": "HD", "url": "go:Bein2hd2" },
@@ -280,19 +281,21 @@
   ]
 },
   {
-    "league": "الدوري الالماني x",
+    "league": "الدوري الالماني ",
     "title": " × دورتموند",
-    "time": "2026-10-17T16:30:00",
-    "team1": {
-      "name": "يونيون برلين",
-      "flag": "https://imgs.ysscores.com/teams/128/6521690288816.png"
-    },
+    "time": "2026-10-24T19:30:00",
     "team2": {
+      "name": "فرانكفورت",
+      "flag": "https://imgs.ysscores.com/teams/128/231690288818.png"
+    },
+    "team1": {
       "name": "بروسيا دورتموند",
       "flag": "https://imgs.ysscores.com/teams/128/4201690288818.png"
     },
     "extra": false,
     "channels": [
+      { "name": "ALWAN 5", "url": "go:ALWAN5" },
+      { "name": "MBC Action", "url": "go:mbcaction" },
     { "name": "MBC شاهد | رياضة", "url": "go:ssc11" }
     ]
   },
@@ -371,14 +374,14 @@
     ]
   },
 {
-  "league": "الدوري الايطالي x",
+  "league": "الدوري الايطالي ",
   "title": "روما × ",
-  "time": "2026-10-17T21:45:00",
-  "team2": {
-    "name": "جنوي",
-      "flag": "https://imgs.ysscores.com/teams/128/1891690283004.png"
-  },
+  "time": "2026-10-24T19:00:00",
   "team1": {
+    "name": "نابولي",
+    "flag": "https://imgs.ysscores.com/teams/128/9521720636634.png"
+  },
+  "team2": {
     "name": "روما",
     "flag": "https://imgs.ysscores.com/teams/128/17722024059541.png"
   },
@@ -657,7 +660,7 @@
     ]
   },
 {
-  "league": "الدوري السعودي ",
+  "league": "الدوري السعودي x",
   "title": "الأهلي × ",
   "time": "2026-10-23T21:00:00",
   "team2": {
@@ -676,7 +679,7 @@
 },
   
 {
-  "league": "الدوري السعودي ",
+  "league": "الدوري السعودي x",
   "title": "الهلال × ",
   "time": "2026-10-23T21:00:00",
   "team2": {
@@ -695,7 +698,7 @@
   ]
 },
 {
-  "league": "الدوري السعودي ",
+  "league": "الدوري السعودي x",
   "title": "النصر × ",
   "time": "2026-10-23T16:30:00",
   "team1": {
@@ -714,7 +717,7 @@
   ]
 },
   {
-    "league": "الدوري السعودي ",
+    "league": "الدوري السعودي x",
     "title": " × الاتحاد",
     "time": "2026-10-23T18:30:00",
     "team2": {
@@ -903,37 +906,37 @@
   ]
   },
   {
-  "league": "دوري ابطال افريقيا x",
+  "league": "دوري ابطال افريقيا ",
   "title": "الزمالك × ",
-  "time": "2026-10-16T19:00:00",
-  "team1": {
+  "time": "2026-10-24T20:00:00",
+  "team2": {
     "name": "الجيش الرواندي",
     "flag": "https://imgs.ysscores.com/teams/128/2361692283104.png"
   },
-  "team2": {
+  "team1": {
     "name": "الزمالك",
       "flag": "https://imgs.ysscores.com/teams/128/7971694082496.png"
   },
   "extra": false,
   "channels": [
-    { "name": "MBC Masr 2", "url": "go:mbcmasr2" }
+    { "name": "ON Sport", "url": "go:ONTime1" }
   ]
 },
   {
-    "league": "دوري ابطال افريقيا x",
+    "league": "دوري ابطال افريقيا ",
     "title": " × بيراميدز",
-    "time": "2026-10-16T16:00:00",
-    "team1": {
+    "time": "2026-10-24T20:00:00",
+    "team2": {
       "name": "المريخ بانتيو",
       "flag": "https://imgs.ysscores.com/teams/128/8151720802305.png"
     },
-    "team2": {
+    "team1": {
       "name": "بيراميدز",
     "flag": "https://imgs.ysscores.com/teams/128/5771692283569.png"
     },
     "extra": false,
     "channels": [
-    { "name": "ON Sport", "url": "go:ONTime1" }
+    { "name": "ON Sport MAX", "url": "go:ONTime2" }
     ]
   },
   {
