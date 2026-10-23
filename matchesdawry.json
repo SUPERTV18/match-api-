@@ -940,6 +940,24 @@
     ]
   },
   {
+    "league": "دوري ابطال افريقيا ",
+    "title": "الترجي الرياضي × ",
+    "time": "2026-10-24T19:00:00",
+    "team1": {
+      "name": "الترجي الرياضي",
+      "flag": "https://imgs.ysscores.com/teams/128/8151720802305.png"
+    },
+    "team2": {
+      "name": "السويحلي",
+    "flag": "https://imgs.ysscores.com/teams/128/5771692283569.png"
+    },
+    "extra": false,
+    "channels": [
+      { "name": "ALWAN 4", "url": "go:ALWAN4" },
+    { "name": "الوطنية 1", "url": "go:TU1" }
+    ]
+  },
+  {
     "league": "كأس الكونفيدرالية x",
     "title": "الأهلي × ",
     "time": "2026-10-17T16:00:00",
