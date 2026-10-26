@@ -578,10 +578,11 @@
   "extra": false,
   "channels": [
     { "name": "ALWAN 6", "url": "go:ALWAN6" },
-    { "name": "FHD", "url": "go:Bein4hd" },
-    { "name": "HD", "url": "go:Bein4hd2" },
-    { "name": "SD", "url": "go:Bein4sd" },
-    { "name": "LOW", "url": "go:Bein4low" }
+    { "name": "MULTI", "url": "go:CONNECT3" },
+    { "name": "FHD", "url": "go:Bein3hd" },
+    { "name": "HD", "url": "go:Bein3hd2" },
+    { "name": "SD", "url": "go:Bein3sd" },
+    { "name": "LOW", "url": "go:Bein3low" }
   ]
 },
   {
