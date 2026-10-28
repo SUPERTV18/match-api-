@@ -128,7 +128,6 @@
     },
     "extra": false,
     "channels": [
-    { "name": "SUPER TV 4", "url": "go:supertv4" },
       { "name": "TOD", "url": "go:TOD13" },
     { "name": "ALWAN ", "url": "go:ALWAN2" },
     { "name": "MULTI", "url": "go:CONNECT4" },
@@ -198,7 +197,6 @@
   },
   "extra": false,
   "channels": [
-    { "name": "SUPER TV 1", "url": "go:supertv1" },
     { "name": "TOD", "url": "go:TOD11" },
     { "name": "ALWAN 1", "url": "go:ALWAN1" },
     { "name": "MULTI", "url": "go:CONNECT1" },
