@@ -453,7 +453,7 @@
   ]
 },
   {
-  "league": "الدوري الايطالي ",
+  "league": "الدوري الايطالي x",
   "title": "فيورنتينا × ",
   "time": "2026-10-29T22:45:00",
   "team2": {
@@ -473,20 +473,20 @@
   ]
 },
 {
-  "league": "الدوري الفرنسي x",
+  "league": "الدوري الفرنسي ",
   "title": " × باريس سان جيرمان",
-  "time": "2026-10-26T22:45:00",
-  "team1": {
+  "time": "2026-10-30T20:00:00",
+  "team2": {
     "name": "باريس سان جيرمان",
     "flag": "https://imgs.ysscores.com/teams/128/4461690287785.png"
   },
-  "team2": {
-    "name": "ليون",
-      "flag": "https://imgs.ysscores.com/teams/128/4081690287528.png"
+  "team1": {
+    "name": "لوهافر",
+      "flag": "https://imgs.ysscores.com/teams/128/6941691927287.png"
   },
   "extra": false,
   "channels": [
-    { "name": "ALWAN 4", "url": "go:ALWAN4" },
+    { "name": "ALWAN ", "url": "go:ALWAN1" },
       { "name": "MULTI", "url": "go:CONNECT1" },
     { "name": "FHD", "url": "go:Bein1hd" },
     { "name": "HD", "url": "go:Bein1hd2" },
@@ -559,25 +559,25 @@
   ]
 },
   {
-  "league": "الدوري التركي x",
+  "league": "الدوري التركي ",
   "title": "غلطة سراي × ",
-  "time": "2026-10-26T21:30:00",
-  "team1": {
+  "time": "2026-10-30T19:00:00",
+  "team2": {
     "name": "غلطة سراي",
     "flag": "https://imgs.ysscores.com/teams/128/2081756067376.png"
   },
-  "team2": {
-    "name": "فنربخشة",
-    "flag": "https://imgs.ysscores.com/teams/128/681690127723.png"
+  "team1": {
+    "name": "قونيا سبور",
+    "flag": "https://imgs.ysscores.com/teams/128/8771690127634.png"
   },
   "extra": false,
   "channels": [
-    { "name": "ALWAN 6", "url": "go:ALWAN6" },
-    { "name": "MULTI", "url": "go:CONNECT3" },
-    { "name": "FHD", "url": "go:Bein3hd" },
-    { "name": "HD", "url": "go:Bein3hd2" },
-    { "name": "SD", "url": "go:Bein3sd" },
-    { "name": "LOW", "url": "go:Bein3low" }
+    { "name": "ALWAN ", "url": "go:ALWAN3" },
+    { "name": "MULTI", "url": "go:CONNECT2" },
+    { "name": "FHD", "url": "go:Bein2hd" },
+    { "name": "HD", "url": "go:Bein2hd2" },
+    { "name": "SD", "url": "go:Bein2sd" },
+    { "name": "LOW", "url": "go:Bein2low" }
   ]
 },
   {
@@ -660,21 +660,22 @@
     ]
   },
 {
-  "league": "الدوري السعودي x",
+  "league": "الدوري السعودي ",
   "title": "الأهلي × ",
-  "time": "2026-10-23T21:00:00",
-  "team2": {
-    "name": "الخليج",
-    "flag": "https://imgs.ysscores.com/teams/128/7451690299071.png"
-  },
+  "time": "2026-10-30T20:00:00",
   "team1": {
+    "name": "الشباب",
+    "flag": "https://imgs.ysscores.com/teams/128/4261690298871.png"
+  },
+  "team2": {
     "name": "الأهلي",
     "flag": "https://imgs.ysscores.com/teams/128/9091751485160.png"
   },
   "extra": false,
   "channels": [
-    { "name": "MULTI", "url": "go:server10" },
-    { "name": "HD", "url": "go:Thman2HD" }
+    { "name": "ALWAN ", "url": "go:ALWAN5" },
+    { "name": "MULTI", "url": "go:server9" },
+    { "name": "HD", "url": "go:Thman1HD" }
   ]
 },
   
@@ -698,7 +699,7 @@
   ]
 },
 {
-  "league": "الدوري السعودي ",
+  "league": "الدوري السعودي x",
   "title": "النصر × ",
   "time": "2026-10-29T21:00:00",
   "team2": {
@@ -717,20 +718,19 @@
   ]
 },
   {
-    "league": "الدوري السعودي x",
+    "league": "الدوري السعودي ",
     "title": " × الاتحاد",
-    "time": "2026-10-23T18:30:00",
-    "team2": {
-      "name": "الدرعية",
-    "flag": "https://imgs.ysscores.com/teams/128/17835195657588.png"
-    },
+    "time": "2026-10-30T14:30:00",
     "team1": {
+      "name": "ابها",
+    "flag": "https://imgs.ysscores.com/teams/128/9091690299913.png"
+    },
+    "team2": {
       "name": "الاتحاد",
       "flag": "https://imgs.ysscores.com/teams/128/2231690298782.png"
     },
     "extra": false,
     "channels": [
-      { "name": "ALWAN 4", "url": "go:ALWAN4" },
     { "name": "MULTI", "url": "go:server10" },
     { "name": "HD", "url": "go:Thman2HD" }
     ]
@@ -838,7 +838,7 @@
   ]
 },
   {
-  "league": "الدوري المصري ",
+  "league": "الدوري المصري x",
   "title": "بيراميدز × ",
   "time": "2026-10-29T20:00:00",
   "team1": {
@@ -872,7 +872,7 @@
   ]
 },
   {
-  "league": "الدوري المصري ",
+  "league": "الدوري المصري x",
   "title": "الاهلي × ",
   "time": "2026-10-29T17:00:00",
   "team2": {
