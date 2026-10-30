@@ -675,6 +675,7 @@
   "channels": [
     { "name": "ALWAN ", "url": "go:ALWAN5" },
     { "name": "MULTI", "url": "go:server9" },
+    { "name": "MULTI HDR", "url": "go:Thman1LOW" },
     { "name": "HD", "url": "go:Thman1HD" }
   ]
 },
