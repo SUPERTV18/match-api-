@@ -3981,5 +3981,41 @@
         "url": "go:SHASHA2"
       }
     ]
+  },
+  {
+    "league": "الدوري الفرنسي",
+    "title": "مارسيليا ×",
+    "time": "2026-11-01T21:45:00",
+    "team1": {
+      "name": "مارسيليا",
+      "flag": "https://imgs.ysscores.com/teams/128/17816370094121.png"
+    },
+    "team2": {
+      "name": "تولوز",
+      "flag": "https://imgs.ysscores.com/teams/128/5161690287967.png"
+    },
+    "extra": false,
+    "channels": [
+      {
+        "name": "ALWAN 2",
+        "url": "go:ALWAN2"
+      },
+      {
+        "name": "FHD",
+        "url": "go:Bein2hd"
+      },
+      {
+        "name": "HD",
+        "url": "go:Bein2hd2"
+      },
+      {
+        "name": "SD",
+        "url": "go:Bein2sd"
+      },
+      {
+        "name": "LOW",
+        "url": "go:Bein2low"
+      }
+    ]
   }
 ]
