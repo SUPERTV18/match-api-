@@ -3837,5 +3837,45 @@
         "url": "go:Bein1low"
       }
     ]
+  },
+  {
+    "league": "الدوري الاسباني",
+    "title": "راسينج ×",
+    "time": "2026-11-01T17:15:00",
+    "team1": {
+      "name": "راسينج",
+      "flag": "https://imgs.ysscores.com/teams/128/3011761516113.png"
+    },
+    "team2": {
+      "name": "ريال مدريد",
+      "flag": "https://imgs.ysscores.com/teams/128/1871690196746.png"
+    },
+    "extra": false,
+    "channels": [
+      {
+        "name": "SUPER TV 1",
+        "url": "go:supertv2"
+      },
+      {
+        "name": "ALWAN 2",
+        "url": "go:ALWAN2"
+      },
+      {
+        "name": "FHD",
+        "url": "go:Bein2hd"
+      },
+      {
+        "name": "HD",
+        "url": "go:Bein2hd2"
+      },
+      {
+        "name": "SD",
+        "url": "go:Bein2sd"
+      },
+      {
+        "name": "LOW",
+        "url": "go:Bein2low"
+      }
+    ]
   }
 ]
