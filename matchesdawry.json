@@ -3787,6 +3787,50 @@
     ]
   },
   {
+    "league": "الدوري التركي",
+    "title": "طرابزون سبور ×",
+    "time": "2026-11-01T15:00:00",
+    "team1": {
+      "name": "طرابزون سبور",
+      "flag": "https://imgs.ysscores.com/teams/128/7531690127980.png"
+    },
+    "team2": {
+      "name": "غازي عنتاب",
+      "flag": "https://imgs.ysscores.com/teams/128/3061690127435.png"
+    },
+    "extra": false,
+    "channels": [
+      {
+        "name": "ALWAN 5",
+        "url": "go:ALWAN5"
+      },
+      {
+        "name": "FHD",
+        "url": "go:Bein1hd"
+      },
+      {
+        "name": "HD",
+        "url": "go:Bein1hd2"
+      },
+      {
+        "name": "SD",
+        "url": "go:Bein1sd"
+      },
+      {
+        "name": "SD",
+        "url": "go:Bein1sd2"
+      },
+      {
+        "name": "LOW",
+        "url": "go:Bein1low"
+      },
+      {
+        "name": "LOW",
+        "url": "go:Bein1low2"
+      }
+    ]
+  },
+  {
     "league": "الدوري الاسباني",
     "title": "راسينج ×",
     "time": "2026-11-01T17:15:00",
