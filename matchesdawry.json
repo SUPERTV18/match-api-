@@ -3871,6 +3871,42 @@
     ]
   },
   {
+    "league": "الدوري التركي",
+    "title": "قاسم باشا ×",
+    "time": "2026-11-01T18:00:00",
+    "team1": {
+      "name": "قاسم باشا",
+      "flag": "https://imgs.ysscores.com/teams/128/8131690127512.png"
+    },
+    "team2": {
+      "name": "بشكتاش",
+      "flag": "https://imgs.ysscores.com/teams/128/2171690128210.png"
+    },
+    "extra": false,
+    "channels": [
+      {
+        "name": "ALWAN 5",
+        "url": "go:ALWAN5"
+      },
+      {
+        "name": "FHD",
+        "url": "go:Bein6hd"
+      },
+      {
+        "name": "HD",
+        "url": "go:Bein6hd2"
+      },
+      {
+        "name": "SD",
+        "url": "go:Bein6sd"
+      },
+      {
+        "name": "LOW",
+        "url": "go:Bein6low"
+      }
+    ]
+  },
+  {
     "league": "الدوري الفرنسي",
     "title": "ليون ×",
     "time": "2026-11-01T18:15:00",
