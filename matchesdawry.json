@@ -3817,16 +3817,8 @@
         "url": "go:Bein1sd"
       },
       {
-        "name": "SD",
-        "url": "go:Bein1sd2"
-      },
-      {
         "name": "LOW",
         "url": "go:Bein1low"
-      },
-      {
-        "name": "LOW",
-        "url": "go:Bein1low2"
       }
     ]
   },
