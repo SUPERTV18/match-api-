@@ -4093,5 +4093,25 @@
         "url": "go:Bein2low"
       }
     ]
+  },
+  {
+    "league": "كأس الرابطة المصرية",
+    "title": "وادي دجلة ×",
+    "time": "2026-11-02T17:00:00",
+    "team1": {
+      "name": "وادي دجلة",
+      "flag": "https://imgs.ysscores.com/teams/128/2161728755640.png"
+    },
+    "team2": {
+      "name": "الزمالك",
+      "flag": "https://imgs.ysscores.com/teams/128/7971694082496.png"
+    },
+    "extra": false,
+    "channels": [
+      {
+        "name": "ON Sport MAX",
+        "url": "go:ONTime2"
+      }
+    ]
   }
 ]
