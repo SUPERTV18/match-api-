@@ -3989,6 +3989,10 @@
         "url": "go:supertv1"
       },
       {
+        "name": "TOD",
+        "url": "go:TOD11"
+      },
+      {
         "name": "ALWAN 1",
         "url": "go:ALWAN1"
       },
@@ -4019,10 +4023,6 @@
       {
         "name": "LOW",
         "url": "go:Bein1low2"
-      },
-      {
-        "name": "TOD",
-        "url": "go:TOD11"
       }
     ]
   },
