@@ -1,0 +1,554 @@
+{
+  "templates": [],
+  "teams": [
+    {
+      "name": "اياكس",
+      "flag": "https://imgs.ysscores.com/teams/128/1361751718344.png"
+    },
+    {
+      "name": "ايندهوفن",
+      "flag": "https://imgs.ysscores.com/teams/128/3391690378187.png"
+    },
+    {
+      "name": "الأرجنتين",
+      "flag": "https://imgs.ysscores.com/teams/128/5861694177479.png"
+    },
+    {
+      "name": "بنين",
+      "flag": "https://imgs.ysscores.com/teams/128/8421763069265.png"
+    },
+    {
+      "name": "ليل",
+      "flag": "https://imgs.ysscores.com/teams/128/381690287334.png"
+    },
+    {
+      "name": "ريال بتيس",
+      "flag": "https://imgs.ysscores.com/teams/128/17645945054618.png"
+    },
+    {
+      "name": "شاختار",
+      "flag": "https://imgs.ysscores.com/teams/128/6191751838320.png"
+    },
+    {
+      "name": "باختاكور",
+      "flag": "https://imgs.ysscores.com/teams/128/8861693169409.png"
+    },
+    {
+      "name": "القادسية",
+      "flag": "https://imgs.ysscores.com/teams/128/6611724280721.png"
+    },
+    {
+      "name": "النصر",
+      "flag": "https://imgs.ysscores.com/teams/128/1371747772080.png"
+    },
+    {
+      "name": "نيفتشي",
+      "flag": "https://imgs.ysscores.com/teams/128/131717498348.png"
+    },
+    {
+      "name": "الغرافة",
+      "flag": "https://imgs.ysscores.com/teams/128/3761719156653.png"
+    },
+    {
+      "name": "استقلال طهران",
+      "flag": "https://imgs.ysscores.com/teams/128/4531723738539.png"
+    },
+    {
+      "name": "باريس سان جيرمان",
+      "flag": "https://imgs.ysscores.com/teams/128/4461690287785.png"
+    },
+    {
+      "name": "استون فيلا",
+      "flag": "https://imgs.ysscores.com/teams/128/9921723414870.png"
+    },
+    {
+      "name": "غلطة سراي",
+      "flag": "https://imgs.ysscores.com/teams/128/2081756067376.png"
+    },
+    {
+      "name": "برشلونة",
+      "flag": "https://imgs.ysscores.com/teams/128/9541690196746.png"
+    },
+    {
+      "name": "فايكنج",
+      "flag": "https://imgs.ysscores.com/teams/128/2981690370526.png"
+    },
+    {
+      "name": "بايرن ميونح",
+      "flag": "https://imgs.ysscores.com/teams/128/2351690288818.png"
+    },
+    {
+      "name": "ناساف",
+      "flag": "https://imgs.ysscores.com/teams/128/6681707924337.png"
+    },
+    {
+      "name": "الوحدة",
+      "flag": "https://imgs.ysscores.com/teams/128/8811690300661.png"
+    },
+    {
+      "name": "الرائد",
+      "flag": "https://imgs.ysscores.com/teams/128/251724712283.png"
+    },
+    {
+      "name": "الهلال",
+      "flag": "https://imgs.ysscores.com/teams/128/8761690298716.png"
+    },
+    {
+      "name": "الوصل",
+      "flag": "https://imgs.ysscores.com/teams/128/5291690300472.png"
+    },
+    {
+      "name": "بورتو",
+      "flag": "https://imgs.ysscores.com/teams/128/4801690385949.png"
+    },
+    {
+      "name": "النجمة",
+      "flag": "https://imgs.ysscores.com/teams/128/8571691930620.png"
+    },
+    {
+      "name": "الاتحاد",
+      "flag": "https://imgs.ysscores.com/teams/128/2231690298782.png"
+    },
+    {
+      "name": "كريستال بالاس",
+      "flag": "https://imgs.ysscores.com/teams/128/6121690118883.png"
+    },
+    {
+      "name": "ليون",
+      "flag": "https://imgs.ysscores.com/teams/128/4081690287528.png"
+    },
+    {
+      "name": "بنفيكا",
+      "flag": "https://imgs.ysscores.com/teams/128/4491690386690.png"
+    },
+    {
+      "name": "سيلتك",
+      "flag": "https://imgs.ysscores.com/teams/128/9291690387713.png"
+    },
+    {
+      "name": "زد",
+      "flag": "https://imgs.ysscores.com/teams/128/8411694619351.png"
+    },
+    {
+      "name": "عزام يونايتد",
+      "flag": "https://imgs.ysscores.com/teams/128/1591757108437.png"
+    },
+    {
+      "name": "فنربخشة",
+      "flag": "https://imgs.ysscores.com/teams/128/681690127723.png"
+    },
+    {
+      "name": "ألانيا سبور",
+      "flag": "https://imgs.ysscores.com/teams/128/9541690127467.png"
+    },
+    {
+      "name": "الانوار",
+      "flag": "https://imgs.ysscores.com/teams/128/17835196621248.png"
+    },
+    {
+      "name": "الأهلي",
+      "flag": "https://imgs.ysscores.com/teams/128/9091751485160.png"
+    },
+    {
+      "name": "اتلانتا يونايتد",
+      "flag": "https://imgs.ysscores.com/teams/128/5501691410013.png"
+    },
+    {
+      "name": "انتر ميامي",
+      "flag": "https://imgs.ysscores.com/teams/128/571691409672.png"
+    },
+    {
+      "name": "الفتح",
+      "flag": "https://imgs.ysscores.com/teams/128/17835195657588.png"
+    },
+    {
+      "name": "نيس",
+      "flag": "https://imgs.ysscores.com/teams/128/7361690287672.png"
+    },
+    {
+      "name": "ريال مدريد",
+      "flag": "https://imgs.ysscores.com/teams/128/1871690196746.png"
+    },
+    {
+      "name": "اشبيليه",
+      "flag": "https://imgs.ysscores.com/teams/128/6931690196743.png"
+    },
+    {
+      "name": "ماميلودي صنداونز",
+      "flag": "https://imgs.ysscores.com/teams/128/5061694715092.png"
+    },
+    {
+      "name": "الاهلي",
+      "flag": "https://imgs.ysscores.com/teams/128/9091751485160.png"
+    },
+    {
+      "name": "صباح",
+      "flag": "https://imgs.ysscores.com/teams/128/17888728154718.png"
+    },
+    {
+      "name": "بروسيا دورتموند",
+      "flag": "https://imgs.ysscores.com/teams/128/4201690288818.png"
+    },
+    {
+      "name": "سلافيا براغ",
+      "flag": "https://imgs.ysscores.com/teams/128/9621690370507.png"
+    },
+    {
+      "name": "مانشستر سيتي",
+      "flag": "https://imgs.ysscores.com/teams/128/4481690118308.png"
+    },
+    {
+      "name": "ايك اثينا",
+      "flag": "https://imgs.ysscores.com/teams/128/6901694359099.png"
+    },
+    {
+      "name": "ليفربول",
+      "flag": "https://imgs.ysscores.com/teams/128/4081724601375.png"
+    },
+    {
+      "name": "فياريال",
+      "flag": "https://imgs.ysscores.com/teams/128/7121690196747.png"
+    },
+    {
+      "name": "نابولي",
+      "flag": "https://imgs.ysscores.com/teams/128/9521720636634.png"
+    },
+    {
+      "name": "بودو/غليمت",
+      "flag": "https://imgs.ysscores.com/teams/128/8781690370522.png"
+    },
+    {
+      "name": "روما",
+      "flag": "https://imgs.ysscores.com/teams/128/17722024059541.png"
+    },
+    {
+      "name": "براتيسلافا",
+      "flag": "https://imgs.ysscores.com/teams/128/9611690821406.png"
+    },
+    {
+      "name": "اتليتكو مدريد",
+      "flag": "https://imgs.ysscores.com/teams/128/1431719588699.png"
+    },
+    {
+      "name": "شتوتجارت",
+      "flag": "https://imgs.ysscores.com/teams/128/8731690288819.png"
+    },
+    {
+      "name": "كومو",
+      "flag": "https://imgs.ysscores.com/teams/128/8641690823614.png"
+    },
+    {
+      "name": "مانشستر يونايتد",
+      "flag": "https://imgs.ysscores.com/teams/128/4871690119302.png"
+    },
+    {
+      "name": "لايبزيج",
+      "flag": "https://imgs.ysscores.com/teams/128/8361734715237.png"
+    },
+    {
+      "name": "انتر ميلان",
+      "flag": "https://imgs.ysscores.com/teams/128/3101690283003.png"
+    },
+    {
+      "name": "ارسنال",
+      "flag": "https://imgs.ysscores.com/teams/128/1701690118820.png"
+    },
+    {
+      "name": "سبورتينغ لشبونة",
+      "flag": "https://imgs.ysscores.com/teams/128/17829367926898.png"
+    },
+    {
+      "name": "لاسك",
+      "flag": "https://imgs.ysscores.com/teams/128/5301690370548.png"
+    },
+    {
+      "name": "يوفنتوس",
+      "flag": "https://imgs.ysscores.com/teams/128/9331690283003.png"
+    },
+    {
+      "name": "رين",
+      "flag": "https://imgs.ysscores.com/teams/128/5061690287944.png"
+    },
+    {
+      "name": "مارسيليا",
+      "flag": "https://imgs.ysscores.com/teams/128/17816370094121.png"
+    },
+    {
+      "name": "شتورم غراتس",
+      "flag": "https://imgs.ysscores.com/teams/128/2931738149991.png"
+    },
+    {
+      "name": "طرابزون سبور",
+      "flag": "https://imgs.ysscores.com/teams/128/7531690127980.png"
+    },
+    {
+      "name": "هارتس",
+      "flag": "https://imgs.ysscores.com/teams/128/7521690370544.png"
+    },
+    {
+      "name": "بورنموث",
+      "flag": "https://imgs.ysscores.com/teams/128/7651690118769.png"
+    },
+    {
+      "name": "ميلان",
+      "flag": "https://imgs.ysscores.com/teams/128/3181690283002.png"
+    },
+    {
+      "name": "بشكتاش",
+      "flag": "https://imgs.ysscores.com/teams/128/2171690128210.png"
+    },
+    {
+      "name": "هوفنهايم",
+      "flag": "https://imgs.ysscores.com/teams/128/5141690288816.png"
+    },
+    {
+      "name": "سيلتا فيجو",
+      "flag": "https://imgs.ysscores.com/teams/128/9611690196747.png"
+    },
+    {
+      "name": "موناكو",
+      "flag": "https://imgs.ysscores.com/teams/128/3861690287583.png"
+    },
+    {
+      "name": "فرايبورج",
+      "flag": "https://imgs.ysscores.com/teams/128/4771690288817.png"
+    },
+    {
+      "name": "اتلانتا",
+      "flag": "https://imgs.ysscores.com/teams/128/17795813126107.png"
+    },
+    {
+      "name": "الترجي الرياضي",
+      "flag": "https://imgs.ysscores.com/teams/128/9451695299186.png"
+    },
+    {
+      "name": "السويحلي",
+      "flag": "https://imgs.ysscores.com/teams/128/17656587578495.png"
+    },
+    {
+      "name": "الزمالك",
+      "flag": "https://imgs.ysscores.com/teams/128/7971694082496.png"
+    },
+    {
+      "name": "الجيش الرواندي",
+      "flag": "https://imgs.ysscores.com/teams/128/2361692283104.png"
+    },
+    {
+      "name": "بيراميدز",
+      "flag": "https://imgs.ysscores.com/teams/128/5771692283569.png"
+    },
+    {
+      "name": "المريخ بانتيو",
+      "flag": "https://imgs.ysscores.com/teams/128/8151720802305.png"
+    },
+    {
+      "name": "كيتارا",
+      "flag": "https://imgs.ysscores.com/teams/128/3601724361969.png"
+    },
+    {
+      "name": "لوهافر",
+      "flag": "https://imgs.ysscores.com/teams/128/6941691927287.png"
+    },
+    {
+      "name": "بايرن ميونخ",
+      "flag": "https://imgs.ysscores.com/teams/128/2351690288818.png"
+    },
+    {
+      "name": "ريزه سبور",
+      "flag": "https://imgs.ysscores.com/teams/128/5931690127362.png"
+    },
+    {
+      "name": "باشاك شهير",
+      "flag": "https://imgs.ysscores.com/teams/128/6801690127203.png"
+    },
+    {
+      "name": "العين",
+      "flag": "https://imgs.ysscores.com/teams/128/4661724620117.png"
+    },
+    {
+      "name": "تراكتور",
+      "flag": "https://imgs.ysscores.com/teams/128/5391722862680.png"
+    },
+    {
+      "name": "القوة الجوية",
+      "flag": "https://imgs.ysscores.com/teams/128/4301729966980.png"
+    },
+    {
+      "name": "السد",
+      "flag": "https://imgs.ysscores.com/teams/128/6901727693223.png"
+    },
+    {
+      "name": "شباب الأهلي",
+      "flag": "https://imgs.ysscores.com/teams/128/5261690300570.png"
+    },
+    {
+      "name": "الشمال",
+      "flag": "https://imgs.ysscores.com/teams/128/2961722879498.png"
+    },
+    {
+      "name": "الشرطة",
+      "flag": "https://imgs.ysscores.com/teams/128/8281729976264.png"
+    },
+    {
+      "name": "الحسين",
+      "flag": "https://imgs.ysscores.com/teams/128/7671753043995.png"
+    },
+    {
+      "name": "فيردر بريمن",
+      "flag": "https://imgs.ysscores.com/teams/128/9771690288817.png"
+    },
+    {
+      "name": "فليتوود تاون",
+      "flag": "https://imgs.ysscores.com/teams/128/3891690370559.png"
+    },
+    {
+      "name": "الكويت",
+      "flag": "https://imgs.ysscores.com/teams/128/7471694354180.png"
+    },
+    {
+      "name": "البنك الاهلي",
+      "flag": "https://imgs.ysscores.com/teams/128/7591694081941.png"
+    },
+    {
+      "name": "المصري",
+      "flag": "https://imgs.ysscores.com/teams/128/1521694644423.png"
+    },
+    {
+      "name": "النهضة",
+      "flag": "https://imgs.ysscores.com/teams/128/4141691930732.png"
+    },
+    {
+      "name": "الريان",
+      "flag": "https://imgs.ysscores.com/teams/128/8521718101575.png"
+    },
+    {
+      "name": "الجزيرة",
+      "flag": "https://imgs.ysscores.com/teams/128/4171716154082.png"
+    },
+    {
+      "name": "المحرق",
+      "flag": "https://imgs.ysscores.com/teams/128/6451692196949.png"
+    },
+    {
+      "name": "المقاولون العرب",
+      "flag": "https://imgs.ysscores.com/teams/128/2721694082551.png"
+    },
+    {
+      "name": "فينيسيا",
+      "flag": "https://imgs.ysscores.com/teams/128/771690370510.png"
+    },
+    {
+      "name": "الفيصلي",
+      "flag": "https://imgs.ysscores.com/teams/128/17889795135313.png"
+    },
+    {
+      "name": "التعاون",
+      "flag": "https://imgs.ysscores.com/teams/128/9971724321815.png"
+    },
+    {
+      "name": "مجدبرج",
+      "flag": "https://imgs.ysscores.com/teams/128/1671690370516.png"
+    },
+    {
+      "name": "جنوي",
+      "flag": "https://imgs.ysscores.com/teams/128/1891690283004.png"
+    },
+    {
+      "name": "مونزا",
+      "flag": "https://imgs.ysscores.com/teams/128/5671690283001.png"
+    },
+    {
+      "name": "تشيلسي",
+      "flag": "https://imgs.ysscores.com/teams/128/2571690118280.png"
+    },
+    {
+      "name": "مودرن سبورت",
+      "flag": "https://imgs.ysscores.com/teams/128/5391724147326.png"
+    },
+    {
+      "name": "وادي دجلة",
+      "flag": "https://imgs.ysscores.com/teams/128/2161728755640.png"
+    },
+    {
+      "name": "الخلود",
+      "flag": "https://imgs.ysscores.com/teams/128/17877785272858.png"
+    },
+    {
+      "name": "فيورنتينا",
+      "flag": "https://imgs.ysscores.com/teams/128/1231690283002.png"
+    },
+    {
+      "name": "ابها",
+      "flag": "https://imgs.ysscores.com/teams/128/9091690299913.png"
+    },
+    {
+      "name": "قونيا سبور",
+      "flag": "https://imgs.ysscores.com/teams/128/8771690127634.png"
+    },
+    {
+      "name": "الشباب",
+      "flag": "https://imgs.ysscores.com/teams/128/4261690298871.png"
+    },
+    {
+      "name": "ليفانتي",
+      "flag": "https://imgs.ysscores.com/teams/128/2601690370530.png"
+    },
+    {
+      "name": "برابتون",
+      "flag": "https://imgs.ysscores.com/teams/128/2271696710594.png"
+    },
+    {
+      "name": "أودينيزي",
+      "flag": "https://imgs.ysscores.com/teams/128/8741690284718.png"
+    },
+    {
+      "name": "توتنهام",
+      "flag": "https://imgs.ysscores.com/teams/128/2501692467226.png"
+    },
+    {
+      "name": "نوتينغهام فورست",
+      "flag": "https://imgs.ysscores.com/teams/128/7741690119007.png"
+    },
+    {
+      "name": "الافيس",
+      "flag": "https://imgs.ysscores.com/teams/128/2381690196746.png"
+    },
+    {
+      "name": "غازي عنتاب",
+      "flag": "https://imgs.ysscores.com/teams/128/3061690127435.png"
+    },
+    {
+      "name": "راسينج",
+      "flag": "https://imgs.ysscores.com/teams/128/3011761516113.png"
+    },
+    {
+      "name": "قاسم باشا",
+      "flag": "https://imgs.ysscores.com/teams/128/8131690127512.png"
+    },
+    {
+      "name": "أنجيه",
+      "flag": "https://imgs.ysscores.com/teams/128/1121690370513.png"
+    },
+    {
+      "name": "نادي باريس",
+      "flag": "https://imgs.ysscores.com/teams/128/6551690370501.png"
+    },
+    {
+      "name": "تولوز",
+      "flag": "https://imgs.ysscores.com/teams/128/5161690287967.png"
+    },
+    {
+      "name": "الأهلى",
+      "flag": "https://imgs.ysscores.com/teams/128/9591694714907.png"
+    }
+  ],
+  "autoPublish": {
+    "enabled": false,
+    "hoursBefore": 2
+  },
+  "alerts": {
+    "enabled": false,
+    "minutesBefore": 60,
+    "noChannels": true
+  }
+}
