@@ -4836,21 +4836,6 @@
   },
   {
     "league": "دوري أبطال أوروبا x",
-    "title": "فنربخشة × ليفربول",
-    "time": "2026-11-04T20:45:00",
-    "team1": {
-      "name": "فنربخشة",
-      "flag": "https://imgs.ysscores.com/teams/128/681690127723.png"
-    },
-    "team2": {
-      "name": "ليفربول",
-      "flag": "https://imgs.ysscores.com/teams/128/4081724601375.png"
-    },
-    "extra": false,
-    "channels": []
-  },
-  {
-    "league": "دوري أبطال أوروبا x",
     "title": "أيك أثينا × ريال مدريد",
     "time": "2026-11-04T20:45:00",
     "team1": {
