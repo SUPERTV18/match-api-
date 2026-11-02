@@ -4575,6 +4575,26 @@
     ]
   },
   {
+    "league": "كأس الرابطة المصرية",
+    "title": "سموحة ×",
+    "time": "2026-11-03T20:00:00",
+    "team1": {
+      "name": "سموحة",
+      "flag": "https://imgs.ysscores.com/teams/128/481694082088.png"
+    },
+    "team2": {
+      "name": "بيراميدز",
+      "flag": "https://imgs.ysscores.com/teams/128/5771692283569.png"
+    },
+    "extra": false,
+    "channels": [
+      {
+        "name": "ON Sport",
+        "url": "go:ONTime1"
+      }
+    ]
+  },
+  {
     "league": "دوري ابطال اسيا للنخبة",
     "title": "الهلال ×",
     "time": "2026-11-03T20:15:00",
