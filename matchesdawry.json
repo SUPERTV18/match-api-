@@ -4433,5 +4433,41 @@
         "url": "go:Bein4low"
       }
     ]
+  },
+  {
+    "league": "دوري ابطال اوروبا",
+    "title": "غلطة سراي ×",
+    "time": "2026-11-03T19:45:00",
+    "team1": {
+      "name": "غلطة سراي",
+      "flag": "https://imgs.ysscores.com/teams/128/2081756067376.png"
+    },
+    "team2": {
+      "name": "شتوتجارت",
+      "flag": "https://imgs.ysscores.com/teams/128/8731690288819.png"
+    },
+    "extra": false,
+    "channels": [
+      {
+        "name": "ALWAN 3",
+        "url": "go:ALWAN3"
+      },
+      {
+        "name": "FHD",
+        "url": "go:Bein3hd"
+      },
+      {
+        "name": "HD",
+        "url": "go:Bein3hd2"
+      },
+      {
+        "name": "SD",
+        "url": "go:Bein3sd"
+      },
+      {
+        "name": "LOW",
+        "url": "go:Bein3low"
+      }
+    ]
   }
 ]
