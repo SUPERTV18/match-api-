@@ -4095,6 +4095,46 @@
     ]
   },
   {
+    "league": "دوري ابطال اسيا للنخبة",
+    "title": "باختاكور ×",
+    "time": "2026-11-02T15:45:00",
+    "team1": {
+      "name": "باختاكور",
+      "flag": "https://imgs.ysscores.com/teams/128/8861693169409.png"
+    },
+    "team2": {
+      "name": "النصر",
+      "flag": "https://imgs.ysscores.com/teams/128/1371747772080.png"
+    },
+    "extra": false,
+    "channels": [
+      {
+        "name": "ALWAN 1",
+        "url": "go:ALWAN1"
+      },
+      {
+        "name": "الكأس 6",
+        "url": "go:alkass6"
+      },
+      {
+        "name": "FHD",
+        "url": "go:Bein2hd"
+      },
+      {
+        "name": "HD",
+        "url": "go:Bein2hd2"
+      },
+      {
+        "name": "SD",
+        "url": "go:Bein2sd"
+      },
+      {
+        "name": "LOW",
+        "url": "go:Bein2low"
+      }
+    ]
+  },
+  {
     "league": "كأس الرابطة المصرية",
     "title": "وادي دجلة ×",
     "time": "2026-11-02T17:00:00",
