@@ -4195,6 +4195,46 @@
     ]
   },
   {
+    "league": "دوري ابطال اسيا للنخبة",
+    "title": "الوصل ×",
+    "time": "2026-11-02T18:00:00",
+    "team1": {
+      "name": "الوصل",
+      "flag": "https://imgs.ysscores.com/teams/128/5291690300472.png"
+    },
+    "team2": {
+      "name": "القوة الجوية",
+      "flag": "https://imgs.ysscores.com/teams/128/4301729966980.png"
+    },
+    "extra": false,
+    "channels": [
+      {
+        "name": "ALWAN 2",
+        "url": "go:ALWAN2"
+      },
+      {
+        "name": "الكأس 6",
+        "url": "go:alkass6"
+      },
+      {
+        "name": "FHD",
+        "url": "go:Bein2hd"
+      },
+      {
+        "name": "HD",
+        "url": "go:Bein2hd2"
+      },
+      {
+        "name": "SD",
+        "url": "go:Bein2sd"
+      },
+      {
+        "name": "LOW",
+        "url": "go:Bein2low"
+      }
+    ]
+  },
+  {
     "league": "كأس الرابطة المصرية",
     "title": "الاهلي ×",
     "time": "2026-11-02T20:00:00",
