@@ -4235,6 +4235,34 @@
     ]
   },
   {
+    "league": "الدوري الايطالي",
+    "title": "ساسولو ×",
+    "time": "2026-11-02T19:30:00",
+    "team1": {
+      "name": "ساسولو",
+      "flag": "https://imgs.ysscores.com/teams/128/731690283001.png"
+    },
+    "team2": {
+      "name": "فيورنتينا",
+      "flag": "https://imgs.ysscores.com/teams/128/1231690283002.png"
+    },
+    "extra": false,
+    "channels": [
+      {
+        "name": "ALWAN 4",
+        "url": "go:ALWAN4"
+      },
+      {
+        "name": "MULTI",
+        "url": "go:Premfhd1"
+      },
+      {
+        "name": "HD",
+        "url": "go:Premhd1"
+      }
+    ]
+  },
+  {
     "league": "كأس الرابطة المصرية",
     "title": "الاهلي ×",
     "time": "2026-11-02T20:00:00",
