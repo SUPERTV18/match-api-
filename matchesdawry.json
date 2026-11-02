@@ -4399,6 +4399,46 @@
     ]
   },
   {
+    "league": "دوري ابطال اسيا للنخبة",
+    "title": "استقلال طهران ×",
+    "time": "2026-11-03T18:00:00",
+    "team1": {
+      "name": "استقلال طهران",
+      "flag": "https://imgs.ysscores.com/teams/128/4531723738539.png"
+    },
+    "team2": {
+      "name": "الشمال",
+      "flag": "https://imgs.ysscores.com/teams/128/2961722879498.png"
+    },
+    "extra": false,
+    "channels": [
+      {
+        "name": "ALWAN 2",
+        "url": "go:ALWAN2"
+      },
+      {
+        "name": "الكأس 5",
+        "url": "go:alkass5"
+      },
+      {
+        "name": "FHD",
+        "url": "go:Bein2hd"
+      },
+      {
+        "name": "HD",
+        "url": "go:Bein2hd2"
+      },
+      {
+        "name": "SD",
+        "url": "go:Bein2sd"
+      },
+      {
+        "name": "LOW",
+        "url": "go:Bein2low"
+      }
+    ]
+  },
+  {
     "league": "دوري ابطال اوروبا",
     "title": "شاختار ×",
     "time": "2026-11-03T19:45:00",
