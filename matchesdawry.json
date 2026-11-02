@@ -4253,5 +4253,45 @@
         "url": "go:ONTime1"
       }
     ]
+  },
+  {
+    "league": "دوري ابطال اسيا للنخبة",
+    "title": "الغرافة ×",
+    "time": "2026-11-02T20:15:00",
+    "team1": {
+      "name": "الغرافة",
+      "flag": "https://imgs.ysscores.com/teams/128/3761719156653.png"
+    },
+    "team2": {
+      "name": "القادسية",
+      "flag": "https://imgs.ysscores.com/teams/128/6611724280721.png"
+    },
+    "extra": false,
+    "channels": [
+      {
+        "name": "ALWAN 2",
+        "url": "go:ALWAN2"
+      },
+      {
+        "name": "الكأس 5",
+        "url": "go:alkass5"
+      },
+      {
+        "name": "FHD",
+        "url": "go:Bein1hd"
+      },
+      {
+        "name": "HD",
+        "url": "go:Bein1hd2"
+      },
+      {
+        "name": "SD",
+        "url": "go:Bein1sd"
+      },
+      {
+        "name": "LOW",
+        "url": "go:Bein1low"
+      }
+    ]
   }
 ]
