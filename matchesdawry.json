@@ -4609,5 +4609,25 @@
         "url": "go:Bein4low"
       }
     ]
+  },
+  {
+    "league": "دوري ابطال اوروبا",
+    "title": "فاينورد ×",
+    "time": "2026-11-03T22:00:00",
+    "team1": {
+      "name": "فاينورد",
+      "flag": "https://imgs.ysscores.com/teams/128/9951690455713.png"
+    },
+    "team2": {
+      "name": "انتر ميلان",
+      "flag": "https://imgs.ysscores.com/teams/128/3101690283003.png"
+    },
+    "extra": false,
+    "channels": [
+      {
+        "name": "ALWAN 5",
+        "url": "go:ALWAN5"
+      }
+    ]
   }
 ]
