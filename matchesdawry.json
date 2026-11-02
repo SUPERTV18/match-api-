@@ -4833,5 +4833,125 @@
         "url": "go:Bein3low"
       }
     ]
+  },
+  {
+    "league": "الدوري الأوروبي x",
+    "title": "رين × أولمبياكوس",
+    "time": "2026-11-04T18:30:00",
+    "team1": {
+      "name": "رين",
+      "flag": "https://imgs.ysscores.com/teams/128/5061690287944.png"
+    },
+    "team2": {
+      "name": "أولمبياكوس",
+      "flag": "https://imgs.ysscores.com/teams/128/1401690370533.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري أبطال أوروبا x",
+    "title": "فنربخشة × ليفربول",
+    "time": "2026-11-04T20:45:00",
+    "team1": {
+      "name": "فنربخشة",
+      "flag": "https://imgs.ysscores.com/teams/128/681690127723.png"
+    },
+    "team2": {
+      "name": "ليفربول",
+      "flag": "https://imgs.ysscores.com/teams/128/4081724601375.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري أبطال أوروبا x",
+    "title": "أيك أثينا × ريال مدريد",
+    "time": "2026-11-04T20:45:00",
+    "team1": {
+      "name": "أيك أثينا",
+      "flag": "https://imgs.ysscores.com/teams/128/6901694359099.png"
+    },
+    "team2": {
+      "name": "ريال مدريد",
+      "flag": "https://imgs.ysscores.com/teams/128/1871690196746.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري أبطال أوروبا x",
+    "title": "دورتموند × ريال بيتيس",
+    "time": "2026-11-04T23:00:00",
+    "team1": {
+      "name": "دورتموند",
+      "flag": "https://imgs.ysscores.com/teams/128/4201690288818.png"
+    },
+    "team2": {
+      "name": "ريال بيتيس",
+      "flag": "https://imgs.ysscores.com/teams/128/17645945054618.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري أبطال أوروبا x",
+    "title": "بورتو × نابولي",
+    "time": "2026-11-04T23:00:00",
+    "team1": {
+      "name": "بورتو",
+      "flag": "https://imgs.ysscores.com/teams/128/4801690385949.png"
+    },
+    "team2": {
+      "name": "نابولي",
+      "flag": "https://imgs.ysscores.com/teams/128/9521720636634.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري أبطال أوروبا x",
+    "title": "آيندهوفن × كلوب بروج",
+    "time": "2026-11-04T23:00:00",
+    "team1": {
+      "name": "آيندهوفن",
+      "flag": "https://imgs.ysscores.com/teams/128/3391690378187.png"
+    },
+    "team2": {
+      "name": "كلوب بروج",
+      "flag": "https://imgs.ysscores.com/teams/128/121690370520.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري أبطال أوروبا x",
+    "title": "لايبزيج × مان سيتي",
+    "time": "2026-11-04T23:00:00",
+    "team1": {
+      "name": "لايبزيج",
+      "flag": "https://imgs.ysscores.com/teams/128/8361734715237.png"
+    },
+    "team2": {
+      "name": "مان سيتي",
+      "flag": "https://imgs.ysscores.com/teams/128/4481690118308.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري أبطال أوروبا x",
+    "title": "سلافيا براغ × أرسنال",
+    "time": "2026-11-04T23:00:00",
+    "team1": {
+      "name": "سلافيا براغ",
+      "flag": "https://imgs.ysscores.com/teams/128/9621690370507.png"
+    },
+    "team2": {
+      "name": "أرسنال",
+      "flag": "https://imgs.ysscores.com/teams/128/1701690118820.png"
+    },
+    "extra": false,
+    "channels": []
   }
 ]
