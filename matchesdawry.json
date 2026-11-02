@@ -4851,21 +4851,6 @@
   },
   {
     "league": "دوري أبطال أوروبا x",
-    "title": "بورتو × نابولي",
-    "time": "2026-11-04T23:00:00",
-    "team1": {
-      "name": "بورتو",
-      "flag": "https://imgs.ysscores.com/teams/128/4801690385949.png"
-    },
-    "team2": {
-      "name": "نابولي",
-      "flag": "https://imgs.ysscores.com/teams/128/9521720636634.png"
-    },
-    "extra": false,
-    "channels": []
-  },
-  {
-    "league": "دوري أبطال أوروبا x",
     "title": "آيندهوفن × كلوب بروج",
     "time": "2026-11-04T23:00:00",
     "team1": {
