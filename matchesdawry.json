@@ -4629,5 +4629,45 @@
         "url": "go:ALWAN5"
       }
     ]
+  },
+  {
+    "league": "دوري ابطال اوروبا",
+    "title": "فياريال ×",
+    "time": "2026-11-03T22:00:00",
+    "team1": {
+      "name": "فياريال",
+      "flag": "https://imgs.ysscores.com/teams/128/7121690196747.png"
+    },
+    "team2": {
+      "name": "باريس سان جيرمان",
+      "flag": "https://imgs.ysscores.com/teams/128/4461690287785.png"
+    },
+    "extra": false,
+    "channels": [
+      {
+        "name": "SUPER TV 3",
+        "url": "go:supertv3"
+      },
+      {
+        "name": "ALWAN 4",
+        "url": "go:ALWAN4"
+      },
+      {
+        "name": "FHD",
+        "url": "go:Bein3hd"
+      },
+      {
+        "name": "HD",
+        "url": "go:Bein3hd2"
+      },
+      {
+        "name": "SD",
+        "url": "go:Bein3sd"
+      },
+      {
+        "name": "LOW",
+        "url": "go:Bein3low"
+      }
+    ]
   }
 ]
