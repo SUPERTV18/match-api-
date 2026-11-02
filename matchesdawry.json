@@ -4293,5 +4293,45 @@
         "url": "go:Bein1low"
       }
     ]
+  },
+  {
+    "league": "دوري ابطال اسيا للنخبة",
+    "title": "الاتحاد ×",
+    "time": "2026-11-02T20:15:00",
+    "team1": {
+      "name": "الاتحاد",
+      "flag": "https://imgs.ysscores.com/teams/128/2231690298782.png"
+    },
+    "team2": {
+      "name": "العين",
+      "flag": "https://imgs.ysscores.com/teams/128/4661724620117.png"
+    },
+    "extra": false,
+    "channels": [
+      {
+        "name": "ALWAN 1",
+        "url": "go:ALWAN1"
+      },
+      {
+        "name": "الكأس 6",
+        "url": "go:alkass6"
+      },
+      {
+        "name": "FHD",
+        "url": "go:Bein2hd"
+      },
+      {
+        "name": "HD",
+        "url": "go:Bein2hd2"
+      },
+      {
+        "name": "SD",
+        "url": "go:Bein2sd"
+      },
+      {
+        "name": "LOW",
+        "url": "go:Bein2low"
+      }
+    ]
   }
 ]
