@@ -4836,21 +4836,6 @@
   },
   {
     "league": "دوري أبطال أوروبا x",
-    "title": "أيك أثينا × ريال مدريد",
-    "time": "2026-11-04T20:45:00",
-    "team1": {
-      "name": "أيك أثينا",
-      "flag": "https://imgs.ysscores.com/teams/128/6901694359099.png"
-    },
-    "team2": {
-      "name": "ريال مدريد",
-      "flag": "https://imgs.ysscores.com/teams/128/1871690196746.png"
-    },
-    "extra": false,
-    "channels": []
-  },
-  {
-    "league": "دوري أبطال أوروبا x",
     "title": "دورتموند × ريال بيتيس",
     "time": "2026-11-04T23:00:00",
     "team1": {
