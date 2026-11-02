@@ -4155,6 +4155,46 @@
     ]
   },
   {
+    "league": "دوري ابطال اسيا للنخبة",
+    "title": "السد ×",
+    "time": "2026-11-02T18:00:00",
+    "team1": {
+      "name": "السد",
+      "flag": "https://imgs.ysscores.com/teams/128/6901727693223.png"
+    },
+    "team2": {
+      "name": "الاهلي",
+      "flag": "https://imgs.ysscores.com/teams/128/9091751485160.png"
+    },
+    "extra": false,
+    "channels": [
+      {
+        "name": "ALWAN 1",
+        "url": "go:ALWAN1"
+      },
+      {
+        "name": "الكأس 5",
+        "url": "go:alkass5"
+      },
+      {
+        "name": "FHD",
+        "url": "go:Bein1hd"
+      },
+      {
+        "name": "HD",
+        "url": "go:Bein1hd2"
+      },
+      {
+        "name": "SD",
+        "url": "go:Bein1sd"
+      },
+      {
+        "name": "LOW",
+        "url": "go:Bein1low"
+      }
+    ]
+  },
+  {
     "league": "كأس الرابطة المصرية",
     "title": "الاهلي ×",
     "time": "2026-11-02T20:00:00",
