@@ -4833,20 +4833,5 @@
         "url": "go:Bein3low"
       }
     ]
-  },
-  {
-    "league": "دوري أبطال أوروبا x",
-    "title": "سلافيا براغ × أرسنال",
-    "time": "2026-11-04T23:00:00",
-    "team1": {
-      "name": "سلافيا براغ",
-      "flag": "https://imgs.ysscores.com/teams/128/9621690370507.png"
-    },
-    "team2": {
-      "name": "أرسنال",
-      "flag": "https://imgs.ysscores.com/teams/128/1701690118820.png"
-    },
-    "extra": false,
-    "channels": []
   }
 ]
