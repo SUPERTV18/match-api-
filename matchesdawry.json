@@ -4511,6 +4511,46 @@
     ]
   },
   {
+    "league": "دوري ابطال اسيا للنخبة",
+    "title": "الهلال ×",
+    "time": "2026-11-03T20:15:00",
+    "team1": {
+      "name": "الهلال",
+      "flag": "https://imgs.ysscores.com/teams/128/8761690298716.png"
+    },
+    "team2": {
+      "name": "شباب الأهلي",
+      "flag": "https://imgs.ysscores.com/teams/128/5261690300570.png"
+    },
+    "extra": false,
+    "channels": [
+      {
+        "name": "ALWAN 6",
+        "url": "go:ALWAN6"
+      },
+      {
+        "name": "الكأس 5",
+        "url": "go:alkass5"
+      },
+      {
+        "name": "FHD",
+        "url": "go:Bein2hd"
+      },
+      {
+        "name": "HD",
+        "url": "go:Bein2hd2"
+      },
+      {
+        "name": "SD",
+        "url": "go:Bein2sd"
+      },
+      {
+        "name": "LOW",
+        "url": "go:Bein2low"
+      }
+    ]
+  },
+  {
     "league": "دوري ابطال اوروبا",
     "title": "برشلونة ×",
     "time": "2026-11-03T22:00:00",
