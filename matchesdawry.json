@@ -4439,6 +4439,46 @@
     ]
   },
   {
+    "league": "دوري ابطال اسيا 2",
+    "title": "الحسين ×",
+    "time": "2026-11-03T18:00:00",
+    "team1": {
+      "name": "الحسين",
+      "flag": "https://imgs.ysscores.com/teams/128/7671753043995.png"
+    },
+    "team2": {
+      "name": "الشرطة",
+      "flag": "https://imgs.ysscores.com/teams/128/8281729976264.png"
+    },
+    "extra": false,
+    "channels": [
+      {
+        "name": "ALWAN 1",
+        "url": "go:ALWAN1"
+      },
+      {
+        "name": "الكأس 6",
+        "url": "go:alkass6"
+      },
+      {
+        "name": "FHD",
+        "url": "go:Bein5hd"
+      },
+      {
+        "name": "HD",
+        "url": "go:Bein5hd2"
+      },
+      {
+        "name": "SD",
+        "url": "go:Bein5sd"
+      },
+      {
+        "name": "LOW",
+        "url": "go:Bein5low"
+      }
+    ]
+  },
+  {
     "league": "دوري ابطال اوروبا",
     "title": "شاختار ×",
     "time": "2026-11-03T19:45:00",
