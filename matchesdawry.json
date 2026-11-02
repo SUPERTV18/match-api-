@@ -4835,38 +4835,6 @@
     ]
   },
   {
-    "league": "الدوري الاوروبي x",
-    "title": "رين × أولمبياكوس",
-    "time": "2026-11-04T18:30:00",
-    "team1": {
-      "name": "رين",
-      "flag": "https://imgs.ysscores.com/teams/128/5061690287944.png"
-    },
-    "team2": {
-      "name": "أولمبياكوس",
-      "flag": "https://imgs.ysscores.com/teams/128/1401690370533.png"
-    },
-    "extra": false,
-    "channels": [
-      {
-        "name": "FHD",
-        "url": "go:Bein1hd"
-      },
-      {
-        "name": "HD",
-        "url": "go:Bein1hd2"
-      },
-      {
-        "name": "SD",
-        "url": "go:Bein1sd"
-      },
-      {
-        "name": "LOW",
-        "url": "go:Bein1low"
-      }
-    ]
-  },
-  {
     "league": "دوري أبطال أوروبا x",
     "title": "فنربخشة × ليفربول",
     "time": "2026-11-04T20:45:00",
