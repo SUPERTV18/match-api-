@@ -4333,5 +4333,41 @@
         "url": "go:Bein2low"
       }
     ]
+  },
+  {
+    "league": "الدوري الانجليزي",
+    "title": "نيوكاسل يونايتد ×",
+    "time": "2026-11-02T22:00:00",
+    "team1": {
+      "name": "نيوكاسل يونايتد",
+      "flag": "https://imgs.ysscores.com/teams/128/3721690119405.png"
+    },
+    "team2": {
+      "name": "ايفرتون",
+      "flag": "https://imgs.ysscores.com/teams/128/8461690118694.png"
+    },
+    "extra": false,
+    "channels": [
+      {
+        "name": "ALWAN 4",
+        "url": "go:ALWAN4"
+      },
+      {
+        "name": "FHD",
+        "url": "go:Bein2hd"
+      },
+      {
+        "name": "HD",
+        "url": "go:Bein2hd2"
+      },
+      {
+        "name": "SD",
+        "url": "go:Bein2sd"
+      },
+      {
+        "name": "LOW",
+        "url": "go:Bein2low"
+      }
+    ]
   }
 ]
