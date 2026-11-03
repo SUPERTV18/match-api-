@@ -4911,21 +4911,6 @@
   },
   {
     "league": "دوري ابطال اوروبا x",
-    "title": "برشلونة × أستون فيلا",
-    "time": "2026-11-03T22:00:00",
-    "team1": {
-      "name": "برشلونة",
-      "flag": "https://imgs.ysscores.com/teams/128/9541690196746.png"
-    },
-    "team2": {
-      "name": "أستون فيلا",
-      "flag": "https://imgs.ysscores.com/teams/128/9921723414870.png"
-    },
-    "extra": false,
-    "channels": []
-  },
-  {
-    "league": "دوري ابطال اوروبا x",
     "title": "أتلتيكو مدريد × بايرن ميونخ",
     "time": "2026-11-03T22:00:00",
     "team1": {
