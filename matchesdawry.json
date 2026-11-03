@@ -5088,6 +5088,10 @@
       {
         "name": "LOW",
         "url": "go:Bein1low"
+      },
+      {
+        "name": "ALWAN 3",
+        "url": "go:ALWAN3"
       }
     ]
   },
