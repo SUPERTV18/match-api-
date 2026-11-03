@@ -5183,21 +5183,6 @@
   },
   {
     "league": "دوري أبطال آسيا 2 x",
-    "title": "سفاي راينج × تامبينس",
-    "time": "2026-11-05T14:15:00",
-    "team1": {
-      "name": "سفاي راينج",
-      "flag": "https://imgs.ysscores.com/teams/128/7621730502440.png"
-    },
-    "team2": {
-      "name": "تامبينس",
-      "flag": "https://imgs.ysscores.com/teams/128/401723922990.png"
-    },
-    "extra": false,
-    "channels": []
-  },
-  {
-    "league": "دوري أبطال آسيا 2 x",
     "title": "كوتشينغ × غانغون",
     "time": "2026-11-05T14:15:00",
     "team1": {
