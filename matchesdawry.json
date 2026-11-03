@@ -4957,6 +4957,51 @@
     ]
   },
   {
+    "league": "دوري ابطال اسيا 2 x",
+    "title": "الكويت × ناساف",
+    "time": "2026-11-04T18:00:00",
+    "team1": {
+      "name": "الكويت",
+      "flag": "https://imgs.ysscores.com/teams/128/7471694354180.png"
+    },
+    "team2": {
+      "name": "ناساف",
+      "flag": "https://imgs.ysscores.com/teams/128/6681707924337.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري ابطال اسيا 2 x",
+    "title": "الوحدة × الخالدية",
+    "time": "2026-11-04T18:00:00",
+    "team1": {
+      "name": "الوحدة",
+      "flag": "https://imgs.ysscores.com/teams/128/8811690300661.png"
+    },
+    "team2": {
+      "name": "الخالدية",
+      "flag": "https://imgs.ysscores.com/teams/128/111729346393.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري ابطال اسيا 2 x",
+    "title": "الريان × النهضة",
+    "time": "2026-11-04T18:00:00",
+    "team1": {
+      "name": "الريان",
+      "flag": "https://imgs.ysscores.com/teams/128/8521718101575.png"
+    },
+    "team2": {
+      "name": "النهضة",
+      "flag": "https://imgs.ysscores.com/teams/128/4141691930732.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
     "league": "دوري ابطال اوروبا x",
     "title": "فنربخشة × ليفربول",
     "time": "2026-11-04T19:45:00",
@@ -4997,6 +5042,36 @@
     "team2": {
       "name": "السويس بتروجيت",
       "flag": "https://imgs.ysscores.com/teams/128/17873555652953.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري ابطال اسيا 2 x",
+    "title": "التعاون × الفيصلي",
+    "time": "2026-11-04T20:15:00",
+    "team1": {
+      "name": "التعاون",
+      "flag": "https://imgs.ysscores.com/teams/128/9971724321815.png"
+    },
+    "team2": {
+      "name": "الفيصلي",
+      "flag": "https://imgs.ysscores.com/teams/128/17889795135313.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري ابطال اسيا 2 x",
+    "title": "المحرق × الجزيرة",
+    "time": "2026-11-04T20:15:00",
+    "team1": {
+      "name": "المحرق",
+      "flag": "https://imgs.ysscores.com/teams/128/6451692196949.png"
+    },
+    "team2": {
+      "name": "الجزيرة",
+      "flag": "https://imgs.ysscores.com/teams/128/4171716154082.png"
     },
     "extra": false,
     "channels": []
@@ -5087,6 +5162,21 @@
     "team2": {
       "name": "صباح",
       "flag": "https://imgs.ysscores.com/teams/128/17888728154718.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري ابطال اوروبا x",
+    "title": "دورتموند × ريال بيتيس",
+    "time": "2026-11-04T22:00:00",
+    "team1": {
+      "name": "دورتموند",
+      "flag": "https://imgs.ysscores.com/teams/128/4201690288818.png"
+    },
+    "team2": {
+      "name": "ريال بيتيس",
+      "flag": "https://imgs.ysscores.com/teams/128/17645945054618.png"
     },
     "extra": false,
     "channels": []
