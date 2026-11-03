@@ -4863,19 +4863,19 @@
       },
       {
         "name": "FHD",
-        "url": "go:Bein3hd"
+        "url": "go:Bein1hd"
       },
       {
         "name": "HD",
-        "url": "go:Bein3hd2"
+        "url": "go:Bein1hd2"
       },
       {
         "name": "SD",
-        "url": "go:Bein3sd"
+        "url": "go:Bein1sd"
       },
       {
         "name": "LOW",
-        "url": "go:Bein3low"
+        "url": "go:Bein1low"
       }
     ]
   },
