@@ -4910,21 +4910,6 @@
     "channels": []
   },
   {
-    "league": "دوري أبطال آسيا 2 x",
-    "title": "سيول × فيتيل",
-    "time": "2026-11-04T12:00:00",
-    "team1": {
-      "name": "سيول",
-      "flag": "https://imgs.ysscores.com/teams/128/8881751235958.png"
-    },
-    "team2": {
-      "name": "فيتيل",
-      "flag": "https://imgs.ysscores.com/teams/128/17871748833612.png"
-    },
-    "extra": false,
-    "channels": []
-  },
-  {
     "league": "كأس عاصمة مصر x",
     "title": "نادي زد × طلائع الجيش",
     "time": "2026-11-04T17:00:00",
