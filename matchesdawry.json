@@ -5002,21 +5002,6 @@
     "channels": []
   },
   {
-    "league": "دوري أبطال آسيا 2 x",
-    "title": "المحرق × الجزيرة",
-    "time": "2026-11-04T20:15:00",
-    "team1": {
-      "name": "المحرق",
-      "flag": "https://imgs.ysscores.com/teams/128/6451692196949.png"
-    },
-    "team2": {
-      "name": "الجزيرة",
-      "flag": "https://imgs.ysscores.com/teams/128/4171716154082.png"
-    },
-    "extra": false,
-    "channels": []
-  },
-  {
     "league": "دوري ابطال اوروبا x",
     "title": "بورتو × نابولي",
     "time": "2026-11-04T22:00:00",
