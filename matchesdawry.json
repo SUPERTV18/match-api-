@@ -4854,8 +4854,8 @@
     "extra": false,
     "channels": [
       {
-        "name": "SUPER TV 4",
-        "url": "go:supertv4"
+        "name": "SUPER TV 1",
+        "url": "go:supertv1"
       },
       {
         "name": "ALWAN 4",
