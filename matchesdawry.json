@@ -4896,21 +4896,6 @@
   },
   {
     "league": "دوري ابطال اوروبا x",
-    "title": "بودو/غليمت × ليل",
-    "time": "2026-11-03T22:00:00",
-    "team1": {
-      "name": "بودو/غليمت",
-      "flag": "https://imgs.ysscores.com/teams/128/8781690370522.png"
-    },
-    "team2": {
-      "name": "ليل",
-      "flag": "https://imgs.ysscores.com/teams/128/381690287334.png"
-    },
-    "extra": false,
-    "channels": []
-  },
-  {
-    "league": "دوري ابطال اوروبا x",
     "title": "لاسك × براتيسلافا",
     "time": "2026-11-03T22:00:00",
     "team1": {
