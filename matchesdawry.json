@@ -5447,7 +5447,28 @@
       "flag": "https://imgs.ysscores.com/teams/128/17645945054618.png"
     },
     "extra": false,
-    "channels": []
+    "channels": [
+      {
+        "name": "ALWAN 4",
+        "url": "go:ALWAN4"
+      },
+      {
+        "name": "FHD",
+        "url": "go:Bein5hd"
+      },
+      {
+        "name": "HD",
+        "url": "go:Bein5hd2"
+      },
+      {
+        "name": "SD",
+        "url": "go:Bein5sd"
+      },
+      {
+        "name": "LOW",
+        "url": "go:Bein5low"
+      }
+    ]
   },
   {
     "league": "دوري ابطال اسيا 2 x",
