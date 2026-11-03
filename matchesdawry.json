@@ -4957,21 +4957,6 @@
     ]
   },
   {
-    "league": "دوري أبطال آسيا 2",
-    "title": "الريان × النهضة",
-    "time": "2026-11-04T18:00:00",
-    "team1": {
-      "name": "الريان",
-      "flag": "https://imgs.ysscores.com/teams/128/8521718101575.png"
-    },
-    "team2": {
-      "name": "النهضة",
-      "flag": "https://imgs.ysscores.com/teams/128/4141691930732.png"
-    },
-    "extra": false,
-    "channels": []
-  },
-  {
     "league": "دوري ابطال اوروبا x",
     "title": "فنربخشة × ليفربول",
     "time": "2026-11-04T19:45:00",
