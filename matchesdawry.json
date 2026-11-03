@@ -4911,21 +4911,6 @@
   },
   {
     "league": "دوري ابطال اوروبا x",
-    "title": "فياريال × باريس",
-    "time": "2026-11-03T22:00:00",
-    "team1": {
-      "name": "فياريال",
-      "flag": "https://imgs.ysscores.com/teams/128/7121690196747.png"
-    },
-    "team2": {
-      "name": "باريس",
-      "flag": "https://imgs.ysscores.com/teams/128/4461690287785.png"
-    },
-    "extra": false,
-    "channels": []
-  },
-  {
-    "league": "دوري ابطال اوروبا x",
     "title": "لاسك × براتيسلافا",
     "time": "2026-11-03T22:00:00",
     "team1": {
