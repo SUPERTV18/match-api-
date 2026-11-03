@@ -4911,21 +4911,6 @@
   },
   {
     "league": "دوري ابطال اوروبا x",
-    "title": "أتلتيكو مدريد × بايرن ميونخ",
-    "time": "2026-11-03T22:00:00",
-    "team1": {
-      "name": "أتلتيكو مدريد",
-      "flag": "https://imgs.ysscores.com/teams/128/1431719588699.png"
-    },
-    "team2": {
-      "name": "بايرن ميونخ",
-      "flag": "https://imgs.ysscores.com/teams/128/2351690288818.png"
-    },
-    "extra": false,
-    "channels": []
-  },
-  {
-    "league": "دوري ابطال اوروبا x",
     "title": "مان يونايتد × روما",
     "time": "2026-11-03T22:00:00",
     "team1": {
