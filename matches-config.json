@@ -866,6 +866,17 @@
     "الدوري الأوروبي": "الدوري الاوروبي",
     "دوري أبطال أوروبا": "دوري ابطال اوروبا"
   },
+  "autoImport": {
+    "enabled": true,
+    "daysAhead": 3,
+    "leagues": [
+      "دوري أبطال أوروبا",
+      "كأس عاصمة مصر",
+      "دوري أبطال آسيا 2"
+    ],
+    "hidden": true,
+    "templateId": ""
+  },
   "autoPublish": {
     "enabled": false,
     "hoursBefore": 2
