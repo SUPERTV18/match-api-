@@ -5183,21 +5183,6 @@
   },
   {
     "league": "دوري أبطال آسيا 2 x",
-    "title": "باثوم يونايتد × تاي بو",
-    "time": "2026-11-05T14:15:00",
-    "team1": {
-      "name": "باثوم يونايتد",
-      "flag": "https://imgs.ysscores.com/teams/128/7271692706800.png"
-    },
-    "team2": {
-      "name": "تاي بو",
-      "flag": "https://imgs.ysscores.com/teams/128/3541755287068.png"
-    },
-    "extra": false,
-    "channels": []
-  },
-  {
-    "league": "دوري أبطال آسيا 2 x",
     "title": "سفاي راينج × تامبينس",
     "time": "2026-11-05T14:15:00",
     "team1": {
