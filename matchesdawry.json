@@ -4790,6 +4790,10 @@
     "extra": false,
     "channels": [
       {
+        "name": "SUPER TV 1",
+        "url": "go:supertv2"
+      },
+      {
         "name": "TOD",
         "url": "go:TOD12"
       },
@@ -4816,10 +4820,6 @@
       {
         "name": "LOW",
         "url": "go:Bein4low"
-      },
-      {
-        "name": "SUPER TV 1",
-        "url": "go:supertv2"
       }
     ]
   },
