@@ -4706,24 +4706,20 @@
         "url": "go:ALWAN1"
       },
       {
-        "name": "الفجر",
-        "url": "go:Alfajr1"
-      },
-      {
         "name": "FHD",
-        "url": "go:Bein1hd"
+        "url": "go:Bein3hd"
       },
       {
         "name": "HD",
-        "url": "go:Bein1hd2"
+        "url": "go:Bein3hd2"
       },
       {
         "name": "SD",
-        "url": "go:Bein1sd"
+        "url": "go:Bein3sd"
       },
       {
         "name": "LOW",
-        "url": "go:Bein1low"
+        "url": "go:Bein3low"
       }
     ]
   },
