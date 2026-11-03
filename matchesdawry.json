@@ -4896,21 +4896,6 @@
   },
   {
     "league": "دوري ابطال اوروبا x",
-    "title": "مان يونايتد × روما",
-    "time": "2026-11-03T22:00:00",
-    "team1": {
-      "name": "مان يونايتد",
-      "flag": "https://imgs.ysscores.com/teams/128/4871690119302.png"
-    },
-    "team2": {
-      "name": "روما",
-      "flag": "https://imgs.ysscores.com/teams/128/17722024059541.png"
-    },
-    "extra": false,
-    "channels": []
-  },
-  {
-    "league": "دوري ابطال اوروبا x",
     "title": "فاينورد × إنتر ميلان",
     "time": "2026-11-03T22:00:00",
     "team1": {
