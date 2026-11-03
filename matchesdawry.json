@@ -4941,21 +4941,6 @@
   },
   {
     "league": "دوري ابطال اوروبا x",
-    "title": "فاينورد × إنتر ميلان",
-    "time": "2026-11-03T22:00:00",
-    "team1": {
-      "name": "فاينورد",
-      "flag": "https://imgs.ysscores.com/teams/128/9951690455713.png"
-    },
-    "team2": {
-      "name": "إنتر ميلان",
-      "flag": "https://imgs.ysscores.com/teams/128/3101690283003.png"
-    },
-    "extra": false,
-    "channels": []
-  },
-  {
-    "league": "دوري ابطال اوروبا x",
     "title": "فياريال × باريس",
     "time": "2026-11-03T22:00:00",
     "team1": {
