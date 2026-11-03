@@ -5233,7 +5233,12 @@
       "flag": "https://imgs.ysscores.com/teams/128/17873555652953.png"
     },
     "extra": false,
-    "channels": []
+    "channels": [
+      {
+        "name": "ON Sport",
+        "url": "go:ONTime1"
+      }
+    ]
   },
   {
     "league": "دوري ابطال اسيا 2",
