@@ -4694,8 +4694,8 @@
     "extra": false,
     "channels": [
       {
-        "name": "SUPER TV 1",
-        "url": "go:supertv1"
+        "name": "SUPER TV 3",
+        "url": "go:supertv3"
       },
       {
         "name": "TOD",
