@@ -4911,21 +4911,6 @@
   },
   {
     "league": "دوري أبطال آسيا 2 x",
-    "title": "ملبورن فيكتوري × بيرسيب باندونغ",
-    "time": "2026-11-04T09:45:00",
-    "team1": {
-      "name": "ملبورن فيكتوري",
-      "flag": "https://imgs.ysscores.com/teams/128/291739527561.png"
-    },
-    "team2": {
-      "name": "بيرسيب باندونغ",
-      "flag": "https://imgs.ysscores.com/teams/128/181723922917.png"
-    },
-    "extra": false,
-    "channels": []
-  },
-  {
-    "league": "دوري أبطال آسيا 2 x",
     "title": "سيول × فيتيل",
     "time": "2026-11-04T12:00:00",
     "team1": {
