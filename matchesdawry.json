@@ -5180,20 +5180,5 @@
     },
     "extra": false,
     "channels": []
-  },
-  {
-    "league": "دوري أبطال آسيا 2 x",
-    "title": "كوتشينغ × غانغون",
-    "time": "2026-11-05T14:15:00",
-    "team1": {
-      "name": "كوتشينغ",
-      "flag": "https://imgs.ysscores.com/teams/128/17871746085188.png"
-    },
-    "team2": {
-      "name": "غانغون",
-      "flag": "https://imgs.ysscores.com/teams/128/6441757947791.png"
-    },
-    "extra": false,
-    "channels": []
   }
 ]
