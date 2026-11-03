@@ -4605,6 +4605,21 @@
     ]
   },
   {
+    "league": "دوري ابطال اوروبا x",
+    "title": "شاختار دونيتسك × سبورتينغ لشبونة",
+    "time": "2026-11-03T19:45:00",
+    "team1": {
+      "name": "شاختار دونيتسك",
+      "flag": "https://imgs.ysscores.com/teams/128/6191751838320.png"
+    },
+    "team2": {
+      "name": "سبورتينغ لشبونة",
+      "flag": "https://imgs.ysscores.com/teams/128/17829367926898.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
     "league": "كأس الرابطة المصرية",
     "title": "سموحة ×",
     "time": "2026-11-03T20:00:00",
@@ -4910,6 +4925,126 @@
     "channels": []
   },
   {
+    "league": "دوري ابطال اوروبا x",
+    "title": "برشلونة × أستون فيلا",
+    "time": "2026-11-03T22:00:00",
+    "team1": {
+      "name": "برشلونة",
+      "flag": "https://imgs.ysscores.com/teams/128/9541690196746.png"
+    },
+    "team2": {
+      "name": "أستون فيلا",
+      "flag": "https://imgs.ysscores.com/teams/128/9921723414870.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري ابطال اوروبا x",
+    "title": "أتلتيكو مدريد × بايرن ميونخ",
+    "time": "2026-11-03T22:00:00",
+    "team1": {
+      "name": "أتلتيكو مدريد",
+      "flag": "https://imgs.ysscores.com/teams/128/1431719588699.png"
+    },
+    "team2": {
+      "name": "بايرن ميونخ",
+      "flag": "https://imgs.ysscores.com/teams/128/2351690288818.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري ابطال اوروبا x",
+    "title": "مان يونايتد × روما",
+    "time": "2026-11-03T22:00:00",
+    "team1": {
+      "name": "مان يونايتد",
+      "flag": "https://imgs.ysscores.com/teams/128/4871690119302.png"
+    },
+    "team2": {
+      "name": "روما",
+      "flag": "https://imgs.ysscores.com/teams/128/17722024059541.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري ابطال اوروبا x",
+    "title": "فاينورد × إنتر ميلان",
+    "time": "2026-11-03T22:00:00",
+    "team1": {
+      "name": "فاينورد",
+      "flag": "https://imgs.ysscores.com/teams/128/9951690455713.png"
+    },
+    "team2": {
+      "name": "إنتر ميلان",
+      "flag": "https://imgs.ysscores.com/teams/128/3101690283003.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري ابطال اوروبا x",
+    "title": "فياريال × باريس",
+    "time": "2026-11-03T22:00:00",
+    "team1": {
+      "name": "فياريال",
+      "flag": "https://imgs.ysscores.com/teams/128/7121690196747.png"
+    },
+    "team2": {
+      "name": "باريس",
+      "flag": "https://imgs.ysscores.com/teams/128/4461690287785.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري ابطال اسيا 2 x",
+    "title": "ملبورن فيكتوري × بيرسيب باندونغ",
+    "time": "2026-11-04T09:45:00",
+    "team1": {
+      "name": "ملبورن فيكتوري",
+      "flag": "https://imgs.ysscores.com/teams/128/291739527561.png"
+    },
+    "team2": {
+      "name": "بيرسيب باندونغ",
+      "flag": "https://imgs.ysscores.com/teams/128/181723922917.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري ابطال اسيا 2 x",
+    "title": "سيول × فيتيل",
+    "time": "2026-11-04T12:00:00",
+    "team1": {
+      "name": "سيول",
+      "flag": "https://imgs.ysscores.com/teams/128/8881751235958.png"
+    },
+    "team2": {
+      "name": "فيتيل",
+      "flag": "https://imgs.ysscores.com/teams/128/17871748833612.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري ابطال اسيا 2 x",
+    "title": "أركاداغ × كل كوهار رجان",
+    "time": "2026-11-04T15:45:00",
+    "team1": {
+      "name": "أركاداغ",
+      "flag": "https://imgs.ysscores.com/teams/128/6171755465897.png"
+    },
+    "team2": {
+      "name": "كل كوهار رجان",
+      "flag": "https://imgs.ysscores.com/teams/128/1991723737999.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
     "league": "كأس الرابطة المصرية x",
     "title": "نادي زد × طلائع الجيش",
     "time": "2026-11-04T17:00:00",
@@ -5177,6 +5312,96 @@
     "team2": {
       "name": "ريال بيتيس",
       "flag": "https://imgs.ysscores.com/teams/128/17645945054618.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري ابطال اسيا 2 x",
+    "title": "ليون سيتي × أديلايد",
+    "time": "2026-11-05T12:00:00",
+    "team1": {
+      "name": "ليون سيتي",
+      "flag": "https://imgs.ysscores.com/teams/128/8571690370561.png"
+    },
+    "team2": {
+      "name": "أديلايد",
+      "flag": "https://imgs.ysscores.com/teams/128/17858823043985.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري ابطال اسيا 2 x",
+    "title": "ماتشيدا زيلفيا × شانغهاي",
+    "time": "2026-11-05T12:00:00",
+    "team1": {
+      "name": "ماتشيدا زيلفيا",
+      "flag": "https://imgs.ysscores.com/teams/128/8161755286167.png"
+    },
+    "team2": {
+      "name": "شانغهاي",
+      "flag": "https://imgs.ysscores.com/teams/128/1941690370505.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري ابطال اسيا 2 x",
+    "title": "كيتشي × بنوم بنه",
+    "time": "2026-11-05T12:00:00",
+    "team1": {
+      "name": "كيتشي",
+      "flag": "https://imgs.ysscores.com/teams/128/9111693170581.png"
+    },
+    "team2": {
+      "name": "بنوم بنه",
+      "flag": "https://imgs.ysscores.com/teams/128/8951694355244.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري ابطال اسيا 2 x",
+    "title": "باثوم يونايتد × تاي بو",
+    "time": "2026-11-05T14:15:00",
+    "team1": {
+      "name": "باثوم يونايتد",
+      "flag": "https://imgs.ysscores.com/teams/128/7271692706800.png"
+    },
+    "team2": {
+      "name": "تاي بو",
+      "flag": "https://imgs.ysscores.com/teams/128/3541755287068.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري ابطال اسيا 2 x",
+    "title": "سفاي راينج × تامبينس",
+    "time": "2026-11-05T14:15:00",
+    "team1": {
+      "name": "سفاي راينج",
+      "flag": "https://imgs.ysscores.com/teams/128/7621730502440.png"
+    },
+    "team2": {
+      "name": "تامبينس",
+      "flag": "https://imgs.ysscores.com/teams/128/401723922990.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري ابطال اسيا 2 x",
+    "title": "كوتشينغ × غانغون",
+    "time": "2026-11-05T14:15:00",
+    "team1": {
+      "name": "كوتشينغ",
+      "flag": "https://imgs.ysscores.com/teams/128/17871746085188.png"
+    },
+    "team2": {
+      "name": "غانغون",
+      "flag": "https://imgs.ysscores.com/teams/128/6441757947791.png"
     },
     "extra": false,
     "channels": []
