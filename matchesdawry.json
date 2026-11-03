@@ -4605,6 +4605,21 @@
     ]
   },
   {
+    "league": "دوري ابطال اوروبا x",
+    "title": "شاختار دونيتسك × سبورتينغ لشبونة",
+    "time": "2026-11-03T19:45:00",
+    "team1": {
+      "name": "شاختار دونيتسك",
+      "flag": "https://imgs.ysscores.com/teams/128/6191751838320.png"
+    },
+    "team2": {
+      "name": "سبورتينغ لشبونة",
+      "flag": "https://imgs.ysscores.com/teams/128/17829367926898.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
     "league": "كأس الرابطة المصرية",
     "title": "سموحة ×",
     "time": "2026-11-03T20:00:00",
@@ -4909,6 +4924,81 @@
     "team2": {
       "name": "ليل",
       "flag": "https://imgs.ysscores.com/teams/128/381690287334.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري ابطال اوروبا x",
+    "title": "برشلونة × أستون فيلا",
+    "time": "2026-11-03T22:00:00",
+    "team1": {
+      "name": "برشلونة",
+      "flag": "https://imgs.ysscores.com/teams/128/9541690196746.png"
+    },
+    "team2": {
+      "name": "أستون فيلا",
+      "flag": "https://imgs.ysscores.com/teams/128/9921723414870.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري ابطال اوروبا x",
+    "title": "أتلتيكو مدريد × بايرن ميونخ",
+    "time": "2026-11-03T22:00:00",
+    "team1": {
+      "name": "أتلتيكو مدريد",
+      "flag": "https://imgs.ysscores.com/teams/128/1431719588699.png"
+    },
+    "team2": {
+      "name": "بايرن ميونخ",
+      "flag": "https://imgs.ysscores.com/teams/128/2351690288818.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري ابطال اوروبا x",
+    "title": "مان يونايتد × روما",
+    "time": "2026-11-03T22:00:00",
+    "team1": {
+      "name": "مان يونايتد",
+      "flag": "https://imgs.ysscores.com/teams/128/4871690119302.png"
+    },
+    "team2": {
+      "name": "روما",
+      "flag": "https://imgs.ysscores.com/teams/128/17722024059541.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري ابطال اوروبا x",
+    "title": "فاينورد × إنتر ميلان",
+    "time": "2026-11-03T22:00:00",
+    "team1": {
+      "name": "فاينورد",
+      "flag": "https://imgs.ysscores.com/teams/128/9951690455713.png"
+    },
+    "team2": {
+      "name": "إنتر ميلان",
+      "flag": "https://imgs.ysscores.com/teams/128/3101690283003.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري ابطال اوروبا x",
+    "title": "فياريال × باريس",
+    "time": "2026-11-03T22:00:00",
+    "team1": {
+      "name": "فياريال",
+      "flag": "https://imgs.ysscores.com/teams/128/7121690196747.png"
+    },
+    "team2": {
+      "name": "باريس",
+      "flag": "https://imgs.ysscores.com/teams/128/4461690287785.png"
     },
     "extra": false,
     "channels": []
