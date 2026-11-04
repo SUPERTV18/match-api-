@@ -6824,5 +6824,35 @@
     },
     "extra": false,
     "channels": []
+  },
+  {
+    "league": "كأس مصر x",
+    "title": "وادي دجلة × كهرباء الإسماعيلية",
+    "time": "2026-11-09T14:30:00",
+    "team1": {
+      "name": "وادي دجلة",
+      "flag": "https://imgs.ysscores.com/teams/128/2161728755640.png"
+    },
+    "team2": {
+      "name": "كهرباء الإسماعيلية",
+      "flag": "https://imgs.ysscores.com/teams/128/2391753649516.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس مصر x",
+    "title": "نادي زد × سمانود",
+    "time": "2026-11-09T17:00:00",
+    "team1": {
+      "name": "نادي زد",
+      "flag": "https://imgs.ysscores.com/teams/128/8411694619351.png"
+    },
+    "team2": {
+      "name": "سمانود",
+      "flag": "https://imgs.ysscores.com/teams/128/4871747007070.png"
+    },
+    "extra": false,
+    "channels": []
   }
 ]
