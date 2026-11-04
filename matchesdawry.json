@@ -5592,6 +5592,21 @@
     ]
   },
   {
+    "league": "دوري ابطال اوروبا x",
+    "title": "فيكينغ × صباح",
+    "time": "2026-11-04T22:00:00",
+    "team1": {
+      "name": "فيكينغ",
+      "flag": "https://imgs.ysscores.com/teams/128/2981690370526.png"
+    },
+    "team2": {
+      "name": "صباح",
+      "flag": "https://imgs.ysscores.com/teams/128/17888728154718.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
     "league": "دوري ابطال اسيا 2 x",
     "title": "ليون سيتي × أديلايد",
     "time": "2026-11-05T12:00:00",
