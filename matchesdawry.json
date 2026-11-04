@@ -5060,6 +5060,21 @@
     "channels": []
   },
   {
+    "league": "كأس مصر x",
+    "title": "غزل المحلة × الإتحاد",
+    "time": "2026-11-04T17:00:00",
+    "team1": {
+      "name": "غزل المحلة",
+      "flag": "https://imgs.ysscores.com/teams/128/9801725831886.png"
+    },
+    "team2": {
+      "name": "الإتحاد",
+      "flag": "https://imgs.ysscores.com/teams/128/3771694082184.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
     "league": "الدوري الاوروبي",
     "title": "رين × أولمبياكوس",
     "time": "2026-11-04T17:30:00",
