@@ -5294,19 +5294,19 @@
       },
       {
         "name": "FHD",
-        "url": "go:Bein3hd"
+        "url": "go:Bein2hd"
       },
       {
         "name": "HD",
-        "url": "go:Bein3hd2"
+        "url": "go:Bein2hd2"
       },
       {
         "name": "SD",
-        "url": "go:Bein3sd"
+        "url": "go:Bein2sd"
       },
       {
         "name": "LOW",
-        "url": "go:Bein3low"
+        "url": "go:Bein2low"
       }
     ]
   },
