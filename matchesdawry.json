@@ -6854,5 +6854,20 @@
     },
     "extra": false,
     "channels": []
+  },
+  {
+    "league": "كأس مصر x",
+    "title": "المقاولون العرب × وي",
+    "time": "2026-11-10T17:00:00",
+    "team1": {
+      "name": "المقاولون العرب",
+      "flag": "https://imgs.ysscores.com/teams/128/2721694082551.png"
+    },
+    "team2": {
+      "name": "وي",
+      "flag": "https://imgs.ysscores.com/teams/128/9521696285165.png"
+    },
+    "extra": false,
+    "channels": []
   }
 ]
