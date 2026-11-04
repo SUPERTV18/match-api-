@@ -6248,6 +6248,11 @@
       "flag": "https://imgs.ysscores.com/teams/128/3651690370510.png"
     },
     "extra": false,
-    "channels": []
+    "channels": [
+      {
+        "name": "ALWAN 5",
+        "url": "go:ALWAN5"
+      }
+    ]
   }
 ]
