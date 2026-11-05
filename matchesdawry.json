@@ -6338,7 +6338,12 @@
       "flag": "https://imgs.ysscores.com/teams/128/17934689914103.png"
     },
     "extra": false,
-    "channels": []
+    "channels": [
+      {
+        "name": "ON Sport",
+        "url": "go:ONTime1"
+      }
+    ]
   },
   {
     "league": "الدوري الإنجليزي x",
