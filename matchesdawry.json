@@ -6277,6 +6277,21 @@
   },
   {
     "league": "دوري روشن السعودي x",
+    "title": "الفتح × الرياض",
+    "time": "2026-11-06T16:30:00",
+    "team1": {
+      "name": "الفتح",
+      "flag": "https://imgs.ysscores.com/teams/128/17835195657588.png"
+    },
+    "team2": {
+      "name": "الرياض",
+      "flag": "https://imgs.ysscores.com/teams/128/7341730889148.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري روشن السعودي x",
     "title": "الحزم × النصر",
     "time": "2026-11-06T16:55:00",
     "team1": {
@@ -6344,6 +6359,51 @@
         "url": "go:ONTime1"
       }
     ]
+  },
+  {
+    "league": "الدوري الإيطالي x",
+    "title": "فينيسا × أودينيزي",
+    "time": "2026-11-06T21:45:00",
+    "team1": {
+      "name": "فينيسا",
+      "flag": "https://imgs.ysscores.com/teams/128/771690370510.png"
+    },
+    "team2": {
+      "name": "أودينيزي",
+      "flag": "https://imgs.ysscores.com/teams/128/8741690284718.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "الدوري الإسباني x",
+    "title": "إشبيلية × ألافيس",
+    "time": "2026-11-06T22:00:00",
+    "team1": {
+      "name": "إشبيلية",
+      "flag": "https://imgs.ysscores.com/teams/128/6931690196743.png"
+    },
+    "team2": {
+      "name": "ألافيس",
+      "flag": "https://imgs.ysscores.com/teams/128/2381690196746.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "الدوري الإنجليزي x",
+    "title": "إيفرتون × كوفنتري",
+    "time": "2026-11-06T22:00:00",
+    "team1": {
+      "name": "إيفرتون",
+      "flag": "https://imgs.ysscores.com/teams/128/8461690118694.png"
+    },
+    "team2": {
+      "name": "كوفنتري",
+      "flag": "https://imgs.ysscores.com/teams/128/3861690370535.png"
+    },
+    "extra": false,
+    "channels": []
   },
   {
     "league": "الدوري الإنجليزي x",
