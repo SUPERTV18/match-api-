@@ -6373,7 +6373,20 @@
       "flag": "https://imgs.ysscores.com/teams/128/8741690284718.png"
     },
     "extra": false,
-    "channels": []
+    "channels": [
+      {
+        "name": "ALWAN 3",
+        "url": "go:ALWAN3"
+      },
+      {
+        "name": "MULTI",
+        "url": "go:Premfhd1"
+      },
+      {
+        "name": "HD",
+        "url": "go:Premhd1"
+      }
+    ]
   },
   {
     "league": "الدوري الإسباني x",
