@@ -5771,12 +5771,12 @@
     "extra": false,
     "channels": [
       {
-        "name": "SUPER TV 3",
-        "url": "go:supertv3"
+        "name": "SUPER TV 1",
+        "url": "go:supertv2"
       },
       {
         "name": "TOD",
-        "url": "go:TOD13"
+        "url": "go:TOD12"
       },
       {
         "name": "ALWAN 3",
