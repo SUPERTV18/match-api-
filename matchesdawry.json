@@ -6268,7 +6268,12 @@
       "flag": "https://imgs.ysscores.com/teams/128/9451745621341.png"
     },
     "extra": false,
-    "channels": []
+    "channels": [
+      {
+        "name": "ON Sport",
+        "url": "go:ONTime1"
+      }
+    ]
   },
   {
     "league": "دوري روشن السعودي",
