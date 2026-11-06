@@ -6653,7 +6653,12 @@
       "flag": "https://imgs.ysscores.com/teams/128/7881694082064.png"
     },
     "extra": false,
-    "channels": []
+    "channels": [
+      {
+        "name": "ON Sport MAX",
+        "url": "go:ONTime2"
+      }
+    ]
   },
   {
     "league": "كأس مصر",
