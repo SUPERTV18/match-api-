@@ -6608,7 +6608,28 @@
       "flag": "https://imgs.ysscores.com/teams/128/17874487583392.png"
     },
     "extra": false,
-    "channels": []
+    "channels": [
+      {
+        "name": "ALWAN 5",
+        "url": "go:ALWAN5"
+      },
+      {
+        "name": "FHD",
+        "url": "go:Bein4hd"
+      },
+      {
+        "name": "HD",
+        "url": "go:Bein4hd2"
+      },
+      {
+        "name": "SD",
+        "url": "go:Bein4sd"
+      },
+      {
+        "name": "LOW",
+        "url": "go:Bein4low"
+      }
+    ]
   },
   {
     "league": "الدوري الإنجليزي",
