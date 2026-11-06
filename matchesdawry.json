@@ -6593,7 +6593,12 @@
       "flag": "https://imgs.ysscores.com/teams/128/4161741096149.png"
     },
     "extra": false,
-    "channels": []
+    "channels": [
+      {
+        "name": "ON Sport MAX",
+        "url": "go:ONTime2"
+      }
+    ]
   },
   {
     "league": "الدوري التركي",
