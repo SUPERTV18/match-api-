@@ -6503,7 +6503,16 @@
       "flag": "https://imgs.ysscores.com/teams/128/2351690288818.png"
     },
     "extra": false,
-    "channels": []
+    "channels": [
+      {
+        "name": "ALWAN 4",
+        "url": "go:ALWAN4"
+      },
+      {
+        "name": "MBC شاهد | رياضة",
+        "url": "go:ssc11"
+      }
+    ]
   },
   {
     "league": "دوري روشن السعودي x",
