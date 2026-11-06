@@ -6488,7 +6488,16 @@
       "flag": "https://imgs.ysscores.com/teams/128/9101690370517.png"
     },
     "extra": false,
-    "channels": []
+    "channels": [
+      {
+        "name": "ALWAN 6",
+        "url": "go:ALWAN6"
+      },
+      {
+        "name": "MBC شاهد | رياضة",
+        "url": "go:ssc11"
+      }
+    ]
   },
   {
     "league": "الدوري الألماني",
