@@ -6668,7 +6668,12 @@
       "flag": "https://imgs.ysscores.com/teams/128/8381696284624.png"
     },
     "extra": false,
-    "channels": []
+    "channels": [
+      {
+        "name": "ON Sport",
+        "url": "go:ONTime1"
+      }
+    ]
   },
   {
     "league": "الدوري الإيطالي",
