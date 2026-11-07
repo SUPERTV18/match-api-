@@ -8062,7 +8062,28 @@
       "flag": "https://imgs.ysscores.com/teams/128/5111690283002.png"
     },
     "extra": false,
-    "channels": []
+    "channels": [
+      {
+        "name": "ALWAN 3",
+        "url": "go:ALWAN3"
+      },
+      {
+        "name": "MULTI",
+        "url": "go:Premfhd1"
+      },
+      {
+        "name": "HD",
+        "url": "go:Premhd1"
+      },
+      {
+        "name": "SHASHA",
+        "url": "go:SHASHA2"
+      },
+      {
+        "name": "الفجر",
+        "url": "go:Alfajr4"
+      }
+    ]
   },
   {
     "league": "كأس مصر x",
