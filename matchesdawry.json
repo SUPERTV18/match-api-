@@ -6461,6 +6461,36 @@
     ]
   },
   {
+    "league": "الدوري البرازيلي x",
+    "title": "فيتوريا × فلومينينسي",
+    "time": "2026-11-07T01:00:00",
+    "team1": {
+      "name": "فيتوريا",
+      "flag": "https://imgs.ysscores.com/teams/128/2251710687063.png"
+    },
+    "team2": {
+      "name": "فلومينينسي",
+      "flag": "https://imgs.ysscores.com/teams/128/9451691418710.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "الدوري التركي x",
+    "title": "أيوب سبور × كوجالي",
+    "time": "2026-11-07T12:30:00",
+    "team1": {
+      "name": "أيوب سبور",
+      "flag": "https://imgs.ysscores.com/teams/128/891700669405.png"
+    },
+    "team2": {
+      "name": "كوجالي",
+      "flag": "https://imgs.ysscores.com/teams/128/2131690371662.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
     "league": "الدوري الإنجليزي",
     "title": "ليدز يونايتد × توتنهام",
     "time": "2026-11-07T14:30:00",
@@ -6507,6 +6537,216 @@
         "url": "go:Bein1low"
       }
     ]
+  },
+  {
+    "league": "دوري الدرجة الأولى السعودي x",
+    "title": "الجندل × هجر",
+    "time": "2026-11-07T14:30:00",
+    "team1": {
+      "name": "الجندل",
+      "flag": "https://imgs.ysscores.com/teams/128/2821724146928.png"
+    },
+    "team2": {
+      "name": "هجر",
+      "flag": "https://imgs.ysscores.com/teams/128/7581691930303.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري أدنوك للمحترفين x",
+    "title": "الظفرة × كلباء",
+    "time": "2026-11-07T14:55:00",
+    "team1": {
+      "name": "الظفرة",
+      "flag": "https://imgs.ysscores.com/teams/128/7361755293874.png"
+    },
+    "team2": {
+      "name": "كلباء",
+      "flag": "https://imgs.ysscores.com/teams/128/9391720500929.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "الدوري الاسباني x",
+    "title": "ملقا × راسينغ",
+    "time": "2026-11-07T15:00:00",
+    "team1": {
+      "name": "ملقا",
+      "flag": "https://imgs.ysscores.com/teams/128/1171690458315.png"
+    },
+    "team2": {
+      "name": "راسينغ",
+      "flag": "https://imgs.ysscores.com/teams/128/3011761516113.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "الدوري التركي x",
+    "title": "سامسون سبور × قونيا سبور",
+    "time": "2026-11-07T15:00:00",
+    "team1": {
+      "name": "سامسون سبور",
+      "flag": "https://imgs.ysscores.com/teams/128/4911690127919.png"
+    },
+    "team2": {
+      "name": "قونيا سبور",
+      "flag": "https://imgs.ysscores.com/teams/128/8771690127634.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "الرابطة المحترفة الجزائرية x",
+    "title": "أولمبيك أقبو × شبيبة القبائل",
+    "time": "2026-11-07T15:00:00",
+    "team1": {
+      "name": "أولمبيك أقبو",
+      "flag": "https://imgs.ysscores.com/teams/128/5351721202195.png"
+    },
+    "team2": {
+      "name": "شبيبة القبائل",
+      "flag": "https://imgs.ysscores.com/teams/128/2261693417840.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري نجوم العراق x",
+    "title": "القوة الجوية × الكرخ",
+    "time": "2026-11-07T15:00:00",
+    "team1": {
+      "name": "القوة الجوية",
+      "flag": "https://imgs.ysscores.com/teams/128/4301729966980.png"
+    },
+    "team2": {
+      "name": "الكرخ",
+      "flag": "https://imgs.ysscores.com/teams/128/3891695656397.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري روشن السعودي x",
+    "title": "الفيصلي × الدرعية",
+    "time": "2026-11-07T15:20:00",
+    "team1": {
+      "name": "الفيصلي",
+      "flag": "https://imgs.ysscores.com/teams/128/17889795135313.png"
+    },
+    "team2": {
+      "name": "الدرعية",
+      "flag": "https://imgs.ysscores.com/teams/128/17835195657588.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "الرابطة التونسية لكرة القدم x",
+    "title": "تقدم ساقية الدائر × الإفريقي",
+    "time": "2026-11-07T15:30:00",
+    "team1": {
+      "name": "تقدم ساقية الدائر",
+      "flag": "https://imgs.ysscores.com/teams/128/17873566094108.png"
+    },
+    "team2": {
+      "name": "الإفريقي",
+      "flag": "https://imgs.ysscores.com/teams/128/5191692795665.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "الرابطة التونسية لكرة القدم x",
+    "title": "النجم الساحلي × الصفاقسي",
+    "time": "2026-11-07T15:30:00",
+    "team1": {
+      "name": "النجم الساحلي",
+      "flag": "https://imgs.ysscores.com/teams/128/1161692205578.png"
+    },
+    "team2": {
+      "name": "الصفاقسي",
+      "flag": "https://imgs.ysscores.com/teams/128/6131692796238.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "الرابطة التونسية لكرة القدم x",
+    "title": "الترجي × المنستيري",
+    "time": "2026-11-07T15:30:00",
+    "team1": {
+      "name": "الترجي",
+      "flag": "https://imgs.ysscores.com/teams/128/9451695299186.png"
+    },
+    "team2": {
+      "name": "المنستيري",
+      "flag": "https://imgs.ysscores.com/teams/128/9111692796285.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "الدوري الإاطالي x",
+    "title": "كالياري × فروزينوني",
+    "time": "2026-11-07T16:00:00",
+    "team1": {
+      "name": "كالياري",
+      "flag": "https://imgs.ysscores.com/teams/128/7311690283001.png"
+    },
+    "team2": {
+      "name": "فروزينوني",
+      "flag": "https://imgs.ysscores.com/teams/128/5761690283004.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "الدوري الإاطالي x",
+    "title": "تورينو × ليتشي",
+    "time": "2026-11-07T16:00:00",
+    "team1": {
+      "name": "تورينو",
+      "flag": "https://imgs.ysscores.com/teams/128/7501690283003.png"
+    },
+    "team2": {
+      "name": "ليتشي",
+      "flag": "https://imgs.ysscores.com/teams/128/9031690283003.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "الدوري الأردني x",
+    "title": "دوقرة × العربي",
+    "time": "2026-11-07T16:00:00",
+    "team1": {
+      "name": "دوقرة",
+      "flag": "https://imgs.ysscores.com/teams/128/17882961946776.png"
+    },
+    "team2": {
+      "name": "العربي",
+      "flag": "https://imgs.ysscores.com/teams/128/9161733402796.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري نجوم بنك الدوحه x",
+    "title": "الشمال × السيلية",
+    "time": "2026-11-07T16:15:00",
+    "team1": {
+      "name": "الشمال",
+      "flag": "https://imgs.ysscores.com/teams/128/2961722879498.png"
+    },
+    "team2": {
+      "name": "السيلية",
+      "flag": "https://imgs.ysscores.com/teams/128/17883819004488.png"
+    },
+    "extra": false,
+    "channels": []
   },
   {
     "league": "الدوري الألماني",
@@ -6575,6 +6815,36 @@
     "team2": {
       "name": "الهلال",
       "flag": "https://imgs.ysscores.com/teams/128/8761690298716.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "الدوري الالماني x",
+    "title": "بادربورن × فرانكفورت",
+    "time": "2026-11-07T16:30:00",
+    "team1": {
+      "name": "بادربورن",
+      "flag": "https://imgs.ysscores.com/teams/128/3911690370525.png"
+    },
+    "team2": {
+      "name": "فرانكفورت",
+      "flag": "https://imgs.ysscores.com/teams/128/231690288818.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "الدوري الالماني x",
+    "title": "لايبزيج × أوجسبورغ",
+    "time": "2026-11-07T16:30:00",
+    "team1": {
+      "name": "لايبزيج",
+      "flag": "https://imgs.ysscores.com/teams/128/8361734715237.png"
+    },
+    "team2": {
+      "name": "أوجسبورغ",
+      "flag": "https://imgs.ysscores.com/teams/128/7221690288817.png"
     },
     "extra": false,
     "channels": []
@@ -6718,6 +6988,546 @@
     ]
   },
   {
+    "league": "كأس الاتحاد الإنجليزي x",
+    "title": "دوفر × ويالدستون",
+    "time": "2026-11-07T17:00:00",
+    "team1": {
+      "name": "دوفر",
+      "flag": "https://imgs.ysscores.com/teams/128/3121746403853.png"
+    },
+    "team2": {
+      "name": "ويالدستون",
+      "flag": "https://imgs.ysscores.com/teams/128/4301730490022.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس الاتحاد الإنجليزي x",
+    "title": "مانسفيلد تاون × ماكليسفيلد",
+    "time": "2026-11-07T17:00:00",
+    "team1": {
+      "name": "مانسفيلد تاون",
+      "flag": "https://imgs.ysscores.com/teams/128/7011690370542.png"
+    },
+    "team2": {
+      "name": "ماكليسفيلد",
+      "flag": "https://imgs.ysscores.com/teams/128/9801739394560.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس الاتحاد الإنجليزي x",
+    "title": "هدرسفيلد × إكستر سيتي",
+    "time": "2026-11-07T17:00:00",
+    "team1": {
+      "name": "هدرسفيلد",
+      "flag": "https://imgs.ysscores.com/teams/128/2251690370541.png"
+    },
+    "team2": {
+      "name": "إكستر سيتي",
+      "flag": "https://imgs.ysscores.com/teams/128/5581690370542.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس الاتحاد الإنجليزي x",
+    "title": "لوتون تاون × فورست غرين روفرز",
+    "time": "2026-11-07T17:00:00",
+    "team1": {
+      "name": "لوتون تاون",
+      "flag": "https://imgs.ysscores.com/teams/128/2431690118243.png"
+    },
+    "team2": {
+      "name": "فورست غرين روفرز",
+      "flag": "https://imgs.ysscores.com/teams/128/9291690370542.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس الاتحاد الإنجليزي x",
+    "title": "كيدرمينستر هاريرز × دونكاستر روفرز",
+    "time": "2026-11-07T17:00:00",
+    "team1": {
+      "name": "كيدرمينستر هاريرز",
+      "flag": "https://imgs.ysscores.com/teams/128/9121718096139.png"
+    },
+    "team2": {
+      "name": "دونكاستر روفرز",
+      "flag": "https://imgs.ysscores.com/teams/128/1011690370546.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس الاتحاد الإنجليزي x",
+    "title": "ليتون أورينت × هاربورو",
+    "time": "2026-11-07T17:00:00",
+    "team1": {
+      "name": "ليتون أورينت",
+      "flag": "https://imgs.ysscores.com/teams/128/4291693482598.png"
+    },
+    "team2": {
+      "name": "هاربورو",
+      "flag": "https://imgs.ysscores.com/teams/128/7431730491083.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس الاتحاد الإنجليزي x",
+    "title": "أكرينغتون ستانلي × ويكومب",
+    "time": "2026-11-07T17:00:00",
+    "team1": {
+      "name": "أكرينغتون ستانلي",
+      "flag": "https://imgs.ysscores.com/teams/128/9891690370535.png"
+    },
+    "team2": {
+      "name": "ويكومب",
+      "flag": "https://imgs.ysscores.com/teams/128/9371761515292.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس الاتحاد الإنجليزي x",
+    "title": "ميلتون كينز دونز × سويندون تاون",
+    "time": "2026-11-07T17:00:00",
+    "team1": {
+      "name": "ميلتون كينز دونز",
+      "flag": "https://imgs.ysscores.com/teams/128/2021690370533.png"
+    },
+    "team2": {
+      "name": "سويندون تاون",
+      "flag": "https://imgs.ysscores.com/teams/128/4211690370540.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس الاتحاد الإنجليزي x",
+    "title": "نيوبورت كونتي × والسول",
+    "time": "2026-11-07T17:00:00",
+    "team1": {
+      "name": "نيوبورت كونتي",
+      "flag": "https://imgs.ysscores.com/teams/128/4101690370558.png"
+    },
+    "team2": {
+      "name": "والسول",
+      "flag": "https://imgs.ysscores.com/teams/128/2831690370551.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس الاتحاد الإنجليزي x",
+    "title": "بروملي × روثيرهام يونايتد",
+    "time": "2026-11-07T17:00:00",
+    "team1": {
+      "name": "بروملي",
+      "flag": "https://imgs.ysscores.com/teams/128/5261718096237.png"
+    },
+    "team2": {
+      "name": "روثيرهام يونايتد",
+      "flag": "https://imgs.ysscores.com/teams/128/1011755043685.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس الاتحاد الإنجليزي x",
+    "title": "بارنت × ترانمير روفرز",
+    "time": "2026-11-07T17:00:00",
+    "team1": {
+      "name": "بارنت",
+      "flag": "https://imgs.ysscores.com/teams/128/1181690370515.png"
+    },
+    "team2": {
+      "name": "ترانمير روفرز",
+      "flag": "https://imgs.ysscores.com/teams/128/7451690370519.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس الاتحاد الإنجليزي x",
+    "title": "فليتوود تاون × روشديل",
+    "time": "2026-11-07T17:00:00",
+    "team1": {
+      "name": "فليتوود تاون",
+      "flag": "https://imgs.ysscores.com/teams/128/3891690370559.png"
+    },
+    "team2": {
+      "name": "روشديل",
+      "flag": "https://imgs.ysscores.com/teams/128/1991718095724.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس الاتحاد الإنجليزي x",
+    "title": "بارنسلي × ألدرشوت تاون",
+    "time": "2026-11-07T17:00:00",
+    "team1": {
+      "name": "بارنسلي",
+      "flag": "https://imgs.ysscores.com/teams/128/3111690370518.png"
+    },
+    "team2": {
+      "name": "ألدرشوت تاون",
+      "flag": "https://imgs.ysscores.com/teams/128/5181702200520.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس الاتحاد الإنجليزي x",
+    "title": "شيسترفيلد × يوفيل تاون",
+    "time": "2026-11-07T17:00:00",
+    "team1": {
+      "name": "شيسترفيلد",
+      "flag": "https://imgs.ysscores.com/teams/128/8001690370540.png"
+    },
+    "team2": {
+      "name": "يوفيل تاون",
+      "flag": "https://imgs.ysscores.com/teams/128/2631718096072.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس الاتحاد الإنجليزي x",
+    "title": "غيلينغهام × بارو",
+    "time": "2026-11-07T17:00:00",
+    "team1": {
+      "name": "غيلينغهام",
+      "flag": "https://imgs.ysscores.com/teams/128/4311690370554.png"
+    },
+    "team2": {
+      "name": "بارو",
+      "flag": "https://imgs.ysscores.com/teams/128/7361690370501.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس الاتحاد الإنجليزي x",
+    "title": "هاروغيت تاون × فايلد",
+    "time": "2026-11-07T17:00:00",
+    "team1": {
+      "name": "هاروغيت تاون",
+      "flag": "https://imgs.ysscores.com/teams/128/4551693482597.png"
+    },
+    "team2": {
+      "name": "فايلد",
+      "flag": "https://imgs.ysscores.com/teams/128/2201718097096.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس الاتحاد الإنجليزي x",
+    "title": "كرو ألكساندرا × ويمبلدون",
+    "time": "2026-11-07T17:00:00",
+    "team1": {
+      "name": "كرو ألكساندرا",
+      "flag": "https://imgs.ysscores.com/teams/128/1191693482598.png"
+    },
+    "team2": {
+      "name": "ويمبلدون",
+      "flag": "https://imgs.ysscores.com/teams/128/6551690370565.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس الاتحاد الإنجليزي x",
+    "title": "أكسفورد يونايتد × ستيفنيج",
+    "time": "2026-11-07T17:00:00",
+    "team1": {
+      "name": "أكسفورد يونايتد",
+      "flag": "https://imgs.ysscores.com/teams/128/151690370534.png"
+    },
+    "team2": {
+      "name": "ستيفنيج",
+      "flag": "https://imgs.ysscores.com/teams/128/4641690370558.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس الاتحاد الإنجليزي x",
+    "title": "بورتون ألبيون × راشدين آند دايموندز",
+    "time": "2026-11-07T17:00:00",
+    "team1": {
+      "name": "بورتون ألبيون",
+      "flag": "https://imgs.ysscores.com/teams/128/5831755649620.png"
+    },
+    "team2": {
+      "name": "راشدين آند دايموندز",
+      "flag": "https://imgs.ysscores.com/teams/128/7681739410597.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس الاتحاد الإنجليزي x",
+    "title": "بورت فايل × سكونثورب",
+    "time": "2026-11-07T17:00:00",
+    "team1": {
+      "name": "بورت فايل",
+      "flag": "https://imgs.ysscores.com/teams/128/7971693482598.png"
+    },
+    "team2": {
+      "name": "سكونثورب",
+      "flag": "https://imgs.ysscores.com/teams/128/421690370523.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس الاتحاد الإنجليزي x",
+    "title": "تشيلتنهام × هاليفاكس تاون",
+    "time": "2026-11-07T17:00:00",
+    "team1": {
+      "name": "تشيلتنهام",
+      "flag": "https://imgs.ysscores.com/teams/128/1501690370536.png"
+    },
+    "team2": {
+      "name": "هاليفاكس تاون",
+      "flag": "https://imgs.ysscores.com/teams/128/1681718096022.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس الاتحاد الإنجليزي x",
+    "title": "كولشيستر يونايتد × وورسيستر",
+    "time": "2026-11-07T17:00:00",
+    "team1": {
+      "name": "كولشيستر يونايتد",
+      "flag": "https://imgs.ysscores.com/teams/128/7311693482598.png"
+    },
+    "team2": {
+      "name": "وورسيستر",
+      "flag": "https://imgs.ysscores.com/teams/128/2191746398047.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس الاتحاد الإنجليزي x",
+    "title": "إيستلي × شروسبري تاون",
+    "time": "2026-11-07T17:00:00",
+    "team1": {
+      "name": "إيستلي",
+      "flag": "https://imgs.ysscores.com/teams/128/7261702201222.png"
+    },
+    "team2": {
+      "name": "شروسبري تاون",
+      "flag": "https://imgs.ysscores.com/teams/128/2051690370545.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس الاتحاد الإنجليزي x",
+    "title": "بليموث أرجايل × ألفيشورش",
+    "time": "2026-11-07T17:00:00",
+    "team1": {
+      "name": "بليموث أرجايل",
+      "flag": "https://imgs.ysscores.com/teams/128/5711690370522.png"
+    },
+    "team2": {
+      "name": "ألفيشورش",
+      "flag": "https://imgs.ysscores.com/teams/128/1391718097296.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس الاتحاد الإنجليزي x",
+    "title": "هورنتشيرش × بلاكبول",
+    "time": "2026-11-07T17:00:00",
+    "team1": {
+      "name": "هورنتشيرش",
+      "flag": "https://imgs.ysscores.com/teams/128/3891744862622.png"
+    },
+    "team2": {
+      "name": "بلاكبول",
+      "flag": "https://imgs.ysscores.com/teams/128/4761693482598.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس الاتحاد الإنجليزي x",
+    "title": "غيسلي × سوتون يونايتد",
+    "time": "2026-11-07T17:00:00",
+    "team1": {
+      "name": "غيسلي",
+      "flag": "https://imgs.ysscores.com/teams/128/7231730490377.png"
+    },
+    "team2": {
+      "name": "سوتون يونايتد",
+      "flag": "https://imgs.ysscores.com/teams/128/4791690370565.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس الاتحاد الإنجليزي x",
+    "title": "برادفورد سيتي × مارين",
+    "time": "2026-11-07T17:00:00",
+    "team1": {
+      "name": "برادفورد سيتي",
+      "flag": "https://imgs.ysscores.com/teams/128/2951690370527.png"
+    },
+    "team2": {
+      "name": "مارين",
+      "flag": "https://imgs.ysscores.com/teams/128/4011718096716.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس الاتحاد الإنجليزي x",
+    "title": "يورك سيتي × نورثامبتون تاون",
+    "time": "2026-11-07T17:00:00",
+    "team1": {
+      "name": "يورك سيتي",
+      "flag": "https://imgs.ysscores.com/teams/128/4761690370546.png"
+    },
+    "team2": {
+      "name": "نورثامبتون تاون",
+      "flag": "https://imgs.ysscores.com/teams/128/5731690370534.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس الاتحاد الإنجليزي x",
+    "title": "بوريهام وود × ويغان أثليتيك",
+    "time": "2026-11-07T17:00:00",
+    "team1": {
+      "name": "بوريهام وود",
+      "flag": "https://imgs.ysscores.com/teams/128/201690370496.png"
+    },
+    "team2": {
+      "name": "ويغان أثليتيك",
+      "flag": "https://imgs.ysscores.com/teams/128/7001690370528.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس الاتحاد الإنجليزي x",
+    "title": "كارلايل يونايتد × سالفورد سيتي",
+    "time": "2026-11-07T17:00:00",
+    "team1": {
+      "name": "كارلايل يونايتد",
+      "flag": "https://imgs.ysscores.com/teams/128/3901693482598.png"
+    },
+    "team2": {
+      "name": "سالفورد سيتي",
+      "flag": "https://imgs.ysscores.com/teams/128/9791690370572.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس الاتحاد الإنجليزي x",
+    "title": "سالزبري × شولينغ",
+    "time": "2026-11-07T17:00:00",
+    "team1": {
+      "name": "سالزبري",
+      "flag": "https://imgs.ysscores.com/teams/128/4621744862111.png"
+    },
+    "team2": {
+      "name": "شولينغ",
+      "flag": "https://imgs.ysscores.com/teams/128/1211758617034.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري الدرجة الأولى السعودي x",
+    "title": "النجمة × العلا",
+    "time": "2026-11-07T17:00:00",
+    "team1": {
+      "name": "النجمة",
+      "flag": "https://imgs.ysscores.com/teams/128/8571691930620.png"
+    },
+    "team2": {
+      "name": "العلا",
+      "flag": "https://imgs.ysscores.com/teams/128/17835196183481.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "الدوري الاسباني x",
+    "title": "إسبانيول × لاكورونيا",
+    "time": "2026-11-07T17:15:00",
+    "team1": {
+      "name": "إسبانيول",
+      "flag": "https://imgs.ysscores.com/teams/128/4481690370529.png"
+    },
+    "team2": {
+      "name": "لاكورونيا",
+      "flag": "https://imgs.ysscores.com/teams/128/2961698772258.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري أدنوك للمحترفين x",
+    "title": "الشارقة × شباب الأهلي",
+    "time": "2026-11-07T17:30:00",
+    "team1": {
+      "name": "الشارقة",
+      "flag": "https://imgs.ysscores.com/teams/128/1811690300800.png"
+    },
+    "team2": {
+      "name": "شباب الأهلي",
+      "flag": "https://imgs.ysscores.com/teams/128/5261690300570.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري أدنوك للمحترفين x",
+    "title": "حتا × خورفكان",
+    "time": "2026-11-07T17:30:00",
+    "team1": {
+      "name": "حتا",
+      "flag": "https://imgs.ysscores.com/teams/128/4931729169179.png"
+    },
+    "team2": {
+      "name": "خورفكان",
+      "flag": "https://imgs.ysscores.com/teams/128/8671756044964.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري نجوم العراق x",
+    "title": "الزوراء × الجولان",
+    "time": "2026-11-07T17:30:00",
+    "team1": {
+      "name": "الزوراء",
+      "flag": "https://imgs.ysscores.com/teams/128/2961729878835.png"
+    },
+    "team2": {
+      "name": "الجولان",
+      "flag": "https://imgs.ysscores.com/teams/128/7291760739383.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
     "league": "الدوري التركي",
     "title": "غلطة سراي × آمد سبورتيف",
     "time": "2026-11-07T18:00:00",
@@ -6752,6 +7562,111 @@
         "url": "go:Bein4low"
       }
     ]
+  },
+  {
+    "league": "الدوري التركي x",
+    "title": "جوزتيبي × باشاك شهير",
+    "time": "2026-11-07T18:00:00",
+    "team1": {
+      "name": "جوزتيبي",
+      "flag": "https://imgs.ysscores.com/teams/128/8741690370493.png"
+    },
+    "team2": {
+      "name": "باشاك شهير",
+      "flag": "https://imgs.ysscores.com/teams/128/6801690127203.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "البطولة الوطنية المغربية x",
+    "title": "الكوكب المراكشي × الوداد الرياضي",
+    "time": "2026-11-07T18:00:00",
+    "team1": {
+      "name": "الكوكب المراكشي",
+      "flag": "https://imgs.ysscores.com/teams/128/481757628568.png"
+    },
+    "team2": {
+      "name": "الوداد الرياضي",
+      "flag": "https://imgs.ysscores.com/teams/128/3131694715431.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "الدوري الأردني x",
+    "title": "الحسين × السلط",
+    "time": "2026-11-07T18:30:00",
+    "team1": {
+      "name": "الحسين",
+      "flag": "https://imgs.ysscores.com/teams/128/7671753043995.png"
+    },
+    "team2": {
+      "name": "السلط",
+      "flag": "https://imgs.ysscores.com/teams/128/8341690936856.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري نجوم بنك الدوحه x",
+    "title": "الغرافة × الدحيل",
+    "time": "2026-11-07T18:30:00",
+    "team1": {
+      "name": "الغرافة",
+      "flag": "https://imgs.ysscores.com/teams/128/3761719156653.png"
+    },
+    "team2": {
+      "name": "الدحيل",
+      "flag": "https://imgs.ysscores.com/teams/128/3211693170386.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري الدرجة الأولى السعودي x",
+    "title": "الصقر × البكيرية",
+    "time": "2026-11-07T18:35:00",
+    "team1": {
+      "name": "الصقر",
+      "flag": "https://imgs.ysscores.com/teams/128/17872640311149.png"
+    },
+    "team2": {
+      "name": "البكيرية",
+      "flag": "https://imgs.ysscores.com/teams/128/8331719153467.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "الرابطة المحترفة الجزائرية x",
+    "title": "وفاق سطيف × مستقبل الرويسات",
+    "time": "2026-11-07T18:45:00",
+    "team1": {
+      "name": "وفاق سطيف",
+      "flag": "https://imgs.ysscores.com/teams/128/4981693417652.png"
+    },
+    "team2": {
+      "name": "مستقبل الرويسات",
+      "flag": "https://imgs.ysscores.com/teams/128/7271753996876.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "الدوري الإاطالي x",
+    "title": "بارما × بولونيا",
+    "time": "2026-11-07T19:00:00",
+    "team1": {
+      "name": "بارما",
+      "flag": "https://imgs.ysscores.com/teams/128/4061690823331.png"
+    },
+    "team2": {
+      "name": "بولونيا",
+      "flag": "https://imgs.ysscores.com/teams/128/4281690283003.png"
+    },
+    "extra": false,
+    "channels": []
   },
   {
     "league": "الدوري الإنجليزي",
@@ -6817,6 +7732,66 @@
     "channels": []
   },
   {
+    "league": "الدوري الاسباني x",
+    "title": "أوساسونا × أتلتيك بلباو",
+    "time": "2026-11-07T19:30:00",
+    "team1": {
+      "name": "أوساسونا",
+      "flag": "https://imgs.ysscores.com/teams/128/7961690196745.png"
+    },
+    "team2": {
+      "name": "أتلتيك بلباو",
+      "flag": "https://imgs.ysscores.com/teams/128/1061690197944.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "الدوري الالماني x",
+    "title": "شتوتجارت × فيردر بريمن",
+    "time": "2026-11-07T19:30:00",
+    "team1": {
+      "name": "شتوتجارت",
+      "flag": "https://imgs.ysscores.com/teams/128/8731690288819.png"
+    },
+    "team2": {
+      "name": "فيردر بريمن",
+      "flag": "https://imgs.ysscores.com/teams/128/9771690288817.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري روشن السعودي x",
+    "title": "الأهلي × التعاون",
+    "time": "2026-11-07T19:30:00",
+    "team1": {
+      "name": "الأهلي",
+      "flag": "https://imgs.ysscores.com/teams/128/9591694714907.png"
+    },
+    "team2": {
+      "name": "التعاون",
+      "flag": "https://imgs.ysscores.com/teams/128/9971724321815.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس الاتحاد الإنجليزي x",
+    "title": "ألترينشام × نوتس كاونتي",
+    "time": "2026-11-07T19:30:00",
+    "team1": {
+      "name": "ألترينشام",
+      "flag": "https://imgs.ysscores.com/teams/128/4201690370546.png"
+    },
+    "team2": {
+      "name": "نوتس كاونتي",
+      "flag": "https://imgs.ysscores.com/teams/128/1211690370542.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
     "league": "كأس مصر",
     "title": "بيراميدز × الداخلية",
     "time": "2026-11-07T20:00:00",
@@ -6855,6 +7830,51 @@
         "url": "go:ONTime1"
       }
     ]
+  },
+  {
+    "league": "الدوري الفرنسي x",
+    "title": "أوكسير × نادي باريس",
+    "time": "2026-11-07T20:00:00",
+    "team1": {
+      "name": "أوكسير",
+      "flag": "https://imgs.ysscores.com/teams/128/8671690370530.png"
+    },
+    "team2": {
+      "name": "نادي باريس",
+      "flag": "https://imgs.ysscores.com/teams/128/6551690370501.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "البطولة الوطنية المغربية x",
+    "title": "المغرب الفاسي × الفتح الرباطي",
+    "time": "2026-11-07T20:00:00",
+    "team1": {
+      "name": "المغرب الفاسي",
+      "flag": "https://imgs.ysscores.com/teams/128/17869850204497.png"
+    },
+    "team2": {
+      "name": "الفتح الرباطي",
+      "flag": "https://imgs.ysscores.com/teams/128/1811692794174.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "الدوري البرتغالي الممتاز x",
+    "title": "ألفيركا × كاسا بيا",
+    "time": "2026-11-07T20:00:00",
+    "team1": {
+      "name": "ألفيركا",
+      "flag": "https://imgs.ysscores.com/teams/128/3031717489561.png"
+    },
+    "team2": {
+      "name": "كاسا بيا",
+      "flag": "https://imgs.ysscores.com/teams/128/6221690386300.png"
+    },
+    "extra": false,
+    "channels": []
   },
   {
     "league": "الدوري الإيطالي",
@@ -6941,6 +7961,36 @@
     ]
   },
   {
+    "league": "البطولة الوطنية المغربية x",
+    "title": "المغرب التطواني × النادي المكناسي",
+    "time": "2026-11-07T22:00:00",
+    "team1": {
+      "name": "المغرب التطواني",
+      "flag": "https://imgs.ysscores.com/teams/128/4691692794281.png"
+    },
+    "team2": {
+      "name": "النادي المكناسي",
+      "flag": "https://imgs.ysscores.com/teams/128/7251723745165.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس الاتحاد الإنجليزي x",
+    "title": "بيترابورو يونايتد × ريدينج",
+    "time": "2026-11-07T22:00:00",
+    "team1": {
+      "name": "بيترابورو يونايتد",
+      "flag": "https://imgs.ysscores.com/teams/128/7041690370535.png"
+    },
+    "team2": {
+      "name": "ريدينج",
+      "flag": "https://imgs.ysscores.com/teams/128/6501690370541.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
     "league": "الدوري الفرنسي",
     "title": "باريس × تروا",
     "time": "2026-11-07T22:05:00",
@@ -6983,6 +8033,21 @@
         "url": "go:Bein2low"
       }
     ]
+  },
+  {
+    "league": "الدوري البرتغالي الممتاز x",
+    "title": "سبورتينغ لشبونة × موريرنسي",
+    "time": "2026-11-07T22:30:00",
+    "team1": {
+      "name": "سبورتينغ لشبونة",
+      "flag": "https://imgs.ysscores.com/teams/128/17829367926898.png"
+    },
+    "team2": {
+      "name": "موريرنسي",
+      "flag": "https://imgs.ysscores.com/teams/128/7031690386044.png"
+    },
+    "extra": false,
+    "channels": []
   },
   {
     "league": "الدوري الإيطالي x",
