@@ -6461,21 +6461,6 @@
     ]
   },
   {
-    "league": "الدوري البرازيلي x",
-    "title": "فيتوريا × فلومينينسي",
-    "time": "2026-11-07T01:00:00",
-    "team1": {
-      "name": "فيتوريا",
-      "flag": "https://imgs.ysscores.com/teams/128/2251710687063.png"
-    },
-    "team2": {
-      "name": "فلومينينسي",
-      "flag": "https://imgs.ysscores.com/teams/128/9451691418710.png"
-    },
-    "extra": false,
-    "channels": []
-  },
-  {
     "league": "الدوري التركي x",
     "title": "أيوب سبور × كوجالي",
     "time": "2026-11-07T12:30:00",
