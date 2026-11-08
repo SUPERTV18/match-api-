@@ -9423,6 +9423,11 @@
       "flag": "https://imgs.ysscores.com/teams/128/9521696285165.png"
     },
     "extra": false,
-    "channels": []
+    "channels": [
+      {
+        "name": "ON Sport",
+        "url": "go:ONTime1"
+      }
+    ]
   }
 ]
