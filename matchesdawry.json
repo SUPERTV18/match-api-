@@ -9383,7 +9383,12 @@
       "flag": "https://imgs.ysscores.com/teams/128/2391753649516.png"
     },
     "extra": false,
-    "channels": []
+    "channels": [
+      {
+        "name": "ON Sport",
+        "url": "go:ONTime1"
+      }
+    ]
   },
   {
     "league": "كأس مصر",
