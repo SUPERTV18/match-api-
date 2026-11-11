@@ -2087,7 +2087,24 @@
       "flag": "https://imgs.ysscores.com/teams/128/4021763118330.png"
     },
     "extra": false,
-    "channels": []
+    "channels": [
+      {
+        "name": "FHD",
+        "url": "go:Bein4hd"
+      },
+      {
+        "name": "HD",
+        "url": "go:Bein4hd2"
+      },
+      {
+        "name": "SD",
+        "url": "go:Bein4sd"
+      },
+      {
+        "name": "LOW",
+        "url": "go:Bein4low"
+      }
+    ]
   },
   {
     "league": "تصفيات كأس أمم أفريقيا x",
