@@ -1,806 +1,42 @@
 [
   {
-    "league": "مباراة ودية x",
-    "title": "لأرجنتين × ",
-    "time": "2026-10-07T02:00:00",
-    "team1": {
-      "name": "الأرجنتين",
-      "flag": "https://imgs.ysscores.com/teams/128/5861694177479.png"
-    },
-    "team2": {
-      "name": "بنين",
-      "flag": "https://imgs.ysscores.com/teams/128/8421763069265.png"
-    },
-    "extra": false,
-    "channels": [
-    { "name": "ALWAN 1", "url": "go:ALWAN1" },
-    { "name": "SHASHA", "url": "go:SHASHA1" }
-    ]
-  },
-  {
-    "league": "مباراة ودية x",
-    "title": "البرازيل × ",
-    "time": "2026-10-03T17:00:00",
-    "team2": {
-      "name": "البرازيل",
-      "flag": "https://imgs.ysscores.com/teams/128/4331763069849.png"
-    },
-    "team1": {
-      "name": "الهند",
-    "flag": "https://imgs.ysscores.com/teams/128/4801763080864.png"
-    },
-    "extra": false,
-    "channels": [
-    { "name": "ALWAN 2", "url": "go:ALWAN2" }
-  ]
-  },
-  {
-    "league": "تصفيات كأس أمم أفريقيا x",
-    "title": "ليبيا × ",
-    "time": "2026-10-29T19:00:00",
-    "team2": {
-      "name": "ليبيا",
-      "flag": "https://imgs.ysscores.com/teams/128/6091693916297.png"
-    },
-    "team1": {
-      "name": "أوغندا",
-      "flag": "https://imgs.ysscores.com/teams/128/2921763117370.png"
-    },
-    "extra": false,
-    "channels": [
-      { "name": "ALWAN 3", "url": "go:ALWAN3" },
-    { "name": "MULTI", "url": "go:CONNECT1" },
-    { "name": "FHD", "url": "go:Bein1hd" },
-    { "name": "HD", "url": "go:Bein1hd2" },
-    { "name": "SD", "url": "go:Bein1sd" },
-    { "name": "LOW", "url": "go:Bein1low" }
-    ]
-  },
-  {
-    "league": "تصفيات كأس أمم أفريقيا x",
-    "title": "الكاميرون × ",
-    "time": "2026-10-29T22:00:00",
-    "team2": {
-      "name": "الكاميرون",
-      "flag": "https://imgs.ysscores.com/teams/128/3431693919256.png"
-    },
-    "team1": {
-      "name": " الكونغو",
-      "flag": "https://imgs.ysscores.com/teams/128/2681763071029.png"
-    },
-    "extra": false,
-    "channels": [
-    { "name": "FHD", "url": "go:Bein6hd" },
-    { "name": "HD", "url": "go:Bein6hd2" },
-    { "name": "SD", "url": "go:Bein6sd" },
-    { "name": "LOW", "url": "go:Bein6low" }
-    ]
-  },
-  {
-    "league": "تصفيات كأس العالم : أفريقيا x",
-    "title": "نيجيريا × ",
-    "time": "2026-10-26T21:00:00",
-    "team1": {
-      "name": "نيجيريا",
-      "flag": "https://imgs.ysscores.com/teams/128/4831693919068.png"
-    },
-    "team2": {
-      "name": "جمهورية الكونغو",
-      "flag": "https://imgs.ysscores.com/teams/128/7171693917788.png"
-    },
-    "extra": false,
-    "channels": [
-      { "name": "جودة تلقائية", "url": "go:ssc11" },
-      { "name": "جودة تلقائية ويب", "url": "go:ssc1" }
-    ]
-  },
-  {
-    "league": "تصفيات كأس أمم أفريقيا x",
-    "title": "السودان × ",
-    "time": "2026-10-29T16:00:00",
-    "team2": {
-      "name": "السودان",
-      "flag": "https://imgs.ysscores.com/teams/128/6511763087361.png"
-    },
-    "team1": {
-      "name": "موزمبيق",
-      "flag": "https://imgs.ysscores.com/teams/128/9651763083639.png"
-    },
-    "extra": false,
-    "channels": [
-      { "name": "ALWAN 4", "url": "go:ALWAN4" },
-    { "name": "FHD", "url": "go:Bein4hd" },
-    { "name": "HD", "url": "go:Bein4hd2" },
-    { "name": "SD", "url": "go:Bein4sd" },
-    { "name": "LOW", "url": "go:Bein4low" }
-    ]
-  },
-  {
-    "league": "كأس العالم x",
-    "title": " × الرأس الأخضر",
-    "time": "2026-10-27T03:00:00",
-    "team1": {
-      "name": "الرأس الأخضر",
-      "flag": "https://imgs.ysscores.com/teams/128/2061693918552.png"
-    },
-    "team2": {
-      "name": "السعودية",
-      "flag": "https://imgs.ysscores.com/teams/128/7231728507982.png"
-    },
-    "extra": false,
-    "channels": [
-      { "name": "POST 1", "url": "go:POST1" },
-    { "name": "الفجر", "url": "go:Alfajr3" },
-    { "name": "ALWAN 1", "url": "go:ALWAN1" },
-    { "name": "MULTI", "url": "go:max34K" },
-    { "name": "FHD", "url": "go:max3FHD" },
-    { "name": "HD", "url": "go:max3HD" },
-    { "name": "SD", "url": "go:max3SD" },
-    { "name": "LOW", "url": "go:max3LOW" }
-    ]
-  },
-  {
-    "league": "تصفيات كأس أمم أفريقيا x",
-    "title": " × تونس",
-    "time": "2026-10-28T22:00:00",
-    "team2": {
-    "name": "بوتسوانا",
-    "flag": "https://imgs.ysscores.com/teams/128/4041763069740.png"
-    },
-    "team1": {
-      "name": "تونس",
-      "flag": "https://imgs.ysscores.com/teams/128/9841693833234.png"
-    },
-    "extra": false,
-    "channels": [
-    { "name": "ALWAN 4", "url": "go:ALWAN4" },
-    { "name": "MULTI", "url": "go:CONNECT1" },
-    { "name": "FHD", "url": "go:Bein1hd" },
-    { "name": "HD", "url": "go:Bein1hd2" },
-    { "name": "SD", "url": "go:Bein1sd" },
-    { "name": "LOW", "url": "go:Bein1low" }
-    ]
-  },
-  {
-    "league": "تصفيات كأس أمم أفريقيا x",
-    "title": " × موريتانيا",
-    "time": "2026-10-29T22:00:00",
-    "team2": {
-    "name": "موريتانيا",
-    "flag": "https://imgs.ysscores.com/teams/128/5871763083150.png"
-    },
-    "team1": {
-      "name": "بنين",
-      "flag": "https://imgs.ysscores.com/teams/128/8421763069265.png"
-    },
-    "extra": false,
-    "channels": [
-    { "name": "MULTI", "url": "go:CONNECT1" },
-    { "name": "FHD", "url": "go:Bein1hd" },
-    { "name": "HD", "url": "go:Bein1hd2" },
-    { "name": "SD", "url": "go:Bein1sd" },
-    { "name": "LOW", "url": "go:Bein1low" }
-    ]
-  },
-  {
-    "league": "كأس العالم x",
-    "title": "السنغال × ",
-    "time": "2026-10-26T22:00:00",
-    "team2": {
-      "name": "العراق",
-    "flag": "https://imgs.ysscores.com/teams/128/7501693832609.png"
-    },
-    "team1": {
-      "name": "السنغال",
-      "flag": "https://imgs.ysscores.com/teams/128/1831763086441.png"
-    },
-    "extra": false,
-    "channels": [
-    { "name": "POST 1", "url": "go:POST1" },
-    { "name": "الفجر", "url": "go:Alfajr3" },
-    { "name": "ALWAN 1", "url": "go:ALWAN1" },
-    { "name": "MULTI", "url": "go:max14K" },
-    { "name": "FHD", "url": "go:max1FHD" },
-    { "name": "HD", "url": "go:max1HD" },
-    { "name": "SD", "url": "go:max1SD" },
-    { "name": "LOW", "url": "go:max1LOW" }
-    ]
-  },
-  {
-    "league": "مباراة ودية x",
-    "title": "المغرب × ",
-    "time": "2026-10-04T21:00:00",
-    "team1": {
-      "name": "مالي",
-    "flag": "https://imgs.ysscores.com/teams/128/7571763083037.png"
-    },
-    "team2": {
-      "name": "المغرب",
-      "flag": "https://imgs.ysscores.com/teams/128/6291763083538.png"
-    },
-    "extra": false,
-    "channels": [
-    { "name": "ALWAN 5", "url": "go:ALWAN5" },
-      { "name": "MULTI", "url": "go:Arryadia" }
-  ]
-  },
-  {
-    "league": "كأس العالم x",
-    "title": "الكونغو الديموقراطية × ",
-    "time": "2026-10-28T02:30:00",
-    "team2": {
-      "name": "أوزبكستان",
-      "flag": "https://imgs.ysscores.com/teams/128/981763117755.png"
-    },
-    "team1": {
-      "name": "جمهورية الكونغو",
-      "flag": "https://imgs.ysscores.com/teams/128/7171693917788.png"
-    },
-    "extra": false,
-    "channels": [
-    { "name": "POST 2", "url": "go:POST2" },
-    { "name": "الفجر", "url": "go:Alfajr3" },
-    { "name": "ALWAN 2", "url": "go:ALWAN2" },
-    { "name": "MULTI", "url": "go:max44K" },
-    { "name": "FHD", "url": "go:max4FHD" },
-    { "name": "HD", "url": "go:max4HD" },
-    { "name": "SD", "url": "go:max4SD" },
-    { "name": "LOW", "url": "go:max4LOW" }
-    ]
-  },
-{
-  "league": "كأس العالم x",
-  "title": "الرأس الأخضر × ",
-  "time": "2026-10-26T19:00:00",
-  "team1": {
-    "name": "الرأس الأخضر",
-    "flag": "https://imgs.ysscores.com/teams/128/2061693918552.png"
-  },
-  "team2": {
-    "name": "اسواتيني",
-    "flag": "https://imgs.ysscores.com/teams/128/2821693917046.png"
-  },
-  "extra": false,
-  "channels": [
-    { "name": "SUPER TV 1", "url": "go:supertv1" },
-    { "name": "SUPER TV 2", "url": "go:supertv2" },
-    { "name": "ALWAN 1", "url": "go:ALWAN1" },
-    { "name": "MULTI", "url": "go:max14K" },
-    { "name": "FHD", "url": "go:max1FHD" },
-    { "name": "HD", "url": "go:max1HD" },
-    { "name": "SD", "url": "go:max1SD" }
-  ]
-},
-{
-  "league": "كأس العالم x",
-  "title": "جنوب افريقيا × ",
-  "time": "2026-10-28T22:00:00",
-  "team2": {
-    "name": "كندا",
-    "flag": "https://imgs.ysscores.com/teams/128/2281763070530.png"
-  },
-  "team1": {
-    "name": "جنوب افريقيا",
-    "flag": "https://imgs.ysscores.com/teams/128/1791763086999.png"
-  },
-  "extra": false,
-  "channels": [
-    { "name": "POST 1", "url": "go:POST1" },
-    { "name": "الفجر", "url": "go:Alfajr1" },
-    { "name": "ALWAN 1", "url": "go:ALWAN1" },
-    { "name": "MULTI", "url": "go:max14K" },
-    { "name": "MULTI", "url": "go:max24K" },
-    { "name": "FHD", "url": "go:max1FHD" },
-    { "name": "FHD", "url": "go:max2FHD" },
-    { "name": "HD", "url": "go:max1HD" },
-    { "name": "HD", "url": "go:max2HD" },
-    { "name": "SD", "url": "go:max1SD" },
-    { "name": "SD", "url": "go:max2SD" },
-    { "name": "LOW", "url": "go:max1LOW" },
-    { "name": "LOW", "url": "go:max2LOW" }
-  ]
-},
-{
-  "league": "مباراة ودية x",
-  "title": "الجزائر × ",
-  "time": "2026-10-06T20:00:00",
-  "team1": {
-    "name": "النيجر",
-    "flag": "https://imgs.ysscores.com/teams/128/6141763084139.png"
-  },
-  "team2": {
-    "name": "الجزائر",
-    "flag": "https://imgs.ysscores.com/teams/128/981693834281.png"
-  },
-  "extra": false,
-  "channels": [
-    { "name": "ENTV", "url": "go:ENTV" }
-  ]
-},
-{
-  "league": "مباراة ودية x",
-  "title": "مصر × ",
-  "time": "2026-10-04T21:00:00",
-  "team2": {
-    "name": "جنوب افريقيا",
-      "flag": "https://imgs.ysscores.com/teams/128/1791763086999.png"
-  },
-  "team1": {
-    "name": "مصر",
-    "flag": "https://imgs.ysscores.com/teams/128/9301763071949.png"
-  },
-  "extra": false,
-  "channels": [
-    { "name": "ALWAN 6", "url": "go:ALWAN6" },
-    { "name": "ON Sports", "url": "go:ONTime1" }
-  ]
-},
-  {
-  "league": "دوري الأمم الأوروبية x",
-  "title": "سويسرا × ",
-  "time": "2026-10-29T21:45:00",
-  "team2": {
-    "name": "اسكتلاندا",
-    "flag": "https://imgs.ysscores.com/teams/128/8131763086386.png"
-  },
-  "team1": {
-    "name": "سويسرا",
-    "flag": "https://imgs.ysscores.com/teams/128/1011763087595.png"
-  },
-  "extra": false,
-  "channels": [
-    { "name": "ALWAN 5", "url": "go:ALWAN5" },
-    { "name": "MULTI", "url": "go:CONNECT4" },
-    { "name": "FHD", "url": "go:Bein4hd" },
-    { "name": "HD", "url": "go:Bein4hd2" },
-    { "name": "SD", "url": "go:Bein4sd" },
-    { "name": "LOW", "url": "go:Bein4low" }
-  ]
-},
-{
-  "league": "كأس العالم x",
-  "title": "المكسيك × ",
-  "time": "2026-10-06T04:00:00",
-  "team1": {
-    "name": "المكسيك",
-    "flag": "https://imgs.ysscores.com/teams/128/7541763083305.png"
-  },
-  "team2": {
-    "name": "انجلترا",
-      "flag": "https://imgs.ysscores.com/teams/128/5831763072178.png"
-  },
-  "extra": false,
-  "channels": [
-    { "name": "TOD", "url": "go:TOD11" },
-    { "name": "الفجر", "url": "go:Alfajr1" },
-    { "name": "ALWAN 1", "url": "go:ALWAN1" },
-      { "name": "ALWAN 1", "url": "go:gogo1" },
-      { "name": "ALWAN 2", "url": "go:gogo2" },
-      { "name": "MULTI", "url": "go:max24K" },
-    { "name": "MULTI", "url": "go:max44K" },
-    { "name": "FHD", "url": "go:max2FHD" },
-    { "name": "FHD", "url": "go:max4FHD" },
-    { "name": "HD", "url": "go:max2HD" },
-    { "name": "HD", "url": "go:max4HD" },
-    { "name": "SD", "url": "go:max2SD" },
-    { "name": "SD", "url": "go:max4SD" },
-    { "name": "LOW", "url": "go:max2LOW" },
-    { "name": "LOW", "url": "go:max4LOW" }
-  ]
-},
-{
-  "league": "كأس العالم x",
-  "title": "كندا × ",
-  "time": "2026-10-24T22:00:00",
-  "team2": {
-    "name": "كندا",
-    "flag": "https://imgs.ysscores.com/teams/128/2281763070530.png"
-  },
-  "team1": {
-    "name": "سويسرا",
-    "flag": "https://imgs.ysscores.com/teams/128/1011763087595.png"
-  },
-  "extra": false,
-  "channels": [
-    { "name": "POST 2", "url": "go:POST2" },
-    { "name": "الفجر", "url": "go:Alfajr3" },
-    { "name": "ALWAN 2", "url": "go:ALWAN2" },
-    { "name": "MULTI", "url": "go:max24K" },
-    { "name": "FHD", "url": "go:max2FHD" },
-    { "name": "HD", "url": "go:max2HD" },
-    { "name": "SD", "url": "go:max2SD" },
-    { "name": "LOW", "url": "go:max2LOW" }
-  ]
-},
-{
-  "league": "كأس العالم x",
-  "title": "سويسرا × البوسنة والهرسك",
-  "time": "2026-10-02T03:00:00",
-  "team1": {
-    "name": "امريكا",
-    "flag": "https://imgs.ysscores.com/teams/128/2411763117653.png"
-  },
-  "team2": {
-    "name": "البوسنة والهرسك",
-    "flag": "https://imgs.ysscores.com/teams/128/4711763069706.png"
-  },
-  "extra": false,
-  "channels": [
-    { "name": "الفجر", "url": "go:Alfajr1" },
-    { "name": "ALWAN 1", "url": "go:ALWAN1" },
-      { "name": "MULTI", "url": "go:max14K" },
-      { "name": "MULTI", "url": "go:max34K" },
-      { "name": "FHD", "url": "go:max1FHD" },
-      { "name": "FHD", "url": "go:max3FHD" },
-      { "name": "HD", "url": "go:max1HD" },
-      { "name": "HD", "url": "go:max3HD" },
-      { "name": "SD", "url": "go:max1SD" },
-      { "name": "SD", "url": "go:max3SD" },
-      { "name": "LOW", "url": "go:max1LOW" },
-      { "name": "LOW", "url": "go:max3LOW" }
-  ]
-},
-{
-  "league": "كأس العالم x",
-  "title": " × ",
-  "time": "2026-10-26T05:00:00",
-  "team1": {
-    "name": "باراغواي",
-    "flag": "https://imgs.ysscores.com/teams/128/3591763085227.png"
-  },
-  "team2": {
-    "name": "استراليا",
-    "flag": "https://imgs.ysscores.com/teams/128/8691763067926.png"
-  },
-  "extra": false,
-  "channels": [
-    { "name": "POST 2", "url": "go:POST2" },
-    { "name": "الفجر", "url": "go:Alfajr3" },
-    { "name": "ALWAN 2", "url": "go:ALWAN2" },
-    { "name": "MULTI", "url": "go:max24K" },
-    { "name": "FHD", "url": "go:max2FHD" },
-    { "name": "HD", "url": "go:max2HD" },
-    { "name": "SD", "url": "go:max2SD" },
-    { "name": "LOW", "url": "go:max2LOW" }
-    ]
-  },
-  {
-  "league": "كأس العالم x",
-  "title": "هايتي × اسكتلندا",
-  "time": "2026-10-14T04:00:00",
-  "team1": {
-    "name": "هايتي",
-    "flag": "https://imgs.ysscores.com/teams/128/4331763080606.png"
-  },
-  "team2": {
-    "name": "اسكتلندا",
-    "flag": "https://imgs.ysscores.com/teams/128/8131763086386.png"
-  },
-  "extra": false,
-  "channels": [
-    { "name": "SUPER TV 1", "url": "go:supertv1" },
-    { "name": "SUPER TV 2", "url": "go:supertv3" },
-    { "name": "ALWAN 1", "url": "go:ALWAN1" },
-    { "name": "Alkass 1", "url": "go:alkass1" },
-    { "name": "MULTI", "url": "go:max14K" },
-    { "name": "MULTI", "url": "go:max34K" },
-    { "name": "FHD", "url": "go:max1FHD" },
-    { "name": "FHD", "url": "go:max3FHD" },
-    { "name": "HD", "url": "go:max1HD" },
-    { "name": "HD", "url": "go:max3HD" },
-    { "name": "SD", "url": "go:max1SD" },
-    { "name": "SD", "url": "go:max3SD" },
-    { "name": "LOW", "url": "go:max1LOW" },
-    { "name": "LOW", "url": "go:max3LOW" }
-  ]
-},
-{
-  "league": "دوري الأمم الأوروبية x",
-  "title": "تركيا × ",
-  "time": "2026-10-05T21:45:00",
-  "team1": {
-    "name": "تركيا",
-    "flag": "https://imgs.ysscores.com/teams/128/2991693826429.png"
-  },
-  "team2": {
-    "name": "ايطاليا",
-    "flag": "https://imgs.ysscores.com/teams/128/4141763081186.png"
-  },
-  "extra": false,
-  "channels": [
-      { "name": "ALWAN 2", "url": "go:ALWAN2" },
-    { "name": "MULTI", "url": "go:CONNECT2" },
-    { "name": "FHD", "url": "go:Bein2hd" },
-    { "name": "HD", "url": "go:Bein2hd2" },
-    { "name": "SD", "url": "go:Bein2sd" },
-    { "name": "LOW", "url": "go:Bein2low" }
-  ]
-},
-{
-  "league": "دوري الأمم الأوروبية x",
-  "title": "هولندا × ",
-  "time": "2026-10-04T21:45:00",
-  "team1": {
-    "name": "هولندا",
-    "flag": "https://imgs.ysscores.com/teams/128/6941763083796.png"
-  },
-  "team2": {
-    "name": "صربيا",
-    "flag": "https://imgs.ysscores.com/teams/128/431763086461.png"
-  },
-  "extra": false,
-  "channels": [
-    { "name": "ALWAN 2", "url": "go:ALWAN2" },
-    { "name": "MULTI", "url": "go:CONNECT4" },
-    { "name": "FHD", "url": "go:Bein4hd" },
-    { "name": "HD", "url": "go:Bein4hd2" },
-    { "name": "SD", "url": "go:Bein4sd" },
-    { "name": "LOW", "url": "go:Bein4low" }
-  ]
-},
-  {
-  "league": "دوري الأمم الأوروبية x",
-  "title": "النرويج × ",
-  "time": "2026-10-01T21:45:00",
-  "team1": {
-    "name": "ويلز",
-    "flag": "https://imgs.ysscores.com/teams/128/7371763118142.png"
-  },
-  "team2": {
-    "name": "النرويج",
-    "flag": "https://imgs.ysscores.com/teams/128/1891763084487.png"
-  },
-  "extra": false,
-  "channels": [
-    { "name": "ALWAN 4", "url": "go:ALWAN4" },
-    { "name": "MULTI", "url": "go:CONNECT3" },
-      { "name": "FHD", "url": "go:Bein3hd" },
-      { "name": "HD", "url": "go:Bein3hd2" },
-      { "name": "SD", "url": "go:Bein3sd" },
-      { "name": "LOW", "url": "go:Bein3low" }
-  ]
-},
-{
-  "league": "دوري الأمم الأوروبية x",
-  "title": "المانيا × ",
-  "time": "2026-10-04T21:45:00",
-  "team2": {
-    "name": "المانيا",
-    "flag": "https://imgs.ysscores.com/teams/128/8941763078415.png"
-  },
-  "team1": {
-    "name": "اليونان",
-    "flag": "https://imgs.ysscores.com/teams/128/331763078547.png"
-  },
-  "extra": false,
-  "channels": [
-    { "name": "ALWAN 3", "url": "go:ALWAN3" },
-    { "name": "MULTI", "url": "go:CONNECT3" },
-      { "name": "FHD", "url": "go:Bein3hd" },
-      { "name": "HD", "url": "go:Bein3hd2" },
-      { "name": "SD", "url": "go:Bein3sd" },
-      { "name": "LOW", "url": "go:Bein3low" }
-  ]
-},
-{
-  "league": "دوري الأمم الأوروبية x",
-  "title": " × بولندا",
-  "time": "2026-10-05T21:45:00",
-  "team1": {
-    "name": "البوسنة والهرسك",
-    "flag": "https://imgs.ysscores.com/teams/128/4711763069706.png"
-  },
-  "team2": {
-    "name": "بولندا",
-    "flag": "https://imgs.ysscores.com/teams/128/7861763085396.png"
-  },
-  "extra": false,
-  "channels": [
-    { "name": "ALWAN 5", "url": "go:ALWAN5" },
-    { "name": "MULTI", "url": "go:CONNECT4" },
-    { "name": "FHD", "url": "go:Bein4hd" },
-    { "name": "HD", "url": "go:Bein4hd2" },
-    { "name": "SD", "url": "go:Bein4sd" },
-    { "name": "LOW", "url": "go:Bein4low" }
-  ]
-},
-  {
-  "league": "دوري الأمم الأوروبية x",
-  "title": "اسبانيا × ",
-  "time": "2026-10-06T21:45:00",
-  "team2": {
-    "name": "اسبانيا",
-    "flag": "https://imgs.ysscores.com/teams/128/6231763087210.png"
-  },
-  "team1": {
-    "name": "كرواتيا",
-    "flag": "https://imgs.ysscores.com/teams/128/7661763071283.png"
-  },
-  "extra": false,
-  "channels": [
-    { "name": "ALWAN 2", "url": "go:ALWAN2" },
-    { "name": "MULTI", "url": "go:CONNECT1" },
-    { "name": "FHD", "url": "go:Bein1hd" },
-    { "name": "HD", "url": "go:Bein1hd2" },
-    { "name": "SD", "url": "go:Bein1sd" },
-    { "name": "LOW", "url": "go:Bein1low" }
-  ]
-},
-  {
-  "league": "دوري الأمم الأوروبية x",
-  "title": " × بلجيكا",
-  "time": "2026-10-02T21:45:00",
-  "team2": {
-    "name": "تركيا",
-    "flag": "https://imgs.ysscores.com/teams/128/171763117169.png"
-  },
-  "team1": {
-    "name": "بلجيكا",
-    "flag": "https://imgs.ysscores.com/teams/128/6271763069075.png"
-  },
-  "extra": false,
-  "channels": [
-    { "name": "ALWAN 2", "url": "go:ALWAN2" },
-    { "name": "MULTI", "url": "go:CONNECT2" },
-    { "name": "FHD", "url": "go:Bein2hd" },
-    { "name": "HD", "url": "go:Bein2hd2" },
-    { "name": "SD", "url": "go:Bein2sd" },
-    { "name": "LOW", "url": "go:Bein2low" }
-  ]
-},
-  {
-  "league": "دوري الأمم الأوروبية x",
-  "title": "السويد × ",
-  "time": "2026-10-05T21:45:00",
-  "team2": {
-    "name": "السويد",
-    "flag": "https://imgs.ysscores.com/teams/128/2981763087554.png"
-  },
-  "team1": {
-    "name": "رومانيا",
-    "flag": "https://imgs.ysscores.com/teams/128/6501763085627.png"
-  },
-  "extra": false,
-  "channels": [
-    { "name": "ALWAN 6", "url": "go:ALWAN6" },
-    { "name": "MULTI", "url": "go:CONNECT3" },
-      { "name": "FHD", "url": "go:Bein3hd" },
-      { "name": "HD", "url": "go:Bein3hd2" },
-      { "name": "SD", "url": "go:Bein3sd" },
-      { "name": "LOW", "url": "go:Bein3low" }
-  ]
-},
-  {
-  "league": "دوري الأمم الأوروبية x",
-  "title": "فرنسا × ",
-  "time": "2026-10-05T21:45:00",
-  "team1": {
-    "name": "فرنسا",
-    "flag": "https://imgs.ysscores.com/teams/128/2961763078000.png"
-  },
-  "team2": {
-      "name": "بلجيكا",
-      "flag": "https://imgs.ysscores.com/teams/128/6271763069075.png"
-  },
-  "extra": false,
-  "channels": [
-    { "name": "SUPER TV 1", "url": "go:supertv1" },
-    { "name": "ALWAN 1", "url": "go:ALWAN1" },
-    { "name": "MULTI", "url": "go:CONNECT1" },
-    { "name": "FHD", "url": "go:Bein1hd" },
-    { "name": "HD", "url": "go:Bein1hd2" },
-    { "name": "SD", "url": "go:Bein1sd" },
-    { "name": "LOW", "url": "go:Bein1low" }
-  ]
-},
-  {
-  "league": "دوري الأمم الأوروبية x",
-  "title": "كرواتيا × ",
-  "time": "2026-10-26T21:45:00",
-  "team2": {
-    "name": "كرواتيا",
-    "flag": "https://imgs.ysscores.com/teams/128/7661763071283.png"
-  },
-  "team1": {
-    "name": "التشيك",
-      "flag": "https://imgs.ysscores.com/teams/128/1641763071555.png"
-  },
-  "extra": false,
-  "channels": [
-    { "name": "ALWAN 3", "url": "go:ALWAN3" },
-    { "name": "MULTI", "url": "go:CONNECT2" },
-    { "name": "FHD", "url": "go:Bein2hd" },
-    { "name": "HD", "url": "go:Bein2hd2" },
-    { "name": "SD", "url": "go:Bein2sd" },
-    { "name": "LOW", "url": "go:Bein2low" }
-  ]
-},
-  {
     "league": "دوري الأمم الأوروبية x",
-    "title": "ايطاليا × ",
-    "time": "2026-10-25T21:45:00",
-    "team2": {
-    "name": "تركيا",
-    "flag": "https://imgs.ysscores.com/teams/128/171763117169.png"
-    },
+    "title": "النرويج × ",
+    "time": "2026-10-01T21:45:00",
     "team1": {
-      "name": "ايطاليا",
-      "flag": "https://imgs.ysscores.com/teams/128/4141763081186.png"
-    },
-    "extra": false,
-    "channels": [
-      { "name": "ALWAN 2", "url": "go:ALWAN2" },
-    { "name": "MULTI", "url": "go:CONNECT2" },
-    { "name": "FHD", "url": "go:Bein2hd" },
-    { "name": "HD", "url": "go:Bein2hd2" },
-    { "name": "SD", "url": "go:Bein2sd" },
-    { "name": "LOW", "url": "go:Bein2low" }
-    ]
-  },
-  {
-    "league": "دوري الأمم الأوروبية x",
-    "title": "الدنمارك × ",
-    "time": "2026-10-27T19:00:00",
-    "team1": {
-      "name": "الدنمارك",
-      "flag": "https://imgs.ysscores.com/teams/128/5741763071628.png"
-    },
-    "team2": {
       "name": "ويلز",
       "flag": "https://imgs.ysscores.com/teams/128/7371763118142.png"
     },
-    "extra": false,
-    "channels": [
-      { "name": "ALWAN 5", "url": "go:ALWAN5" },
-    { "name": "MULTI", "url": "go:CONNECT2" },
-    { "name": "FHD", "url": "go:Bein2hd" },
-    { "name": "HD", "url": "go:Bein2hd2" },
-    { "name": "SD", "url": "go:Bein2sd" },
-    { "name": "LOW", "url": "go:Bein2low" }
-    ]
-  },
-  {
-    "league": "دوري الأمم الأوروبية x",
-    "title": " × البرتغال",
-    "time": "2026-10-04T21:45:00",
-    "team1": {
-      "name": "البرتغال",
-      "flag": "https://imgs.ysscores.com/teams/128/3431763085446.png"
-    },
     "team2": {
       "name": "النرويج",
-    "flag": "https://imgs.ysscores.com/teams/128/1891763084487.png"
+      "flag": "https://imgs.ysscores.com/teams/128/1891763084487.png"
     },
     "extra": false,
     "channels": [
-    { "name": "ALWAN 1", "url": "go:ALWAN1" },
-    { "name": "MULTI", "url": "go:CONNECT1" },
-    { "name": "FHD", "url": "go:Bein1hd" },
-    { "name": "HD", "url": "go:Bein1hd2" },
-    { "name": "SD", "url": "go:Bein1sd" },
-    { "name": "LOW", "url": "go:Bein1low" }
-    ]
-  },
-  {
-    "league": "دوري الأمم الأوروبية x",
-    "title": "انجلترا × ",
-    "time": "2026-10-06T21:45:00",
-    "team1": {
-      "name": "انجلترا",
-      "flag": "https://imgs.ysscores.com/teams/128/5831763072178.png"
-    },
-    "team2": {
-      "name": "التشيك",
-      "flag": "https://imgs.ysscores.com/teams/128/1641763071555.png"
-    },
-    "extra": false,
-    "channels": [
-    { "name": "ALWAN 3", "url": "go:ALWAN3" },
-    { "name": "MULTI", "url": "go:CONNECT2" },
-    { "name": "FHD", "url": "go:Bein2hd" },
-    { "name": "HD", "url": "go:Bein2hd2" },
-    { "name": "SD", "url": "go:Bein2sd" },
-    { "name": "LOW", "url": "go:Bein2low" }
+      {
+        "name": "ALWAN 4",
+        "url": "go:ALWAN4"
+      },
+      {
+        "name": "MULTI",
+        "url": "go:CONNECT3"
+      },
+      {
+        "name": "FHD",
+        "url": "go:Bein3hd"
+      },
+      {
+        "name": "HD",
+        "url": "go:Bein3hd2"
+      },
+      {
+        "name": "SD",
+        "url": "go:Bein3sd"
+      },
+      {
+        "name": "LOW",
+        "url": "go:Bein3low"
+      }
     ]
   },
   {
@@ -817,36 +53,178 @@
     },
     "extra": false,
     "channels": [
-      { "name": "الفجر", "url": "go:Alfajr1" },
-      { "name": "ALWAN 1", "url": "go:ALWAN1" },
-      { "name": "MULTI", "url": "go:max24K" },
-      { "name": "MULTI", "url": "go:max44K" },
-      { "name": "FHD", "url": "go:max2FHD" },
-      { "name": "FHD", "url": "go:max4FHD" },
-      { "name": "HD", "url": "go:max2HD" },
-      { "name": "HD", "url": "go:max4HD" },
-      { "name": "SD", "url": "go:max2SD" },
-      { "name": "SD", "url": "go:max4SD" },
-      { "name": "LOW", "url": "go:max2LOW" },
-      { "name": "LOW", "url": "go:max4LOW" }
+      {
+        "name": "الفجر",
+        "url": "go:Alfajr1"
+      },
+      {
+        "name": "ALWAN 1",
+        "url": "go:ALWAN1"
+      },
+      {
+        "name": "MULTI",
+        "url": "go:max24K"
+      },
+      {
+        "name": "MULTI",
+        "url": "go:max44K"
+      },
+      {
+        "name": "FHD",
+        "url": "go:max2FHD"
+      },
+      {
+        "name": "FHD",
+        "url": "go:max4FHD"
+      },
+      {
+        "name": "HD",
+        "url": "go:max2HD"
+      },
+      {
+        "name": "HD",
+        "url": "go:max4HD"
+      },
+      {
+        "name": "SD",
+        "url": "go:max2SD"
+      },
+      {
+        "name": "SD",
+        "url": "go:max4SD"
+      },
+      {
+        "name": "LOW",
+        "url": "go:max2LOW"
+      },
+      {
+        "name": "LOW",
+        "url": "go:max4LOW"
+      }
+    ]
+  },
+  {
+    "league": "كأس العالم x",
+    "title": "سويسرا × البوسنة والهرسك",
+    "time": "2026-10-02T03:00:00",
+    "team1": {
+      "name": "امريكا",
+      "flag": "https://imgs.ysscores.com/teams/128/2411763117653.png"
+    },
+    "team2": {
+      "name": "البوسنة والهرسك",
+      "flag": "https://imgs.ysscores.com/teams/128/4711763069706.png"
+    },
+    "extra": false,
+    "channels": [
+      {
+        "name": "الفجر",
+        "url": "go:Alfajr1"
+      },
+      {
+        "name": "ALWAN 1",
+        "url": "go:ALWAN1"
+      },
+      {
+        "name": "MULTI",
+        "url": "go:max14K"
+      },
+      {
+        "name": "MULTI",
+        "url": "go:max34K"
+      },
+      {
+        "name": "FHD",
+        "url": "go:max1FHD"
+      },
+      {
+        "name": "FHD",
+        "url": "go:max3FHD"
+      },
+      {
+        "name": "HD",
+        "url": "go:max1HD"
+      },
+      {
+        "name": "HD",
+        "url": "go:max3HD"
+      },
+      {
+        "name": "SD",
+        "url": "go:max1SD"
+      },
+      {
+        "name": "SD",
+        "url": "go:max3SD"
+      },
+      {
+        "name": "LOW",
+        "url": "go:max1LOW"
+      },
+      {
+        "name": "LOW",
+        "url": "go:max3LOW"
+      }
+    ]
+  },
+  {
+    "league": "دوري الأمم الأوروبية x",
+    "title": " × بلجيكا",
+    "time": "2026-10-02T21:45:00",
+    "team2": {
+      "name": "تركيا",
+      "flag": "https://imgs.ysscores.com/teams/128/171763117169.png"
+    },
+    "team1": {
+      "name": "بلجيكا",
+      "flag": "https://imgs.ysscores.com/teams/128/6271763069075.png"
+    },
+    "extra": false,
+    "channels": [
+      {
+        "name": "ALWAN 2",
+        "url": "go:ALWAN2"
+      },
+      {
+        "name": "MULTI",
+        "url": "go:CONNECT2"
+      },
+      {
+        "name": "FHD",
+        "url": "go:Bein2hd"
+      },
+      {
+        "name": "HD",
+        "url": "go:Bein2hd2"
+      },
+      {
+        "name": "SD",
+        "url": "go:Bein2sd"
+      },
+      {
+        "name": "LOW",
+        "url": "go:Bein2low"
+      }
     ]
   },
   {
     "league": "مباراة ودية x",
-    "title": "الأردن × ",
-    "time": "2026-10-06T20:00:00",
+    "title": "البرازيل × ",
+    "time": "2026-10-03T17:00:00",
     "team2": {
-    "name": "فنزويلا",
-    "flag": "https://imgs.ysscores.com/teams/128/3031763117870.png"
+      "name": "البرازيل",
+      "flag": "https://imgs.ysscores.com/teams/128/4331763069849.png"
     },
     "team1": {
-      "name": "الأردن",
-      "flag": "https://imgs.ysscores.com/teams/128/9261693822771.png"
+      "name": "الهند",
+      "flag": "https://imgs.ysscores.com/teams/128/4801763080864.png"
     },
     "extra": false,
     "channels": [
-      { "name": "ALWAN 6", "url": "go:ALWAN6" },
-      { "name": "الأردن الرياضية", "url": "go:jordansp" }
+      {
+        "name": "ALWAN 2",
+        "url": "go:ALWAN2"
+      }
     ]
   },
   {
@@ -863,170 +241,218 @@
     },
     "extra": false,
     "channels": [
-      { "name": "ALKASS 1", "url": "go:alkass1" },
-    { "name": "AD SPORTS 1", "url": "go:adsp1" },
-    { "name": "ALWAN 1", "url": "go:ALWAN1" },
-    { "name": "KSA Sports 1", "url": "go:ksa1" },
-    { "name": "KSA Sports 1", "url": "go:ksa1" },
-    { "name": "OMAN Sports", "url": "go:omansport" },
-    { "name": "Kuwait Sports", "url": "go:KuwaitSP" },
-    { "name": "الشارقة الرياضية", "url": "go:shsport" },
-    { "name": "mbc Action", "url": "go:mbcaction" },
-    { "name": "mbc 1", "url": "go:mbc1" },
-    { "name": "SHASHA", "url": "go:SHASHA1" }
+      {
+        "name": "ALKASS 1",
+        "url": "go:alkass1"
+      },
+      {
+        "name": "AD SPORTS 1",
+        "url": "go:adsp1"
+      },
+      {
+        "name": "ALWAN 1",
+        "url": "go:ALWAN1"
+      },
+      {
+        "name": "KSA Sports 1",
+        "url": "go:ksa1"
+      },
+      {
+        "name": "KSA Sports 1",
+        "url": "go:ksa1"
+      },
+      {
+        "name": "OMAN Sports",
+        "url": "go:omansport"
+      },
+      {
+        "name": "Kuwait Sports",
+        "url": "go:KuwaitSP"
+      },
+      {
+        "name": "الشارقة الرياضية",
+        "url": "go:shsport"
+      },
+      {
+        "name": "mbc Action",
+        "url": "go:mbcaction"
+      },
+      {
+        "name": "mbc 1",
+        "url": "go:mbc1"
+      },
+      {
+        "name": "SHASHA",
+        "url": "go:SHASHA1"
+      }
     ]
   },
- {
-  "league": "كأس الخليج العربي 27 x",
-  "title": " × العراق",
-  "time": "2026-10-23T17:30:00",
-  "team2": {
-    "name": "عمان",
-    "flag": "https://imgs.ysscores.com/teams/128/7281763084559.png"
-  },
-  "team1": {
-    "name": "العراق",
-    "flag": "https://imgs.ysscores.com/teams/128/7501693832609.png"
-  },
-  "status": "",
-  "stoppedAt": "2026-10-23T01:00:00",
-  "resumeAt": "2026-10-23T03:00:00",
-  "extra": false,
-  "channels": [
-    { "name": "ALKASS 1", "url": "go:alkass1" },
-    { "name": "ALKASS 2", "url": "go:alkass2" },
-    { "name": "AD SPORTS 1", "url": "go:adsp1" },
-    { "name": "ALWAN 1", "url": "go:ALWAN1" },
-    { "name": "KSA Sports 1", "url": "go:ksa1" },
-    { "name": "OMAN Sports", "url": "go:omansport" },
-    { "name": "Kuwait Sports", "url": "go:KuwaitSP" },
-    { "name": "الشارقة الرياضية", "url": "go:shsport" },
-    { "name": "mbc Action", "url": "go:mbcaction" },
-    { "name": "SHASHA", "url": "go:SHASHA1" }
-  ]
-},
-  {
-    "league": "كأس الخليج العربي 27 x",
-    "title": "قطر × ",
-    "time": "2026-10-27T18:55:00",
-    "team2": {
-      "name": "قطر",
-      "flag": "https://imgs.ysscores.com/teams/128/4211693824633.png"
-    },
-    "team1": {
-      "name": "اليمن",
-      "flag": "https://imgs.ysscores.com/teams/128/621763118201.png"
-    },
-    "extra": false,
-    "channels": [
-      { "name": "ALKASS 1", "url": "go:alkass1" },
-    { "name": "ALKASS 2", "url": "go:alkass2" },
-    { "name": "AD SPORTS 2", "url": "go:adsp2" },
-    { "name": "ALWAN 1", "url": "go:ALWAN1" },
-    { "name": "KSA Sports 2", "url": "go:ksa2" },
-    { "name": "OMAN Sports", "url": "go:omansport" },
-    { "name": "Kuwait Sports", "url": "go:KuwaitSP" },
-    { "name": "الشارقة الرياضية", "url": "go:shsport" },
-    { "name": "mbc Action", "url": "go:mbcaction" },
-    { "name": "SHASHA", "url": "go:SHASHA1" }
-      ]
-  },
-  
-  {
-    "league": "كأس الخليج العربي 27 x",
-    "title": "قطر × ",
-    "time": "2026-10-30T20:30:00",
-    "team1": {
-      "name": "البحرين",
-      "flag": "https://imgs.ysscores.com/teams/128/9791763068542.png"
-    },
-    "team2": {
-      "name": "اليمن",
-      "flag": "https://imgs.ysscores.com/teams/128/621763118201.png"
-    },
-    "extra": false,
-    "channels": [
-    { "name": "ALKASS 2", "url": "go:alkass2" },
-    { "name": "AD SPORTS 2", "url": "go:adsp2" },
-    { "name": "ALWAN 2", "url": "go:ALWAN2" },
-    { "name": "KSA Sports 2", "url": "go:ksa2" },
-    { "name": "OMAN Sports", "url": "go:omansport" },
-    { "name": "Kuwait Sports", "url": "go:KuwaitSP" },
-    { "name": "الشارقة الرياضية", "url": "go:shsport" },
-    { "name": "SHASHA", "url": "go:SHASHA2" }
-      ]
-  },
-  {
-    "league": "كأس الخليج العربي 27 x",
-    "title": "عمان × ",
-    "time": "2026-10-29T20:30:00",
-    "team1": {
-      "name": "عمان",
-      "flag": "https://imgs.ysscores.com/teams/128/3811693834375.png"
-    },
-    "team2": {
-      "name": "الكويت",
-      "flag": "https://imgs.ysscores.com/teams/128/7891763081821.png"
-    },
-    "extra": false,
-    "channels": [
-    { "name": "ALKASS 2", "url": "go:alkass2" },
-    { "name": "AD SPORTS 2", "url": "go:adsp2" },
-    { "name": "ALWAN 2", "url": "go:ALWAN2" },
-    { "name": "KSA Sports 2", "url": "go:ksa2" },
-    { "name": "OMAN Sports", "url": "go:omansport" },
-    { "name": "Kuwait Sports ", "url": "go:KuwaitSP" },
-    { "name": "mbc Action", "url": "go:mbcaction" },
-    { "name": "SHASHA", "url": "go:SHASHA2" }
-    ]
-  },
-  {
-    "league": "كأس الخليج العربي 27 x",
-    "title": "الامارات × ",
-    "time": "2026-10-06T21:00:00",
-    "team2": {
-      "name": "الامارات",
-      "flag": "https://imgs.ysscores.com/teams/128/2561694436716.png"
-    },
-    "team1": {
-      "name": "السعودية",
-      "flag": "https://imgs.ysscores.com/teams/128/7231728507982.png"
-    },
-    "extra": false,
-    "channels": [
-    { "name": "AD SPORTS 1", "url": "go:adsp1" },
-    { "name": "AD SPORTS 2", "url": "go:adsp2" },
-    { "name": "ALWAN 1", "url": "go:ALWAN1" },
-    { "name": "KSA Sports 1", "url": "go:ksa1" },
-    { "name": "KSA Sports 2", "url": "go:ksa2" },
-    { "name": "ALKASS 1", "url": "go:alkass1" },
-    { "name": "ALKASS 2", "url": "go:alkass2" },
-    { "name": "OMAN Sports", "url": "go:omansport" },
-    { "name": "Kuwait Sports", "url": "go:KuwaitSP" },
-    { "name": "الشارقة الرياضية", "url": "go:shsport" },
-    { "name": "mbc Action", "url": "go:mbcaction" },
-    { "name": "mbc 1", "url": "go:mbc1" },
-    { "name": "SHASHA", "url": "go:SHASHA1" }
-    ]
-  },
-
   {
     "league": "مباراة ودية x",
-    "title": "قيرغيزستان × فلسطين",
-    "time": "2026-10-06T17:30:00",
+    "title": "المغرب × ",
+    "time": "2026-10-04T21:00:00",
     "team1": {
-      "name": "قيرغيزستان",
-      "flag": "https://imgs.ysscores.com/teams/128/7071763082088.png"
+      "name": "مالي",
+      "flag": "https://imgs.ysscores.com/teams/128/7571763083037.png"
     },
     "team2": {
-      "name": "فلسطين",
-      "flag": "https://imgs.ysscores.com/teams/128/9311763084802.png"
+      "name": "المغرب",
+      "flag": "https://imgs.ysscores.com/teams/128/6291763083538.png"
     },
     "extra": false,
     "channels": [
       {
-        "name": "الكويت الرياضية",
-        "url": "go:KuwaitSP" }
+        "name": "ALWAN 5",
+        "url": "go:ALWAN5"
+      },
+      {
+        "name": "MULTI",
+        "url": "go:Arryadia"
+      }
+    ]
+  },
+  {
+    "league": "مباراة ودية x",
+    "title": "مصر × ",
+    "time": "2026-10-04T21:00:00",
+    "team2": {
+      "name": "جنوب افريقيا",
+      "flag": "https://imgs.ysscores.com/teams/128/1791763086999.png"
+    },
+    "team1": {
+      "name": "مصر",
+      "flag": "https://imgs.ysscores.com/teams/128/9301763071949.png"
+    },
+    "extra": false,
+    "channels": [
+      {
+        "name": "ALWAN 6",
+        "url": "go:ALWAN6"
+      },
+      {
+        "name": "ON Sports",
+        "url": "go:ONTime1"
+      }
+    ]
+  },
+  {
+    "league": "دوري الأمم الأوروبية x",
+    "title": "هولندا × ",
+    "time": "2026-10-04T21:45:00",
+    "team1": {
+      "name": "هولندا",
+      "flag": "https://imgs.ysscores.com/teams/128/6941763083796.png"
+    },
+    "team2": {
+      "name": "صربيا",
+      "flag": "https://imgs.ysscores.com/teams/128/431763086461.png"
+    },
+    "extra": false,
+    "channels": [
+      {
+        "name": "ALWAN 2",
+        "url": "go:ALWAN2"
+      },
+      {
+        "name": "MULTI",
+        "url": "go:CONNECT4"
+      },
+      {
+        "name": "FHD",
+        "url": "go:Bein4hd"
+      },
+      {
+        "name": "HD",
+        "url": "go:Bein4hd2"
+      },
+      {
+        "name": "SD",
+        "url": "go:Bein4sd"
+      },
+      {
+        "name": "LOW",
+        "url": "go:Bein4low"
+      }
+    ]
+  },
+  {
+    "league": "دوري الأمم الأوروبية x",
+    "title": "المانيا × ",
+    "time": "2026-10-04T21:45:00",
+    "team2": {
+      "name": "المانيا",
+      "flag": "https://imgs.ysscores.com/teams/128/8941763078415.png"
+    },
+    "team1": {
+      "name": "اليونان",
+      "flag": "https://imgs.ysscores.com/teams/128/331763078547.png"
+    },
+    "extra": false,
+    "channels": [
+      {
+        "name": "ALWAN 3",
+        "url": "go:ALWAN3"
+      },
+      {
+        "name": "MULTI",
+        "url": "go:CONNECT3"
+      },
+      {
+        "name": "FHD",
+        "url": "go:Bein3hd"
+      },
+      {
+        "name": "HD",
+        "url": "go:Bein3hd2"
+      },
+      {
+        "name": "SD",
+        "url": "go:Bein3sd"
+      },
+      {
+        "name": "LOW",
+        "url": "go:Bein3low"
+      }
+    ]
+  },
+  {
+    "league": "دوري الأمم الأوروبية x",
+    "title": " × البرتغال",
+    "time": "2026-10-04T21:45:00",
+    "team1": {
+      "name": "البرتغال",
+      "flag": "https://imgs.ysscores.com/teams/128/3431763085446.png"
+    },
+    "team2": {
+      "name": "النرويج",
+      "flag": "https://imgs.ysscores.com/teams/128/1891763084487.png"
+    },
+    "extra": false,
+    "channels": [
+      {
+        "name": "ALWAN 1",
+        "url": "go:ALWAN1"
+      },
+      {
+        "name": "MULTI",
+        "url": "go:CONNECT1"
+      },
+      {
+        "name": "FHD",
+        "url": "go:Bein1hd"
+      },
+      {
+        "name": "HD",
+        "url": "go:Bein1hd2"
+      },
+      {
+        "name": "SD",
+        "url": "go:Bein1sd"
+      },
+      {
+        "name": "LOW",
+        "url": "go:Bein1low"
+      }
     ]
   },
   {
@@ -1045,7 +471,751 @@
     "channels": [
       {
         "name": "الكويت الرياضية",
-        "url": "go:KuwaitSP" }
+        "url": "go:KuwaitSP"
+      }
+    ]
+  },
+  {
+    "league": "دوري الأمم الأوروبية x",
+    "title": "تركيا × ",
+    "time": "2026-10-05T21:45:00",
+    "team1": {
+      "name": "تركيا",
+      "flag": "https://imgs.ysscores.com/teams/128/2991693826429.png"
+    },
+    "team2": {
+      "name": "ايطاليا",
+      "flag": "https://imgs.ysscores.com/teams/128/4141763081186.png"
+    },
+    "extra": false,
+    "channels": [
+      {
+        "name": "ALWAN 2",
+        "url": "go:ALWAN2"
+      },
+      {
+        "name": "MULTI",
+        "url": "go:CONNECT2"
+      },
+      {
+        "name": "FHD",
+        "url": "go:Bein2hd"
+      },
+      {
+        "name": "HD",
+        "url": "go:Bein2hd2"
+      },
+      {
+        "name": "SD",
+        "url": "go:Bein2sd"
+      },
+      {
+        "name": "LOW",
+        "url": "go:Bein2low"
+      }
+    ]
+  },
+  {
+    "league": "دوري الأمم الأوروبية x",
+    "title": " × بولندا",
+    "time": "2026-10-05T21:45:00",
+    "team1": {
+      "name": "البوسنة والهرسك",
+      "flag": "https://imgs.ysscores.com/teams/128/4711763069706.png"
+    },
+    "team2": {
+      "name": "بولندا",
+      "flag": "https://imgs.ysscores.com/teams/128/7861763085396.png"
+    },
+    "extra": false,
+    "channels": [
+      {
+        "name": "ALWAN 5",
+        "url": "go:ALWAN5"
+      },
+      {
+        "name": "MULTI",
+        "url": "go:CONNECT4"
+      },
+      {
+        "name": "FHD",
+        "url": "go:Bein4hd"
+      },
+      {
+        "name": "HD",
+        "url": "go:Bein4hd2"
+      },
+      {
+        "name": "SD",
+        "url": "go:Bein4sd"
+      },
+      {
+        "name": "LOW",
+        "url": "go:Bein4low"
+      }
+    ]
+  },
+  {
+    "league": "دوري الأمم الأوروبية x",
+    "title": "السويد × ",
+    "time": "2026-10-05T21:45:00",
+    "team2": {
+      "name": "السويد",
+      "flag": "https://imgs.ysscores.com/teams/128/2981763087554.png"
+    },
+    "team1": {
+      "name": "رومانيا",
+      "flag": "https://imgs.ysscores.com/teams/128/6501763085627.png"
+    },
+    "extra": false,
+    "channels": [
+      {
+        "name": "ALWAN 6",
+        "url": "go:ALWAN6"
+      },
+      {
+        "name": "MULTI",
+        "url": "go:CONNECT3"
+      },
+      {
+        "name": "FHD",
+        "url": "go:Bein3hd"
+      },
+      {
+        "name": "HD",
+        "url": "go:Bein3hd2"
+      },
+      {
+        "name": "SD",
+        "url": "go:Bein3sd"
+      },
+      {
+        "name": "LOW",
+        "url": "go:Bein3low"
+      }
+    ]
+  },
+  {
+    "league": "دوري الأمم الأوروبية x",
+    "title": "فرنسا × ",
+    "time": "2026-10-05T21:45:00",
+    "team1": {
+      "name": "فرنسا",
+      "flag": "https://imgs.ysscores.com/teams/128/2961763078000.png"
+    },
+    "team2": {
+      "name": "بلجيكا",
+      "flag": "https://imgs.ysscores.com/teams/128/6271763069075.png"
+    },
+    "extra": false,
+    "channels": [
+      {
+        "name": "SUPER TV 1",
+        "url": "go:supertv1"
+      },
+      {
+        "name": "ALWAN 1",
+        "url": "go:ALWAN1"
+      },
+      {
+        "name": "MULTI",
+        "url": "go:CONNECT1"
+      },
+      {
+        "name": "FHD",
+        "url": "go:Bein1hd"
+      },
+      {
+        "name": "HD",
+        "url": "go:Bein1hd2"
+      },
+      {
+        "name": "SD",
+        "url": "go:Bein1sd"
+      },
+      {
+        "name": "LOW",
+        "url": "go:Bein1low"
+      }
+    ]
+  },
+  {
+    "league": "كأس العالم x",
+    "title": "المكسيك × ",
+    "time": "2026-10-06T04:00:00",
+    "team1": {
+      "name": "المكسيك",
+      "flag": "https://imgs.ysscores.com/teams/128/7541763083305.png"
+    },
+    "team2": {
+      "name": "انجلترا",
+      "flag": "https://imgs.ysscores.com/teams/128/5831763072178.png"
+    },
+    "extra": false,
+    "channels": [
+      {
+        "name": "TOD",
+        "url": "go:TOD11"
+      },
+      {
+        "name": "الفجر",
+        "url": "go:Alfajr1"
+      },
+      {
+        "name": "ALWAN 1",
+        "url": "go:ALWAN1"
+      },
+      {
+        "name": "ALWAN 1",
+        "url": "go:gogo1"
+      },
+      {
+        "name": "ALWAN 2",
+        "url": "go:gogo2"
+      },
+      {
+        "name": "MULTI",
+        "url": "go:max24K"
+      },
+      {
+        "name": "MULTI",
+        "url": "go:max44K"
+      },
+      {
+        "name": "FHD",
+        "url": "go:max2FHD"
+      },
+      {
+        "name": "FHD",
+        "url": "go:max4FHD"
+      },
+      {
+        "name": "HD",
+        "url": "go:max2HD"
+      },
+      {
+        "name": "HD",
+        "url": "go:max4HD"
+      },
+      {
+        "name": "SD",
+        "url": "go:max2SD"
+      },
+      {
+        "name": "SD",
+        "url": "go:max4SD"
+      },
+      {
+        "name": "LOW",
+        "url": "go:max2LOW"
+      },
+      {
+        "name": "LOW",
+        "url": "go:max4LOW"
+      }
+    ]
+  },
+  {
+    "league": "مباراة ودية x",
+    "title": "قيرغيزستان × فلسطين",
+    "time": "2026-10-06T17:30:00",
+    "team1": {
+      "name": "قيرغيزستان",
+      "flag": "https://imgs.ysscores.com/teams/128/7071763082088.png"
+    },
+    "team2": {
+      "name": "فلسطين",
+      "flag": "https://imgs.ysscores.com/teams/128/9311763084802.png"
+    },
+    "extra": false,
+    "channels": [
+      {
+        "name": "الكويت الرياضية",
+        "url": "go:KuwaitSP"
+      }
+    ]
+  },
+  {
+    "league": "مباراة ودية x",
+    "title": "الجزائر × ",
+    "time": "2026-10-06T20:00:00",
+    "team1": {
+      "name": "النيجر",
+      "flag": "https://imgs.ysscores.com/teams/128/6141763084139.png"
+    },
+    "team2": {
+      "name": "الجزائر",
+      "flag": "https://imgs.ysscores.com/teams/128/981693834281.png"
+    },
+    "extra": false,
+    "channels": [
+      {
+        "name": "ENTV",
+        "url": "go:ENTV"
+      }
+    ]
+  },
+  {
+    "league": "مباراة ودية x",
+    "title": "الأردن × ",
+    "time": "2026-10-06T20:00:00",
+    "team2": {
+      "name": "فنزويلا",
+      "flag": "https://imgs.ysscores.com/teams/128/3031763117870.png"
+    },
+    "team1": {
+      "name": "الأردن",
+      "flag": "https://imgs.ysscores.com/teams/128/9261693822771.png"
+    },
+    "extra": false,
+    "channels": [
+      {
+        "name": "ALWAN 6",
+        "url": "go:ALWAN6"
+      },
+      {
+        "name": "الأردن الرياضية",
+        "url": "go:jordansp"
+      }
+    ]
+  },
+  {
+    "league": "كأس الخليج العربي 27 x",
+    "title": "الامارات × ",
+    "time": "2026-10-06T21:00:00",
+    "team2": {
+      "name": "الامارات",
+      "flag": "https://imgs.ysscores.com/teams/128/2561694436716.png"
+    },
+    "team1": {
+      "name": "السعودية",
+      "flag": "https://imgs.ysscores.com/teams/128/7231728507982.png"
+    },
+    "extra": false,
+    "channels": [
+      {
+        "name": "AD SPORTS 1",
+        "url": "go:adsp1"
+      },
+      {
+        "name": "AD SPORTS 2",
+        "url": "go:adsp2"
+      },
+      {
+        "name": "ALWAN 1",
+        "url": "go:ALWAN1"
+      },
+      {
+        "name": "KSA Sports 1",
+        "url": "go:ksa1"
+      },
+      {
+        "name": "KSA Sports 2",
+        "url": "go:ksa2"
+      },
+      {
+        "name": "ALKASS 1",
+        "url": "go:alkass1"
+      },
+      {
+        "name": "ALKASS 2",
+        "url": "go:alkass2"
+      },
+      {
+        "name": "OMAN Sports",
+        "url": "go:omansport"
+      },
+      {
+        "name": "Kuwait Sports",
+        "url": "go:KuwaitSP"
+      },
+      {
+        "name": "الشارقة الرياضية",
+        "url": "go:shsport"
+      },
+      {
+        "name": "mbc Action",
+        "url": "go:mbcaction"
+      },
+      {
+        "name": "mbc 1",
+        "url": "go:mbc1"
+      },
+      {
+        "name": "SHASHA",
+        "url": "go:SHASHA1"
+      }
+    ]
+  },
+  {
+    "league": "دوري الأمم الأوروبية x",
+    "title": "اسبانيا × ",
+    "time": "2026-10-06T21:45:00",
+    "team2": {
+      "name": "اسبانيا",
+      "flag": "https://imgs.ysscores.com/teams/128/6231763087210.png"
+    },
+    "team1": {
+      "name": "كرواتيا",
+      "flag": "https://imgs.ysscores.com/teams/128/7661763071283.png"
+    },
+    "extra": false,
+    "channels": [
+      {
+        "name": "ALWAN 2",
+        "url": "go:ALWAN2"
+      },
+      {
+        "name": "MULTI",
+        "url": "go:CONNECT1"
+      },
+      {
+        "name": "FHD",
+        "url": "go:Bein1hd"
+      },
+      {
+        "name": "HD",
+        "url": "go:Bein1hd2"
+      },
+      {
+        "name": "SD",
+        "url": "go:Bein1sd"
+      },
+      {
+        "name": "LOW",
+        "url": "go:Bein1low"
+      }
+    ]
+  },
+  {
+    "league": "دوري الأمم الأوروبية x",
+    "title": "انجلترا × ",
+    "time": "2026-10-06T21:45:00",
+    "team1": {
+      "name": "انجلترا",
+      "flag": "https://imgs.ysscores.com/teams/128/5831763072178.png"
+    },
+    "team2": {
+      "name": "التشيك",
+      "flag": "https://imgs.ysscores.com/teams/128/1641763071555.png"
+    },
+    "extra": false,
+    "channels": [
+      {
+        "name": "ALWAN 3",
+        "url": "go:ALWAN3"
+      },
+      {
+        "name": "MULTI",
+        "url": "go:CONNECT2"
+      },
+      {
+        "name": "FHD",
+        "url": "go:Bein2hd"
+      },
+      {
+        "name": "HD",
+        "url": "go:Bein2hd2"
+      },
+      {
+        "name": "SD",
+        "url": "go:Bein2sd"
+      },
+      {
+        "name": "LOW",
+        "url": "go:Bein2low"
+      }
+    ]
+  },
+  {
+    "league": "مباراة ودية x",
+    "title": "لأرجنتين × ",
+    "time": "2026-10-07T02:00:00",
+    "team1": {
+      "name": "الأرجنتين",
+      "flag": "https://imgs.ysscores.com/teams/128/5861694177479.png"
+    },
+    "team2": {
+      "name": "بنين",
+      "flag": "https://imgs.ysscores.com/teams/128/8421763069265.png"
+    },
+    "extra": false,
+    "channels": [
+      {
+        "name": "ALWAN 1",
+        "url": "go:ALWAN1"
+      },
+      {
+        "name": "SHASHA",
+        "url": "go:SHASHA1"
+      }
+    ]
+  },
+  {
+    "league": "كأس العالم x",
+    "title": "هايتي × اسكتلندا",
+    "time": "2026-10-14T04:00:00",
+    "team1": {
+      "name": "هايتي",
+      "flag": "https://imgs.ysscores.com/teams/128/4331763080606.png"
+    },
+    "team2": {
+      "name": "اسكتلندا",
+      "flag": "https://imgs.ysscores.com/teams/128/8131763086386.png"
+    },
+    "extra": false,
+    "channels": [
+      {
+        "name": "SUPER TV 1",
+        "url": "go:supertv1"
+      },
+      {
+        "name": "SUPER TV 2",
+        "url": "go:supertv3"
+      },
+      {
+        "name": "ALWAN 1",
+        "url": "go:ALWAN1"
+      },
+      {
+        "name": "Alkass 1",
+        "url": "go:alkass1"
+      },
+      {
+        "name": "MULTI",
+        "url": "go:max14K"
+      },
+      {
+        "name": "MULTI",
+        "url": "go:max34K"
+      },
+      {
+        "name": "FHD",
+        "url": "go:max1FHD"
+      },
+      {
+        "name": "FHD",
+        "url": "go:max3FHD"
+      },
+      {
+        "name": "HD",
+        "url": "go:max1HD"
+      },
+      {
+        "name": "HD",
+        "url": "go:max3HD"
+      },
+      {
+        "name": "SD",
+        "url": "go:max1SD"
+      },
+      {
+        "name": "SD",
+        "url": "go:max3SD"
+      },
+      {
+        "name": "LOW",
+        "url": "go:max1LOW"
+      },
+      {
+        "name": "LOW",
+        "url": "go:max3LOW"
+      }
+    ]
+  },
+  {
+    "league": "كأس الخليج العربي 27 x",
+    "title": " × العراق",
+    "time": "2026-10-23T17:30:00",
+    "team2": {
+      "name": "عمان",
+      "flag": "https://imgs.ysscores.com/teams/128/7281763084559.png"
+    },
+    "team1": {
+      "name": "العراق",
+      "flag": "https://imgs.ysscores.com/teams/128/7501693832609.png"
+    },
+    "status": "",
+    "stoppedAt": "2026-10-23T01:00:00",
+    "resumeAt": "2026-10-23T03:00:00",
+    "extra": false,
+    "channels": [
+      {
+        "name": "ALKASS 1",
+        "url": "go:alkass1"
+      },
+      {
+        "name": "ALKASS 2",
+        "url": "go:alkass2"
+      },
+      {
+        "name": "AD SPORTS 1",
+        "url": "go:adsp1"
+      },
+      {
+        "name": "ALWAN 1",
+        "url": "go:ALWAN1"
+      },
+      {
+        "name": "KSA Sports 1",
+        "url": "go:ksa1"
+      },
+      {
+        "name": "OMAN Sports",
+        "url": "go:omansport"
+      },
+      {
+        "name": "Kuwait Sports",
+        "url": "go:KuwaitSP"
+      },
+      {
+        "name": "الشارقة الرياضية",
+        "url": "go:shsport"
+      },
+      {
+        "name": "mbc Action",
+        "url": "go:mbcaction"
+      },
+      {
+        "name": "SHASHA",
+        "url": "go:SHASHA1"
+      }
+    ]
+  },
+  {
+    "league": "كأس العالم x",
+    "title": "كندا × ",
+    "time": "2026-10-24T22:00:00",
+    "team2": {
+      "name": "كندا",
+      "flag": "https://imgs.ysscores.com/teams/128/2281763070530.png"
+    },
+    "team1": {
+      "name": "سويسرا",
+      "flag": "https://imgs.ysscores.com/teams/128/1011763087595.png"
+    },
+    "extra": false,
+    "channels": [
+      {
+        "name": "POST 2",
+        "url": "go:POST2"
+      },
+      {
+        "name": "الفجر",
+        "url": "go:Alfajr3"
+      },
+      {
+        "name": "ALWAN 2",
+        "url": "go:ALWAN2"
+      },
+      {
+        "name": "MULTI",
+        "url": "go:max24K"
+      },
+      {
+        "name": "FHD",
+        "url": "go:max2FHD"
+      },
+      {
+        "name": "HD",
+        "url": "go:max2HD"
+      },
+      {
+        "name": "SD",
+        "url": "go:max2SD"
+      },
+      {
+        "name": "LOW",
+        "url": "go:max2LOW"
+      }
+    ]
+  },
+  {
+    "league": "دوري الأمم الأوروبية x",
+    "title": "ايطاليا × ",
+    "time": "2026-10-25T21:45:00",
+    "team2": {
+      "name": "تركيا",
+      "flag": "https://imgs.ysscores.com/teams/128/171763117169.png"
+    },
+    "team1": {
+      "name": "ايطاليا",
+      "flag": "https://imgs.ysscores.com/teams/128/4141763081186.png"
+    },
+    "extra": false,
+    "channels": [
+      {
+        "name": "ALWAN 2",
+        "url": "go:ALWAN2"
+      },
+      {
+        "name": "MULTI",
+        "url": "go:CONNECT2"
+      },
+      {
+        "name": "FHD",
+        "url": "go:Bein2hd"
+      },
+      {
+        "name": "HD",
+        "url": "go:Bein2hd2"
+      },
+      {
+        "name": "SD",
+        "url": "go:Bein2sd"
+      },
+      {
+        "name": "LOW",
+        "url": "go:Bein2low"
+      }
+    ]
+  },
+  {
+    "league": "كأس العالم x",
+    "title": " × ",
+    "time": "2026-10-26T05:00:00",
+    "team1": {
+      "name": "باراغواي",
+      "flag": "https://imgs.ysscores.com/teams/128/3591763085227.png"
+    },
+    "team2": {
+      "name": "استراليا",
+      "flag": "https://imgs.ysscores.com/teams/128/8691763067926.png"
+    },
+    "extra": false,
+    "channels": [
+      {
+        "name": "POST 2",
+        "url": "go:POST2"
+      },
+      {
+        "name": "الفجر",
+        "url": "go:Alfajr3"
+      },
+      {
+        "name": "ALWAN 2",
+        "url": "go:ALWAN2"
+      },
+      {
+        "name": "MULTI",
+        "url": "go:max24K"
+      },
+      {
+        "name": "FHD",
+        "url": "go:max2FHD"
+      },
+      {
+        "name": "HD",
+        "url": "go:max2HD"
+      },
+      {
+        "name": "SD",
+        "url": "go:max2SD"
+      },
+      {
+        "name": "LOW",
+        "url": "go:max2LOW"
+      }
     ]
   },
   {
@@ -1062,16 +1232,1127 @@
     },
     "extra": false,
     "channels": [
-      { "name": "ALKASS 1", "url": "go:alkass1" },
-    { "name": "ALKASS 2", "url": "go:alkass2" },
-    { "name": "AD SPORTS 1", "url": "go:adsp1" },
-    { "name": "ALWAN 1", "url": "go:ALWAN1" },
-    { "name": "KSA Sports 2", "url": "go:ksa2" },
-    { "name": "OMAN Sports", "url": "go:omansport" },
-    { "name": "Kuwait Sports", "url": "go:KuwaitSP" },
-    { "name": "الشارقة الرياضية", "url": "go:shsport" },
-    { "name": "mbc Action", "url": "go:mbcaction" },
-    { "name": "SHASHA", "url": "go:SHASHA1" }
+      {
+        "name": "ALKASS 1",
+        "url": "go:alkass1"
+      },
+      {
+        "name": "ALKASS 2",
+        "url": "go:alkass2"
+      },
+      {
+        "name": "AD SPORTS 1",
+        "url": "go:adsp1"
+      },
+      {
+        "name": "ALWAN 1",
+        "url": "go:ALWAN1"
+      },
+      {
+        "name": "KSA Sports 2",
+        "url": "go:ksa2"
+      },
+      {
+        "name": "OMAN Sports",
+        "url": "go:omansport"
+      },
+      {
+        "name": "Kuwait Sports",
+        "url": "go:KuwaitSP"
+      },
+      {
+        "name": "الشارقة الرياضية",
+        "url": "go:shsport"
+      },
+      {
+        "name": "mbc Action",
+        "url": "go:mbcaction"
+      },
+      {
+        "name": "SHASHA",
+        "url": "go:SHASHA1"
+      }
     ]
+  },
+  {
+    "league": "كأس العالم x",
+    "title": "الرأس الأخضر × ",
+    "time": "2026-10-26T19:00:00",
+    "team1": {
+      "name": "الرأس الأخضر",
+      "flag": "https://imgs.ysscores.com/teams/128/2061693918552.png"
+    },
+    "team2": {
+      "name": "اسواتيني",
+      "flag": "https://imgs.ysscores.com/teams/128/2821693917046.png"
+    },
+    "extra": false,
+    "channels": [
+      {
+        "name": "SUPER TV 1",
+        "url": "go:supertv1"
+      },
+      {
+        "name": "SUPER TV 2",
+        "url": "go:supertv2"
+      },
+      {
+        "name": "ALWAN 1",
+        "url": "go:ALWAN1"
+      },
+      {
+        "name": "MULTI",
+        "url": "go:max14K"
+      },
+      {
+        "name": "FHD",
+        "url": "go:max1FHD"
+      },
+      {
+        "name": "HD",
+        "url": "go:max1HD"
+      },
+      {
+        "name": "SD",
+        "url": "go:max1SD"
+      }
+    ]
+  },
+  {
+    "league": "تصفيات كأس العالم : أفريقيا x",
+    "title": "نيجيريا × ",
+    "time": "2026-10-26T21:00:00",
+    "team1": {
+      "name": "نيجيريا",
+      "flag": "https://imgs.ysscores.com/teams/128/4831693919068.png"
+    },
+    "team2": {
+      "name": "جمهورية الكونغو",
+      "flag": "https://imgs.ysscores.com/teams/128/7171693917788.png"
+    },
+    "extra": false,
+    "channels": [
+      {
+        "name": "جودة تلقائية",
+        "url": "go:ssc11"
+      },
+      {
+        "name": "جودة تلقائية ويب",
+        "url": "go:ssc1"
+      }
+    ]
+  },
+  {
+    "league": "دوري الأمم الأوروبية x",
+    "title": "كرواتيا × ",
+    "time": "2026-10-26T21:45:00",
+    "team2": {
+      "name": "كرواتيا",
+      "flag": "https://imgs.ysscores.com/teams/128/7661763071283.png"
+    },
+    "team1": {
+      "name": "التشيك",
+      "flag": "https://imgs.ysscores.com/teams/128/1641763071555.png"
+    },
+    "extra": false,
+    "channels": [
+      {
+        "name": "ALWAN 3",
+        "url": "go:ALWAN3"
+      },
+      {
+        "name": "MULTI",
+        "url": "go:CONNECT2"
+      },
+      {
+        "name": "FHD",
+        "url": "go:Bein2hd"
+      },
+      {
+        "name": "HD",
+        "url": "go:Bein2hd2"
+      },
+      {
+        "name": "SD",
+        "url": "go:Bein2sd"
+      },
+      {
+        "name": "LOW",
+        "url": "go:Bein2low"
+      }
+    ]
+  },
+  {
+    "league": "كأس العالم x",
+    "title": "السنغال × ",
+    "time": "2026-10-26T22:00:00",
+    "team2": {
+      "name": "العراق",
+      "flag": "https://imgs.ysscores.com/teams/128/7501693832609.png"
+    },
+    "team1": {
+      "name": "السنغال",
+      "flag": "https://imgs.ysscores.com/teams/128/1831763086441.png"
+    },
+    "extra": false,
+    "channels": [
+      {
+        "name": "POST 1",
+        "url": "go:POST1"
+      },
+      {
+        "name": "الفجر",
+        "url": "go:Alfajr3"
+      },
+      {
+        "name": "ALWAN 1",
+        "url": "go:ALWAN1"
+      },
+      {
+        "name": "MULTI",
+        "url": "go:max14K"
+      },
+      {
+        "name": "FHD",
+        "url": "go:max1FHD"
+      },
+      {
+        "name": "HD",
+        "url": "go:max1HD"
+      },
+      {
+        "name": "SD",
+        "url": "go:max1SD"
+      },
+      {
+        "name": "LOW",
+        "url": "go:max1LOW"
+      }
+    ]
+  },
+  {
+    "league": "كأس العالم x",
+    "title": " × الرأس الأخضر",
+    "time": "2026-10-27T03:00:00",
+    "team1": {
+      "name": "الرأس الأخضر",
+      "flag": "https://imgs.ysscores.com/teams/128/2061693918552.png"
+    },
+    "team2": {
+      "name": "السعودية",
+      "flag": "https://imgs.ysscores.com/teams/128/7231728507982.png"
+    },
+    "extra": false,
+    "channels": [
+      {
+        "name": "POST 1",
+        "url": "go:POST1"
+      },
+      {
+        "name": "الفجر",
+        "url": "go:Alfajr3"
+      },
+      {
+        "name": "ALWAN 1",
+        "url": "go:ALWAN1"
+      },
+      {
+        "name": "MULTI",
+        "url": "go:max34K"
+      },
+      {
+        "name": "FHD",
+        "url": "go:max3FHD"
+      },
+      {
+        "name": "HD",
+        "url": "go:max3HD"
+      },
+      {
+        "name": "SD",
+        "url": "go:max3SD"
+      },
+      {
+        "name": "LOW",
+        "url": "go:max3LOW"
+      }
+    ]
+  },
+  {
+    "league": "كأس الخليج العربي 27 x",
+    "title": "قطر × ",
+    "time": "2026-10-27T18:55:00",
+    "team2": {
+      "name": "قطر",
+      "flag": "https://imgs.ysscores.com/teams/128/4211693824633.png"
+    },
+    "team1": {
+      "name": "اليمن",
+      "flag": "https://imgs.ysscores.com/teams/128/621763118201.png"
+    },
+    "extra": false,
+    "channels": [
+      {
+        "name": "ALKASS 1",
+        "url": "go:alkass1"
+      },
+      {
+        "name": "ALKASS 2",
+        "url": "go:alkass2"
+      },
+      {
+        "name": "AD SPORTS 2",
+        "url": "go:adsp2"
+      },
+      {
+        "name": "ALWAN 1",
+        "url": "go:ALWAN1"
+      },
+      {
+        "name": "KSA Sports 2",
+        "url": "go:ksa2"
+      },
+      {
+        "name": "OMAN Sports",
+        "url": "go:omansport"
+      },
+      {
+        "name": "Kuwait Sports",
+        "url": "go:KuwaitSP"
+      },
+      {
+        "name": "الشارقة الرياضية",
+        "url": "go:shsport"
+      },
+      {
+        "name": "mbc Action",
+        "url": "go:mbcaction"
+      },
+      {
+        "name": "SHASHA",
+        "url": "go:SHASHA1"
+      }
+    ]
+  },
+  {
+    "league": "دوري الأمم الأوروبية x",
+    "title": "الدنمارك × ",
+    "time": "2026-10-27T19:00:00",
+    "team1": {
+      "name": "الدنمارك",
+      "flag": "https://imgs.ysscores.com/teams/128/5741763071628.png"
+    },
+    "team2": {
+      "name": "ويلز",
+      "flag": "https://imgs.ysscores.com/teams/128/7371763118142.png"
+    },
+    "extra": false,
+    "channels": [
+      {
+        "name": "ALWAN 5",
+        "url": "go:ALWAN5"
+      },
+      {
+        "name": "MULTI",
+        "url": "go:CONNECT2"
+      },
+      {
+        "name": "FHD",
+        "url": "go:Bein2hd"
+      },
+      {
+        "name": "HD",
+        "url": "go:Bein2hd2"
+      },
+      {
+        "name": "SD",
+        "url": "go:Bein2sd"
+      },
+      {
+        "name": "LOW",
+        "url": "go:Bein2low"
+      }
+    ]
+  },
+  {
+    "league": "كأس العالم x",
+    "title": "الكونغو الديموقراطية × ",
+    "time": "2026-10-28T02:30:00",
+    "team2": {
+      "name": "أوزبكستان",
+      "flag": "https://imgs.ysscores.com/teams/128/981763117755.png"
+    },
+    "team1": {
+      "name": "جمهورية الكونغو",
+      "flag": "https://imgs.ysscores.com/teams/128/7171693917788.png"
+    },
+    "extra": false,
+    "channels": [
+      {
+        "name": "POST 2",
+        "url": "go:POST2"
+      },
+      {
+        "name": "الفجر",
+        "url": "go:Alfajr3"
+      },
+      {
+        "name": "ALWAN 2",
+        "url": "go:ALWAN2"
+      },
+      {
+        "name": "MULTI",
+        "url": "go:max44K"
+      },
+      {
+        "name": "FHD",
+        "url": "go:max4FHD"
+      },
+      {
+        "name": "HD",
+        "url": "go:max4HD"
+      },
+      {
+        "name": "SD",
+        "url": "go:max4SD"
+      },
+      {
+        "name": "LOW",
+        "url": "go:max4LOW"
+      }
+    ]
+  },
+  {
+    "league": "تصفيات كأس أمم أفريقيا x",
+    "title": " × تونس",
+    "time": "2026-10-28T22:00:00",
+    "team2": {
+      "name": "بوتسوانا",
+      "flag": "https://imgs.ysscores.com/teams/128/4041763069740.png"
+    },
+    "team1": {
+      "name": "تونس",
+      "flag": "https://imgs.ysscores.com/teams/128/9841693833234.png"
+    },
+    "extra": false,
+    "channels": [
+      {
+        "name": "ALWAN 4",
+        "url": "go:ALWAN4"
+      },
+      {
+        "name": "MULTI",
+        "url": "go:CONNECT1"
+      },
+      {
+        "name": "FHD",
+        "url": "go:Bein1hd"
+      },
+      {
+        "name": "HD",
+        "url": "go:Bein1hd2"
+      },
+      {
+        "name": "SD",
+        "url": "go:Bein1sd"
+      },
+      {
+        "name": "LOW",
+        "url": "go:Bein1low"
+      }
+    ]
+  },
+  {
+    "league": "كأس العالم x",
+    "title": "جنوب افريقيا × ",
+    "time": "2026-10-28T22:00:00",
+    "team2": {
+      "name": "كندا",
+      "flag": "https://imgs.ysscores.com/teams/128/2281763070530.png"
+    },
+    "team1": {
+      "name": "جنوب افريقيا",
+      "flag": "https://imgs.ysscores.com/teams/128/1791763086999.png"
+    },
+    "extra": false,
+    "channels": [
+      {
+        "name": "POST 1",
+        "url": "go:POST1"
+      },
+      {
+        "name": "الفجر",
+        "url": "go:Alfajr1"
+      },
+      {
+        "name": "ALWAN 1",
+        "url": "go:ALWAN1"
+      },
+      {
+        "name": "MULTI",
+        "url": "go:max14K"
+      },
+      {
+        "name": "MULTI",
+        "url": "go:max24K"
+      },
+      {
+        "name": "FHD",
+        "url": "go:max1FHD"
+      },
+      {
+        "name": "FHD",
+        "url": "go:max2FHD"
+      },
+      {
+        "name": "HD",
+        "url": "go:max1HD"
+      },
+      {
+        "name": "HD",
+        "url": "go:max2HD"
+      },
+      {
+        "name": "SD",
+        "url": "go:max1SD"
+      },
+      {
+        "name": "SD",
+        "url": "go:max2SD"
+      },
+      {
+        "name": "LOW",
+        "url": "go:max1LOW"
+      },
+      {
+        "name": "LOW",
+        "url": "go:max2LOW"
+      }
+    ]
+  },
+  {
+    "league": "تصفيات كأس أمم أفريقيا x",
+    "title": "السودان × ",
+    "time": "2026-10-29T16:00:00",
+    "team2": {
+      "name": "السودان",
+      "flag": "https://imgs.ysscores.com/teams/128/6511763087361.png"
+    },
+    "team1": {
+      "name": "موزمبيق",
+      "flag": "https://imgs.ysscores.com/teams/128/9651763083639.png"
+    },
+    "extra": false,
+    "channels": [
+      {
+        "name": "ALWAN 4",
+        "url": "go:ALWAN4"
+      },
+      {
+        "name": "FHD",
+        "url": "go:Bein4hd"
+      },
+      {
+        "name": "HD",
+        "url": "go:Bein4hd2"
+      },
+      {
+        "name": "SD",
+        "url": "go:Bein4sd"
+      },
+      {
+        "name": "LOW",
+        "url": "go:Bein4low"
+      }
+    ]
+  },
+  {
+    "league": "تصفيات كأس أمم أفريقيا x",
+    "title": "ليبيا × ",
+    "time": "2026-10-29T19:00:00",
+    "team2": {
+      "name": "ليبيا",
+      "flag": "https://imgs.ysscores.com/teams/128/6091693916297.png"
+    },
+    "team1": {
+      "name": "أوغندا",
+      "flag": "https://imgs.ysscores.com/teams/128/2921763117370.png"
+    },
+    "extra": false,
+    "channels": [
+      {
+        "name": "ALWAN 3",
+        "url": "go:ALWAN3"
+      },
+      {
+        "name": "MULTI",
+        "url": "go:CONNECT1"
+      },
+      {
+        "name": "FHD",
+        "url": "go:Bein1hd"
+      },
+      {
+        "name": "HD",
+        "url": "go:Bein1hd2"
+      },
+      {
+        "name": "SD",
+        "url": "go:Bein1sd"
+      },
+      {
+        "name": "LOW",
+        "url": "go:Bein1low"
+      }
+    ]
+  },
+  {
+    "league": "كأس الخليج العربي 27 x",
+    "title": "عمان × ",
+    "time": "2026-10-29T20:30:00",
+    "team1": {
+      "name": "عمان",
+      "flag": "https://imgs.ysscores.com/teams/128/3811693834375.png"
+    },
+    "team2": {
+      "name": "الكويت",
+      "flag": "https://imgs.ysscores.com/teams/128/7891763081821.png"
+    },
+    "extra": false,
+    "channels": [
+      {
+        "name": "ALKASS 2",
+        "url": "go:alkass2"
+      },
+      {
+        "name": "AD SPORTS 2",
+        "url": "go:adsp2"
+      },
+      {
+        "name": "ALWAN 2",
+        "url": "go:ALWAN2"
+      },
+      {
+        "name": "KSA Sports 2",
+        "url": "go:ksa2"
+      },
+      {
+        "name": "OMAN Sports",
+        "url": "go:omansport"
+      },
+      {
+        "name": "Kuwait Sports ",
+        "url": "go:KuwaitSP"
+      },
+      {
+        "name": "mbc Action",
+        "url": "go:mbcaction"
+      },
+      {
+        "name": "SHASHA",
+        "url": "go:SHASHA2"
+      }
+    ]
+  },
+  {
+    "league": "دوري الأمم الأوروبية x",
+    "title": "سويسرا × ",
+    "time": "2026-10-29T21:45:00",
+    "team2": {
+      "name": "اسكتلاندا",
+      "flag": "https://imgs.ysscores.com/teams/128/8131763086386.png"
+    },
+    "team1": {
+      "name": "سويسرا",
+      "flag": "https://imgs.ysscores.com/teams/128/1011763087595.png"
+    },
+    "extra": false,
+    "channels": [
+      {
+        "name": "ALWAN 5",
+        "url": "go:ALWAN5"
+      },
+      {
+        "name": "MULTI",
+        "url": "go:CONNECT4"
+      },
+      {
+        "name": "FHD",
+        "url": "go:Bein4hd"
+      },
+      {
+        "name": "HD",
+        "url": "go:Bein4hd2"
+      },
+      {
+        "name": "SD",
+        "url": "go:Bein4sd"
+      },
+      {
+        "name": "LOW",
+        "url": "go:Bein4low"
+      }
+    ]
+  },
+  {
+    "league": "تصفيات كأس أمم أفريقيا x",
+    "title": "الكاميرون × ",
+    "time": "2026-10-29T22:00:00",
+    "team2": {
+      "name": "الكاميرون",
+      "flag": "https://imgs.ysscores.com/teams/128/3431693919256.png"
+    },
+    "team1": {
+      "name": " الكونغو",
+      "flag": "https://imgs.ysscores.com/teams/128/2681763071029.png"
+    },
+    "extra": false,
+    "channels": [
+      {
+        "name": "FHD",
+        "url": "go:Bein6hd"
+      },
+      {
+        "name": "HD",
+        "url": "go:Bein6hd2"
+      },
+      {
+        "name": "SD",
+        "url": "go:Bein6sd"
+      },
+      {
+        "name": "LOW",
+        "url": "go:Bein6low"
+      }
+    ]
+  },
+  {
+    "league": "تصفيات كأس أمم أفريقيا x",
+    "title": " × موريتانيا",
+    "time": "2026-10-29T22:00:00",
+    "team2": {
+      "name": "موريتانيا",
+      "flag": "https://imgs.ysscores.com/teams/128/5871763083150.png"
+    },
+    "team1": {
+      "name": "بنين",
+      "flag": "https://imgs.ysscores.com/teams/128/8421763069265.png"
+    },
+    "extra": false,
+    "channels": [
+      {
+        "name": "MULTI",
+        "url": "go:CONNECT1"
+      },
+      {
+        "name": "FHD",
+        "url": "go:Bein1hd"
+      },
+      {
+        "name": "HD",
+        "url": "go:Bein1hd2"
+      },
+      {
+        "name": "SD",
+        "url": "go:Bein1sd"
+      },
+      {
+        "name": "LOW",
+        "url": "go:Bein1low"
+      }
+    ]
+  },
+  {
+    "league": "كأس الخليج العربي 27 x",
+    "title": "قطر × ",
+    "time": "2026-10-30T20:30:00",
+    "team1": {
+      "name": "البحرين",
+      "flag": "https://imgs.ysscores.com/teams/128/9791763068542.png"
+    },
+    "team2": {
+      "name": "اليمن",
+      "flag": "https://imgs.ysscores.com/teams/128/621763118201.png"
+    },
+    "extra": false,
+    "channels": [
+      {
+        "name": "ALKASS 2",
+        "url": "go:alkass2"
+      },
+      {
+        "name": "AD SPORTS 2",
+        "url": "go:adsp2"
+      },
+      {
+        "name": "ALWAN 2",
+        "url": "go:ALWAN2"
+      },
+      {
+        "name": "KSA Sports 2",
+        "url": "go:ksa2"
+      },
+      {
+        "name": "OMAN Sports",
+        "url": "go:omansport"
+      },
+      {
+        "name": "Kuwait Sports",
+        "url": "go:KuwaitSP"
+      },
+      {
+        "name": "الشارقة الرياضية",
+        "url": "go:shsport"
+      },
+      {
+        "name": "SHASHA",
+        "url": "go:SHASHA2"
+      }
+    ]
+  },
+  {
+    "league": "تصفيات كأس أمم أفريقيا x",
+    "title": "غانا × الصومال",
+    "time": "2026-11-12T17:00:00",
+    "team1": {
+      "name": "غانا",
+      "flag": "https://imgs.ysscores.com/teams/128/4491763078443.png"
+    },
+    "team2": {
+      "name": "الصومال",
+      "flag": "https://imgs.ysscores.com/teams/128/5391763086926.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "تصفيات كأس أمم أفريقيا x",
+    "title": "الكونغو × سيراليون",
+    "time": "2026-11-12T18:00:00",
+    "team1": {
+      "name": "الكونغو",
+      "flag": "https://imgs.ysscores.com/teams/128/2681763071029.png"
+    },
+    "team2": {
+      "name": "سيراليون",
+      "flag": "https://imgs.ysscores.com/teams/128/6521763086630.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "تصفيات كأس أمم أفريقيا x",
+    "title": "غينيا الاستوائية × زيمبابوي",
+    "time": "2026-11-12T18:00:00",
+    "team1": {
+      "name": "غينيا الاستوائية",
+      "flag": "https://imgs.ysscores.com/teams/128/3871763072297.png"
+    },
+    "team2": {
+      "name": "زيمبابوي",
+      "flag": "https://imgs.ysscores.com/teams/128/4021763118330.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "تصفيات كأس أمم أفريقيا x",
+    "title": "مدغشقر × غينيا بيساو",
+    "time": "2026-11-12T18:00:00",
+    "team1": {
+      "name": "مدغشقر",
+      "flag": "https://imgs.ysscores.com/teams/128/7621763082800.png"
+    },
+    "team2": {
+      "name": "غينيا بيساو",
+      "flag": "https://imgs.ysscores.com/teams/128/7581763079754.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "مباراة ودية x",
+    "title": "ليتوانيا × سورينام",
+    "time": "2026-11-12T19:00:00",
+    "team1": {
+      "name": "ليتوانيا",
+      "flag": "https://imgs.ysscores.com/teams/128/1031763082643.png"
+    },
+    "team2": {
+      "name": "سورينام",
+      "flag": "https://imgs.ysscores.com/teams/128/5991763087404.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "تصفيات كأس أمم أفريقيا x",
+    "title": "غينيا × إرتريا",
+    "time": "2026-11-12T19:00:00",
+    "team1": {
+      "name": "غينيا",
+      "flag": "https://imgs.ysscores.com/teams/128/1551763079679.png"
+    },
+    "team2": {
+      "name": "إرتريا",
+      "flag": "https://imgs.ysscores.com/teams/128/5921763077587.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري الأمم الأوروبية x",
+    "title": "تركيا × بلجيكا",
+    "time": "2026-11-12T19:00:00",
+    "team1": {
+      "name": "تركيا",
+      "flag": "https://imgs.ysscores.com/teams/128/2991693826429.png"
+    },
+    "team2": {
+      "name": "بلجيكا",
+      "flag": "https://imgs.ysscores.com/teams/128/6271763069075.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري الأمم الأوروبية x",
+    "title": "أرمينيا × قبرص",
+    "time": "2026-11-12T19:00:00",
+    "team1": {
+      "name": "أرمينيا",
+      "flag": "https://imgs.ysscores.com/teams/128/7481763067332.png"
+    },
+    "team2": {
+      "name": "قبرص",
+      "flag": "https://imgs.ysscores.com/teams/128/1471763071520.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس ملك إسبانيا x",
+    "title": "بورتولانو × ألباسيتي",
+    "time": "2026-11-12T19:30:00",
+    "team1": {
+      "name": "بورتولانو",
+      "flag": "https://imgs.ysscores.com/teams/128/17931465687578.png"
+    },
+    "team2": {
+      "name": "ألباسيتي",
+      "flag": "https://imgs.ysscores.com/teams/128/7631698687618.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "مباراة ودية x",
+    "title": "مالطا × إسواتيني",
+    "time": "2026-11-12T19:30:00",
+    "team1": {
+      "name": "مالطا",
+      "flag": "https://imgs.ysscores.com/teams/128/501763083061.png"
+    },
+    "team2": {
+      "name": "إسواتيني",
+      "flag": "https://imgs.ysscores.com/teams/128/8791763151000.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس ملك إسبانيا x",
+    "title": "نابالكارنيرو × ريال بيتيس",
+    "time": "2026-11-12T20:00:00",
+    "team1": {
+      "name": "نابالكارنيرو",
+      "flag": "https://imgs.ysscores.com/teams/128/4571698680039.png"
+    },
+    "team2": {
+      "name": "ريال بيتيس",
+      "flag": "https://imgs.ysscores.com/teams/128/17645945054618.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس ملك إسبانيا x",
+    "title": "تارانكون × ليفانتي",
+    "time": "2026-11-12T20:00:00",
+    "team1": {
+      "name": "تارانكون",
+      "flag": "https://imgs.ysscores.com/teams/128/17930491233497.png"
+    },
+    "team2": {
+      "name": "ليفانتي",
+      "flag": "https://imgs.ysscores.com/teams/128/2601690370530.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس فرنسا x",
+    "title": "شامبيري × غرونوبل",
+    "time": "2026-11-12T20:00:00",
+    "team1": {
+      "name": "شامبيري",
+      "flag": "https://imgs.ysscores.com/teams/128/7201703618241.png"
+    },
+    "team2": {
+      "name": "غرونوبل",
+      "flag": "https://imgs.ysscores.com/teams/128/1821718367052.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "تصفيات كأس أمم أفريقيا x",
+    "title": "ساحل العاج × غامبيا",
+    "time": "2026-11-12T21:00:00",
+    "team1": {
+      "name": "ساحل العاج",
+      "flag": "https://imgs.ysscores.com/teams/128/391763071210.png"
+    },
+    "team2": {
+      "name": "غامبيا",
+      "flag": "https://imgs.ysscores.com/teams/128/7771763078200.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "تصفيات كأس أمم أفريقيا x",
+    "title": "بنين × إفريقيا الوسطى",
+    "time": "2026-11-12T21:00:00",
+    "team1": {
+      "name": "بنين",
+      "flag": "https://imgs.ysscores.com/teams/128/8421763069265.png"
+    },
+    "team2": {
+      "name": "إفريقيا الوسطى",
+      "flag": "https://imgs.ysscores.com/teams/128/1311763070646.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "تصفيات كأس أمم أفريقيا x",
+    "title": "الكاميرون × ناميبيا",
+    "time": "2026-11-12T21:00:00",
+    "team1": {
+      "name": "الكاميرون",
+      "flag": "https://imgs.ysscores.com/teams/128/3431693919256.png"
+    },
+    "team2": {
+      "name": "ناميبيا",
+      "flag": "https://imgs.ysscores.com/teams/128/8441763083725.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "تصفيات كأس أمم أفريقيا x",
+    "title": "السنغال × السودان",
+    "time": "2026-11-12T21:00:00",
+    "team1": {
+      "name": "السنغال",
+      "flag": "https://imgs.ysscores.com/teams/128/1831763086441.png"
+    },
+    "team2": {
+      "name": "السودان",
+      "flag": "https://imgs.ysscores.com/teams/128/6511763087361.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري الأمم الأوروبية x",
+    "title": "إيطاليا × فرنسا",
+    "time": "2026-11-12T21:45:00",
+    "team1": {
+      "name": "إيطاليا",
+      "flag": "https://imgs.ysscores.com/teams/128/4141763081186.png"
+    },
+    "team2": {
+      "name": "فرنسا",
+      "flag": "https://imgs.ysscores.com/teams/128/2961763078000.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري الأمم الأوروبية x",
+    "title": "التشيك × إسبانيا",
+    "time": "2026-11-12T21:45:00",
+    "team1": {
+      "name": "التشيك",
+      "flag": "https://imgs.ysscores.com/teams/128/1641763071555.png"
+    },
+    "team2": {
+      "name": "إسبانيا",
+      "flag": "https://imgs.ysscores.com/teams/128/6231763087210.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري الأمم الأوروبية x",
+    "title": "إنجلترا × كرواتيا",
+    "time": "2026-11-12T21:45:00",
+    "team1": {
+      "name": "إنجلترا",
+      "flag": "https://imgs.ysscores.com/teams/128/5831763072178.png"
+    },
+    "team2": {
+      "name": "كرواتيا",
+      "flag": "https://imgs.ysscores.com/teams/128/7661763071283.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري الأمم الأوروبية x",
+    "title": "ألبانيا × فنلندا",
+    "time": "2026-11-12T21:45:00",
+    "team1": {
+      "name": "ألبانيا",
+      "flag": "https://imgs.ysscores.com/teams/128/1681763066722.png"
+    },
+    "team2": {
+      "name": "فنلندا",
+      "flag": "https://imgs.ysscores.com/teams/128/5611763077960.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري الأمم الأوروبية x",
+    "title": "سان مارينو × روسيا البيضاء",
+    "time": "2026-11-12T21:45:00",
+    "team1": {
+      "name": "سان مارينو",
+      "flag": "https://imgs.ysscores.com/teams/128/9211763086204.png"
+    },
+    "team2": {
+      "name": "روسيا البيضاء",
+      "flag": "https://imgs.ysscores.com/teams/128/7071763068899.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري الأمم الأوروبية x",
+    "title": "مونتينيغرو × لاتفيا",
+    "time": "2026-11-12T21:45:00",
+    "team1": {
+      "name": "مونتينيغرو",
+      "flag": "https://imgs.ysscores.com/teams/128/4431763083477.png"
+    },
+    "team2": {
+      "name": "لاتفيا",
+      "flag": "https://imgs.ysscores.com/teams/128/7561763082198.png"
+    },
+    "extra": false,
+    "channels": []
   }
 ]
