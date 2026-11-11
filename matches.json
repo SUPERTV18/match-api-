@@ -2508,7 +2508,24 @@
       "flag": "https://imgs.ysscores.com/teams/128/7071763068899.png"
     },
     "extra": false,
-    "channels": []
+    "channels": [
+      {
+        "name": "FHD",
+        "url": "go:Bein6hd"
+      },
+      {
+        "name": "HD",
+        "url": "go:Bein6hd2"
+      },
+      {
+        "name": "SD",
+        "url": "go:Bein6sd"
+      },
+      {
+        "name": "LOW",
+        "url": "go:Bein6low"
+      }
+    ]
   },
   {
     "league": "دوري الأمم الأوروبية x",
