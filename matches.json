@@ -2772,7 +2772,7 @@
     "channels": []
   },
   {
-    "league": "تصفيات كأس أمم أفريقيا x",
+    "league": "تصفيات كأس أمم أفريقيا",
     "title": "جنوب أفريقيا × كينيا",
     "time": "2026-11-13T18:00:00",
     "team1": {
@@ -2784,7 +2784,24 @@
       "flag": "https://imgs.ysscores.com/teams/128/2561763081589.png"
     },
     "extra": false,
-    "channels": []
+    "channels": [
+      {
+        "name": "FHD",
+        "url": "go:Bein4hd"
+      },
+      {
+        "name": "HD",
+        "url": "go:Bein4hd2"
+      },
+      {
+        "name": "SD",
+        "url": "go:Bein4sd"
+      },
+      {
+        "name": "LOW",
+        "url": "go:Bein4low"
+      }
+    ]
   },
   {
     "league": "تصفيات كأس أمم أفريقيا x",
