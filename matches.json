@@ -4546,7 +4546,7 @@
     ]
   },
   {
-    "league": "تصفيات كأس أمم أفريقيا x",
+    "league": "تصفيات كأس أمم أفريقيا",
     "title": "الجزائر × توجو",
     "time": "2026-11-14T21:00:00",
     "team1": {
@@ -4558,7 +4558,32 @@
       "flag": "https://imgs.ysscores.com/teams/128/9031763087892.png"
     },
     "extra": false,
-    "channels": []
+    "channels": [
+      {
+        "name": "SUPER TV 1",
+        "url": "go:supertv1"
+      },
+      {
+        "name": "ALWAN 2",
+        "url": "go:ALWAN2"
+      },
+      {
+        "name": "FHD",
+        "url": "go:Bein1hd"
+      },
+      {
+        "name": "HD",
+        "url": "go:Bein1hd2"
+      },
+      {
+        "name": "SD",
+        "url": "go:Bein1sd"
+      },
+      {
+        "name": "LOW",
+        "url": "go:Bein1low"
+      }
+    ]
   },
   {
     "league": "دوري الأمم الأوروبية x",
