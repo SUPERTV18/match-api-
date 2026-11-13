@@ -3090,7 +3090,7 @@
     "channels": []
   },
   {
-    "league": "دوري الأمم الأوروبية x",
+    "league": "دوري الأمم الأوروبية",
     "title": "إسكتلندا × مقدونيا الشمالية",
     "time": "2026-11-13T21:45:00",
     "team1": {
@@ -3102,7 +3102,28 @@
       "flag": "https://imgs.ysscores.com/teams/128/5571763082782.png"
     },
     "extra": false,
-    "channels": []
+    "channels": [
+      {
+        "name": "ALWAN 6",
+        "url": "go:ALWAN6"
+      },
+      {
+        "name": "FHD",
+        "url": "go:Bein5hd"
+      },
+      {
+        "name": "HD",
+        "url": "go:Bein5hd2"
+      },
+      {
+        "name": "SD",
+        "url": "go:Bein5sd"
+      },
+      {
+        "name": "LOW",
+        "url": "go:Bein5low"
+      }
+    ]
   },
   {
     "league": "دوري الأمم الأوروبية",
