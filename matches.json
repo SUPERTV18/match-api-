@@ -2804,7 +2804,7 @@
     ]
   },
   {
-    "league": "تصفيات كأس أمم أفريقيا x",
+    "league": "تصفيات كأس أمم أفريقيا",
     "title": "بوركينا فاسو × موريتانيا",
     "time": "2026-11-13T18:00:00",
     "team1": {
@@ -2816,7 +2816,28 @@
       "flag": "https://imgs.ysscores.com/teams/128/5871763083150.png"
     },
     "extra": false,
-    "channels": []
+    "channels": [
+      {
+        "name": "ALWAN 3",
+        "url": "go:ALWAN3"
+      },
+      {
+        "name": "FHD",
+        "url": "go:Bein2hd"
+      },
+      {
+        "name": "HD",
+        "url": "go:Bein2hd2"
+      },
+      {
+        "name": "SD",
+        "url": "go:Bein2sd"
+      },
+      {
+        "name": "LOW",
+        "url": "go:Bein2low"
+      }
+    ]
   },
   {
     "league": "تصفيات كأس أمم أفريقيا x",
