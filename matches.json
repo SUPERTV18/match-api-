@@ -4743,5 +4743,155 @@
         "url": "go:Bein2low"
       }
     ]
+  },
+  {
+    "league": "مباراة ودية x",
+    "title": "نيوزيلندا × الهند",
+    "time": "2026-11-15T05:00:00",
+    "team1": {
+      "name": "نيوزيلندا",
+      "flag": "https://imgs.ysscores.com/teams/128/2291763084006.png"
+    },
+    "team2": {
+      "name": "الهند",
+      "flag": "https://imgs.ysscores.com/teams/128/4801763080864.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري الأمم الأوروبية x",
+    "title": "قبرص × مونتينيغرو",
+    "time": "2026-11-15T16:00:00",
+    "team1": {
+      "name": "قبرص",
+      "flag": "https://imgs.ysscores.com/teams/128/1471763071520.png"
+    },
+    "team2": {
+      "name": "مونتينيغرو",
+      "flag": "https://imgs.ysscores.com/teams/128/4431763083477.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري الأمم الأوروبية x",
+    "title": "لاتفيا × أرمينيا",
+    "time": "2026-11-15T16:00:00",
+    "team1": {
+      "name": "لاتفيا",
+      "flag": "https://imgs.ysscores.com/teams/128/7561763082198.png"
+    },
+    "team2": {
+      "name": "أرمينيا",
+      "flag": "https://imgs.ysscores.com/teams/128/7481763067332.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "مباراة ودية x",
+    "title": "سورينام × إسواتيني",
+    "time": "2026-11-15T19:00:00",
+    "team1": {
+      "name": "سورينام",
+      "flag": "https://imgs.ysscores.com/teams/128/5991763087404.png"
+    },
+    "team2": {
+      "name": "إسواتيني",
+      "flag": "https://imgs.ysscores.com/teams/128/8791763151000.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري الأمم الأوروبية x",
+    "title": "روسيا البيضاء × ألبانيا",
+    "time": "2026-11-15T19:00:00",
+    "team1": {
+      "name": "روسيا البيضاء",
+      "flag": "https://imgs.ysscores.com/teams/128/7071763068899.png"
+    },
+    "team2": {
+      "name": "ألبانيا",
+      "flag": "https://imgs.ysscores.com/teams/128/1681763066722.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري الأمم الأوروبية x",
+    "title": "فنلندا × سان مارينو",
+    "time": "2026-11-15T19:00:00",
+    "team1": {
+      "name": "فنلندا",
+      "flag": "https://imgs.ysscores.com/teams/128/5611763077960.png"
+    },
+    "team2": {
+      "name": "سان مارينو",
+      "flag": "https://imgs.ysscores.com/teams/128/9211763086204.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري الأمم الأوروبية x",
+    "title": "بلجيكا × إيطاليا",
+    "time": "2026-11-15T21:45:00",
+    "team1": {
+      "name": "بلجيكا",
+      "flag": "https://imgs.ysscores.com/teams/128/6271763069075.png"
+    },
+    "team2": {
+      "name": "إيطاليا",
+      "flag": "https://imgs.ysscores.com/teams/128/4141763081186.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري الأمم الأوروبية x",
+    "title": "فرنسا × تركيا",
+    "time": "2026-11-15T21:45:00",
+    "team1": {
+      "name": "فرنسا",
+      "flag": "https://imgs.ysscores.com/teams/128/2961763078000.png"
+    },
+    "team2": {
+      "name": "تركيا",
+      "flag": "https://imgs.ysscores.com/teams/128/2991693826429.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري الأمم الأوروبية x",
+    "title": "كرواتيا × التشيك",
+    "time": "2026-11-15T21:45:00",
+    "team1": {
+      "name": "كرواتيا",
+      "flag": "https://imgs.ysscores.com/teams/128/7661763071283.png"
+    },
+    "team2": {
+      "name": "التشيك",
+      "flag": "https://imgs.ysscores.com/teams/128/1641763071555.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري الأمم الأوروبية x",
+    "title": "إسبانيا × إنجلترا",
+    "time": "2026-11-15T21:45:00",
+    "team1": {
+      "name": "إسبانيا",
+      "flag": "https://imgs.ysscores.com/teams/128/6231763087210.png"
+    },
+    "team2": {
+      "name": "إنجلترا",
+      "flag": "https://imgs.ysscores.com/teams/128/5831763072178.png"
+    },
+    "extra": false,
+    "channels": []
   }
 ]
