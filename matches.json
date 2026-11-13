@@ -3395,7 +3395,16 @@
       "flag": "https://imgs.ysscores.com/teams/128/9901763117716.png"
     },
     "extra": false,
-    "channels": []
+    "channels": [
+      {
+        "name": "ALWAN 1",
+        "url": "go:ALWAN1"
+      },
+      {
+        "name": "AD SPORTS 1",
+        "url": "go:adsp1"
+      }
+    ]
   },
   {
     "league": "مباراة ودية x",
