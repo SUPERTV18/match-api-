@@ -2618,7 +2618,7 @@
     "channels": []
   },
   {
-    "league": "مباراة ودية x",
+    "league": "مباراة ودية",
     "title": "الإمارات × هندوراس",
     "time": "2026-11-13T16:15:00",
     "team1": {
@@ -2630,7 +2630,20 @@
       "flag": "https://imgs.ysscores.com/teams/128/7511763080690.png"
     },
     "extra": false,
-    "channels": []
+    "channels": [
+      {
+        "name": "الشارقة الرياضية",
+        "url": "go:shsport"
+      },
+      {
+        "name": "AD SPORTS 1",
+        "url": "go:adsp1"
+      },
+      {
+        "name": "دبي الرياضية 1",
+        "url": "go:dubaisp1"
+      }
+    ]
   },
   {
     "league": "مباراة ودية x",
