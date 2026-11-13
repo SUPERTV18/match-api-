@@ -4559,7 +4559,7 @@
     "channels": []
   },
   {
-    "league": "دوري الأمم الأوروبية x",
+    "league": "دوري الأمم الأوروبية",
     "title": "النمسا × أيرلندا",
     "time": "2026-11-14T21:45:00",
     "team1": {
@@ -4571,7 +4571,28 @@
       "flag": "https://imgs.ysscores.com/teams/128/7511763081085.png"
     },
     "extra": false,
-    "channels": []
+    "channels": [
+      {
+        "name": "ALWAN 5",
+        "url": "go:ALWAN5"
+      },
+      {
+        "name": "FHD",
+        "url": "go:Bein4hd"
+      },
+      {
+        "name": "HD",
+        "url": "go:Bein4hd2"
+      },
+      {
+        "name": "SD",
+        "url": "go:Bein4sd"
+      },
+      {
+        "name": "LOW",
+        "url": "go:Bein4low"
+      }
+    ]
   },
   {
     "league": "دوري الأمم الأوروبية x",
