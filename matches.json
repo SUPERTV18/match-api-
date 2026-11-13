@@ -3366,5 +3366,1190 @@
         "url": "go:Bein1low"
       }
     ]
+  },
+  {
+    "league": "المباريات الودية للأندية x",
+    "title": "كولو-كولو × راسينغ",
+    "time": "2026-11-14T00:00:00",
+    "team1": {
+      "name": "كولو-كولو",
+      "flag": "https://imgs.ysscores.com/teams/128/9861695764982.png"
+    },
+    "team2": {
+      "name": "راسينغ",
+      "flag": "https://imgs.ysscores.com/teams/128/3011761516113.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "مباراة ودية x",
+    "title": "الأرجنتين × أوروغواي",
+    "time": "2026-11-14T01:00:00",
+    "team1": {
+      "name": "الأرجنتين",
+      "flag": "https://imgs.ysscores.com/teams/128/5861694177479.png"
+    },
+    "team2": {
+      "name": "أوروغواي",
+      "flag": "https://imgs.ysscores.com/teams/128/9901763117716.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "مباراة ودية x",
+    "title": "كولومبيا × تشيلي",
+    "time": "2026-11-14T02:00:00",
+    "team1": {
+      "name": "كولومبيا",
+      "flag": "https://imgs.ysscores.com/teams/128/8411763070902.png"
+    },
+    "team2": {
+      "name": "تشيلي",
+      "flag": "https://imgs.ysscores.com/teams/128/7771763149048.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "مباراة ودية x",
+    "title": "الإكوادور × كوستاريكا",
+    "time": "2026-11-14T02:00:00",
+    "team1": {
+      "name": "الإكوادور",
+      "flag": "https://imgs.ysscores.com/teams/128/1021763071912.png"
+    },
+    "team2": {
+      "name": "كوستاريكا",
+      "flag": "https://imgs.ysscores.com/teams/128/8391763071154.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "مباراة ودية x",
+    "title": "بيرو × بوليفيا",
+    "time": "2026-11-14T03:00:00",
+    "team1": {
+      "name": "بيرو",
+      "flag": "https://imgs.ysscores.com/teams/128/8781763085254.png"
+    },
+    "team2": {
+      "name": "بوليفيا",
+      "flag": "https://imgs.ysscores.com/teams/128/5471763069414.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "مباراة ودية x",
+    "title": "تاهيتي × جزر كوك",
+    "time": "2026-11-14T07:30:00",
+    "team1": {
+      "name": "تاهيتي",
+      "flag": "https://imgs.ysscores.com/teams/128/8241763156263.png"
+    },
+    "team2": {
+      "name": "جزر كوك",
+      "flag": "https://imgs.ysscores.com/teams/128/17904568375774.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "مباراة ودية x",
+    "title": "البحرين × اليمن",
+    "time": "2026-11-14T08:00:00",
+    "team1": {
+      "name": "البحرين",
+      "flag": "https://imgs.ysscores.com/teams/128/9791763068542.png"
+    },
+    "team2": {
+      "name": "اليمن",
+      "flag": "https://imgs.ysscores.com/teams/128/621763118201.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "مباراة ودية x",
+    "title": "عُمان × طاجيكستان",
+    "time": "2026-11-14T11:00:00",
+    "team1": {
+      "name": "عُمان",
+      "flag": "https://imgs.ysscores.com/teams/128/7281763084559.png"
+    },
+    "team2": {
+      "name": "طاجيكستان",
+      "flag": "https://imgs.ysscores.com/teams/128/6601763087769.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "مباراة ودية x",
+    "title": "اليابان × البرازيل",
+    "time": "2026-11-14T12:15:00",
+    "team1": {
+      "name": "اليابان",
+      "flag": "https://imgs.ysscores.com/teams/128/6361763081321.png"
+    },
+    "team2": {
+      "name": "البرازيل",
+      "flag": "https://imgs.ysscores.com/teams/128/4331763069849.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "المباريات الودية للأندية x",
+    "title": "ليجيا وارسو × بوغون غرودزيسك",
+    "time": "2026-11-14T12:30:00",
+    "team1": {
+      "name": "ليجيا وارسو",
+      "flag": "https://imgs.ysscores.com/teams/128/2291690370535.png"
+    },
+    "team2": {
+      "name": "بوغون غرودزيسك",
+      "flag": "https://imgs.ysscores.com/teams/128/17945018624112.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "المباريات الودية للأندية x",
+    "title": "أوبولون × نيفا",
+    "time": "2026-11-14T13:00:00",
+    "team1": {
+      "name": "أوبولون",
+      "flag": "https://imgs.ysscores.com/teams/128/17945018179817.png"
+    },
+    "team2": {
+      "name": "نيفا",
+      "flag": "https://imgs.ysscores.com/teams/128/17945017835961.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "المباريات الودية للأندية x",
+    "title": "وودج × سكييرنيفيتسي",
+    "time": "2026-11-14T13:00:00",
+    "team1": {
+      "name": "وودج",
+      "flag": "https://imgs.ysscores.com/teams/128/17850938148062.png"
+    },
+    "team2": {
+      "name": "سكييرنيفيتسي",
+      "flag": "https://imgs.ysscores.com/teams/128/17945017077280.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "المباريات الودية للأندية x",
+    "title": "نوفي بازار × أوترانت",
+    "time": "2026-11-14T14:00:00",
+    "team1": {
+      "name": "نوفي بازار",
+      "flag": "https://imgs.ysscores.com/teams/128/6141690370568.png"
+    },
+    "team2": {
+      "name": "أوترانت",
+      "flag": "https://imgs.ysscores.com/teams/128/17945017463912.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "مباراة ودية x",
+    "title": "الصين × ماليزيا",
+    "time": "2026-11-14T14:00:00",
+    "team1": {
+      "name": "الصين",
+      "flag": "https://imgs.ysscores.com/teams/128/1921763070825.png"
+    },
+    "team2": {
+      "name": "ماليزيا",
+      "flag": "https://imgs.ysscores.com/teams/128/7981763082935.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "مباراة ودية x",
+    "title": "تايلاند × بروناي",
+    "time": "2026-11-14T14:30:00",
+    "team1": {
+      "name": "تايلاند",
+      "flag": "https://imgs.ysscores.com/teams/128/7571763040399.png"
+    },
+    "team2": {
+      "name": "بروناي",
+      "flag": "https://imgs.ysscores.com/teams/128/5891763070005.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "المباريات الودية للأندية x",
+    "title": "زوريا لوهانسك × ميتاليست",
+    "time": "2026-11-14T15:00:00",
+    "team1": {
+      "name": "زوريا لوهانسك",
+      "flag": "https://imgs.ysscores.com/teams/128/9471690370507.png"
+    },
+    "team2": {
+      "name": "ميتاليست",
+      "flag": "https://imgs.ysscores.com/teams/128/3991690370582.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس فرنسا x",
+    "title": "فيسول × فلوري",
+    "time": "2026-11-14T15:00:00",
+    "team1": {
+      "name": "فيسول",
+      "flag": "https://imgs.ysscores.com/teams/128/7761718349553.png"
+    },
+    "team2": {
+      "name": "فلوري",
+      "flag": "https://imgs.ysscores.com/teams/128/6031718441520.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس فرنسا x",
+    "title": "توركوينوا × ريمس",
+    "time": "2026-11-14T15:00:00",
+    "team1": {
+      "name": "توركوينوا",
+      "flag": "https://imgs.ysscores.com/teams/128/5031739298010.png"
+    },
+    "team2": {
+      "name": "ريمس",
+      "flag": "https://imgs.ysscores.com/teams/128/8361690287842.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس فرنسا x",
+    "title": "بالاني × مونبلييه",
+    "time": "2026-11-14T15:00:00",
+    "team1": {
+      "name": "بالاني",
+      "flag": "https://imgs.ysscores.com/teams/128/9501718450240.png"
+    },
+    "team2": {
+      "name": "مونبلييه",
+      "flag": "https://imgs.ysscores.com/teams/128/691720799295.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس فرنسا x",
+    "title": "لو بوي × ديابل نوار دي كومباني",
+    "time": "2026-11-14T15:00:00",
+    "team1": {
+      "name": "لو بوي",
+      "flag": "https://imgs.ysscores.com/teams/128/2951703615777.png"
+    },
+    "team2": {
+      "name": "ديابل نوار دي كومباني",
+      "flag": "https://imgs.ysscores.com/teams/128/7281739443943.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس فرنسا x",
+    "title": "فرساي × روديز",
+    "time": "2026-11-14T15:00:00",
+    "team1": {
+      "name": "فرساي",
+      "flag": "https://imgs.ysscores.com/teams/128/2931718441146.png"
+    },
+    "team2": {
+      "name": "روديز",
+      "flag": "https://imgs.ysscores.com/teams/128/7061703615196.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس فرنسا x",
+    "title": "بوالي × سوشو مونتبليار",
+    "time": "2026-11-14T15:30:00",
+    "team1": {
+      "name": "بوالي",
+      "flag": "https://imgs.ysscores.com/teams/128/6481739482017.png"
+    },
+    "team2": {
+      "name": "سوشو مونتبليار",
+      "flag": "https://imgs.ysscores.com/teams/128/6061690370544.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس فرنسا x",
+    "title": "رون كروسول × فريجوس",
+    "time": "2026-11-14T16:00:00",
+    "team1": {
+      "name": "رون كروسول",
+      "flag": "https://imgs.ysscores.com/teams/128/17934672037002.png"
+    },
+    "team2": {
+      "name": "فريجوس",
+      "flag": "https://imgs.ysscores.com/teams/128/17657312147624.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس فرنسا x",
+    "title": "فولتيجر دي شاتوبريانت × هورايزن",
+    "time": "2026-11-14T16:00:00",
+    "team1": {
+      "name": "فولتيجر دي شاتوبريانت",
+      "flag": "https://imgs.ysscores.com/teams/128/8981718367216.png"
+    },
+    "team2": {
+      "name": "هورايزن",
+      "flag": "https://imgs.ysscores.com/teams/128/1751755554050.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري الأمم الأوروبية x",
+    "title": "كوسوفو × الكيان الصهيوني",
+    "time": "2026-11-14T16:00:00",
+    "team1": {
+      "name": "كوسوفو",
+      "flag": "https://imgs.ysscores.com/teams/128/9471763081695.png"
+    },
+    "team2": {
+      "name": "الكيان الصهيوني",
+      "flag": "https://imgs.ysscores.com/teams/128/3971693419326.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "المباريات الودية للأندية x",
+    "title": "باوك سالونيك × بارتيزان بلغراد",
+    "time": "2026-11-14T16:45:00",
+    "team1": {
+      "name": "باوك سالونيك",
+      "flag": "https://imgs.ysscores.com/teams/128/2801690370532.png"
+    },
+    "team2": {
+      "name": "بارتيزان بلغراد",
+      "flag": "https://imgs.ysscores.com/teams/128/9341722374482.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس فرنسا x",
+    "title": "شويسي أو باك × كان",
+    "time": "2026-11-14T17:00:00",
+    "team1": {
+      "name": "شويسي أو باك",
+      "flag": "https://imgs.ysscores.com/teams/128/1781718449914.png"
+    },
+    "team2": {
+      "name": "كان",
+      "flag": "https://imgs.ysscores.com/teams/128/2861690370508.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس فرنسا x",
+    "title": "فونتيني × كليرمون فوت",
+    "time": "2026-11-14T17:00:00",
+    "team1": {
+      "name": "فونتيني",
+      "flag": "https://imgs.ysscores.com/teams/128/17661796133298.png"
+    },
+    "team2": {
+      "name": "كليرمون فوت",
+      "flag": "https://imgs.ysscores.com/teams/128/2071690288019.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس فرنسا x",
+    "title": "شالونيه × أوت ليون",
+    "time": "2026-11-14T17:00:00",
+    "team1": {
+      "name": "شالونيه",
+      "flag": "https://imgs.ysscores.com/teams/128/7351718442627.png"
+    },
+    "team2": {
+      "name": "أوت ليون",
+      "flag": "https://imgs.ysscores.com/teams/128/9381734810962.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "مباراة ودية x",
+    "title": "إيران × فلسطين",
+    "time": "2026-11-14T17:00:00",
+    "team1": {
+      "name": "إيران",
+      "flag": "https://imgs.ysscores.com/teams/128/2071763080949.png"
+    },
+    "team2": {
+      "name": "فلسطين",
+      "flag": "https://imgs.ysscores.com/teams/128/9311763084802.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس فرنسا x",
+    "title": "تينتينياك × كونكارنيو",
+    "time": "2026-11-14T18:00:00",
+    "team1": {
+      "name": "تينتينياك",
+      "flag": "https://imgs.ysscores.com/teams/128/17934669807685.png"
+    },
+    "team2": {
+      "name": "كونكارنيو",
+      "flag": "https://imgs.ysscores.com/teams/128/1691717493826.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس فرنسا x",
+    "title": "دو كروا × ثون",
+    "time": "2026-11-14T18:00:00",
+    "team1": {
+      "name": "دو كروا",
+      "flag": "https://imgs.ysscores.com/teams/128/9311718444307.png"
+    },
+    "team2": {
+      "name": "ثون",
+      "flag": "https://imgs.ysscores.com/teams/128/5581718442236.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس فرنسا x",
+    "title": "سان سيباستيان × لا بول",
+    "time": "2026-11-14T18:00:00",
+    "team1": {
+      "name": "سان سيباستيان",
+      "flag": "https://imgs.ysscores.com/teams/128/17934665028929.png"
+    },
+    "team2": {
+      "name": "لا بول",
+      "flag": "https://imgs.ysscores.com/teams/128/4061739560733.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس فرنسا x",
+    "title": "فيندي بواري × سانت آن دو فيرتو",
+    "time": "2026-11-14T18:00:00",
+    "team1": {
+      "name": "فيندي بواري",
+      "flag": "https://imgs.ysscores.com/teams/128/5671718440506.png"
+    },
+    "team2": {
+      "name": "سانت آن دو فيرتو",
+      "flag": "https://imgs.ysscores.com/teams/128/8641739560663.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس فرنسا x",
+    "title": "فيرمني × آنسي",
+    "time": "2026-11-14T18:00:00",
+    "team1": {
+      "name": "فيرمني",
+      "flag": "https://imgs.ysscores.com/teams/128/6141739299291.png"
+    },
+    "team2": {
+      "name": "آنسي",
+      "flag": "https://imgs.ysscores.com/teams/128/5121690370573.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس فرنسا x",
+    "title": "بون دي شيروي × بورج بيروناس",
+    "time": "2026-11-14T18:00:00",
+    "team1": {
+      "name": "بون دي شيروي",
+      "flag": "https://imgs.ysscores.com/teams/128/17934661369972.png"
+    },
+    "team2": {
+      "name": "بورج بيروناس",
+      "flag": "https://imgs.ysscores.com/teams/128/2591718349887.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "تصفيات كأس أمم أفريقيا x",
+    "title": "أوغندا × بوتسوانا",
+    "time": "2026-11-14T18:00:00",
+    "team1": {
+      "name": "أوغندا",
+      "flag": "https://imgs.ysscores.com/teams/128/2921763117370.png"
+    },
+    "team2": {
+      "name": "بوتسوانا",
+      "flag": "https://imgs.ysscores.com/teams/128/4041763069740.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس فرنسا x",
+    "title": "كوتزينج × بيسيم",
+    "time": "2026-11-14T18:30:00",
+    "team1": {
+      "name": "كوتزينج",
+      "flag": "https://imgs.ysscores.com/teams/128/5961739486453.png"
+    },
+    "team2": {
+      "name": "بيسيم",
+      "flag": "https://imgs.ysscores.com/teams/128/9601718444860.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس فرنسا x",
+    "title": "بونتيفي × تا رين",
+    "time": "2026-11-14T19:00:00",
+    "team1": {
+      "name": "بونتيفي",
+      "flag": "https://imgs.ysscores.com/teams/128/8671718349505.png"
+    },
+    "team2": {
+      "name": "تا رين",
+      "flag": "https://imgs.ysscores.com/teams/128/6491718442275.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس فرنسا x",
+    "title": "سان بريوك × روان",
+    "time": "2026-11-14T19:00:00",
+    "team1": {
+      "name": "سان بريوك",
+      "flag": "https://imgs.ysscores.com/teams/128/991739485971.png"
+    },
+    "team2": {
+      "name": "روان",
+      "flag": "https://imgs.ysscores.com/teams/128/9651703619609.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس فرنسا x",
+    "title": "فيتري × سان بيير",
+    "time": "2026-11-14T19:00:00",
+    "team1": {
+      "name": "فيتري",
+      "flag": "https://imgs.ysscores.com/teams/128/8951718349132.png"
+    },
+    "team2": {
+      "name": "سان بيير",
+      "flag": "https://imgs.ysscores.com/teams/128/4411739484947.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس فرنسا x",
+    "title": "أمنيفيل × سوندهوفن",
+    "time": "2026-11-14T19:00:00",
+    "team1": {
+      "name": "أمنيفيل",
+      "flag": "https://imgs.ysscores.com/teams/128/17819468943918.png"
+    },
+    "team2": {
+      "name": "سوندهوفن",
+      "flag": "https://imgs.ysscores.com/teams/128/17934662299001.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس فرنسا x",
+    "title": "بيزانسون × ايه بي ام ميتز",
+    "time": "2026-11-14T19:00:00",
+    "team1": {
+      "name": "بيزانسون",
+      "flag": "https://imgs.ysscores.com/teams/128/17657310791535.png"
+    },
+    "team2": {
+      "name": "ايه بي ام ميتز",
+      "flag": "https://imgs.ysscores.com/teams/128/2631718443856.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس فرنسا x",
+    "title": "ستراسبورغ × أوبرلاوترباخ/إيبرباخ",
+    "time": "2026-11-14T19:00:00",
+    "team1": {
+      "name": "ستراسبورغ",
+      "flag": "https://imgs.ysscores.com/teams/128/17657285913148.png"
+    },
+    "team2": {
+      "name": "أوبرلاوترباخ/إيبرباخ",
+      "flag": "https://imgs.ysscores.com/teams/128/4481730660494.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس فرنسا x",
+    "title": "بيتونويس × نانسي",
+    "time": "2026-11-14T19:00:00",
+    "team1": {
+      "name": "بيتونويس",
+      "flag": "https://imgs.ysscores.com/teams/128/17661806572911.png"
+    },
+    "team2": {
+      "name": "نانسي",
+      "flag": "https://imgs.ysscores.com/teams/128/8801739326244.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس فرنسا x",
+    "title": "سانت أوين × بولوني",
+    "time": "2026-11-14T19:00:00",
+    "team1": {
+      "name": "سانت أوين",
+      "flag": "https://imgs.ysscores.com/teams/128/7131745535053.png"
+    },
+    "team2": {
+      "name": "بولوني",
+      "flag": "https://imgs.ysscores.com/teams/128/4331718349689.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس فرنسا x",
+    "title": "دينكيرك × كويفيلي",
+    "time": "2026-11-14T19:00:00",
+    "team1": {
+      "name": "دينكيرك",
+      "flag": "https://imgs.ysscores.com/teams/128/7361690370560.png"
+    },
+    "team2": {
+      "name": "كويفيلي",
+      "flag": "https://imgs.ysscores.com/teams/128/801703614727.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس فرنسا x",
+    "title": "كاين × شامبلي",
+    "time": "2026-11-14T19:00:00",
+    "team1": {
+      "name": "كاين",
+      "flag": "https://imgs.ysscores.com/teams/128/17657305486414.png"
+    },
+    "team2": {
+      "name": "شامبلي",
+      "flag": "https://imgs.ysscores.com/teams/128/3601703614884.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس فرنسا x",
+    "title": "لو توكيه × أفرانش",
+    "time": "2026-11-14T19:00:00",
+    "team1": {
+      "name": "لو توكيه",
+      "flag": "https://imgs.ysscores.com/teams/128/5811739486052.png"
+    },
+    "team2": {
+      "name": "أفرانش",
+      "flag": "https://imgs.ysscores.com/teams/128/5531690370496.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس فرنسا x",
+    "title": "كونتر × ليناس مونتليهري",
+    "time": "2026-11-14T19:00:00",
+    "team1": {
+      "name": "كونتر",
+      "flag": "https://imgs.ysscores.com/teams/128/17657272288706.png"
+    },
+    "team2": {
+      "name": "ليناس مونتليهري",
+      "flag": "https://imgs.ysscores.com/teams/128/4981739560705.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس فرنسا x",
+    "title": "ديجون × لس سيلونجي",
+    "time": "2026-11-14T19:00:00",
+    "team1": {
+      "name": "ديجون",
+      "flag": "https://imgs.ysscores.com/teams/128/3921690370543.png"
+    },
+    "team2": {
+      "name": "لس سيلونجي",
+      "flag": "https://imgs.ysscores.com/teams/128/6141718440362.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس فرنسا x",
+    "title": "غرو دو روا × ريفييرا",
+    "time": "2026-11-14T19:00:00",
+    "team1": {
+      "name": "غرو دو روا",
+      "flag": "https://imgs.ysscores.com/teams/128/7911739467484.png"
+    },
+    "team2": {
+      "name": "ريفييرا",
+      "flag": "https://imgs.ysscores.com/teams/128/17934669558960.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس فرنسا x",
+    "title": "باراي × فيلفرانش بوجوليه",
+    "time": "2026-11-14T19:00:00",
+    "team1": {
+      "name": "باراي",
+      "flag": "https://imgs.ysscores.com/teams/128/17934661789321.png"
+    },
+    "team2": {
+      "name": "فيلفرانش بوجوليه",
+      "flag": "https://imgs.ysscores.com/teams/128/3831718440762.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس فرنسا x",
+    "title": "سبورتنغ ليون × فيرغ",
+    "time": "2026-11-14T19:00:00",
+    "team1": {
+      "name": "سبورتنغ ليون",
+      "flag": "https://imgs.ysscores.com/teams/128/6781703615911.png"
+    },
+    "team2": {
+      "name": "فيرغ",
+      "flag": "https://imgs.ysscores.com/teams/128/1711703618434.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس فرنسا x",
+    "title": "كورنون × شاسيو ديسين",
+    "time": "2026-11-14T19:00:00",
+    "team1": {
+      "name": "كورنون",
+      "flag": "https://imgs.ysscores.com/teams/128/17657310901459.png"
+    },
+    "team2": {
+      "name": "شاسيو ديسين",
+      "flag": "https://imgs.ysscores.com/teams/128/861718450171.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري الأمم الأوروبية x",
+    "title": "جورجيا × المجر",
+    "time": "2026-11-14T19:00:00",
+    "team1": {
+      "name": "جورجيا",
+      "flag": "https://imgs.ysscores.com/teams/128/2021763078387.png"
+    },
+    "team2": {
+      "name": "المجر",
+      "flag": "https://imgs.ysscores.com/teams/128/9391763080752.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري الأمم الأوروبية x",
+    "title": "النرويج × ويلز",
+    "time": "2026-11-14T19:00:00",
+    "team1": {
+      "name": "النرويج",
+      "flag": "https://imgs.ysscores.com/teams/128/1891763084487.png"
+    },
+    "team2": {
+      "name": "ويلز",
+      "flag": "https://imgs.ysscores.com/teams/128/7371763118142.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس فرنسا x",
+    "title": "بالما × كاستانيان",
+    "time": "2026-11-14T19:30:00",
+    "team1": {
+      "name": "بالما",
+      "flag": "https://imgs.ysscores.com/teams/128/17934631614296.png"
+    },
+    "team2": {
+      "name": "كاستانيان",
+      "flag": "https://imgs.ysscores.com/teams/128/5751718443999.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "المباريات الودية للأندية x",
+    "title": "الباسك × فنزويلا",
+    "time": "2026-11-14T20:00:00",
+    "team1": {
+      "name": "الباسك",
+      "flag": "https://imgs.ysscores.com/teams/128/17944963671988.png"
+    },
+    "team2": {
+      "name": "فنزويلا",
+      "flag": "https://imgs.ysscores.com/teams/128/3031763117870.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس فرنسا x",
+    "title": "لانيون × غانغون",
+    "time": "2026-11-14T20:00:00",
+    "team1": {
+      "name": "لانيون",
+      "flag": "https://imgs.ysscores.com/teams/128/17819553938088.png"
+    },
+    "team2": {
+      "name": "غانغون",
+      "flag": "https://imgs.ysscores.com/teams/128/6441757947791.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس فرنسا x",
+    "title": "شوني × دو فالوا",
+    "time": "2026-11-14T20:00:00",
+    "team1": {
+      "name": "شوني",
+      "flag": "https://imgs.ysscores.com/teams/128/17934661586824.png"
+    },
+    "team2": {
+      "name": "دو فالوا",
+      "flag": "https://imgs.ysscores.com/teams/128/4991718452971.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس فرنسا x",
+    "title": "FC Claira St Laurent × بويسساليكون",
+    "time": "2026-11-14T20:00:00",
+    "team1": {
+      "name": "FC Claira St Laurent",
+      "flag": "https://imgs.ysscores.com/teams/128/17934670577145.png"
+    },
+    "team2": {
+      "name": "بويسساليكون",
+      "flag": "https://imgs.ysscores.com/teams/128/17934667903177.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس فرنسا x",
+    "title": "أفينير لوزير × كريست أوست",
+    "time": "2026-11-14T20:00:00",
+    "team1": {
+      "name": "أفينير لوزير",
+      "flag": "https://imgs.ysscores.com/teams/128/17934662804442.png"
+    },
+    "team2": {
+      "name": "كريست أوست",
+      "flag": "https://imgs.ysscores.com/teams/128/17934665832138.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس فرنسا x",
+    "title": "بولازاك × جونيه أنجليه",
+    "time": "2026-11-14T20:00:00",
+    "team1": {
+      "name": "بولازاك",
+      "flag": "https://imgs.ysscores.com/teams/128/17657290182468.png"
+    },
+    "team2": {
+      "name": "جونيه أنجليه",
+      "flag": "https://imgs.ysscores.com/teams/128/17934658043465.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس فرنسا x",
+    "title": "لورد × باو",
+    "time": "2026-11-14T20:00:00",
+    "team1": {
+      "name": "لورد",
+      "flag": "https://imgs.ysscores.com/teams/128/17934664582158.png"
+    },
+    "team2": {
+      "name": "باو",
+      "flag": "https://imgs.ysscores.com/teams/128/2821722095063.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس فرنسا x",
+    "title": "بريف × أنجيليم",
+    "time": "2026-11-14T20:00:00",
+    "team1": {
+      "name": "بريف",
+      "flag": "https://imgs.ysscores.com/teams/128/9831753864298.png"
+    },
+    "team2": {
+      "name": "أنجيليم",
+      "flag": "https://imgs.ysscores.com/teams/128/7501718349243.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس فرنسا x",
+    "title": "بوردو × أسمور",
+    "time": "2026-11-14T20:00:00",
+    "team1": {
+      "name": "بوردو",
+      "flag": "https://imgs.ysscores.com/teams/128/911739486523.png"
+    },
+    "team2": {
+      "name": "أسمور",
+      "flag": "https://imgs.ysscores.com/teams/128/17652026602944.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس فرنسا x",
+    "title": "سانت أندريه × نويلوبييه",
+    "time": "2026-11-14T20:00:00",
+    "team1": {
+      "name": "سانت أندريه",
+      "flag": "https://imgs.ysscores.com/teams/128/9331739554087.png"
+    },
+    "team2": {
+      "name": "نويلوبييه",
+      "flag": "https://imgs.ysscores.com/teams/128/17934666219077.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس فرنسا x",
+    "title": "بريسوير × تشالينس",
+    "time": "2026-11-14T20:00:00",
+    "team1": {
+      "name": "بريسوير",
+      "flag": "https://imgs.ysscores.com/teams/128/351739297877.png"
+    },
+    "team2": {
+      "name": "تشالينس",
+      "flag": "https://imgs.ysscores.com/teams/128/8231703615371.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس فرنسا x",
+    "title": "بريكيني × مونلوسون",
+    "time": "2026-11-14T20:00:00",
+    "team1": {
+      "name": "بريكيني",
+      "flag": "https://imgs.ysscores.com/teams/128/9641718443541.png"
+    },
+    "team2": {
+      "name": "مونلوسون",
+      "flag": "https://imgs.ysscores.com/teams/128/17934660855087.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس فرنسا x",
+    "title": "بوكسيرول × سابليه",
+    "time": "2026-11-14T20:00:00",
+    "team1": {
+      "name": "بوكسيرول",
+      "flag": "https://imgs.ysscores.com/teams/128/4291763050790.png"
+    },
+    "team2": {
+      "name": "سابليه",
+      "flag": "https://imgs.ysscores.com/teams/128/9341739298476.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس فرنسا x",
+    "title": "كامبراي × أميان",
+    "time": "2026-11-14T21:00:00",
+    "team1": {
+      "name": "كامبراي",
+      "flag": "https://imgs.ysscores.com/teams/128/17934670913190.png"
+    },
+    "team2": {
+      "name": "أميان",
+      "flag": "https://imgs.ysscores.com/teams/128/611690370530.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "تصفيات كأس أمم أفريقيا x",
+    "title": "أنغولا × جنوب السودان",
+    "time": "2026-11-14T21:00:00",
+    "team1": {
+      "name": "أنغولا",
+      "flag": "https://imgs.ysscores.com/teams/128/2151763067065.png"
+    },
+    "team2": {
+      "name": "جنوب السودان",
+      "flag": "https://imgs.ysscores.com/teams/128/3441763087125.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "تصفيات كأس أمم أفريقيا x",
+    "title": "الجزائر × توجو",
+    "time": "2026-11-14T21:00:00",
+    "team1": {
+      "name": "الجزائر",
+      "flag": "https://imgs.ysscores.com/teams/128/981693834281.png"
+    },
+    "team2": {
+      "name": "توجو",
+      "flag": "https://imgs.ysscores.com/teams/128/9031763087892.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري الأمم الأوروبية x",
+    "title": "أيرلندا الشمالية × أوكرانيا",
+    "time": "2026-11-14T21:45:00",
+    "team1": {
+      "name": "أيرلندا الشمالية",
+      "flag": "https://imgs.ysscores.com/teams/128/7571763084342.png"
+    },
+    "team2": {
+      "name": "أوكرانيا",
+      "flag": "https://imgs.ysscores.com/teams/128/6961763117440.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري الأمم الأوروبية x",
+    "title": "النمسا × أيرلندا",
+    "time": "2026-11-14T21:45:00",
+    "team1": {
+      "name": "النمسا",
+      "flag": "https://imgs.ysscores.com/teams/128/2941763068051.png"
+    },
+    "team2": {
+      "name": "أيرلندا",
+      "flag": "https://imgs.ysscores.com/teams/128/7511763081085.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري الأمم الأوروبية x",
+    "title": "رومانيا × بولندا",
+    "time": "2026-11-14T21:45:00",
+    "team1": {
+      "name": "رومانيا",
+      "flag": "https://imgs.ysscores.com/teams/128/6501763085627.png"
+    },
+    "team2": {
+      "name": "بولندا",
+      "flag": "https://imgs.ysscores.com/teams/128/7861763085396.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري الأمم الأوروبية x",
+    "title": "السويد × البوسنة",
+    "time": "2026-11-14T21:45:00",
+    "team1": {
+      "name": "السويد",
+      "flag": "https://imgs.ysscores.com/teams/128/2981763087554.png"
+    },
+    "team2": {
+      "name": "البوسنة",
+      "flag": "https://imgs.ysscores.com/teams/128/4711763069706.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري الأمم الأوروبية x",
+    "title": "البرتغال × الدنمارك",
+    "time": "2026-11-14T21:45:00",
+    "team1": {
+      "name": "البرتغال",
+      "flag": "https://imgs.ysscores.com/teams/128/3431763085446.png"
+    },
+    "team2": {
+      "name": "الدنمارك",
+      "flag": "https://imgs.ysscores.com/teams/128/5741763071628.png"
+    },
+    "extra": false,
+    "channels": []
   }
 ]
