@@ -2666,7 +2666,7 @@
     ]
   },
   {
-    "league": "مباراة ودية x",
+    "league": "مباراة ودية",
     "title": "قطر × أستراليا",
     "time": "2026-11-13T16:45:00",
     "team1": {
@@ -2678,7 +2678,12 @@
       "flag": "https://imgs.ysscores.com/teams/128/8691763067926.png"
     },
     "extra": false,
-    "channels": []
+    "channels": [
+      {
+        "name": "ALKASS 1",
+        "url": "go:alkass1"
+      }
+    ]
   },
   {
     "league": "مباراة ودية x",
