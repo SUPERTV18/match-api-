@@ -4514,7 +4514,7 @@
     "channels": []
   },
   {
-    "league": "تصفيات كأس أمم أفريقيا x",
+    "league": "تصفيات كأس أمم أفريقيا",
     "title": "أنغولا × جنوب السودان",
     "time": "2026-11-14T21:00:00",
     "team1": {
@@ -4526,7 +4526,24 @@
       "flag": "https://imgs.ysscores.com/teams/128/3441763087125.png"
     },
     "extra": false,
-    "channels": []
+    "channels": [
+      {
+        "name": "FHD",
+        "url": "go:Bein7hd"
+      },
+      {
+        "name": "HD",
+        "url": "go:Bein7hd2"
+      },
+      {
+        "name": "SD",
+        "url": "go:Bein7sd"
+      },
+      {
+        "name": "LOW",
+        "url": "go:Bein7low"
+      }
+    ]
   },
   {
     "league": "تصفيات كأس أمم أفريقيا x",
