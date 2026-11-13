@@ -3502,7 +3502,7 @@
     ]
   },
   {
-    "league": "مباراة ودية x",
+    "league": "مباراة ودية",
     "title": "اليابان × البرازيل",
     "time": "2026-11-14T12:15:00",
     "team1": {
@@ -3514,7 +3514,12 @@
       "flag": "https://imgs.ysscores.com/teams/128/4331763069849.png"
     },
     "extra": false,
-    "channels": []
+    "channels": [
+      {
+        "name": "ALWAN 1",
+        "url": "go:ALWAN1"
+      }
+    ]
   },
   {
     "league": "المباريات الودية للأندية x",
