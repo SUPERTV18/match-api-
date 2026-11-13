@@ -3834,7 +3834,12 @@
       "flag": "https://imgs.ysscores.com/teams/128/9311763084802.png"
     },
     "extra": false,
-    "channels": []
+    "channels": [
+      {
+        "name": "ALWAN 4",
+        "url": "go:ALWAN4"
+      }
+    ]
   },
   {
     "league": "كأس فرنسا x",
