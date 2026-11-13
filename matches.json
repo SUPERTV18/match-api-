@@ -3482,7 +3482,7 @@
     "channels": []
   },
   {
-    "league": "مباراة ودية x",
+    "league": "مباراة ودية",
     "title": "عُمان × طاجيكستان",
     "time": "2026-11-14T11:00:00",
     "team1": {
@@ -3494,7 +3494,12 @@
       "flag": "https://imgs.ysscores.com/teams/128/6601763087769.png"
     },
     "extra": false,
-    "channels": []
+    "channels": [
+      {
+        "name": "OMAN Sports",
+        "url": "go:omansport"
+      }
+    ]
   },
   {
     "league": "مباراة ودية x",
