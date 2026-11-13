@@ -4893,5 +4893,260 @@
     },
     "extra": false,
     "channels": []
+  },
+  {
+    "league": "تصفيات كأس أمم أفريقيا x",
+    "title": "زيمبابوي × غينيا الاستوائية",
+    "time": "2026-11-16T15:00:00",
+    "team1": {
+      "name": "زيمبابوي",
+      "flag": "https://imgs.ysscores.com/teams/128/4021763118330.png"
+    },
+    "team2": {
+      "name": "غينيا الاستوائية",
+      "flag": "https://imgs.ysscores.com/teams/128/3871763072297.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "تصفيات كأس أمم أفريقيا x",
+    "title": "ناميبيا × الكاميرون",
+    "time": "2026-11-16T15:00:00",
+    "team1": {
+      "name": "ناميبيا",
+      "flag": "https://imgs.ysscores.com/teams/128/8441763083725.png"
+    },
+    "team2": {
+      "name": "الكاميرون",
+      "flag": "https://imgs.ysscores.com/teams/128/3431693919256.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "تصفيات كأس أمم أفريقيا x",
+    "title": "السودان × السنغال",
+    "time": "2026-11-16T15:00:00",
+    "team1": {
+      "name": "السودان",
+      "flag": "https://imgs.ysscores.com/teams/128/6511763087361.png"
+    },
+    "team2": {
+      "name": "السنغال",
+      "flag": "https://imgs.ysscores.com/teams/128/1831763086441.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "تصفيات كأس أمم أفريقيا x",
+    "title": "الصومال × غانا",
+    "time": "2026-11-16T17:00:00",
+    "team1": {
+      "name": "الصومال",
+      "flag": "https://imgs.ysscores.com/teams/128/5391763086926.png"
+    },
+    "team2": {
+      "name": "غانا",
+      "flag": "https://imgs.ysscores.com/teams/128/4491763078443.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري الأمم الأوروبية x",
+    "title": "جزر فارو × مولدوفا",
+    "time": "2026-11-16T17:00:00",
+    "team1": {
+      "name": "جزر فارو",
+      "flag": "https://imgs.ysscores.com/teams/128/8601763077818.png"
+    },
+    "team2": {
+      "name": "مولدوفا",
+      "flag": "https://imgs.ysscores.com/teams/128/2451763083340.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري الأمم الأوروبية x",
+    "title": "كازاخستان × سلوفاكيا",
+    "time": "2026-11-16T17:00:00",
+    "team1": {
+      "name": "كازاخستان",
+      "flag": "https://imgs.ysscores.com/teams/128/5601763081556.png"
+    },
+    "team2": {
+      "name": "سلوفاكيا",
+      "flag": "https://imgs.ysscores.com/teams/128/1581763086691.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "تصفيات كأس أمم أفريقيا x",
+    "title": "إرتريا × غينيا",
+    "time": "2026-11-16T18:00:00",
+    "team1": {
+      "name": "إرتريا",
+      "flag": "https://imgs.ysscores.com/teams/128/5921763077587.png"
+    },
+    "team2": {
+      "name": "غينيا",
+      "flag": "https://imgs.ysscores.com/teams/128/1551763079679.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "تصفيات كأس أمم أفريقيا x",
+    "title": "إفريقيا الوسطى × بنين",
+    "time": "2026-11-16T18:00:00",
+    "team1": {
+      "name": "إفريقيا الوسطى",
+      "flag": "https://imgs.ysscores.com/teams/128/1311763070646.png"
+    },
+    "team2": {
+      "name": "بنين",
+      "flag": "https://imgs.ysscores.com/teams/128/8421763069265.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري الأمم الأوروبية x",
+    "title": "ليتوانيا × ليختنشتاين",
+    "time": "2026-11-16T19:00:00",
+    "team1": {
+      "name": "ليتوانيا",
+      "flag": "https://imgs.ysscores.com/teams/128/1031763082643.png"
+    },
+    "team2": {
+      "name": "ليختنشتاين",
+      "flag": "https://imgs.ysscores.com/teams/128/1751763082591.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري الأمم الأوروبية x",
+    "title": "إستونيا × بلغاريا",
+    "time": "2026-11-16T19:00:00",
+    "team1": {
+      "name": "إستونيا",
+      "flag": "https://imgs.ysscores.com/teams/128/9421763077673.png"
+    },
+    "team2": {
+      "name": "بلغاريا",
+      "flag": "https://imgs.ysscores.com/teams/128/881763070085.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري الأمم الأوروبية x",
+    "title": "أيسلندا × لوكسمبورغ",
+    "time": "2026-11-16T19:00:00",
+    "team1": {
+      "name": "أيسلندا",
+      "flag": "https://imgs.ysscores.com/teams/128/4901763080803.png"
+    },
+    "team2": {
+      "name": "لوكسمبورغ",
+      "flag": "https://imgs.ysscores.com/teams/128/3241763082671.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "مباراة ودية x",
+    "title": "أندورا × أذربيجان",
+    "time": "2026-11-16T20:00:00",
+    "team1": {
+      "name": "أندورا",
+      "flag": "https://imgs.ysscores.com/teams/128/3681763066886.png"
+    },
+    "team2": {
+      "name": "أذربيجان",
+      "flag": "https://imgs.ysscores.com/teams/128/9751763068335.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري الأمم الأوروبية x",
+    "title": "مقدونيا الشمالية × سلوفينيا",
+    "time": "2026-11-16T21:45:00",
+    "team1": {
+      "name": "مقدونيا الشمالية",
+      "flag": "https://imgs.ysscores.com/teams/128/5571763082782.png"
+    },
+    "team2": {
+      "name": "سلوفينيا",
+      "flag": "https://imgs.ysscores.com/teams/128/5441763086745.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري الأمم الأوروبية x",
+    "title": "سويسرا × إسكتلندا",
+    "time": "2026-11-16T21:45:00",
+    "team1": {
+      "name": "سويسرا",
+      "flag": "https://imgs.ysscores.com/teams/128/1011763087595.png"
+    },
+    "team2": {
+      "name": "إسكتلندا",
+      "flag": "https://imgs.ysscores.com/teams/128/8131763086386.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري الأمم الأوروبية x",
+    "title": "ألمانيا × هولندا",
+    "time": "2026-11-16T21:45:00",
+    "team1": {
+      "name": "ألمانيا",
+      "flag": "https://imgs.ysscores.com/teams/128/8941763078415.png"
+    },
+    "team2": {
+      "name": "هولندا",
+      "flag": "https://imgs.ysscores.com/teams/128/6941763083796.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري الأمم الأوروبية x",
+    "title": "اليونان × صربيا",
+    "time": "2026-11-16T21:45:00",
+    "team1": {
+      "name": "اليونان",
+      "flag": "https://imgs.ysscores.com/teams/128/331763078547.png"
+    },
+    "team2": {
+      "name": "صربيا",
+      "flag": "https://imgs.ysscores.com/teams/128/431763086461.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري الأمم الأوروبية x",
+    "title": "جبل طارق × مالطا",
+    "time": "2026-11-16T21:45:00",
+    "team1": {
+      "name": "جبل طارق",
+      "flag": "https://imgs.ysscores.com/teams/128/9521763119258.png"
+    },
+    "team2": {
+      "name": "مالطا",
+      "flag": "https://imgs.ysscores.com/teams/128/501763083061.png"
+    },
+    "extra": false,
+    "channels": []
   }
 ]
