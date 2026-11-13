@@ -3177,7 +3177,7 @@
     ]
   },
   {
-    "league": "دوري الأمم الأوروبية x",
+    "league": "دوري الأمم الأوروبية",
     "title": "صربيا × ألمانيا",
     "time": "2026-11-13T21:45:00",
     "team1": {
@@ -3189,7 +3189,32 @@
       "flag": "https://imgs.ysscores.com/teams/128/8941763078415.png"
     },
     "extra": false,
-    "channels": []
+    "channels": [
+      {
+        "name": "SUPER TV 2",
+        "url": "go:supertv3"
+      },
+      {
+        "name": "ALWAN 2",
+        "url": "go:ALWAN2"
+      },
+      {
+        "name": "FHD",
+        "url": "go:Bein3hd"
+      },
+      {
+        "name": "HD",
+        "url": "go:Bein3hd2"
+      },
+      {
+        "name": "SD",
+        "url": "go:Bein3sd"
+      },
+      {
+        "name": "LOW",
+        "url": "go:Bein3low"
+      }
+    ]
   },
   {
     "league": "دوري الأمم الأوروبية x",
