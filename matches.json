@@ -2796,7 +2796,7 @@
     "channels": []
   },
   {
-    "league": "مباراة ودية x",
+    "league": "مباراة ودية",
     "title": "الكويت × سوريا",
     "time": "2026-11-13T18:30:00",
     "team1": {
@@ -2808,7 +2808,12 @@
       "flag": "https://imgs.ysscores.com/teams/128/6211734428691.png"
     },
     "extra": false,
-    "channels": []
+    "channels": [
+      {
+        "name": "Kuwait Sports",
+        "url": "go:KuwaitSP"
+      }
+    ]
   },
   {
     "league": "مباراة ودية x",
