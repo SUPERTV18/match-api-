@@ -2637,7 +2637,7 @@
     ]
   },
   {
-    "league": "تصفيات كأس أمم أفريقيا x",
+    "league": "تصفيات كأس أمم أفريقيا",
     "title": "موزمبيق × إثيوبيا",
     "time": "2026-11-13T15:00:00",
     "team1": {
@@ -2649,7 +2649,24 @@
       "flag": "https://imgs.ysscores.com/teams/128/2851763077732.png"
     },
     "extra": false,
-    "channels": []
+    "channels": [
+      {
+        "name": "FHD",
+        "url": "go:Bein1hd"
+      },
+      {
+        "name": "HD",
+        "url": "go:Bein1hd2"
+      },
+      {
+        "name": "SD",
+        "url": "go:Bein1sd"
+      },
+      {
+        "name": "LOW",
+        "url": "go:Bein1low"
+      }
+    ]
   },
   {
     "league": "مباراة ودية",
