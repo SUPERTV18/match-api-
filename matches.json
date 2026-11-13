@@ -2686,7 +2686,7 @@
     ]
   },
   {
-    "league": "مباراة ودية x",
+    "league": "مباراة ودية",
     "title": "العراق × لبنان",
     "time": "2026-11-13T17:00:00",
     "team1": {
@@ -2698,7 +2698,12 @@
       "flag": "https://imgs.ysscores.com/teams/128/7871763082271.png"
     },
     "extra": false,
-    "channels": []
+    "channels": [
+      {
+        "name": "ALWAN 2",
+        "url": "go:ALWAN2"
+      }
+    ]
   },
   {
     "league": "تصفيات كأس أمم أفريقيا x",
