@@ -2573,7 +2573,7 @@
     "channels": []
   },
   {
-    "league": "تصفيات كأس أمم أفريقيا x",
+    "league": "تصفيات كأس أمم أفريقيا",
     "title": "جزر القمر × الكونغو",
     "time": "2026-11-13T15:00:00",
     "team1": {
@@ -2585,7 +2585,24 @@
       "flag": "https://imgs.ysscores.com/teams/128/2681763071029.png"
     },
     "extra": false,
-    "channels": []
+    "channels": [
+      {
+        "name": "FHD",
+        "url": "go:Bein3hd"
+      },
+      {
+        "name": "HD",
+        "url": "go:Bein3hd2"
+      },
+      {
+        "name": "SD",
+        "url": "go:Bein3sd"
+      },
+      {
+        "name": "LOW",
+        "url": "go:Bein3low"
+      }
+    ]
   },
   {
     "league": "تصفيات كأس أمم أفريقيا x",
