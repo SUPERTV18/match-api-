@@ -5325,7 +5325,7 @@
     ]
   },
   {
-    "league": "دوري الأمم الأوروبية x",
+    "league": "دوري الأمم الأوروبية",
     "title": "سويسرا × إسكتلندا",
     "time": "2026-11-16T21:45:00",
     "team1": {
@@ -5337,7 +5337,28 @@
       "flag": "https://imgs.ysscores.com/teams/128/8131763086386.png"
     },
     "extra": false,
-    "channels": []
+    "channels": [
+      {
+        "name": "ALWAN 3",
+        "url": "go:ALWAN3"
+      },
+      {
+        "name": "FHD",
+        "url": "go:Bein2hd"
+      },
+      {
+        "name": "HD",
+        "url": "go:Bein2hd2"
+      },
+      {
+        "name": "SD",
+        "url": "go:Bein2sd"
+      },
+      {
+        "name": "LOW",
+        "url": "go:Bein2low"
+      }
+    ]
   },
   {
     "league": "دوري الأمم الأوروبية x",
