@@ -4847,7 +4847,32 @@
       "flag": "https://imgs.ysscores.com/teams/128/4141763081186.png"
     },
     "extra": false,
-    "channels": []
+    "channels": [
+      {
+        "name": "SUPER TV 2",
+        "url": "go:supertv3"
+      },
+      {
+        "name": "ALWAN 3",
+        "url": "go:ALWAN3"
+      },
+      {
+        "name": "FHD",
+        "url": "go:Bein3hd"
+      },
+      {
+        "name": "HD",
+        "url": "go:Bein3hd2"
+      },
+      {
+        "name": "SD",
+        "url": "go:Bein3sd"
+      },
+      {
+        "name": "LOW",
+        "url": "go:Bein3low"
+      }
+    ]
   },
   {
     "league": "دوري الأمم الأوروبية",
