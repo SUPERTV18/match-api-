@@ -5441,7 +5441,7 @@
     ]
   },
   {
-    "league": "دوري الأمم الأوروبية x",
+    "league": "دوري الأمم الأوروبية",
     "title": "جبل طارق × مالطا",
     "time": "2026-11-16T21:45:00",
     "team1": {
@@ -5453,6 +5453,23 @@
       "flag": "https://imgs.ysscores.com/teams/128/501763083061.png"
     },
     "extra": false,
-    "channels": []
+    "channels": [
+      {
+        "name": "FHD",
+        "url": "go:Bein5hd"
+      },
+      {
+        "name": "HD",
+        "url": "go:Bein5hd2"
+      },
+      {
+        "name": "SD",
+        "url": "go:Bein5sd"
+      },
+      {
+        "name": "LOW",
+        "url": "go:Bein5low"
+      }
+    ]
   }
 ]
