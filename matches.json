@@ -4995,7 +4995,7 @@
     ]
   },
   {
-    "league": "تصفيات كأس أمم أفريقيا x",
+    "league": "تصفيات كأس أمم أفريقيا",
     "title": "زيمبابوي × غينيا الاستوائية",
     "time": "2026-11-16T15:00:00",
     "team1": {
@@ -5007,7 +5007,24 @@
       "flag": "https://imgs.ysscores.com/teams/128/3871763072297.png"
     },
     "extra": false,
-    "channels": []
+    "channels": [
+      {
+        "name": "FHD",
+        "url": "go:Bein3hd"
+      },
+      {
+        "name": "HD",
+        "url": "go:Bein3hd2"
+      },
+      {
+        "name": "SD",
+        "url": "go:Bein3sd"
+      },
+      {
+        "name": "LOW",
+        "url": "go:Bein3low"
+      }
+    ]
   },
   {
     "league": "تصفيات كأس أمم أفريقيا x",
