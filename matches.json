@@ -5099,7 +5099,7 @@
     ]
   },
   {
-    "league": "تصفيات كأس أمم أفريقيا x",
+    "league": "تصفيات كأس أمم أفريقيا",
     "title": "الصومال × غانا",
     "time": "2026-11-16T17:00:00",
     "team1": {
@@ -5111,7 +5111,28 @@
       "flag": "https://imgs.ysscores.com/teams/128/4491763078443.png"
     },
     "extra": false,
-    "channels": []
+    "channels": [
+      {
+        "name": "ALWAN 3",
+        "url": "go:ALWAN3"
+      },
+      {
+        "name": "FHD",
+        "url": "go:Bein4hd"
+      },
+      {
+        "name": "HD",
+        "url": "go:Bein4hd2"
+      },
+      {
+        "name": "SD",
+        "url": "go:Bein4sd"
+      },
+      {
+        "name": "LOW",
+        "url": "go:Bein4low"
+      }
+    ]
   },
   {
     "league": "دوري الأمم الأوروبية x",
