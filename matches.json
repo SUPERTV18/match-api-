@@ -5259,7 +5259,7 @@
     "channels": []
   },
   {
-    "league": "دوري الأمم الأوروبية x",
+    "league": "دوري الأمم الأوروبية",
     "title": "أيسلندا × لوكسمبورغ",
     "time": "2026-11-16T19:00:00",
     "team1": {
@@ -5271,7 +5271,24 @@
       "flag": "https://imgs.ysscores.com/teams/128/3241763082671.png"
     },
     "extra": false,
-    "channels": []
+    "channels": [
+      {
+        "name": "FHD",
+        "url": "go:Bein6hd"
+      },
+      {
+        "name": "HD",
+        "url": "go:Bein6hd2"
+      },
+      {
+        "name": "SD",
+        "url": "go:Bein6sd"
+      },
+      {
+        "name": "LOW",
+        "url": "go:Bein6low"
+      }
+    ]
   },
   {
     "league": "مباراة ودية x",
