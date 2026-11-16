@@ -5722,7 +5722,7 @@
     "channels": []
   },
   {
-    "league": "مباراة ودية x",
+    "league": "مباراة ودية",
     "title": "قطر × كوريا الجنوبية",
     "time": "2026-11-17T16:00:00",
     "team1": {
@@ -5734,7 +5734,12 @@
       "flag": "https://imgs.ysscores.com/teams/128/3911763087033.png"
     },
     "extra": false,
-    "channels": []
+    "channels": [
+      {
+        "name": "ALKASS 1",
+        "url": "go:alkass1"
+      }
+    ]
   },
   {
     "league": "مباراة ودية x",
