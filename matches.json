@@ -5944,7 +5944,7 @@
     "channels": []
   },
   {
-    "league": "مباراة ودية x",
+    "league": "مباراة ودية",
     "title": "العراق × إيران",
     "time": "2026-11-17T18:15:00",
     "team1": {
@@ -5956,7 +5956,12 @@
       "flag": "https://imgs.ysscores.com/teams/128/2071763080949.png"
     },
     "extra": false,
-    "channels": []
+    "channels": [
+      {
+        "name": "ALWAN 2",
+        "url": "go:ALWAN2"
+      }
+    ]
   },
   {
     "league": "مباراة ودية x",
