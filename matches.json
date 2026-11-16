@@ -5964,7 +5964,7 @@
     ]
   },
   {
-    "league": "مباراة ودية x",
+    "league": "مباراة ودية",
     "title": "الكويت × هندوراس",
     "time": "2026-11-17T18:30:00",
     "team1": {
@@ -5976,7 +5976,12 @@
       "flag": "https://imgs.ysscores.com/teams/128/7511763080690.png"
     },
     "extra": false,
-    "channels": []
+    "channels": [
+      {
+        "name": "Kuwait Sports",
+        "url": "go:KuwaitSP"
+      }
+    ]
   },
   {
     "league": "تصفيات كأس أمم أفريقيا x",
