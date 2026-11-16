@@ -5754,7 +5754,12 @@
       "flag": "https://imgs.ysscores.com/teams/128/6211734428691.png"
     },
     "extra": false,
-    "channels": []
+    "channels": [
+      {
+        "name": "ALWAN 2",
+        "url": "go:ALWAN2"
+      }
+    ]
   },
   {
     "league": "مباراة ودية x",
