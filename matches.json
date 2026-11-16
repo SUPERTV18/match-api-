@@ -5505,5 +5505,635 @@
         "url": "go:Bein5low"
       }
     ]
+  },
+  {
+    "league": "مباراة ودية x",
+    "title": "تاهيتي × جزر كوك",
+    "time": "2026-11-17T07:30:00",
+    "team1": {
+      "name": "تاهيتي",
+      "flag": "https://imgs.ysscores.com/teams/128/8241763156263.png"
+    },
+    "team2": {
+      "name": "جزر كوك",
+      "flag": "https://imgs.ysscores.com/teams/128/17904568375774.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "مباراة ودية x",
+    "title": "ماليزيا × اليمن",
+    "time": "2026-11-17T08:00:00",
+    "team1": {
+      "name": "ماليزيا",
+      "flag": "https://imgs.ysscores.com/teams/128/7981763082935.png"
+    },
+    "team2": {
+      "name": "اليمن",
+      "flag": "https://imgs.ysscores.com/teams/128/621763118201.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "مباراة ودية x",
+    "title": "سنغافورة × البرازيل",
+    "time": "2026-11-17T12:00:00",
+    "team1": {
+      "name": "سنغافورة",
+      "flag": "https://imgs.ysscores.com/teams/128/7001763086653.png"
+    },
+    "team2": {
+      "name": "البرازيل",
+      "flag": "https://imgs.ysscores.com/teams/128/4331763069849.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "مباراة ودية x",
+    "title": "الصين × البحرين",
+    "time": "2026-11-17T14:00:00",
+    "team1": {
+      "name": "الصين",
+      "flag": "https://imgs.ysscores.com/teams/128/1921763070825.png"
+    },
+    "team2": {
+      "name": "البحرين",
+      "flag": "https://imgs.ysscores.com/teams/128/9791763068542.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "مباراة ودية x",
+    "title": "قرغيزستان × فيتنام",
+    "time": "2026-11-17T14:00:00",
+    "team1": {
+      "name": "قرغيزستان",
+      "flag": "https://imgs.ysscores.com/teams/128/7071763082088.png"
+    },
+    "team2": {
+      "name": "فيتنام",
+      "flag": "https://imgs.ysscores.com/teams/128/7021763117993.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "مباراة ودية x",
+    "title": "فلسطين × لبنان",
+    "time": "2026-11-17T15:00:00",
+    "team1": {
+      "name": "فلسطين",
+      "flag": "https://imgs.ysscores.com/teams/128/9311763084802.png"
+    },
+    "team2": {
+      "name": "لبنان",
+      "flag": "https://imgs.ysscores.com/teams/128/7871763082271.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "مباراة ودية x",
+    "title": "العراق - أوليمبي × لبنان - أوليمبي",
+    "time": "2026-11-17T15:00:00",
+    "team1": {
+      "name": "العراق - أوليمبي",
+      "flag": "https://imgs.ysscores.com/teams/128/8191763081021.png"
+    },
+    "team2": {
+      "name": "لبنان - أوليمبي",
+      "flag": "https://imgs.ysscores.com/teams/128/7871763082271.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "تصفيات كأس أمم أفريقيا x",
+    "title": "ليسوتو × الغابون",
+    "time": "2026-11-17T15:00:00",
+    "team1": {
+      "name": "ليسوتو",
+      "flag": "https://imgs.ysscores.com/teams/128/3191763082345.png"
+    },
+    "team2": {
+      "name": "الغابون",
+      "flag": "https://imgs.ysscores.com/teams/128/8751763078081.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "تصفيات كأس أمم أفريقيا x",
+    "title": "مالاوي × مصر",
+    "time": "2026-11-17T15:00:00",
+    "team1": {
+      "name": "مالاوي",
+      "flag": "https://imgs.ysscores.com/teams/128/4911763082866.png"
+    },
+    "team2": {
+      "name": "مصر",
+      "flag": "https://imgs.ysscores.com/teams/128/9301763071949.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "تصفيات كأس أمم أفريقيا x",
+    "title": "جنوب السودان × أنغولا",
+    "time": "2026-11-17T15:00:00",
+    "team1": {
+      "name": "جنوب السودان",
+      "flag": "https://imgs.ysscores.com/teams/128/3441763087125.png"
+    },
+    "team2": {
+      "name": "أنغولا",
+      "flag": "https://imgs.ysscores.com/teams/128/2151763067065.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "تصفيات كأس أمم أفريقيا x",
+    "title": "بوروندي × زامبيا",
+    "time": "2026-11-17T15:00:00",
+    "team1": {
+      "name": "بوروندي",
+      "flag": "https://imgs.ysscores.com/teams/128/5171763070406.png"
+    },
+    "team2": {
+      "name": "زامبيا",
+      "flag": "https://imgs.ysscores.com/teams/128/2081763118283.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "تصفيات كأس أمم أفريقيا x",
+    "title": "تنزانيا × نيجيريا",
+    "time": "2026-11-17T15:00:00",
+    "team1": {
+      "name": "تنزانيا",
+      "flag": "https://imgs.ysscores.com/teams/128/3241763087791.png"
+    },
+    "team2": {
+      "name": "نيجيريا",
+      "flag": "https://imgs.ysscores.com/teams/128/4831693919068.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "تصفيات كأس أمم أفريقيا x",
+    "title": "إثيوبيا × موزمبيق",
+    "time": "2026-11-17T15:00:00",
+    "team1": {
+      "name": "إثيوبيا",
+      "flag": "https://imgs.ysscores.com/teams/128/2851763077732.png"
+    },
+    "team2": {
+      "name": "موزمبيق",
+      "flag": "https://imgs.ysscores.com/teams/128/9651763083639.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "مباراة ودية x",
+    "title": "اليابان × باراغواي",
+    "time": "2026-11-17T15:10:00",
+    "team1": {
+      "name": "اليابان",
+      "flag": "https://imgs.ysscores.com/teams/128/6361763081321.png"
+    },
+    "team2": {
+      "name": "باراغواي",
+      "flag": "https://imgs.ysscores.com/teams/128/3591763085227.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "مباراة ودية x",
+    "title": "قطر × كوريا الجنوبية",
+    "time": "2026-11-17T16:00:00",
+    "team1": {
+      "name": "قطر",
+      "flag": "https://imgs.ysscores.com/teams/128/4211693824633.png"
+    },
+    "team2": {
+      "name": "كوريا الجنوبية",
+      "flag": "https://imgs.ysscores.com/teams/128/3911763087033.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "مباراة ودية x",
+    "title": "الإمارات × سوريا",
+    "time": "2026-11-17T16:10:00",
+    "team1": {
+      "name": "الإمارات",
+      "flag": "https://imgs.ysscores.com/teams/128/9431763117463.png"
+    },
+    "team2": {
+      "name": "سوريا",
+      "flag": "https://imgs.ysscores.com/teams/128/6211734428691.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "مباراة ودية x",
+    "title": "السعودية × أوزبكستان",
+    "time": "2026-11-17T17:30:00",
+    "team1": {
+      "name": "السعودية",
+      "flag": "https://imgs.ysscores.com/teams/128/7231728507982.png"
+    },
+    "team2": {
+      "name": "أوزبكستان",
+      "flag": "https://imgs.ysscores.com/teams/128/981763117755.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "مباراة ودية x",
+    "title": "الأردن × أستراليا",
+    "time": "2026-11-17T18:00:00",
+    "team1": {
+      "name": "الأردن",
+      "flag": "https://imgs.ysscores.com/teams/128/9261693822771.png"
+    },
+    "team2": {
+      "name": "أستراليا",
+      "flag": "https://imgs.ysscores.com/teams/128/8691763067926.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "مباراة ودية x",
+    "title": "روسيا × فنزويلا",
+    "time": "2026-11-17T18:00:00",
+    "team1": {
+      "name": "روسيا",
+      "flag": "https://imgs.ysscores.com/teams/128/1751763085675.png"
+    },
+    "team2": {
+      "name": "فنزويلا",
+      "flag": "https://imgs.ysscores.com/teams/128/3031763117870.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "مباراة ودية x",
+    "title": "مصر - أوليمبي × اليابان - أوليمبي",
+    "time": "2026-11-17T18:00:00",
+    "team1": {
+      "name": "مصر - أوليمبي",
+      "flag": "https://imgs.ysscores.com/teams/128/9301763071949.png"
+    },
+    "team2": {
+      "name": "اليابان - أوليمبي",
+      "flag": "https://imgs.ysscores.com/teams/128/6361763081321.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "تصفيات كأس أمم أفريقيا x",
+    "title": "غامبيا × ساحل العاج",
+    "time": "2026-11-17T18:00:00",
+    "team1": {
+      "name": "غامبيا",
+      "flag": "https://imgs.ysscores.com/teams/128/7771763078200.png"
+    },
+    "team2": {
+      "name": "ساحل العاج",
+      "flag": "https://imgs.ysscores.com/teams/128/391763071210.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "تصفيات كأس أمم أفريقيا x",
+    "title": "كينيا × جنوب أفريقيا",
+    "time": "2026-11-17T18:00:00",
+    "team1": {
+      "name": "كينيا",
+      "flag": "https://imgs.ysscores.com/teams/128/2561763081589.png"
+    },
+    "team2": {
+      "name": "جنوب أفريقيا",
+      "flag": "https://imgs.ysscores.com/teams/128/1791763086999.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "تصفيات كأس أمم أفريقيا x",
+    "title": "سيراليون × الكونغو",
+    "time": "2026-11-17T18:00:00",
+    "team1": {
+      "name": "سيراليون",
+      "flag": "https://imgs.ysscores.com/teams/128/6521763086630.png"
+    },
+    "team2": {
+      "name": "الكونغو",
+      "flag": "https://imgs.ysscores.com/teams/128/2681763071029.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "تصفيات كأس أمم أفريقيا x",
+    "title": "ليبيا × تونس",
+    "time": "2026-11-17T18:00:00",
+    "team1": {
+      "name": "ليبيا",
+      "flag": "https://imgs.ysscores.com/teams/128/6091693916297.png"
+    },
+    "team2": {
+      "name": "تونس",
+      "flag": "https://imgs.ysscores.com/teams/128/9841693833234.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "تصفيات كأس أمم أفريقيا x",
+    "title": "توجو × الجزائر",
+    "time": "2026-11-17T18:00:00",
+    "team1": {
+      "name": "توجو",
+      "flag": "https://imgs.ysscores.com/teams/128/9031763087892.png"
+    },
+    "team2": {
+      "name": "الجزائر",
+      "flag": "https://imgs.ysscores.com/teams/128/981693834281.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "تصفيات كأس أمم أفريقيا x",
+    "title": "غينيا بيساو × مدغشقر",
+    "time": "2026-11-17T18:00:00",
+    "team1": {
+      "name": "غينيا بيساو",
+      "flag": "https://imgs.ysscores.com/teams/128/7581763079754.png"
+    },
+    "team2": {
+      "name": "مدغشقر",
+      "flag": "https://imgs.ysscores.com/teams/128/7621763082800.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "مباراة ودية x",
+    "title": "العراق × إيران",
+    "time": "2026-11-17T18:15:00",
+    "team1": {
+      "name": "العراق",
+      "flag": "https://imgs.ysscores.com/teams/128/7501693832609.png"
+    },
+    "team2": {
+      "name": "إيران",
+      "flag": "https://imgs.ysscores.com/teams/128/2071763080949.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "مباراة ودية x",
+    "title": "الكويت × هندوراس",
+    "time": "2026-11-17T18:30:00",
+    "team1": {
+      "name": "الكويت",
+      "flag": "https://imgs.ysscores.com/teams/128/7471694354180.png"
+    },
+    "team2": {
+      "name": "هندوراس",
+      "flag": "https://imgs.ysscores.com/teams/128/7511763080690.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "تصفيات كأس أمم أفريقيا x",
+    "title": "موريتانيا × بوركينا فاسو",
+    "time": "2026-11-17T21:00:00",
+    "team1": {
+      "name": "موريتانيا",
+      "flag": "https://imgs.ysscores.com/teams/128/5871763083150.png"
+    },
+    "team2": {
+      "name": "بوركينا فاسو",
+      "flag": "https://imgs.ysscores.com/teams/128/9521763070286.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "تصفيات كأس أمم أفريقيا x",
+    "title": "الكونغو × جزر القمر",
+    "time": "2026-11-17T21:00:00",
+    "team1": {
+      "name": "الكونغو",
+      "flag": "https://imgs.ysscores.com/teams/128/2681763071029.png"
+    },
+    "team2": {
+      "name": "جزر القمر",
+      "flag": "https://imgs.ysscores.com/teams/128/7091763070957.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "تصفيات كأس أمم أفريقيا x",
+    "title": "بوتسوانا × أوغندا",
+    "time": "2026-11-17T21:00:00",
+    "team1": {
+      "name": "بوتسوانا",
+      "flag": "https://imgs.ysscores.com/teams/128/4041763069740.png"
+    },
+    "team2": {
+      "name": "أوغندا",
+      "flag": "https://imgs.ysscores.com/teams/128/2921763117370.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "تصفيات كأس أمم أفريقيا x",
+    "title": "ليبيريا × الرأس الأخضر",
+    "time": "2026-11-17T21:00:00",
+    "team1": {
+      "name": "ليبيريا",
+      "flag": "https://imgs.ysscores.com/teams/128/501763082407.png"
+    },
+    "team2": {
+      "name": "الرأس الأخضر",
+      "flag": "https://imgs.ysscores.com/teams/128/2061693918552.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "تصفيات كأس أمم أفريقيا x",
+    "title": "رواندا × مالي",
+    "time": "2026-11-17T21:00:00",
+    "team1": {
+      "name": "رواندا",
+      "flag": "https://imgs.ysscores.com/teams/128/4411763085768.png"
+    },
+    "team2": {
+      "name": "مالي",
+      "flag": "https://imgs.ysscores.com/teams/128/7571763083037.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري الأمم الأوروبية x",
+    "title": "المجر × أيرلندا الشمالية",
+    "time": "2026-11-17T21:45:00",
+    "team1": {
+      "name": "المجر",
+      "flag": "https://imgs.ysscores.com/teams/128/9391763080752.png"
+    },
+    "team2": {
+      "name": "أيرلندا الشمالية",
+      "flag": "https://imgs.ysscores.com/teams/128/7571763084342.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري الأمم الأوروبية x",
+    "title": "أوكرانيا × جورجيا",
+    "time": "2026-11-17T21:45:00",
+    "team1": {
+      "name": "أوكرانيا",
+      "flag": "https://imgs.ysscores.com/teams/128/6961763117440.png"
+    },
+    "team2": {
+      "name": "جورجيا",
+      "flag": "https://imgs.ysscores.com/teams/128/2021763078387.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري الأمم الأوروبية x",
+    "title": "الكيان الصهيوني × النمسا",
+    "time": "2026-11-17T21:45:00",
+    "team1": {
+      "name": "الكيان الصهيوني",
+      "flag": "https://imgs.ysscores.com/teams/128/3971693419326.png"
+    },
+    "team2": {
+      "name": "النمسا",
+      "flag": "https://imgs.ysscores.com/teams/128/2941763068051.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري الأمم الأوروبية x",
+    "title": "أيرلندا × كوسوفو",
+    "time": "2026-11-17T21:45:00",
+    "team1": {
+      "name": "أيرلندا",
+      "flag": "https://imgs.ysscores.com/teams/128/7511763081085.png"
+    },
+    "team2": {
+      "name": "كوسوفو",
+      "flag": "https://imgs.ysscores.com/teams/128/9471763081695.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري الأمم الأوروبية x",
+    "title": "البوسنة × رومانيا",
+    "time": "2026-11-17T21:45:00",
+    "team1": {
+      "name": "البوسنة",
+      "flag": "https://imgs.ysscores.com/teams/128/4711763069706.png"
+    },
+    "team2": {
+      "name": "رومانيا",
+      "flag": "https://imgs.ysscores.com/teams/128/6501763085627.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري الأمم الأوروبية x",
+    "title": "بولندا × السويد",
+    "time": "2026-11-17T21:45:00",
+    "team1": {
+      "name": "بولندا",
+      "flag": "https://imgs.ysscores.com/teams/128/7861763085396.png"
+    },
+    "team2": {
+      "name": "السويد",
+      "flag": "https://imgs.ysscores.com/teams/128/2981763087554.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري الأمم الأوروبية x",
+    "title": "الدنمارك × النرويج",
+    "time": "2026-11-17T21:45:00",
+    "team1": {
+      "name": "الدنمارك",
+      "flag": "https://imgs.ysscores.com/teams/128/5741763071628.png"
+    },
+    "team2": {
+      "name": "النرويج",
+      "flag": "https://imgs.ysscores.com/teams/128/1891763084487.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري الأمم الأوروبية x",
+    "title": "ويلز × البرتغال",
+    "time": "2026-11-17T21:45:00",
+    "team1": {
+      "name": "ويلز",
+      "flag": "https://imgs.ysscores.com/teams/128/7371763118142.png"
+    },
+    "team2": {
+      "name": "البرتغال",
+      "flag": "https://imgs.ysscores.com/teams/128/3431763085446.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "تصفيات كأس أمم أفريقيا x",
+    "title": "النيجر × المغرب",
+    "time": "2026-11-17T22:00:00",
+    "team1": {
+      "name": "النيجر",
+      "flag": "https://imgs.ysscores.com/teams/128/6141763084139.png"
+    },
+    "team2": {
+      "name": "المغرب",
+      "flag": "https://imgs.ysscores.com/teams/128/6291763083538.png"
+    },
+    "extra": false,
+    "channels": []
   }
 ]
