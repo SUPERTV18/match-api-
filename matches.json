@@ -5771,7 +5771,7 @@
     ]
   },
   {
-    "league": "مباراة ودية x",
+    "league": "مباراة ودية",
     "title": "السعودية × أوزبكستان",
     "time": "2026-11-17T17:30:00",
     "team1": {
@@ -5783,7 +5783,16 @@
       "flag": "https://imgs.ysscores.com/teams/128/981763117755.png"
     },
     "extra": false,
-    "channels": []
+    "channels": [
+      {
+        "name": "ALWAN 5",
+        "url": "go:ALWAN5"
+      },
+      {
+        "name": "STC",
+        "url": "go:STC3"
+      }
+    ]
   },
   {
     "league": "مباراة ودية x",
