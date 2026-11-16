@@ -5834,7 +5834,7 @@
     "channels": []
   },
   {
-    "league": "مباراة ودية x",
+    "league": "مباراة ودية",
     "title": "مصر - أوليمبي × اليابان - أوليمبي",
     "time": "2026-11-17T18:00:00",
     "team1": {
@@ -5846,7 +5846,12 @@
       "flag": "https://imgs.ysscores.com/teams/128/6361763081321.png"
     },
     "extra": false,
-    "channels": []
+    "channels": [
+      {
+        "name": "ON Sports",
+        "url": "go:ONTime1"
+      }
+    ]
   },
   {
     "league": "تصفيات كأس أمم أفريقيا x",
