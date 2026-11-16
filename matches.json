@@ -5795,7 +5795,7 @@
     ]
   },
   {
-    "league": "مباراة ودية x",
+    "league": "مباراة ودية",
     "title": "الأردن × أستراليا",
     "time": "2026-11-17T18:00:00",
     "team1": {
@@ -5807,7 +5807,16 @@
       "flag": "https://imgs.ysscores.com/teams/128/8691763067926.png"
     },
     "extra": false,
-    "channels": []
+    "channels": [
+      {
+        "name": "ALWAN 4",
+        "url": "go:ALWAN4"
+      },
+      {
+        "name": "الأردن الرياضية",
+        "url": "go:jordansp"
+      }
+    ]
   },
   {
     "league": "مباراة ودية x",
