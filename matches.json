@@ -5747,7 +5747,7 @@
     ]
   },
   {
-    "league": "مباراة ودية x",
+    "league": "مباراة ودية",
     "title": "الإمارات × سوريا",
     "time": "2026-11-17T16:10:00",
     "team1": {
@@ -5761,8 +5761,12 @@
     "extra": false,
     "channels": [
       {
-        "name": "ALWAN 2",
-        "url": "go:ALWAN2"
+        "name": "ALWAN 6",
+        "url": "go:ALWAN6"
+      },
+      {
+        "name": "AD SPORTS 1",
+        "url": "go:adsp1"
       }
     ]
   },
