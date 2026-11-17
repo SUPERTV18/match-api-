@@ -5913,7 +5913,7 @@
     ]
   },
   {
-    "league": "تصفيات كأس أمم أفريقيا x",
+    "league": "تصفيات كأس أمم أفريقيا",
     "title": "غامبيا × ساحل العاج",
     "time": "2026-11-17T18:00:00",
     "team1": {
@@ -5925,10 +5925,27 @@
       "flag": "https://imgs.ysscores.com/teams/128/391763071210.png"
     },
     "extra": false,
-    "channels": []
+    "channels": [
+      {
+        "name": "FHD",
+        "url": "go:Bein3hd"
+      },
+      {
+        "name": "HD",
+        "url": "go:Bein3hd2"
+      },
+      {
+        "name": "SD",
+        "url": "go:Bein3sd"
+      },
+      {
+        "name": "LOW",
+        "url": "go:Bein3low"
+      }
+    ]
   },
   {
-    "league": "تصفيات كأس أمم أفريقيا x",
+    "league": "تصفيات كأس أمم أفريقيا",
     "title": "كينيا × جنوب أفريقيا",
     "time": "2026-11-17T18:00:00",
     "team1": {
@@ -5940,7 +5957,24 @@
       "flag": "https://imgs.ysscores.com/teams/128/1791763086999.png"
     },
     "extra": false,
-    "channels": []
+    "channels": [
+      {
+        "name": "FHD",
+        "url": "go:Bein4hd"
+      },
+      {
+        "name": "HD",
+        "url": "go:Bein4hd2"
+      },
+      {
+        "name": "SD",
+        "url": "go:Bein4sd"
+      },
+      {
+        "name": "LOW",
+        "url": "go:Bein4low"
+      }
+    ]
   },
   {
     "league": "تصفيات كأس أمم أفريقيا x",
