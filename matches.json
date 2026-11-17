@@ -6337,7 +6337,7 @@
     "channels": []
   },
   {
-    "league": "دوري الأمم الأوروبية x",
+    "league": "دوري الأمم الأوروبية",
     "title": "بولندا × السويد",
     "time": "2026-11-17T21:45:00",
     "team1": {
@@ -6349,7 +6349,12 @@
       "flag": "https://imgs.ysscores.com/teams/128/2981763087554.png"
     },
     "extra": false,
-    "channels": []
+    "channels": [
+      {
+        "name": "ALWAN 3",
+        "url": "go:ALWAN3"
+      }
+    ]
   },
   {
     "league": "دوري الأمم الأوروبية x",
