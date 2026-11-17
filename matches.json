@@ -6219,7 +6219,7 @@
     "channels": []
   },
   {
-    "league": "دوري الأمم الأوروبية x",
+    "league": "دوري الأمم الأوروبية",
     "title": "المجر × أيرلندا الشمالية",
     "time": "2026-11-17T21:45:00",
     "team1": {
@@ -6231,7 +6231,24 @@
       "flag": "https://imgs.ysscores.com/teams/128/7571763084342.png"
     },
     "extra": false,
-    "channels": []
+    "channels": [
+      {
+        "name": "FHD",
+        "url": "go:Bein6hd"
+      },
+      {
+        "name": "HD",
+        "url": "go:Bein6hd2"
+      },
+      {
+        "name": "SD",
+        "url": "go:Bein6sd"
+      },
+      {
+        "name": "LOW",
+        "url": "go:Bein6low"
+      }
+    ]
   },
   {
     "league": "دوري الأمم الأوروبية x",
