@@ -6281,7 +6281,7 @@
     "channels": []
   },
   {
-    "league": "دوري الأمم الأوروبية x",
+    "league": "دوري الأمم الأوروبية",
     "title": "أيرلندا × كوسوفو",
     "time": "2026-11-17T21:45:00",
     "team1": {
@@ -6293,7 +6293,12 @@
       "flag": "https://imgs.ysscores.com/teams/128/9471763081695.png"
     },
     "extra": false,
-    "channels": []
+    "channels": [
+      {
+        "name": "ALWAN 5",
+        "url": "go:ALWAN5"
+      }
+    ]
   },
   {
     "league": "دوري الأمم الأوروبية x",
