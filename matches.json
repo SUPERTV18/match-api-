@@ -6255,7 +6255,7 @@
     ]
   },
   {
-    "league": "دوري الأمم الأوروبية x",
+    "league": "دوري الأمم الأوروبية",
     "title": "أوكرانيا × جورجيا",
     "time": "2026-11-17T21:45:00",
     "team1": {
@@ -6267,7 +6267,24 @@
       "flag": "https://imgs.ysscores.com/teams/128/2021763078387.png"
     },
     "extra": false,
-    "channels": []
+    "channels": [
+      {
+        "name": "FHD",
+        "url": "go:Bein5hd"
+      },
+      {
+        "name": "HD",
+        "url": "go:Bein5hd2"
+      },
+      {
+        "name": "SD",
+        "url": "go:Bein5sd"
+      },
+      {
+        "name": "LOW",
+        "url": "go:Bein5low"
+      }
+    ]
   },
   {
     "league": "دوري الأمم الأوروبية x",
