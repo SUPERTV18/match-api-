@@ -6233,6 +6233,10 @@
     "extra": false,
     "channels": [
       {
+        "name": "ALWAN 6",
+        "url": "go:ALWAN6"
+      },
+      {
         "name": "FHD",
         "url": "go:Bein6hd"
       },
