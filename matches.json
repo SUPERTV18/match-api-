@@ -6471,5 +6471,215 @@
         "url": "go:Bein1low"
       }
     ]
+  },
+  {
+    "league": "مباراة ودية x",
+    "title": "الأرجنتين × كوستاريكا",
+    "time": "2026-11-18T01:00:00",
+    "team1": {
+      "name": "الأرجنتين",
+      "flag": "https://imgs.ysscores.com/teams/128/5861694177479.png"
+    },
+    "team2": {
+      "name": "كوستاريكا",
+      "flag": "https://imgs.ysscores.com/teams/128/8391763071154.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "مباراة ودية x",
+    "title": "تشيلي × كولومبيا",
+    "time": "2026-11-18T01:00:00",
+    "team1": {
+      "name": "تشيلي",
+      "flag": "https://imgs.ysscores.com/teams/128/7771763149048.png"
+    },
+    "team2": {
+      "name": "كولومبيا",
+      "flag": "https://imgs.ysscores.com/teams/128/8411763070902.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "مباراة ودية x",
+    "title": "الإكوادور × بوليفيا",
+    "time": "2026-11-18T01:30:00",
+    "team1": {
+      "name": "الإكوادور",
+      "flag": "https://imgs.ysscores.com/teams/128/1021763071912.png"
+    },
+    "team2": {
+      "name": "بوليفيا",
+      "flag": "https://imgs.ysscores.com/teams/128/5471763069414.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "مباراة ودية x",
+    "title": "أوروغواي × الدومينيكان",
+    "time": "2026-11-18T01:30:00",
+    "team1": {
+      "name": "أوروغواي",
+      "flag": "https://imgs.ysscores.com/teams/128/9901763117716.png"
+    },
+    "team2": {
+      "name": "الدومينيكان",
+      "flag": "https://imgs.ysscores.com/teams/128/6131763071768.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس مصر x",
+    "title": "الزمالك × الشرقية إنبي",
+    "time": "2026-11-18T16:00:00",
+    "team1": {
+      "name": "الزمالك",
+      "flag": "https://imgs.ysscores.com/teams/128/7971694082496.png"
+    },
+    "team2": {
+      "name": "الشرقية إنبي",
+      "flag": "https://imgs.ysscores.com/teams/128/17874779322765.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس مصر x",
+    "title": "الأهلي × السويس بتروجيت",
+    "time": "2026-11-18T16:00:00",
+    "team1": {
+      "name": "الأهلي",
+      "flag": "https://imgs.ysscores.com/teams/128/9591694714907.png"
+    },
+    "team2": {
+      "name": "السويس بتروجيت",
+      "flag": "https://imgs.ysscores.com/teams/128/17873555652953.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس مصر x",
+    "title": "بيراميدز × البنك الأهلي",
+    "time": "2026-11-18T16:00:00",
+    "team1": {
+      "name": "بيراميدز",
+      "flag": "https://imgs.ysscores.com/teams/128/5771692283569.png"
+    },
+    "team2": {
+      "name": "البنك الأهلي",
+      "flag": "https://imgs.ysscores.com/teams/128/7591694081941.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس مصر x",
+    "title": "الجونة × الإتحاد",
+    "time": "2026-11-18T17:00:00",
+    "team1": {
+      "name": "الجونة",
+      "flag": "https://imgs.ysscores.com/teams/128/3751731169729.png"
+    },
+    "team2": {
+      "name": "الإتحاد",
+      "flag": "https://imgs.ysscores.com/teams/128/3771694082184.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس ملك إسبانيا x",
+    "title": "بورتوجاليتي × ريال يونيون",
+    "time": "2026-11-18T20:00:00",
+    "team1": {
+      "name": "بورتوجاليتي",
+      "flag": "https://imgs.ysscores.com/teams/128/9071760564301.png"
+    },
+    "team2": {
+      "name": "ريال يونيون",
+      "flag": "https://imgs.ysscores.com/teams/128/8931739531321.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس ملك إسبانيا x",
+    "title": "أوتيبو × ساباديل",
+    "time": "2026-11-18T20:00:00",
+    "team1": {
+      "name": "أوتيبو",
+      "flag": "https://imgs.ysscores.com/teams/128/5131698765562.png"
+    },
+    "team2": {
+      "name": "ساباديل",
+      "flag": "https://imgs.ysscores.com/teams/128/1511739531817.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس ملك إسبانيا x",
+    "title": "ألكويانو × ريال مايوركا",
+    "time": "2026-11-18T21:00:00",
+    "team1": {
+      "name": "ألكويانو",
+      "flag": "https://imgs.ysscores.com/teams/128/1651739531596.png"
+    },
+    "team2": {
+      "name": "ريال مايوركا",
+      "flag": "https://imgs.ysscores.com/teams/128/5291690196746.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس ملك إسبانيا x",
+    "title": "باداخوث × تنريفي",
+    "time": "2026-11-18T21:00:00",
+    "team1": {
+      "name": "باداخوث",
+      "flag": "https://imgs.ysscores.com/teams/128/17930421203145.png"
+    },
+    "team2": {
+      "name": "تنريفي",
+      "flag": "https://imgs.ysscores.com/teams/128/9301690370544.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس ملك إسبانيا x",
+    "title": "ديبورتيفا مينيرا × قرطاجنة",
+    "time": "2026-11-18T21:30:00",
+    "team1": {
+      "name": "ديبورتيفا مينيرا",
+      "flag": "https://imgs.ysscores.com/teams/128/9531728753592.png"
+    },
+    "team2": {
+      "name": "قرطاجنة",
+      "flag": "https://imgs.ysscores.com/teams/128/3751690370529.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس ملك إسبانيا x",
+    "title": "ريوس ريديس × باراكالدو",
+    "time": "2026-11-18T21:30:00",
+    "team1": {
+      "name": "ريوس ريديس",
+      "flag": "https://imgs.ysscores.com/teams/128/1301743689130.png"
+    },
+    "team2": {
+      "name": "باراكالدو",
+      "flag": "https://imgs.ysscores.com/teams/128/9221698790092.png"
+    },
+    "extra": false,
+    "channels": []
   }
 ]
