@@ -6587,7 +6587,7 @@
     "channels": []
   },
   {
-    "league": "كأس مصر x",
+    "league": "كأس مصر",
     "title": "الجونة × الإتحاد",
     "time": "2026-11-18T17:00:00",
     "team1": {
@@ -6599,7 +6599,12 @@
       "flag": "https://imgs.ysscores.com/teams/128/3771694082184.png"
     },
     "extra": false,
-    "channels": []
+    "channels": [
+      {
+        "name": "ON Sports",
+        "url": "go:ONTime1"
+      }
+    ]
   },
   {
     "league": "كأس ملك إسبانيا x",
