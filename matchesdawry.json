@@ -9523,7 +9523,12 @@
       "flag": "https://imgs.ysscores.com/teams/128/5831736286055.png"
     },
     "extra": false,
-    "channels": []
+    "channels": [
+      {
+        "name": "ON Sport",
+        "url": "go:ONTime1"
+      }
+    ]
   },
   {
     "league": "كأس العالم تحت 17 سنة x",
