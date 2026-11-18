@@ -9603,6 +9603,11 @@
       "flag": "https://imgs.ysscores.com/teams/128/481694082088.png"
     },
     "extra": false,
-    "channels": []
+    "channels": [
+      {
+        "name": "ON Sport MAX",
+        "url": "go:ONTime2"
+      }
+    ]
   }
 ]
