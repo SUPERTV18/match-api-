@@ -9429,5 +9429,50 @@
         "url": "go:ONTime1"
       }
     ]
+  },
+  {
+    "league": "كأس مصر",
+    "title": "المقاولون العرب × القناة",
+    "time": "2026-11-19T17:00:00",
+    "team1": {
+      "name": "المقاولون العرب",
+      "flag": "https://imgs.ysscores.com/teams/128/2721694082551.png"
+    },
+    "team2": {
+      "name": "القناة",
+      "flag": "https://imgs.ysscores.com/teams/128/5821715097236.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس مصر",
+    "title": "المصري × بترول أسيوط",
+    "time": "2026-11-19T17:00:00",
+    "team1": {
+      "name": "المصري",
+      "flag": "https://imgs.ysscores.com/teams/128/1521694644423.png"
+    },
+    "team2": {
+      "name": "بترول أسيوط",
+      "flag": "https://imgs.ysscores.com/teams/128/5831736286055.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس مصر",
+    "title": "نادي زد × سموحة",
+    "time": "2026-11-19T20:00:00",
+    "team1": {
+      "name": "نادي زد",
+      "flag": "https://imgs.ysscores.com/teams/128/8411694619351.png"
+    },
+    "team2": {
+      "name": "سموحة",
+      "flag": "https://imgs.ysscores.com/teams/128/481694082088.png"
+    },
+    "extra": false,
+    "channels": []
   }
 ]
