@@ -9611,6 +9611,66 @@
     ]
   },
   {
+    "league": "كأس العالم تحت 17 سنة x",
+    "title": "كوبا × طاجيكستان",
+    "time": "2026-11-20T15:00:00",
+    "team1": {
+      "name": "كوبا",
+      "flag": "https://imgs.ysscores.com/teams/128/4481763071362.png"
+    },
+    "team2": {
+      "name": "طاجيكستان",
+      "flag": "https://imgs.ysscores.com/teams/128/6601763087769.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس العالم تحت 17 سنة x",
+    "title": "بلجيكا × فيتنام",
+    "time": "2026-11-20T15:00:00",
+    "team1": {
+      "name": "بلجيكا",
+      "flag": "https://imgs.ysscores.com/teams/128/6271763069075.png"
+    },
+    "team2": {
+      "name": "فيتنام",
+      "flag": "https://imgs.ysscores.com/teams/128/7021763117993.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس العالم تحت 17 سنة x",
+    "title": "مالي × نيوزيلندا",
+    "time": "2026-11-20T15:30:00",
+    "team1": {
+      "name": "مالي",
+      "flag": "https://imgs.ysscores.com/teams/128/7571763083037.png"
+    },
+    "team2": {
+      "name": "نيوزيلندا",
+      "flag": "https://imgs.ysscores.com/teams/128/2291763084006.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس العالم تحت 17 سنة x",
+    "title": "إسبانيا × الصين",
+    "time": "2026-11-20T16:00:00",
+    "team1": {
+      "name": "إسبانيا",
+      "flag": "https://imgs.ysscores.com/teams/128/6231763087210.png"
+    },
+    "team2": {
+      "name": "الصين",
+      "flag": "https://imgs.ysscores.com/teams/128/1921763070825.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
     "league": "كأس مصر",
     "title": "كهرباء الإسماعيلية × سيراميكا",
     "time": "2026-11-20T17:00:00",
@@ -9621,6 +9681,66 @@
     "team2": {
       "name": "سيراميكا",
       "flag": "https://imgs.ysscores.com/teams/128/631694081965.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس العالم تحت 17 سنة x",
+    "title": "إيطاليا × جامايكا",
+    "time": "2026-11-20T17:00:00",
+    "team1": {
+      "name": "إيطاليا",
+      "flag": "https://imgs.ysscores.com/teams/128/4141763081186.png"
+    },
+    "team2": {
+      "name": "جامايكا",
+      "flag": "https://imgs.ysscores.com/teams/128/1521763081278.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس العالم تحت 17 سنة x",
+    "title": "السنغال × كرواتيا",
+    "time": "2026-11-20T17:30:00",
+    "team1": {
+      "name": "السنغال",
+      "flag": "https://imgs.ysscores.com/teams/128/1831763086441.png"
+    },
+    "team2": {
+      "name": "كرواتيا",
+      "flag": "https://imgs.ysscores.com/teams/128/7661763071283.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس العالم تحت 17 سنة x",
+    "title": "ساحل العاج × أوزبكستان",
+    "time": "2026-11-20T18:00:00",
+    "team1": {
+      "name": "ساحل العاج",
+      "flag": "https://imgs.ysscores.com/teams/128/391763071210.png"
+    },
+    "team2": {
+      "name": "أوزبكستان",
+      "flag": "https://imgs.ysscores.com/teams/128/981763117755.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس العالم تحت 17 سنة x",
+    "title": "فيجي تحت 17 × المغرب",
+    "time": "2026-11-20T18:00:00",
+    "team1": {
+      "name": "فيجي تحت 17",
+      "flag": "https://imgs.ysscores.com/teams/128/9651763077859.png"
+    },
+    "team2": {
+      "name": "المغرب",
+      "flag": "https://imgs.ysscores.com/teams/128/6291763083538.png"
     },
     "extra": false,
     "channels": []
