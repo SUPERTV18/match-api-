@@ -10447,5 +10447,425 @@
     },
     "extra": false,
     "channels": []
+  },
+  {
+    "league": "الدوري التركي x",
+    "title": "أرضروم سبور × جوزتيبي",
+    "time": "2026-11-22T12:30:00",
+    "team1": {
+      "name": "أرضروم سبور",
+      "flag": "https://imgs.ysscores.com/teams/128/1621700668146.png"
+    },
+    "team2": {
+      "name": "جوزتيبي",
+      "flag": "https://imgs.ysscores.com/teams/128/8741690370493.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "الدوري الايطالي x",
+    "title": "يوفنتوس × فينيسا",
+    "time": "2026-11-22T13:30:00",
+    "team1": {
+      "name": "يوفنتوس",
+      "flag": "https://imgs.ysscores.com/teams/128/9331690283003.png"
+    },
+    "team2": {
+      "name": "فينيسا",
+      "flag": "https://imgs.ysscores.com/teams/128/771690370510.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس العالم تحت 17 سنة x",
+    "title": "اليونان × بنما",
+    "time": "2026-11-22T14:30:00",
+    "team1": {
+      "name": "اليونان",
+      "flag": "https://imgs.ysscores.com/teams/128/331763078547.png"
+    },
+    "team2": {
+      "name": "بنما",
+      "flag": "https://imgs.ysscores.com/teams/128/7881763084990.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس العالم تحت 17 سنة x",
+    "title": "الدنمارك × أستراليا",
+    "time": "2026-11-22T14:30:00",
+    "team1": {
+      "name": "الدنمارك",
+      "flag": "https://imgs.ysscores.com/teams/128/5741763071628.png"
+    },
+    "team2": {
+      "name": "أستراليا",
+      "flag": "https://imgs.ysscores.com/teams/128/8691763067926.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "الدوري الاسباني x",
+    "title": "برشلونة × فياريال",
+    "time": "2026-11-22T15:00:00",
+    "team1": {
+      "name": "برشلونة",
+      "flag": "https://imgs.ysscores.com/teams/128/9541690196746.png"
+    },
+    "team2": {
+      "name": "فياريال",
+      "flag": "https://imgs.ysscores.com/teams/128/7121690196747.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "الدوري التركي x",
+    "title": "قاسم باشا × ألانيا سبور",
+    "time": "2026-11-22T15:00:00",
+    "team1": {
+      "name": "قاسم باشا",
+      "flag": "https://imgs.ysscores.com/teams/128/8131690127512.png"
+    },
+    "team2": {
+      "name": "ألانيا سبور",
+      "flag": "https://imgs.ysscores.com/teams/128/9541690127467.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "الدوري التركي x",
+    "title": "قونيا سبور × بشكتاش",
+    "time": "2026-11-22T15:00:00",
+    "team1": {
+      "name": "قونيا سبور",
+      "flag": "https://imgs.ysscores.com/teams/128/8771690127634.png"
+    },
+    "team2": {
+      "name": "بشكتاش",
+      "flag": "https://imgs.ysscores.com/teams/128/2171690128210.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس العالم تحت 17 سنة x",
+    "title": "الإكوادور × أوغندا",
+    "time": "2026-11-22T15:00:00",
+    "team1": {
+      "name": "الإكوادور",
+      "flag": "https://imgs.ysscores.com/teams/128/1021763071912.png"
+    },
+    "team2": {
+      "name": "أوغندا",
+      "flag": "https://imgs.ysscores.com/teams/128/2921763117370.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس العالم تحت 17 سنة x",
+    "title": "فرنسا × السعودية",
+    "time": "2026-11-22T15:30:00",
+    "team1": {
+      "name": "فرنسا",
+      "flag": "https://imgs.ysscores.com/teams/128/2961763078000.png"
+    },
+    "team2": {
+      "name": "السعودية",
+      "flag": "https://imgs.ysscores.com/teams/128/7231728507982.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "الدوري الفرنسي x",
+    "title": "نادي باريس × أنجيه",
+    "time": "2026-11-22T16:00:00",
+    "team1": {
+      "name": "نادي باريس",
+      "flag": "https://imgs.ysscores.com/teams/128/6551690370501.png"
+    },
+    "team2": {
+      "name": "أنجيه",
+      "flag": "https://imgs.ysscores.com/teams/128/1121690370513.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "الدوري الايطالي x",
+    "title": "بولونيا × أودينيزي",
+    "time": "2026-11-22T16:00:00",
+    "team1": {
+      "name": "بولونيا",
+      "flag": "https://imgs.ysscores.com/teams/128/4281690283003.png"
+    },
+    "team2": {
+      "name": "أودينيزي",
+      "flag": "https://imgs.ysscores.com/teams/128/8741690284718.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "الدوري الايطالي x",
+    "title": "ساسولو × جنوى",
+    "time": "2026-11-22T16:00:00",
+    "team1": {
+      "name": "ساسولو",
+      "flag": "https://imgs.ysscores.com/teams/128/731690283001.png"
+    },
+    "team2": {
+      "name": "جنوى",
+      "flag": "https://imgs.ysscores.com/teams/128/1891690283004.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "الدوري الانجليزي x",
+    "title": "هال سيتي × برايتون",
+    "time": "2026-11-22T16:00:00",
+    "team1": {
+      "name": "هال سيتي",
+      "flag": "https://imgs.ysscores.com/teams/128/3801690370535.png"
+    },
+    "team2": {
+      "name": "برايتون",
+      "flag": "https://imgs.ysscores.com/teams/128/2271696710594.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "الدوري الالماني x",
+    "title": "أوجسبورغ × ماينتس",
+    "time": "2026-11-22T16:30:00",
+    "team1": {
+      "name": "أوجسبورغ",
+      "flag": "https://imgs.ysscores.com/teams/128/7221690288817.png"
+    },
+    "team2": {
+      "name": "ماينتس",
+      "flag": "https://imgs.ysscores.com/teams/128/8131690288819.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس العالم تحت 17 سنة x",
+    "title": "كوريا الجنوبية × كاليدونيا الجديدة",
+    "time": "2026-11-22T16:30:00",
+    "team1": {
+      "name": "كوريا الجنوبية",
+      "flag": "https://imgs.ysscores.com/teams/128/3911763087033.png"
+    },
+    "team2": {
+      "name": "كاليدونيا الجديدة",
+      "flag": "https://imgs.ysscores.com/teams/128/1901763083882.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس العالم تحت 17 سنة x",
+    "title": "قطر × مصر",
+    "time": "2026-11-22T17:00:00",
+    "team1": {
+      "name": "قطر",
+      "flag": "https://imgs.ysscores.com/teams/128/4211693824633.png"
+    },
+    "team2": {
+      "name": "مصر",
+      "flag": "https://imgs.ysscores.com/teams/128/9301763071949.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "الدوري الاسباني x",
+    "title": "راسينغ × ريال سوسيداد",
+    "time": "2026-11-22T17:15:00",
+    "team1": {
+      "name": "راسينغ",
+      "flag": "https://imgs.ysscores.com/teams/128/3011761516113.png"
+    },
+    "team2": {
+      "name": "ريال سوسيداد",
+      "flag": "https://imgs.ysscores.com/teams/128/9441690196745.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس العالم تحت 17 سنة x",
+    "title": "الأرجنتين × موزمبيق",
+    "time": "2026-11-22T17:30:00",
+    "team1": {
+      "name": "الأرجنتين",
+      "flag": "https://imgs.ysscores.com/teams/128/5861694177479.png"
+    },
+    "team2": {
+      "name": "موزمبيق",
+      "flag": "https://imgs.ysscores.com/teams/128/9651763083639.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس العالم تحت 17 سنة x",
+    "title": "أوروغواي × هايتي",
+    "time": "2026-11-22T17:30:00",
+    "team1": {
+      "name": "أوروغواي",
+      "flag": "https://imgs.ysscores.com/teams/128/9901763117716.png"
+    },
+    "team2": {
+      "name": "هايتي",
+      "flag": "https://imgs.ysscores.com/teams/128/4331763080606.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "الدوري التركي x",
+    "title": "طرابزون سبور × أيوب سبور",
+    "time": "2026-11-22T18:00:00",
+    "team1": {
+      "name": "طرابزون سبور",
+      "flag": "https://imgs.ysscores.com/teams/128/7531690127980.png"
+    },
+    "team2": {
+      "name": "أيوب سبور",
+      "flag": "https://imgs.ysscores.com/teams/128/891700669405.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "الدوري الفرنسي x",
+    "title": "لوريان × رين",
+    "time": "2026-11-22T18:15:00",
+    "team1": {
+      "name": "لوريان",
+      "flag": "https://imgs.ysscores.com/teams/128/6891690287722.png"
+    },
+    "team2": {
+      "name": "رين",
+      "flag": "https://imgs.ysscores.com/teams/128/5061690287944.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "الدوري الالماني x",
+    "title": "فيردر بريمن × هامبورغ",
+    "time": "2026-11-22T18:30:00",
+    "team1": {
+      "name": "فيردر بريمن",
+      "flag": "https://imgs.ysscores.com/teams/128/9771690288817.png"
+    },
+    "team2": {
+      "name": "هامبورغ",
+      "flag": "https://imgs.ysscores.com/teams/128/261690370540.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "الدوري الانجليزي x",
+    "title": "ليفربول × مان يونايتد",
+    "time": "2026-11-22T18:30:00",
+    "team1": {
+      "name": "ليفربول",
+      "flag": "https://imgs.ysscores.com/teams/128/4081724601375.png"
+    },
+    "team2": {
+      "name": "مان يونايتد",
+      "flag": "https://imgs.ysscores.com/teams/128/4871690119302.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "الدوري الايطالي x",
+    "title": "ميلان × فروزينوني",
+    "time": "2026-11-22T19:00:00",
+    "team1": {
+      "name": "ميلان",
+      "flag": "https://imgs.ysscores.com/teams/128/3181690283002.png"
+    },
+    "team2": {
+      "name": "فروزينوني",
+      "flag": "https://imgs.ysscores.com/teams/128/5761690283004.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "الدوري الاسباني x",
+    "title": "أوساسونا × ملقا",
+    "time": "2026-11-22T19:30:00",
+    "team1": {
+      "name": "أوساسونا",
+      "flag": "https://imgs.ysscores.com/teams/128/7961690196745.png"
+    },
+    "team2": {
+      "name": "ملقا",
+      "flag": "https://imgs.ysscores.com/teams/128/1171690458315.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "الدوري الفرنسي x",
+    "title": "مارسيليا × لو مان",
+    "time": "2026-11-22T21:45:00",
+    "team1": {
+      "name": "مارسيليا",
+      "flag": "https://imgs.ysscores.com/teams/128/17816370094121.png"
+    },
+    "team2": {
+      "name": "لو مان",
+      "flag": "https://imgs.ysscores.com/teams/128/7281718366884.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "الدوري الايطالي x",
+    "title": "أتالانتا × إنتر ميلان",
+    "time": "2026-11-22T21:45:00",
+    "team1": {
+      "name": "أتالانتا",
+      "flag": "https://imgs.ysscores.com/teams/128/17795813126107.png"
+    },
+    "team2": {
+      "name": "إنتر ميلان",
+      "flag": "https://imgs.ysscores.com/teams/128/3101690283003.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "الدوري الاسباني x",
+    "title": "خيتافي × أتلتيكو مدريد",
+    "time": "2026-11-22T22:00:00",
+    "team1": {
+      "name": "خيتافي",
+      "flag": "https://imgs.ysscores.com/teams/128/3451691957863.png"
+    },
+    "team2": {
+      "name": "أتلتيكو مدريد",
+      "flag": "https://imgs.ysscores.com/teams/128/1431719588699.png"
+    },
+    "extra": false,
+    "channels": []
   }
 ]
