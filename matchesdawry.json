@@ -9609,5 +9609,80 @@
         "url": "go:ONTime2"
       }
     ]
+  },
+  {
+    "league": "كأس مصر",
+    "title": "كهرباء الإسماعيلية × سيراميكا",
+    "time": "2026-11-20T17:00:00",
+    "team1": {
+      "name": "كهرباء الإسماعيلية",
+      "flag": "https://imgs.ysscores.com/teams/128/2391753649516.png"
+    },
+    "team2": {
+      "name": "سيراميكا",
+      "flag": "https://imgs.ysscores.com/teams/128/631694081965.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري روشن السعودي",
+    "title": "الأهلي × النصر",
+    "time": "2026-11-20T19:30:00",
+    "team1": {
+      "name": "الأهلي",
+      "flag": "https://imgs.ysscores.com/teams/128/9591694714907.png"
+    },
+    "team2": {
+      "name": "النصر",
+      "flag": "https://imgs.ysscores.com/teams/128/1371747772080.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "الدوري الالماني",
+    "title": "بايرن ميونخ × كولن",
+    "time": "2026-11-20T21:30:00",
+    "team1": {
+      "name": "بايرن ميونخ",
+      "flag": "https://imgs.ysscores.com/teams/128/2351690288818.png"
+    },
+    "team2": {
+      "name": "كولن",
+      "flag": "https://imgs.ysscores.com/teams/128/2071690288818.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "الدوري الفرنسي",
+    "title": "تروا × لوهافر",
+    "time": "2026-11-20T21:45:00",
+    "team1": {
+      "name": "تروا",
+      "flag": "https://imgs.ysscores.com/teams/128/6871690370557.png"
+    },
+    "team2": {
+      "name": "لوهافر",
+      "flag": "https://imgs.ysscores.com/teams/128/6941691927287.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "الدوري الاسباني",
+    "title": "أتلتيك بلباو × إسبانيول",
+    "time": "2026-11-20T22:00:00",
+    "team1": {
+      "name": "أتلتيك بلباو",
+      "flag": "https://imgs.ysscores.com/teams/128/1061690197944.png"
+    },
+    "team2": {
+      "name": "إسبانيول",
+      "flag": "https://imgs.ysscores.com/teams/128/4481690370529.png"
+    },
+    "extra": false,
+    "channels": []
   }
 ]
