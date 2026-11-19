@@ -9755,15 +9755,28 @@
     "title": "الأهلي × النصر",
     "time": "2026-11-20T19:30:00",
     "team1": {
-      "name": "الأهلي",
-      "flag": "https://imgs.ysscores.com/teams/128/9591694714907.png"
+      "name": "الأهلى",
+      "flag": "https://imgs.ysscores.com/teams/128/9091751485160.png"
     },
     "team2": {
       "name": "النصر",
       "flag": "https://imgs.ysscores.com/teams/128/1371747772080.png"
     },
     "extra": false,
-    "channels": []
+    "channels": [
+      {
+        "name": "ALWAN 1",
+        "url": "go:ALWAN1"
+      },
+      {
+        "name": "HD",
+        "url": "go:Thman1HD"
+      },
+      {
+        "name": "MULTI HDR",
+        "url": "go:Thman1LOW"
+      }
+    ]
   },
   {
     "league": "الدوري الالماني",
