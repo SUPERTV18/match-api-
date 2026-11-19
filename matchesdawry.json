@@ -9795,7 +9795,16 @@
       "flag": "https://imgs.ysscores.com/teams/128/2071690288818.png"
     },
     "extra": false,
-    "channels": []
+    "channels": [
+      {
+        "name": "ALWAN 2",
+        "url": "go:ALWAN2"
+      },
+      {
+        "name": "MBC شاهد | رياضة",
+        "url": "go:ssc11"
+      }
+    ]
   },
   {
     "league": "الدوري الفرنسي",
