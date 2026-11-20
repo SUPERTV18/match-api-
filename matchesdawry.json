@@ -9668,7 +9668,24 @@
       "flag": "https://imgs.ysscores.com/teams/128/1921763070825.png"
     },
     "extra": false,
-    "channels": []
+    "channels": [
+      {
+        "name": "MULTI",
+        "url": "go:server9"
+      },
+      {
+        "name": "MULTI HDR",
+        "url": "go:Thman1LOW"
+      },
+      {
+        "name": "HD",
+        "url": "go:Thman1HD"
+      },
+      {
+        "name": "HD",
+        "url": "go:Thman1SD"
+      }
+    ]
   },
   {
     "league": "كأس مصر",
@@ -9703,7 +9720,24 @@
       "flag": "https://imgs.ysscores.com/teams/128/1521763081278.png"
     },
     "extra": false,
-    "channels": []
+    "channels": [
+      {
+        "name": "MULTI",
+        "url": "go:server9"
+      },
+      {
+        "name": "MULTI HDR",
+        "url": "go:Thman1LOW"
+      },
+      {
+        "name": "HD",
+        "url": "go:Thman1HD"
+      },
+      {
+        "name": "HD",
+        "url": "go:Thman1SD"
+      }
+    ]
   },
   {
     "league": "كأس العالم تحت 17 سنة x",
@@ -9718,7 +9752,24 @@
       "flag": "https://imgs.ysscores.com/teams/128/7661763071283.png"
     },
     "extra": false,
-    "channels": []
+    "channels": [
+      {
+        "name": "MULTI",
+        "url": "go:server9"
+      },
+      {
+        "name": "MULTI HDR",
+        "url": "go:Thman1LOW"
+      },
+      {
+        "name": "HD",
+        "url": "go:Thman1HD"
+      },
+      {
+        "name": "HD",
+        "url": "go:Thman1SD"
+      }
+    ]
   },
   {
     "league": "كأس العالم تحت 17 سنة x",
@@ -9733,7 +9784,24 @@
       "flag": "https://imgs.ysscores.com/teams/128/981763117755.png"
     },
     "extra": false,
-    "channels": []
+    "channels": [
+      {
+        "name": "MULTI",
+        "url": "go:server9"
+      },
+      {
+        "name": "MULTI HDR",
+        "url": "go:Thman1LOW"
+      },
+      {
+        "name": "HD",
+        "url": "go:Thman1HD"
+      },
+      {
+        "name": "HD",
+        "url": "go:Thman1SD"
+      }
+    ]
   },
   {
     "league": "كأس العالم تحت 17 سنة x",
@@ -9748,7 +9816,24 @@
       "flag": "https://imgs.ysscores.com/teams/128/6291763083538.png"
     },
     "extra": false,
-    "channels": []
+    "channels": [
+      {
+        "name": "MULTI",
+        "url": "go:server9"
+      },
+      {
+        "name": "MULTI HDR",
+        "url": "go:Thman1LOW"
+      },
+      {
+        "name": "HD",
+        "url": "go:Thman1HD"
+      },
+      {
+        "name": "HD",
+        "url": "go:Thman1SD"
+      }
+    ]
   },
   {
     "league": "دوري روشن السعودي",
