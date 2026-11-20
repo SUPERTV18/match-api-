@@ -1,29 +1,6 @@
 {
   "templates": [
     {
-      "id": "tmwp3dnxv",
-      "name": "THMAN 1",
-      "desc": "",
-      "channels": [
-        {
-          "name": "MULTI",
-          "url": "go:server9"
-        },
-        {
-          "name": "MULTI HDR",
-          "url": "go:Thman1LOW"
-        },
-        {
-          "name": "HD",
-          "url": "go:Thman1HD"
-        },
-        {
-          "name": "HD",
-          "url": "go:Thman1SD"
-        }
-      ]
-    },
-    {
       "id": "tmwp5sk8o",
       "name": "Thman 1",
       "desc": "",
