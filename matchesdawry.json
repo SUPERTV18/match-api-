@@ -10851,6 +10851,46 @@
     ]
   },
   {
+    "league": "كوبا سودا أمريكانا x",
+    "title": "أتلتيكو مينيرو ×",
+    "time": "2026-11-22T00:30:00",
+    "team1": {
+      "name": "أتلتيكو مينيرو",
+      "flag": "https://imgs.ysscores.com/teams/128/9181691418710.png"
+    },
+    "team2": {
+      "name": "بوكا جونيورز",
+      "flag": "https://imgs.ysscores.com/teams/128/17769918946692.png"
+    },
+    "extra": false,
+    "channels": [
+      {
+        "name": "SUPER TV 1",
+        "url": "go:supertv1"
+      },
+      {
+        "name": "TOD",
+        "url": "go:TOD11"
+      },
+      {
+        "name": "FHD",
+        "url": "go:Bein1hd"
+      },
+      {
+        "name": "HD",
+        "url": "go:Bein1hd2"
+      },
+      {
+        "name": "SD",
+        "url": "go:Bein1sd"
+      },
+      {
+        "name": "LOW",
+        "url": "go:Bein1low"
+      }
+    ]
+  },
+  {
     "league": "الدوري التركي x",
     "title": "أرضروم سبور × جوزتيبي",
     "time": "2026-11-22T12:30:00",
