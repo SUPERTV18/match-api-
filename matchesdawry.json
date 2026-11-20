@@ -10503,7 +10503,7 @@
     ]
   },
   {
-    "league": "الدوري الفرنسي x",
+    "league": "الدوري الفرنسي",
     "title": "نيس × باريس",
     "time": "2026-11-21T18:15:00",
     "team1": {
@@ -10515,7 +10515,32 @@
       "flag": "https://imgs.ysscores.com/teams/128/4461690287785.png"
     },
     "extra": false,
-    "channels": []
+    "channels": [
+      {
+        "name": "SUPER TV 2",
+        "url": "go:supertv2"
+      },
+      {
+        "name": "TOD",
+        "url": "go:TOD12"
+      },
+      {
+        "name": "FHD",
+        "url": "go:Bein2hd"
+      },
+      {
+        "name": "HD",
+        "url": "go:Bein2hd2"
+      },
+      {
+        "name": "SD",
+        "url": "go:Bein2sd"
+      },
+      {
+        "name": "LOW",
+        "url": "go:Bein2low"
+      }
+    ]
   },
   {
     "league": "الدوري الايطالي",
