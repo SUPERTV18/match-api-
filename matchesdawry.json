@@ -10664,7 +10664,7 @@
     "channels": []
   },
   {
-    "league": "الدوري الفرنسي x",
+    "league": "الدوري الفرنسي",
     "title": "ليل × ليون",
     "time": "2026-11-21T21:45:00",
     "team1": {
@@ -10676,7 +10676,32 @@
       "flag": "https://imgs.ysscores.com/teams/128/4081690287528.png"
     },
     "extra": false,
-    "channels": []
+    "channels": [
+      {
+        "name": "SUPER TV 2",
+        "url": "go:supertv2"
+      },
+      {
+        "name": "ALWAN 4",
+        "url": "go:ALWAN4"
+      },
+      {
+        "name": "FHD",
+        "url": "go:Bein2hd"
+      },
+      {
+        "name": "HD",
+        "url": "go:Bein2hd2"
+      },
+      {
+        "name": "SD",
+        "url": "go:Bein2sd"
+      },
+      {
+        "name": "LOW",
+        "url": "go:Bein2low"
+      }
+    ]
   },
   {
     "league": "الدوري الفرنسي x",
