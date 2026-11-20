@@ -65,6 +65,30 @@
         }
       ],
       "bundle": "thman1"
+    },
+    {
+      "id": "tmwp6q7p9",
+      "name": "Thman 2",
+      "desc": "",
+      "channels": [
+        {
+          "name": "MULTI",
+          "url": "go:server10"
+        },
+        {
+          "name": "MULTI HDR",
+          "url": "go:Thman2LOW"
+        },
+        {
+          "name": "FHD",
+          "url": "go:Thman2HD"
+        },
+        {
+          "name": "HD",
+          "url": "go:Thman2SD"
+        }
+      ],
+      "bundle": "thman2"
     }
   ],
   "teams": [
