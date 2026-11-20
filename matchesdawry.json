@@ -9779,6 +9779,10 @@
       {
         "name": "FHD",
         "url": "go:Thman1HD"
+      },
+      {
+        "name": "HD",
+        "url": "go:Thman1SD"
       }
     ]
   },
