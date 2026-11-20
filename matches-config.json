@@ -87,6 +87,38 @@
         }
       ],
       "bundle": "bein1"
+    },
+    {
+      "id": "tmwp7o8rt",
+      "name": "beIN Sports 2",
+      "desc": "",
+      "channels": [
+        {
+          "name": "SUPER TV 2",
+          "url": "go:supertv2"
+        },
+        {
+          "name": "TOD",
+          "url": "go:TOD12"
+        },
+        {
+          "name": "FHD",
+          "url": "go:Bein2hd"
+        },
+        {
+          "name": "HD",
+          "url": "go:Bein2hd2"
+        },
+        {
+          "name": "SD",
+          "url": "go:Bein2sd"
+        },
+        {
+          "name": "LOW",
+          "url": "go:Bein2low"
+        }
+      ],
+      "bundle": "bein2"
     }
   ],
   "teams": [
