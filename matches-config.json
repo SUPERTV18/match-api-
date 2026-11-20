@@ -41,6 +41,30 @@
           "url": "go:Thman1HD"
         }
       ]
+    },
+    {
+      "id": "tmwp6ksbr",
+      "name": "Thman 1",
+      "desc": "",
+      "channels": [
+        {
+          "name": "MULTI",
+          "url": "go:server9"
+        },
+        {
+          "name": "MULTI HDR",
+          "url": "go:Thman1LOW"
+        },
+        {
+          "name": "FHD",
+          "url": "go:Thman1HD"
+        },
+        {
+          "name": "HD",
+          "url": "go:Thman1SD"
+        }
+      ],
+      "bundle": "thman1"
     }
   ],
   "teams": [
