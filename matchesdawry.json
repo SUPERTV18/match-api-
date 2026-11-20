@@ -10661,7 +10661,12 @@
       "flag": "https://imgs.ysscores.com/teams/128/6861691418710.png"
     },
     "extra": false,
-    "channels": []
+    "channels": [
+      {
+        "name": "Dubai Sports 1",
+        "url": "go:dubaisp1"
+      }
+    ]
   },
   {
     "league": "الدوري الفرنسي x",
