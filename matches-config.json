@@ -151,6 +151,26 @@
         }
       ],
       "bundle": "bein3"
+    },
+    {
+      "id": "tmwphnoql",
+      "name": "Premier 1",
+      "desc": "",
+      "channels": [
+        {
+          "name": "MULTI",
+          "url": "go:Premfhd1"
+        },
+        {
+          "name": "HD",
+          "url": "go:Premhd1"
+        },
+        {
+          "name": "SHASHA",
+          "url": "go:SHASHA2"
+        }
+      ],
+      "bundle": "prem1"
     }
   ],
   "teams": [
