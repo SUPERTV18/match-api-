@@ -10649,6 +10649,21 @@
     ]
   },
   {
+    "league": "الدوري البرازيلي",
+    "title": "بالميراس × فلامينغو",
+    "time": "2026-11-21T21:30:00",
+    "team1": {
+      "name": "بالميراس",
+      "flag": "https://imgs.ysscores.com/teams/128/7971691418711.png"
+    },
+    "team2": {
+      "name": "فلامينغو",
+      "flag": "https://imgs.ysscores.com/teams/128/6861691418710.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
     "league": "الدوري الفرنسي x",
     "title": "لانس × تولوز",
     "time": "2026-11-21T21:45:00",
