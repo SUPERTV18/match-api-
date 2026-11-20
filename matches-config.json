@@ -3178,6 +3178,10 @@
     "دوري ORA": "الدوري المصري",
     "كأس الكونفيدرالية | الأدوار الإقصائية": "كأس الكونفيدرالية"
   },
+  "broadcasts": {
+    "byLeague": {},
+    "byMatch": {}
+  },
   "autoImport": {
     "enabled": true,
     "daysAhead": 3,
