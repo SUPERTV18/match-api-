@@ -10704,7 +10704,7 @@
     ]
   },
   {
-    "league": "الدوري الفرنسي x",
+    "league": "الدوري الفرنسي",
     "title": "موناكو × أوكسير",
     "time": "2026-11-21T21:45:00",
     "team1": {
@@ -10716,7 +10716,24 @@
       "flag": "https://imgs.ysscores.com/teams/128/8671690370530.png"
     },
     "extra": false,
-    "channels": []
+    "channels": [
+      {
+        "name": "FHD",
+        "url": "go:Bein4hd"
+      },
+      {
+        "name": "HD",
+        "url": "go:Bein4hd2"
+      },
+      {
+        "name": "SD",
+        "url": "go:Bein4sd"
+      },
+      {
+        "name": "LOW",
+        "url": "go:Bein4low"
+      }
+    ]
   },
   {
     "league": "الدوري الفرنسي x",
