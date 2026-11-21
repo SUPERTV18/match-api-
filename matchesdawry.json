@@ -11702,5 +11702,260 @@
     },
     "extra": false,
     "channels": []
+  },
+  {
+    "league": "دوري ابطال اسيا 2 x",
+    "title": "ملبورن فيكتوري × فيتيل",
+    "time": "2026-11-25T09:45:00",
+    "team1": {
+      "name": "ملبورن فيكتوري",
+      "flag": "https://imgs.ysscores.com/teams/128/291739527561.png"
+    },
+    "team2": {
+      "name": "فيتيل",
+      "flag": "https://imgs.ysscores.com/teams/128/17871748833612.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري ابطال اسيا 2 x",
+    "title": "بيرسيب باندونغ × سيول",
+    "time": "2026-11-25T14:15:00",
+    "team1": {
+      "name": "بيرسيب باندونغ",
+      "flag": "https://imgs.ysscores.com/teams/128/181723922917.png"
+    },
+    "team2": {
+      "name": "سيول",
+      "flag": "https://imgs.ysscores.com/teams/128/8881751235958.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري ابطال اسيا 2 x",
+    "title": "ناساف × الخالدية",
+    "time": "2026-11-25T15:45:00",
+    "team1": {
+      "name": "ناساف",
+      "flag": "https://imgs.ysscores.com/teams/128/6681707924337.png"
+    },
+    "team2": {
+      "name": "الخالدية",
+      "flag": "https://imgs.ysscores.com/teams/128/111729346393.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري ابطال اسيا 2 x",
+    "title": "الكويت × الوحدة",
+    "time": "2026-11-25T18:00:00",
+    "team1": {
+      "name": "الكويت",
+      "flag": "https://imgs.ysscores.com/teams/128/7471694354180.png"
+    },
+    "team2": {
+      "name": "الوحدة",
+      "flag": "https://imgs.ysscores.com/teams/128/8811690300661.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري ابطال اسيا 2 x",
+    "title": "الفيصلي × الريان",
+    "time": "2026-11-25T18:00:00",
+    "team1": {
+      "name": "الفيصلي",
+      "flag": "https://imgs.ysscores.com/teams/128/17889795135313.png"
+    },
+    "team2": {
+      "name": "الريان",
+      "flag": "https://imgs.ysscores.com/teams/128/8521718101575.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري ابطال اسيا 2 x",
+    "title": "الجزيرة × كل كوهار رجان",
+    "time": "2026-11-25T18:00:00",
+    "team1": {
+      "name": "الجزيرة",
+      "flag": "https://imgs.ysscores.com/teams/128/4171716154082.png"
+    },
+    "team2": {
+      "name": "كل كوهار رجان",
+      "flag": "https://imgs.ysscores.com/teams/128/1991723737999.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري ابطال اسيا 2 x",
+    "title": "المحرق × أركاداغ",
+    "time": "2026-11-25T18:00:00",
+    "team1": {
+      "name": "المحرق",
+      "flag": "https://imgs.ysscores.com/teams/128/6451692196949.png"
+    },
+    "team2": {
+      "name": "أركاداغ",
+      "flag": "https://imgs.ysscores.com/teams/128/6171755465897.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري ابطال اوروبا x",
+    "title": "سلافيا براغ × فياريال",
+    "time": "2026-11-25T19:45:00",
+    "team1": {
+      "name": "سلافيا براغ",
+      "flag": "https://imgs.ysscores.com/teams/128/9621690370507.png"
+    },
+    "team2": {
+      "name": "فياريال",
+      "flag": "https://imgs.ysscores.com/teams/128/7121690196747.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري ابطال اوروبا x",
+    "title": "صباح × برشلونة",
+    "time": "2026-11-25T19:45:00",
+    "team1": {
+      "name": "صباح",
+      "flag": "https://imgs.ysscores.com/teams/128/17888728154718.png"
+    },
+    "team2": {
+      "name": "برشلونة",
+      "flag": "https://imgs.ysscores.com/teams/128/9541690196746.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري ابطال اسيا 2 x",
+    "title": "التعاون × النهضة",
+    "time": "2026-11-25T20:15:00",
+    "team1": {
+      "name": "التعاون",
+      "flag": "https://imgs.ysscores.com/teams/128/9971724321815.png"
+    },
+    "team2": {
+      "name": "النهضة",
+      "flag": "https://imgs.ysscores.com/teams/128/4141691930732.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري ابطال اوروبا x",
+    "title": "باريس × روما",
+    "time": "2026-11-25T22:00:00",
+    "team1": {
+      "name": "باريس",
+      "flag": "https://imgs.ysscores.com/teams/128/4461690287785.png"
+    },
+    "team2": {
+      "name": "روما",
+      "flag": "https://imgs.ysscores.com/teams/128/17722024059541.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري ابطال اوروبا x",
+    "title": "إنتر ميلان × شتوتجارت",
+    "time": "2026-11-25T22:00:00",
+    "team1": {
+      "name": "إنتر ميلان",
+      "flag": "https://imgs.ysscores.com/teams/128/3101690283003.png"
+    },
+    "team2": {
+      "name": "شتوتجارت",
+      "flag": "https://imgs.ysscores.com/teams/128/8731690288819.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري ابطال اوروبا x",
+    "title": "أتلتيكو مدريد × فيكينغ",
+    "time": "2026-11-25T22:00:00",
+    "team1": {
+      "name": "أتلتيكو مدريد",
+      "flag": "https://imgs.ysscores.com/teams/128/1431719588699.png"
+    },
+    "team2": {
+      "name": "فيكينغ",
+      "flag": "https://imgs.ysscores.com/teams/128/2981690370526.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري ابطال اوروبا x",
+    "title": "سبورتينغ لشبونة × مان يونايتد",
+    "time": "2026-11-25T22:00:00",
+    "team1": {
+      "name": "سبورتينغ لشبونة",
+      "flag": "https://imgs.ysscores.com/teams/128/17829367926898.png"
+    },
+    "team2": {
+      "name": "مان يونايتد",
+      "flag": "https://imgs.ysscores.com/teams/128/4871690119302.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري ابطال اوروبا x",
+    "title": "كلوب بروج × ليفربول",
+    "time": "2026-11-25T22:00:00",
+    "team1": {
+      "name": "كلوب بروج",
+      "flag": "https://imgs.ysscores.com/teams/128/121690370520.png"
+    },
+    "team2": {
+      "name": "ليفربول",
+      "flag": "https://imgs.ysscores.com/teams/128/4081724601375.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري ابطال اوروبا x",
+    "title": "ليل × بايرن ميونخ",
+    "time": "2026-11-25T22:00:00",
+    "team1": {
+      "name": "ليل",
+      "flag": "https://imgs.ysscores.com/teams/128/381690287334.png"
+    },
+    "team2": {
+      "name": "بايرن ميونخ",
+      "flag": "https://imgs.ysscores.com/teams/128/2351690288818.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري ابطال اوروبا x",
+    "title": "شاختار دونيتسك × فنربخشة",
+    "time": "2026-11-25T22:00:00",
+    "team1": {
+      "name": "شاختار دونيتسك",
+      "flag": "https://imgs.ysscores.com/teams/128/6191751838320.png"
+    },
+    "team2": {
+      "name": "فنربخشة",
+      "flag": "https://imgs.ysscores.com/teams/128/681690127723.png"
+    },
+    "extra": false,
+    "channels": []
   }
 ]
