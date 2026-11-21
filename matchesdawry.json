@@ -11258,7 +11258,7 @@
     "channels": []
   },
   {
-    "league": "الدوري الايطالي x",
+    "league": "الدوري الايطالي",
     "title": "ميلان × فروزينوني",
     "time": "2026-11-22T19:00:00",
     "team1": {
@@ -11270,7 +11270,24 @@
       "flag": "https://imgs.ysscores.com/teams/128/5761690283004.png"
     },
     "extra": false,
-    "channels": []
+    "channels": [
+      {
+        "name": "ALWAN 3",
+        "url": "go:ALWAN3"
+      },
+      {
+        "name": "MULTI",
+        "url": "go:Premfhd1"
+      },
+      {
+        "name": "HD",
+        "url": "go:Premhd1"
+      },
+      {
+        "name": "SHASHA",
+        "url": "go:SHASHA2"
+      }
+    ]
   },
   {
     "league": "الدوري الاسباني x",
