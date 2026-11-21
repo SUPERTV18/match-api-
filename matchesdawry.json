@@ -11160,7 +11160,7 @@
     "channels": []
   },
   {
-    "league": "الدوري التركي x",
+    "league": "الدوري التركي",
     "title": "طرابزون سبور × أيوب سبور",
     "time": "2026-11-22T18:00:00",
     "team1": {
@@ -11172,7 +11172,28 @@
       "flag": "https://imgs.ysscores.com/teams/128/891700669405.png"
     },
     "extra": false,
-    "channels": []
+    "channels": [
+      {
+        "name": "SUPER TV 3",
+        "url": "go:supertv3"
+      },
+      {
+        "name": "FHD",
+        "url": "go:Bein3hd"
+      },
+      {
+        "name": "HD",
+        "url": "go:Bein3hd2"
+      },
+      {
+        "name": "SD",
+        "url": "go:Bein3sd"
+      },
+      {
+        "name": "LOW",
+        "url": "go:Bein3low"
+      }
+    ]
   },
   {
     "league": "الدوري الفرنسي x",
