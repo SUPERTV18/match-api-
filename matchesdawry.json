@@ -10857,10 +10857,6 @@
         "url": "go:supertv1"
       },
       {
-        "name": "TOD",
-        "url": "go:TOD11"
-      },
-      {
         "name": "FHD",
         "url": "go:Bein1hd"
       },
