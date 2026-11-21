@@ -11224,6 +11224,10 @@
         "url": "go:supertv3"
       },
       {
+        "name": "ALWAN 5",
+        "url": "go:ALWAN5"
+      },
+      {
         "name": "FHD",
         "url": "go:Bein3hd"
       },
