@@ -11011,7 +11011,7 @@
     "channels": []
   },
   {
-    "league": "الدوري التركي x",
+    "league": "الدوري التركي",
     "title": "قونيا سبور × بشكتاش",
     "time": "2026-11-22T15:00:00",
     "team1": {
@@ -11023,7 +11023,24 @@
       "flag": "https://imgs.ysscores.com/teams/128/2171690128210.png"
     },
     "extra": false,
-    "channels": []
+    "channels": [
+      {
+        "name": "FHD",
+        "url": "go:Bein2hd"
+      },
+      {
+        "name": "HD",
+        "url": "go:Bein2hd2"
+      },
+      {
+        "name": "SD",
+        "url": "go:Bein2sd"
+      },
+      {
+        "name": "LOW",
+        "url": "go:Bein2low"
+      }
+    ]
   },
   {
     "league": "كأس العالم تحت 17 سنة x",
