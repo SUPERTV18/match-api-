@@ -11744,11 +11744,36 @@
       "flag": "https://imgs.ysscores.com/teams/128/2961722879498.png"
     },
     "team2": {
-      "name": "الأهلي",
-      "flag": "https://imgs.ysscores.com/teams/128/9591694714907.png"
+      "name": "الاهلي",
+      "flag": "https://imgs.ysscores.com/teams/128/9091751485160.png"
     },
     "extra": false,
-    "channels": []
+    "channels": [
+      {
+        "name": "ALWAN 2",
+        "url": "go:ALWAN2"
+      },
+      {
+        "name": "الكأس 5",
+        "url": "go:alkass5"
+      },
+      {
+        "name": "FHD",
+        "url": "go:Bein1hd"
+      },
+      {
+        "name": "HD",
+        "url": "go:Bein1hd2"
+      },
+      {
+        "name": "SD",
+        "url": "go:Bein1sd"
+      },
+      {
+        "name": "LOW",
+        "url": "go:Bein1low"
+      }
+    ]
   },
   {
     "league": "دوري أبطال آسيا للنخبة",
