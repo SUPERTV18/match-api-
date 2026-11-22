@@ -11591,7 +11591,7 @@
     ]
   },
   {
-    "league": "الدوري المصري x",
+    "league": "الدوري المصري",
     "title": "وادي دجلة × الإتحاد",
     "time": "2026-11-23T17:00:00",
     "team1": {
@@ -11603,7 +11603,12 @@
       "flag": "https://imgs.ysscores.com/teams/128/3771694082184.png"
     },
     "extra": false,
-    "channels": []
+    "channels": [
+      {
+        "name": "ON Sport Plus",
+        "url": "go:ONTime3"
+      }
+    ]
   },
   {
     "league": "كأس العالم تحت 17 سنة x",
