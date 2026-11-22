@@ -11721,7 +11721,7 @@
     "channels": []
   },
   {
-    "league": "الدوري الانجليزي x",
+    "league": "الدوري الانجليزي",
     "title": "برينتفورد × إيفرتون",
     "time": "2026-11-23T22:00:00",
     "team1": {
@@ -11733,7 +11733,28 @@
       "flag": "https://imgs.ysscores.com/teams/128/8461690118694.png"
     },
     "extra": false,
-    "channels": []
+    "channels": [
+      {
+        "name": "ALWAN 4",
+        "url": "go:ALWAN4"
+      },
+      {
+        "name": "FHD",
+        "url": "go:Bein2hd"
+      },
+      {
+        "name": "HD",
+        "url": "go:Bein2hd2"
+      },
+      {
+        "name": "SD",
+        "url": "go:Bein2sd"
+      },
+      {
+        "name": "LOW",
+        "url": "go:Bein2low"
+      }
+    ]
   },
   {
     "league": "دوري ابطال اسيا 2 x",
