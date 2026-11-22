@@ -11556,6 +11556,21 @@
     "channels": []
   },
   {
+    "league": "دوري أبطال آسيا للنخبة",
+    "title": "نيفتشي × الهلال",
+    "time": "2026-11-23T15:45:00",
+    "team1": {
+      "name": "نيفتشي",
+      "flag": "https://imgs.ysscores.com/teams/128/131717498348.png"
+    },
+    "team2": {
+      "name": "الهلال",
+      "flag": "https://imgs.ysscores.com/teams/128/8761690298716.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
     "league": "كأس العالم تحت 17 سنة x",
     "title": "إيطاليا × ساحل العاج",
     "time": "2026-11-23T16:30:00",
@@ -11656,6 +11671,51 @@
     "channels": []
   },
   {
+    "league": "دوري أبطال آسيا للنخبة",
+    "title": "العين × استقلال طهران",
+    "time": "2026-11-23T18:00:00",
+    "team1": {
+      "name": "العين",
+      "flag": "https://imgs.ysscores.com/teams/128/4661724620117.png"
+    },
+    "team2": {
+      "name": "استقلال طهران",
+      "flag": "https://imgs.ysscores.com/teams/128/4531723738539.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري أبطال آسيا للنخبة",
+    "title": "الشمال × الأهلي",
+    "time": "2026-11-23T18:00:00",
+    "team1": {
+      "name": "الشمال",
+      "flag": "https://imgs.ysscores.com/teams/128/2961722879498.png"
+    },
+    "team2": {
+      "name": "الأهلي",
+      "flag": "https://imgs.ysscores.com/teams/128/9591694714907.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري أبطال آسيا للنخبة",
+    "title": "تراكتور × الوصل",
+    "time": "2026-11-23T18:00:00",
+    "team1": {
+      "name": "تراكتور",
+      "flag": "https://imgs.ysscores.com/teams/128/5391722862680.png"
+    },
+    "team2": {
+      "name": "الوصل",
+      "flag": "https://imgs.ysscores.com/teams/128/5291690300472.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
     "league": "الدوري التركي x",
     "title": "باشاك شهير × تشوروم",
     "time": "2026-11-23T19:00:00",
@@ -11708,6 +11768,36 @@
         "url": "go:ONTime2"
       }
     ]
+  },
+  {
+    "league": "دوري أبطال آسيا للنخبة",
+    "title": "الاتحاد × باختاكور",
+    "time": "2026-11-23T20:15:00",
+    "team1": {
+      "name": "الاتحاد",
+      "flag": "https://imgs.ysscores.com/teams/128/2231690298782.png"
+    },
+    "team2": {
+      "name": "باختاكور",
+      "flag": "https://imgs.ysscores.com/teams/128/8861693169409.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري أبطال آسيا للنخبة",
+    "title": "القوة الجوية × الغرافة",
+    "time": "2026-11-23T20:15:00",
+    "team1": {
+      "name": "القوة الجوية",
+      "flag": "https://imgs.ysscores.com/teams/128/4301729966980.png"
+    },
+    "team2": {
+      "name": "الغرافة",
+      "flag": "https://imgs.ysscores.com/teams/128/3761719156653.png"
+    },
+    "extra": false,
+    "channels": []
   },
   {
     "league": "الدوري الايطالي",
