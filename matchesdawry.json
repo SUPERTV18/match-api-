@@ -11025,6 +11025,10 @@
     "extra": false,
     "channels": [
       {
+        "name": "ALWAN 2",
+        "url": "go:ALWAN2"
+      },
+      {
         "name": "FHD",
         "url": "go:Bein2hd"
       },
