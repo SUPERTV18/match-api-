@@ -12154,5 +12154,95 @@
     },
     "extra": false,
     "channels": []
+  },
+  {
+    "league": "دوري ابطال اسيا 2 x",
+    "title": "تامبينس × شانغهاي",
+    "time": "2026-11-26T12:00:00",
+    "team1": {
+      "name": "تامبينس",
+      "flag": "https://imgs.ysscores.com/teams/128/401723922990.png"
+    },
+    "team2": {
+      "name": "شانغهاي",
+      "flag": "https://imgs.ysscores.com/teams/128/1941690370505.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري ابطال اسيا 2 x",
+    "title": "غانغون × كيتشي",
+    "time": "2026-11-26T12:00:00",
+    "team1": {
+      "name": "غانغون",
+      "flag": "https://imgs.ysscores.com/teams/128/6441757947791.png"
+    },
+    "team2": {
+      "name": "كيتشي",
+      "flag": "https://imgs.ysscores.com/teams/128/9111693170581.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري ابطال اسيا 2 x",
+    "title": "كوتشينغ × بنوم بنه",
+    "time": "2026-11-26T12:00:00",
+    "team1": {
+      "name": "كوتشينغ",
+      "flag": "https://imgs.ysscores.com/teams/128/17871746085188.png"
+    },
+    "team2": {
+      "name": "بنوم بنه",
+      "flag": "https://imgs.ysscores.com/teams/128/8951694355244.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري ابطال اسيا 2 x",
+    "title": "باثوم يونايتد × ليون سيتي",
+    "time": "2026-11-26T14:15:00",
+    "team1": {
+      "name": "باثوم يونايتد",
+      "flag": "https://imgs.ysscores.com/teams/128/7271692706800.png"
+    },
+    "team2": {
+      "name": "ليون سيتي",
+      "flag": "https://imgs.ysscores.com/teams/128/8571690370561.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري ابطال اسيا 2 x",
+    "title": "تاي بو × أديلايد",
+    "time": "2026-11-26T14:15:00",
+    "team1": {
+      "name": "تاي بو",
+      "flag": "https://imgs.ysscores.com/teams/128/3541755287068.png"
+    },
+    "team2": {
+      "name": "أديلايد",
+      "flag": "https://imgs.ysscores.com/teams/128/17858823043985.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري ابطال اسيا 2 x",
+    "title": "سفاي راينج × ماتشيدا زيلفيا",
+    "time": "2026-11-26T14:15:00",
+    "team1": {
+      "name": "سفاي راينج",
+      "flag": "https://imgs.ysscores.com/teams/128/7621730502440.png"
+    },
+    "team2": {
+      "name": "ماتشيدا زيلفيا",
+      "flag": "https://imgs.ysscores.com/teams/128/8161755286167.png"
+    },
+    "extra": false,
+    "channels": []
   }
 ]
