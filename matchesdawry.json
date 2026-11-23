@@ -12469,7 +12469,7 @@
     ]
   },
   {
-    "league": "دوري ابطال اوروبا x",
+    "league": "دوري ابطال اوروبا",
     "title": "بودو/غليمت × لاسك",
     "time": "2026-11-24T19:45:00",
     "team1": {
@@ -12481,7 +12481,28 @@
       "flag": "https://imgs.ysscores.com/teams/128/5301690370548.png"
     },
     "extra": false,
-    "channels": []
+    "channels": [
+      {
+        "name": "ALWAN 4",
+        "url": "go:ALWAN4"
+      },
+      {
+        "name": "FHD",
+        "url": "go:Bein4hd"
+      },
+      {
+        "name": "HD",
+        "url": "go:Bein4hd2"
+      },
+      {
+        "name": "SD",
+        "url": "go:Bein4sd"
+      },
+      {
+        "name": "LOW",
+        "url": "go:Bein4low"
+      }
+    ]
   },
   {
     "league": "دوري ابطال اوروبا x",
