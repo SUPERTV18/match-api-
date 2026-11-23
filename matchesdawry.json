@@ -12304,7 +12304,7 @@
     "channels": []
   },
   {
-    "league": "الدوري المصري x",
+    "league": "الدوري المصري",
     "title": "سموحة × البنك الأهلي",
     "time": "2026-11-24T17:00:00",
     "team1": {
@@ -12316,7 +12316,12 @@
       "flag": "https://imgs.ysscores.com/teams/128/7591694081941.png"
     },
     "extra": false,
-    "channels": []
+    "channels": [
+      {
+        "name": "ON Sport MAX",
+        "url": "go:ONTime2"
+      }
+    ]
   },
   {
     "league": "الدوري المصري x",
