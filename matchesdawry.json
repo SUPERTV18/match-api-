@@ -12324,7 +12324,7 @@
     ]
   },
   {
-    "league": "الدوري المصري x",
+    "league": "الدوري المصري",
     "title": "نادي زد × أبو قير",
     "time": "2026-11-24T17:00:00",
     "team1": {
@@ -12336,7 +12336,12 @@
       "flag": "https://imgs.ysscores.com/teams/128/8611715098753.png"
     },
     "extra": false,
-    "channels": []
+    "channels": [
+      {
+        "name": "ON Sport Plus",
+        "url": "go:ONTime3"
+      }
+    ]
   },
   {
     "league": "كأس العالم تحت 17 سنة x",
