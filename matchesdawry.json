@@ -12505,7 +12505,7 @@
     ]
   },
   {
-    "league": "دوري ابطال اوروبا x",
+    "league": "دوري ابطال اوروبا",
     "title": "غلطة سراي × أستون فيلا",
     "time": "2026-11-24T19:45:00",
     "team1": {
@@ -12517,7 +12517,36 @@
       "flag": "https://imgs.ysscores.com/teams/128/9921723414870.png"
     },
     "extra": false,
-    "channels": []
+    "channels": [
+      {
+        "name": "SUPER TV 3",
+        "url": "go:supertv3"
+      },
+      {
+        "name": "ALWAN 3",
+        "url": "go:ALWAN3"
+      },
+      {
+        "name": "TOD",
+        "url": "go:TOD13"
+      },
+      {
+        "name": "FHD",
+        "url": "go:Bein3hd"
+      },
+      {
+        "name": "HD",
+        "url": "go:Bein3hd2"
+      },
+      {
+        "name": "SD",
+        "url": "go:Bein3sd"
+      },
+      {
+        "name": "LOW",
+        "url": "go:Bein3low"
+      }
+    ]
   },
   {
     "league": "الدوري المصري",
