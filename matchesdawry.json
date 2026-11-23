@@ -12499,7 +12499,7 @@
     "channels": []
   },
   {
-    "league": "الدوري المصري x",
+    "league": "الدوري المصري",
     "title": "المصري × بترول أسيوط",
     "time": "2026-11-24T20:00:00",
     "team1": {
@@ -12511,7 +12511,12 @@
       "flag": "https://imgs.ysscores.com/teams/128/5831736286055.png"
     },
     "extra": false,
-    "channels": []
+    "channels": [
+      {
+        "name": "ON Sport",
+        "url": "go:ONTime1"
+      }
+    ]
   },
   {
     "league": "الدوري المصري",
