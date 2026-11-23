@@ -12054,6 +12054,201 @@
     ]
   },
   {
+    "league": "الدوري البرازيلي x",
+    "title": "إنترناسيونال × فيتوريا",
+    "time": "2026-11-24T00:30:00",
+    "team1": {
+      "name": "إنترناسيونال",
+      "flag": "https://imgs.ysscores.com/teams/128/3841691418709.png"
+    },
+    "team2": {
+      "name": "فيتوريا",
+      "flag": "https://imgs.ysscores.com/teams/128/2251710687063.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "الدوري البرازيلي x",
+    "title": "بوتافوغو × ساو باولو",
+    "time": "2026-11-24T01:00:00",
+    "team1": {
+      "name": "بوتافوغو",
+      "flag": "https://imgs.ysscores.com/teams/128/2731691418709.png"
+    },
+    "team2": {
+      "name": "ساو باولو",
+      "flag": "https://imgs.ysscores.com/teams/128/3781691418711.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "الدوري البرازيلي x",
+    "title": "سانتوس × غريميو",
+    "time": "2026-11-24T02:00:00",
+    "team1": {
+      "name": "سانتوس",
+      "flag": "https://imgs.ysscores.com/teams/128/241691418709.png"
+    },
+    "team2": {
+      "name": "غريميو",
+      "flag": "https://imgs.ysscores.com/teams/128/4321691418710.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري ابطال اسيا للنخبة x",
+    "title": "نيوكاسل جيتس × كاشيوا ريسول",
+    "time": "2026-11-24T09:45:00",
+    "team1": {
+      "name": "نيوكاسل جيتس",
+      "flag": "https://imgs.ysscores.com/teams/128/8881739358521.png"
+    },
+    "team2": {
+      "name": "كاشيوا ريسول",
+      "flag": "https://imgs.ysscores.com/teams/128/2641739391967.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري ابطال اسيا للنخبة x",
+    "title": "دايجون × بكين",
+    "time": "2026-11-24T12:00:00",
+    "team1": {
+      "name": "دايجون",
+      "flag": "https://imgs.ysscores.com/teams/128/17816214407078.png"
+    },
+    "team2": {
+      "name": "بكين",
+      "flag": "https://imgs.ysscores.com/teams/128/4651739395122.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري ابطال اسيا للنخبة x",
+    "title": "كيوتو سانغا × ستيلرز",
+    "time": "2026-11-24T12:00:00",
+    "team1": {
+      "name": "كيوتو سانغا",
+      "flag": "https://imgs.ysscores.com/teams/128/6711716579567.png"
+    },
+    "team2": {
+      "name": "ستيلرز",
+      "flag": "https://imgs.ysscores.com/teams/128/6391693170798.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري ابطال اسيا للنخبة x",
+    "title": "كونغ آن هانوي × فيسيل كوبي",
+    "time": "2026-11-24T14:15:00",
+    "team1": {
+      "name": "كونغ آن هانوي",
+      "flag": "https://imgs.ysscores.com/teams/128/2791755430442.png"
+    },
+    "team2": {
+      "name": "فيسيل كوبي",
+      "flag": "https://imgs.ysscores.com/teams/128/6111690370498.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري ابطال اسيا للنخبة x",
+    "title": "راتشابوري × جوهور",
+    "time": "2026-11-24T14:15:00",
+    "team1": {
+      "name": "راتشابوري",
+      "flag": "https://imgs.ysscores.com/teams/128/9501755430379.png"
+    },
+    "team2": {
+      "name": "جوهور",
+      "flag": "https://imgs.ysscores.com/teams/128/6821690370566.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري ابطال اسيا للنخبة x",
+    "title": "شنغهاي بورت × بوريرام",
+    "time": "2026-11-24T14:15:00",
+    "team1": {
+      "name": "شنغهاي بورت",
+      "flag": "https://imgs.ysscores.com/teams/128/7881692706662.png"
+    },
+    "team2": {
+      "name": "بوريرام",
+      "flag": "https://imgs.ysscores.com/teams/128/4051693170735.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس العالم تحت 17 سنة x",
+    "title": "كوستاريكا × أيرلندا",
+    "time": "2026-11-24T14:30:00",
+    "team1": {
+      "name": "كوستاريكا",
+      "flag": "https://imgs.ysscores.com/teams/128/8391763071154.png"
+    },
+    "team2": {
+      "name": "أيرلندا",
+      "flag": "https://imgs.ysscores.com/teams/128/7511763081085.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس العالم تحت 17 سنة x",
+    "title": "فنزويلا × رومانيا",
+    "time": "2026-11-24T14:30:00",
+    "team1": {
+      "name": "فنزويلا",
+      "flag": "https://imgs.ysscores.com/teams/128/3031763117870.png"
+    },
+    "team2": {
+      "name": "رومانيا",
+      "flag": "https://imgs.ysscores.com/teams/128/6501763085627.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس العالم تحت 17 سنة x",
+    "title": "اليابان × صربيا",
+    "time": "2026-11-24T15:00:00",
+    "team1": {
+      "name": "اليابان",
+      "flag": "https://imgs.ysscores.com/teams/128/6361763081321.png"
+    },
+    "team2": {
+      "name": "صربيا",
+      "flag": "https://imgs.ysscores.com/teams/128/431763086461.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس العالم تحت 17 سنة x",
+    "title": "المكسيك × الكاميرون",
+    "time": "2026-11-24T15:30:00",
+    "team1": {
+      "name": "المكسيك",
+      "flag": "https://imgs.ysscores.com/teams/128/7541763083305.png"
+    },
+    "team2": {
+      "name": "الكاميرون",
+      "flag": "https://imgs.ysscores.com/teams/128/3431693919256.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
     "league": "دوري ابطال اسيا 2 x",
     "title": "ايست بنغال × الحسين",
     "time": "2026-11-24T15:45:00",
@@ -12069,6 +12264,96 @@
     "channels": []
   },
   {
+    "league": "كأس العالم تحت 17 سنة x",
+    "title": "الدومينيكان × تشيلي",
+    "time": "2026-11-24T16:30:00",
+    "team1": {
+      "name": "الدومينيكان",
+      "flag": "https://imgs.ysscores.com/teams/128/6131763071768.png"
+    },
+    "team2": {
+      "name": "تشيلي",
+      "flag": "https://imgs.ysscores.com/teams/128/7771763149048.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "الدوري المصري x",
+    "title": "سموحة × البنك الأهلي",
+    "time": "2026-11-24T17:00:00",
+    "team1": {
+      "name": "سموحة",
+      "flag": "https://imgs.ysscores.com/teams/128/481694082088.png"
+    },
+    "team2": {
+      "name": "البنك الأهلي",
+      "flag": "https://imgs.ysscores.com/teams/128/7591694081941.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "الدوري المصري x",
+    "title": "نادي زد × أبو قير",
+    "time": "2026-11-24T17:00:00",
+    "team1": {
+      "name": "نادي زد",
+      "flag": "https://imgs.ysscores.com/teams/128/8411694619351.png"
+    },
+    "team2": {
+      "name": "أبو قير",
+      "flag": "https://imgs.ysscores.com/teams/128/8611715098753.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس العالم تحت 17 سنة x",
+    "title": "البرازيل × تنزانيا",
+    "time": "2026-11-24T17:00:00",
+    "team1": {
+      "name": "البرازيل",
+      "flag": "https://imgs.ysscores.com/teams/128/4331763069849.png"
+    },
+    "team2": {
+      "name": "تنزانيا",
+      "flag": "https://imgs.ysscores.com/teams/128/3241763087791.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس العالم تحت 17 سنة x",
+    "title": "الجزائر × مونتينيغرو",
+    "time": "2026-11-24T17:30:00",
+    "team1": {
+      "name": "الجزائر",
+      "flag": "https://imgs.ysscores.com/teams/128/981693834281.png"
+    },
+    "team2": {
+      "name": "مونتينيغرو",
+      "flag": "https://imgs.ysscores.com/teams/128/4431763083477.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس العالم تحت 17 سنة x",
+    "title": "هندوراس × كولومبيا",
+    "time": "2026-11-24T17:30:00",
+    "team1": {
+      "name": "هندوراس",
+      "flag": "https://imgs.ysscores.com/teams/128/7511763080690.png"
+    },
+    "team2": {
+      "name": "كولومبيا",
+      "flag": "https://imgs.ysscores.com/teams/128/8411763070902.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
     "league": "دوري ابطال اسيا 2 x",
     "title": "السيب × الشرطة",
     "time": "2026-11-24T18:00:00",
@@ -12079,6 +12364,21 @@
     "team2": {
       "name": "الشرطة",
       "flag": "https://imgs.ysscores.com/teams/128/8281729976264.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري ابطال اسيا للنخبة x",
+    "title": "شباب الأهلي × القادسية",
+    "time": "2026-11-24T18:00:00",
+    "team1": {
+      "name": "شباب الأهلي",
+      "flag": "https://imgs.ysscores.com/teams/128/5261690300570.png"
+    },
+    "team2": {
+      "name": "القادسية",
+      "flag": "https://imgs.ysscores.com/teams/128/6611724280721.png"
     },
     "extra": false,
     "channels": []
@@ -12109,6 +12409,51 @@
     "team2": {
       "name": "أستون فيلا",
       "flag": "https://imgs.ysscores.com/teams/128/9921723414870.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "الدوري المصري x",
+    "title": "المصري × بترول أسيوط",
+    "time": "2026-11-24T20:00:00",
+    "team1": {
+      "name": "المصري",
+      "flag": "https://imgs.ysscores.com/teams/128/1521694644423.png"
+    },
+    "team2": {
+      "name": "بترول أسيوط",
+      "flag": "https://imgs.ysscores.com/teams/128/5831736286055.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "الدوري المصري x",
+    "title": "المقاولون العرب × القناة",
+    "time": "2026-11-24T20:00:00",
+    "team1": {
+      "name": "المقاولون العرب",
+      "flag": "https://imgs.ysscores.com/teams/128/2721694082551.png"
+    },
+    "team2": {
+      "name": "القناة",
+      "flag": "https://imgs.ysscores.com/teams/128/5821715097236.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري ابطال اسيا للنخبة x",
+    "title": "النصر × السد",
+    "time": "2026-11-24T20:15:00",
+    "team1": {
+      "name": "النصر",
+      "flag": "https://imgs.ysscores.com/teams/128/1371747772080.png"
+    },
+    "team2": {
+      "name": "السد",
+      "flag": "https://imgs.ysscores.com/teams/128/6901727693223.png"
     },
     "extra": false,
     "channels": []
@@ -12214,6 +12559,21 @@
     "team2": {
       "name": "أيك أثينا",
       "flag": "https://imgs.ysscores.com/teams/128/6901694359099.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "الدوري البرازيلي x",
+    "title": "شابيكوينسي × بالميراس",
+    "time": "2026-11-24T23:00:00",
+    "team1": {
+      "name": "شابيكوينسي",
+      "flag": "https://imgs.ysscores.com/teams/128/17694232458462.png"
+    },
+    "team2": {
+      "name": "بالميراس",
+      "flag": "https://imgs.ysscores.com/teams/128/7971691418711.png"
     },
     "extra": false,
     "channels": []
