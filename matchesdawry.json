@@ -12514,7 +12514,7 @@
     "channels": []
   },
   {
-    "league": "الدوري المصري x",
+    "league": "الدوري المصري",
     "title": "المقاولون العرب × القناة",
     "time": "2026-11-24T20:00:00",
     "team1": {
@@ -12526,7 +12526,12 @@
       "flag": "https://imgs.ysscores.com/teams/128/5821715097236.png"
     },
     "extra": false,
-    "channels": []
+    "channels": [
+      {
+        "name": "ON Sport MAX",
+        "url": "go:ONTime2"
+      }
+    ]
   },
   {
     "league": "دوري ابطال اسيا للنخبة",
