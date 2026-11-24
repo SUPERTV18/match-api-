@@ -13179,7 +13179,7 @@
     "channels": []
   },
   {
-    "league": "دوري ابطال اوروبا x",
+    "league": "دوري ابطال اوروبا",
     "title": "باريس × روما",
     "time": "2026-11-25T22:00:00",
     "team1": {
@@ -13191,7 +13191,36 @@
       "flag": "https://imgs.ysscores.com/teams/128/17722024059541.png"
     },
     "extra": false,
-    "channels": []
+    "channels": [
+      {
+        "name": "SUPER TV 1",
+        "url": "go:supertv1"
+      },
+      {
+        "name": "TOD",
+        "url": "go:TOD11"
+      },
+      {
+        "name": "ALWAN 4",
+        "url": "go:ALWAN4"
+      },
+      {
+        "name": "FHD",
+        "url": "go:Bein1hd"
+      },
+      {
+        "name": "HD",
+        "url": "go:Bein1hd2"
+      },
+      {
+        "name": "SD",
+        "url": "go:Bein1sd"
+      },
+      {
+        "name": "LOW",
+        "url": "go:Bein1low"
+      }
+    ]
   },
   {
     "league": "دوري ابطال اوروبا x",
