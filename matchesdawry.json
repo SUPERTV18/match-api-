@@ -13339,7 +13339,7 @@
     ]
   },
   {
-    "league": "دوري ابطال اوروبا x",
+    "league": "دوري ابطال اوروبا",
     "title": "كلوب بروج × ليفربول",
     "time": "2026-11-25T22:00:00",
     "team1": {
@@ -13351,7 +13351,36 @@
       "flag": "https://imgs.ysscores.com/teams/128/4081724601375.png"
     },
     "extra": false,
-    "channels": []
+    "channels": [
+      {
+        "name": "SUPER TV 3",
+        "url": "go:supertv3"
+      },
+      {
+        "name": "TOD",
+        "url": "go:TOD13"
+      },
+      {
+        "name": "ALWAN 2",
+        "url": "go:ALWAN2"
+      },
+      {
+        "name": "FHD",
+        "url": "go:Bein3hd"
+      },
+      {
+        "name": "HD",
+        "url": "go:Bein3hd2"
+      },
+      {
+        "name": "SD",
+        "url": "go:Bein3sd"
+      },
+      {
+        "name": "LOW",
+        "url": "go:Bein3low"
+      }
+    ]
   },
   {
     "league": "دوري ابطال اوروبا x",
