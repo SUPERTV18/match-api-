@@ -13383,7 +13383,7 @@
     ]
   },
   {
-    "league": "دوري ابطال اوروبا x",
+    "league": "دوري ابطال اوروبا",
     "title": "ليل × بايرن ميونخ",
     "time": "2026-11-25T22:00:00",
     "team1": {
@@ -13395,7 +13395,28 @@
       "flag": "https://imgs.ysscores.com/teams/128/2351690288818.png"
     },
     "extra": false,
-    "channels": []
+    "channels": [
+      {
+        "name": "ALWAN 3",
+        "url": "go:ALWAN3"
+      },
+      {
+        "name": "FHD",
+        "url": "go:Bein5hd"
+      },
+      {
+        "name": "HD",
+        "url": "go:Bein5hd2"
+      },
+      {
+        "name": "SD",
+        "url": "go:Bein5sd"
+      },
+      {
+        "name": "LOW",
+        "url": "go:Bein5low"
+      }
+    ]
   },
   {
     "league": "دوري ابطال اوروبا x",
