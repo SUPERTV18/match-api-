@@ -12972,7 +12972,7 @@
     ]
   },
   {
-    "league": "دوري ابطال اسيا 2 x",
+    "league": "دوري ابطال اسيا 2",
     "title": "الفيصلي × الريان",
     "time": "2026-11-25T18:00:00",
     "team1": {
@@ -12984,7 +12984,32 @@
       "flag": "https://imgs.ysscores.com/teams/128/8521718101575.png"
     },
     "extra": false,
-    "channels": []
+    "channels": [
+      {
+        "name": "ALWAN 3",
+        "url": "go:ALWAN3"
+      },
+      {
+        "name": "الكأس 5",
+        "url": "go:alkass5"
+      },
+      {
+        "name": "FHD",
+        "url": "go:Bein2hd"
+      },
+      {
+        "name": "HD",
+        "url": "go:Bein2hd2"
+      },
+      {
+        "name": "SD",
+        "url": "go:Bein2sd"
+      },
+      {
+        "name": "LOW",
+        "url": "go:Bein2low"
+      }
+    ]
   },
   {
     "league": "دوري ابطال اسيا 2 x",
