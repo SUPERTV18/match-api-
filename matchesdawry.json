@@ -12881,6 +12881,36 @@
     "channels": []
   },
   {
+    "league": "دوري ابطال اسيا للنخبة x",
+    "title": "غامبا أوساكا × تاي بورت",
+    "time": "2026-11-25T12:00:00",
+    "team1": {
+      "name": "غامبا أوساكا",
+      "flag": "https://imgs.ysscores.com/teams/128/1681690370505.png"
+    },
+    "team2": {
+      "name": "تاي بورت",
+      "flag": "https://imgs.ysscores.com/teams/128/6421692706877.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري ابطال اسيا للنخبة x",
+    "title": "كاشيما أنتلرز × جيونبوك هيونداي موتورز",
+    "time": "2026-11-25T12:00:00",
+    "team1": {
+      "name": "كاشيما أنتلرز",
+      "flag": "https://imgs.ysscores.com/teams/128/7411716579425.png"
+    },
+    "team2": {
+      "name": "جيونبوك هيونداي موتورز",
+      "flag": "https://imgs.ysscores.com/teams/128/7611690825746.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
     "league": "دوري ابطال اسيا 2 x",
     "title": "بيرسيب باندونغ × سيول",
     "time": "2026-11-25T14:15:00",
@@ -12891,6 +12921,66 @@
     "team2": {
       "name": "سيول",
       "flag": "https://imgs.ysscores.com/teams/128/8881751235958.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس العالم تحت 17 سنة x",
+    "title": "الإكوادور × كوريا الجنوبية",
+    "time": "2026-11-25T14:30:00",
+    "team1": {
+      "name": "الإكوادور",
+      "flag": "https://imgs.ysscores.com/teams/128/1021763071912.png"
+    },
+    "team2": {
+      "name": "كوريا الجنوبية",
+      "flag": "https://imgs.ysscores.com/teams/128/3911763087033.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس العالم تحت 17 سنة x",
+    "title": "أوغندا × كاليدونيا الجديدة",
+    "time": "2026-11-25T14:30:00",
+    "team1": {
+      "name": "أوغندا",
+      "flag": "https://imgs.ysscores.com/teams/128/2921763117370.png"
+    },
+    "team2": {
+      "name": "كاليدونيا الجديدة",
+      "flag": "https://imgs.ysscores.com/teams/128/1901763083882.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس العالم تحت 17 سنة x",
+    "title": "أوروغواي × فرنسا",
+    "time": "2026-11-25T15:30:00",
+    "team1": {
+      "name": "أوروغواي",
+      "flag": "https://imgs.ysscores.com/teams/128/9901763117716.png"
+    },
+    "team2": {
+      "name": "فرنسا",
+      "flag": "https://imgs.ysscores.com/teams/128/2961763078000.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس العالم تحت 17 سنة x",
+    "title": "هايتي × السعودية",
+    "time": "2026-11-25T15:30:00",
+    "team1": {
+      "name": "هايتي",
+      "flag": "https://imgs.ysscores.com/teams/128/4331763080606.png"
+    },
+    "team2": {
+      "name": "السعودية",
+      "flag": "https://imgs.ysscores.com/teams/128/7231728507982.png"
     },
     "extra": false,
     "channels": []
@@ -12934,6 +13024,81 @@
         "url": "go:Bein1low"
       }
     ]
+  },
+  {
+    "league": "كأس العالم تحت 17 سنة x",
+    "title": "اليونان × قطر",
+    "time": "2026-11-25T16:30:00",
+    "team1": {
+      "name": "اليونان",
+      "flag": "https://imgs.ysscores.com/teams/128/331763078547.png"
+    },
+    "team2": {
+      "name": "قطر",
+      "flag": "https://imgs.ysscores.com/teams/128/4211693824633.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس العالم تحت 17 سنة x",
+    "title": "بنما × مصر",
+    "time": "2026-11-25T16:30:00",
+    "team1": {
+      "name": "بنما",
+      "flag": "https://imgs.ysscores.com/teams/128/7881763084990.png"
+    },
+    "team2": {
+      "name": "مصر",
+      "flag": "https://imgs.ysscores.com/teams/128/9301763071949.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "الدوري المصري x",
+    "title": "طلائع الجيش × مودرن سبورت",
+    "time": "2026-11-25T17:00:00",
+    "team1": {
+      "name": "طلائع الجيش",
+      "flag": "https://imgs.ysscores.com/teams/128/5871731000840.png"
+    },
+    "team2": {
+      "name": "مودرن سبورت",
+      "flag": "https://imgs.ysscores.com/teams/128/5391724147326.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس العالم تحت 17 سنة x",
+    "title": "الدنمارك × الأرجنتين",
+    "time": "2026-11-25T17:30:00",
+    "team1": {
+      "name": "الدنمارك",
+      "flag": "https://imgs.ysscores.com/teams/128/5741763071628.png"
+    },
+    "team2": {
+      "name": "الأرجنتين",
+      "flag": "https://imgs.ysscores.com/teams/128/5861694177479.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس العالم تحت 17 سنة x",
+    "title": "أستراليا × موزمبيق",
+    "time": "2026-11-25T17:30:00",
+    "team1": {
+      "name": "أستراليا",
+      "flag": "https://imgs.ysscores.com/teams/128/8691763067926.png"
+    },
+    "team2": {
+      "name": "موزمبيق",
+      "flag": "https://imgs.ysscores.com/teams/128/9651763083639.png"
+    },
+    "extra": false,
+    "channels": []
   },
   {
     "league": "دوري ابطال اسيا 2",
@@ -13162,6 +13327,36 @@
         "url": "go:Bein3low"
       }
     ]
+  },
+  {
+    "league": "الدوري المصري x",
+    "title": "الشرقية إنبي × سيراميكا",
+    "time": "2026-11-25T20:00:00",
+    "team1": {
+      "name": "الشرقية إنبي",
+      "flag": "https://imgs.ysscores.com/teams/128/17874779322765.png"
+    },
+    "team2": {
+      "name": "سيراميكا",
+      "flag": "https://imgs.ysscores.com/teams/128/631694081965.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "الدوري المصري x",
+    "title": "غزل المحلة × السويس بتروجيت",
+    "time": "2026-11-25T20:00:00",
+    "team1": {
+      "name": "غزل المحلة",
+      "flag": "https://imgs.ysscores.com/teams/128/9801725831886.png"
+    },
+    "team2": {
+      "name": "السويس بتروجيت",
+      "flag": "https://imgs.ysscores.com/teams/128/17873555652953.png"
+    },
+    "extra": false,
+    "channels": []
   },
   {
     "league": "دوري ابطال اسيا 2",
