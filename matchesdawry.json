@@ -13644,6 +13644,21 @@
     "channels": []
   },
   {
+    "league": "الدوري البرازيلي x",
+    "title": "أتلتيكو مينيرو × كورينثيانز",
+    "time": "2026-11-26T01:00:00",
+    "team1": {
+      "name": "أتلتيكو مينيرو",
+      "flag": "https://imgs.ysscores.com/teams/128/9181691418710.png"
+    },
+    "team2": {
+      "name": "كورينثيانز",
+      "flag": "https://imgs.ysscores.com/teams/128/6101691418710.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
     "league": "دوري ابطال اسيا 2 x",
     "title": "تامبينس × شانغهاي",
     "time": "2026-11-26T12:00:00",
@@ -13734,6 +13749,141 @@
     "channels": []
   },
   {
+    "league": "كأس العالم تحت 17 سنة x",
+    "title": "فيتنام × مالي",
+    "time": "2026-11-26T15:00:00",
+    "team1": {
+      "name": "فيتنام",
+      "flag": "https://imgs.ysscores.com/teams/128/7021763117993.png"
+    },
+    "team2": {
+      "name": "مالي",
+      "flag": "https://imgs.ysscores.com/teams/128/7571763083037.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس العالم تحت 17 سنة x",
+    "title": "نيوزيلندا × بلجيكا",
+    "time": "2026-11-26T15:00:00",
+    "team1": {
+      "name": "نيوزيلندا",
+      "flag": "https://imgs.ysscores.com/teams/128/2291763084006.png"
+    },
+    "team2": {
+      "name": "بلجيكا",
+      "flag": "https://imgs.ysscores.com/teams/128/6271763069075.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس العالم تحت 17 سنة x",
+    "title": "أوزبكستان × إيطاليا",
+    "time": "2026-11-26T16:00:00",
+    "team1": {
+      "name": "أوزبكستان",
+      "flag": "https://imgs.ysscores.com/teams/128/981763117755.png"
+    },
+    "team2": {
+      "name": "إيطاليا",
+      "flag": "https://imgs.ysscores.com/teams/128/4141763081186.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس العالم تحت 17 سنة x",
+    "title": "جامايكا × ساحل العاج",
+    "time": "2026-11-26T16:00:00",
+    "team1": {
+      "name": "جامايكا",
+      "flag": "https://imgs.ysscores.com/teams/128/1521763081278.png"
+    },
+    "team2": {
+      "name": "ساحل العاج",
+      "flag": "https://imgs.ysscores.com/teams/128/391763071210.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري روشن السعودي x",
+    "title": "الفتح × الرياض",
+    "time": "2026-11-26T16:25:00",
+    "team1": {
+      "name": "الفتح",
+      "flag": "https://imgs.ysscores.com/teams/128/17835195657588.png"
+    },
+    "team2": {
+      "name": "الرياض",
+      "flag": "https://imgs.ysscores.com/teams/128/7341730889148.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "الدوري الأردني x",
+    "title": "البقعة × الجزيرة",
+    "time": "2026-11-26T17:00:00",
+    "team1": {
+      "name": "البقعة",
+      "flag": "https://imgs.ysscores.com/teams/128/7051753524387.png"
+    },
+    "team2": {
+      "name": "الجزيرة",
+      "flag": "https://imgs.ysscores.com/teams/128/4171716154082.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس العالم تحت 17 سنة x",
+    "title": "المغرب × إسبانيا",
+    "time": "2026-11-26T17:00:00",
+    "team1": {
+      "name": "المغرب",
+      "flag": "https://imgs.ysscores.com/teams/128/6291763083538.png"
+    },
+    "team2": {
+      "name": "إسبانيا",
+      "flag": "https://imgs.ysscores.com/teams/128/6231763087210.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس العالم تحت 17 سنة x",
+    "title": "الصين × فيجي",
+    "time": "2026-11-26T17:00:00",
+    "team1": {
+      "name": "الصين",
+      "flag": "https://imgs.ysscores.com/teams/128/1921763070825.png"
+    },
+    "team2": {
+      "name": "فيجي",
+      "flag": "https://imgs.ysscores.com/teams/128/9651763077859.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري روشن السعودي x",
+    "title": "أبها × الشباب",
+    "time": "2026-11-26T17:05:00",
+    "team1": {
+      "name": "أبها",
+      "flag": "https://imgs.ysscores.com/teams/128/9091690299913.png"
+    },
+    "team2": {
+      "name": "الشباب",
+      "flag": "https://imgs.ysscores.com/teams/128/4261690298871.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
     "league": "دوري المؤتمر الأوروبي",
     "title": "كيرات × ميالبي",
     "time": "2026-11-26T17:30:00",
@@ -13768,6 +13918,51 @@
         "url": "go:Bein2low"
       }
     ]
+  },
+  {
+    "league": "كأس العالم تحت 17 سنة x",
+    "title": "طاجيكستان × السنغال",
+    "time": "2026-11-26T18:00:00",
+    "team1": {
+      "name": "طاجيكستان",
+      "flag": "https://imgs.ysscores.com/teams/128/6601763087769.png"
+    },
+    "team2": {
+      "name": "السنغال",
+      "flag": "https://imgs.ysscores.com/teams/128/1831763086441.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس العالم تحت 17 سنة x",
+    "title": "كرواتيا × كوبا",
+    "time": "2026-11-26T18:00:00",
+    "team1": {
+      "name": "كرواتيا",
+      "flag": "https://imgs.ysscores.com/teams/128/7661763071283.png"
+    },
+    "team2": {
+      "name": "كوبا",
+      "flag": "https://imgs.ysscores.com/teams/128/4481763071362.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري روشن السعودي x",
+    "title": "الفيصلي × الدرعية",
+    "time": "2026-11-26T19:30:00",
+    "team1": {
+      "name": "الفيصلي",
+      "flag": "https://imgs.ysscores.com/teams/128/17889795135313.png"
+    },
+    "team2": {
+      "name": "الدرعية",
+      "flag": "https://imgs.ysscores.com/teams/128/17835195657588.png"
+    },
+    "extra": false,
+    "channels": []
   },
   {
     "league": "دوري المؤتمر الأوروبي",
@@ -14023,6 +14218,141 @@
         "url": "go:Bein3low"
       }
     ]
+  },
+  {
+    "league": "دوري المؤتمر الأوروبي x",
+    "title": "بافوس × ميتييلاند",
+    "time": "2026-11-26T19:45:00",
+    "team1": {
+      "name": "بافوس",
+      "flag": "https://imgs.ysscores.com/teams/128/4071690370494.png"
+    },
+    "team2": {
+      "name": "ميتييلاند",
+      "flag": "https://imgs.ysscores.com/teams/128/7731691095830.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري المؤتمر الأوروبي x",
+    "title": "بران × اوروس",
+    "time": "2026-11-26T19:45:00",
+    "team1": {
+      "name": "بران",
+      "flag": "https://imgs.ysscores.com/teams/128/9801690370526.png"
+    },
+    "team2": {
+      "name": "اوروس",
+      "flag": "https://imgs.ysscores.com/teams/128/5081691095768.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري المؤتمر الأوروبي x",
+    "title": "يابلونك × لوجانو",
+    "time": "2026-11-26T19:45:00",
+    "team1": {
+      "name": "يابلونك",
+      "flag": "https://imgs.ysscores.com/teams/128/7761690370506.png"
+    },
+    "team2": {
+      "name": "لوجانو",
+      "flag": "https://imgs.ysscores.com/teams/128/571690370510.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري المؤتمر الأوروبي x",
+    "title": "زالجيريس × ريغا",
+    "time": "2026-11-26T19:45:00",
+    "team1": {
+      "name": "زالجيريس",
+      "flag": "https://imgs.ysscores.com/teams/128/6791737200148.png"
+    },
+    "team2": {
+      "name": "ريغا",
+      "flag": "https://imgs.ysscores.com/teams/128/9601722539340.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري المؤتمر الأوروبي x",
+    "title": "إيبيريا × خيتافي",
+    "time": "2026-11-26T19:45:00",
+    "team1": {
+      "name": "إيبيريا",
+      "flag": "https://imgs.ysscores.com/teams/128/3841690370576.png"
+    },
+    "team2": {
+      "name": "خيتافي",
+      "flag": "https://imgs.ysscores.com/teams/128/3451691957863.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري المؤتمر الأوروبي x",
+    "title": "إيجناتيا × لينكولن ريد",
+    "time": "2026-11-26T19:45:00",
+    "team1": {
+      "name": "إيجناتيا",
+      "flag": "https://imgs.ysscores.com/teams/128/4691690370552.png"
+    },
+    "team2": {
+      "name": "لينكولن ريد",
+      "flag": "https://imgs.ysscores.com/teams/128/6421690818566.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "الدوري الاوروبي x",
+    "title": "سان جيلواز × ليخ بوزنان",
+    "time": "2026-11-26T19:45:00",
+    "team1": {
+      "name": "سان جيلواز",
+      "flag": "https://imgs.ysscores.com/teams/128/3651690370510.png"
+    },
+    "team2": {
+      "name": "ليخ بوزنان",
+      "flag": "https://imgs.ysscores.com/teams/128/5751690370495.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "الدوري الاوروبي x",
+    "title": "سالزبورج × آرارات أرمينيا",
+    "time": "2026-11-26T19:45:00",
+    "team1": {
+      "name": "سالزبورج",
+      "flag": "https://imgs.ysscores.com/teams/128/3591690370551.png"
+    },
+    "team2": {
+      "name": "آرارات أرمينيا",
+      "flag": "https://imgs.ysscores.com/teams/128/3161723108818.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "الدوري الاوروبي x",
+    "title": "بشكتاش × بئر السبع",
+    "time": "2026-11-26T19:45:00",
+    "team1": {
+      "name": "بشكتاش",
+      "flag": "https://imgs.ysscores.com/teams/128/2171690128210.png"
+    },
+    "team2": {
+      "name": "بئر السبع",
+      "flag": "https://imgs.ysscores.com/teams/128/511751837961.png"
+    },
+    "extra": false,
+    "channels": []
   },
   {
     "league": "دوري المؤتمر الأوروبي",
@@ -14291,5 +14621,170 @@
         "url": "go:Bein6low"
       }
     ]
+  },
+  {
+    "league": "دوري المؤتمر الأوروبي x",
+    "title": "سبورتينغ براغا × بالوسيور",
+    "time": "2026-11-26T22:00:00",
+    "team1": {
+      "name": "سبورتينغ براغا",
+      "flag": "https://imgs.ysscores.com/teams/128/2631690385875.png"
+    },
+    "team2": {
+      "name": "بالوسيور",
+      "flag": "https://imgs.ysscores.com/teams/128/2361751839313.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري المؤتمر الأوروبي x",
+    "title": "جينت × ريد ستار بلغراد",
+    "time": "2026-11-26T22:00:00",
+    "team1": {
+      "name": "جينت",
+      "flag": "https://imgs.ysscores.com/teams/128/1061690370549.png"
+    },
+    "team2": {
+      "name": "ريد ستار بلغراد",
+      "flag": "https://imgs.ysscores.com/teams/128/7061690370536.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري المؤتمر الأوروبي x",
+    "title": "بوراك × أتالانتا",
+    "time": "2026-11-26T22:00:00",
+    "team1": {
+      "name": "بوراك",
+      "flag": "https://imgs.ysscores.com/teams/128/4851751838527.png"
+    },
+    "team2": {
+      "name": "أتالانتا",
+      "flag": "https://imgs.ysscores.com/teams/128/17795813126107.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري المؤتمر الأوروبي x",
+    "title": "هايدوك سبليت × سينت ترويدن",
+    "time": "2026-11-26T22:00:00",
+    "team1": {
+      "name": "هايدوك سبليت",
+      "flag": "https://imgs.ysscores.com/teams/128/7841690370553.png"
+    },
+    "team2": {
+      "name": "سينت ترويدن",
+      "flag": "https://imgs.ysscores.com/teams/128/6271690370550.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري المؤتمر الأوروبي x",
+    "title": "نوردشيلاند × باناثينايكوس",
+    "time": "2026-11-26T22:00:00",
+    "team1": {
+      "name": "نوردشيلاند",
+      "flag": "https://imgs.ysscores.com/teams/128/3791691096589.png"
+    },
+    "team2": {
+      "name": "باناثينايكوس",
+      "flag": "https://imgs.ysscores.com/teams/128/8301690821553.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري المؤتمر الأوروبي x",
+    "title": "ديسكالديز × كوبنهاغن",
+    "time": "2026-11-26T22:00:00",
+    "team1": {
+      "name": "ديسكالديز",
+      "flag": "https://imgs.ysscores.com/teams/128/6081751841621.png"
+    },
+    "team2": {
+      "name": "كوبنهاغن",
+      "flag": "https://imgs.ysscores.com/teams/128/1701690822703.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "الدوري الاوروبي x",
+    "title": "فيرينتسفاروشي × سيليي",
+    "time": "2026-11-26T22:00:00",
+    "team1": {
+      "name": "فيرينتسفاروشي",
+      "flag": "https://imgs.ysscores.com/teams/128/6411690370517.png"
+    },
+    "team2": {
+      "name": "سيليي",
+      "flag": "https://imgs.ysscores.com/teams/128/5451690370497.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "الدوري الاوروبي x",
+    "title": "سبارتا براغ × ألكمار",
+    "time": "2026-11-26T22:00:00",
+    "team1": {
+      "name": "سبارتا براغ",
+      "flag": "https://imgs.ysscores.com/teams/128/451690370558.png"
+    },
+    "team2": {
+      "name": "ألكمار",
+      "flag": "https://imgs.ysscores.com/teams/128/7771690996316.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "الدوري الاوروبي x",
+    "title": "هوفنهايم × شتورم غراتس",
+    "time": "2026-11-26T22:00:00",
+    "team1": {
+      "name": "هوفنهايم",
+      "flag": "https://imgs.ysscores.com/teams/128/5141690288816.png"
+    },
+    "team2": {
+      "name": "شتورم غراتس",
+      "flag": "https://imgs.ysscores.com/teams/128/2931738149991.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "الدوري الاوروبي x",
+    "title": "تورينسي × سيلتك",
+    "time": "2026-11-26T22:00:00",
+    "team1": {
+      "name": "تورينسي",
+      "flag": "https://imgs.ysscores.com/teams/128/3251717500838.png"
+    },
+    "team2": {
+      "name": "سيلتك",
+      "flag": "https://imgs.ysscores.com/teams/128/9291690387713.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "الدوري الاوروبي x",
+    "title": "أوفي كريت × أندرلخت",
+    "time": "2026-11-26T22:00:00",
+    "team1": {
+      "name": "أوفي كريت",
+      "flag": "https://imgs.ysscores.com/teams/128/7821690370506.png"
+    },
+    "team2": {
+      "name": "أندرلخت",
+      "flag": "https://imgs.ysscores.com/teams/128/1651733919643.png"
+    },
+    "extra": false,
+    "channels": []
   }
 ]
