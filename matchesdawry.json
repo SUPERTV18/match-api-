@@ -13732,5 +13732,245 @@
     },
     "extra": false,
     "channels": []
+  },
+  {
+    "league": "دوري المؤتمر الأوروبي",
+    "title": "كيرات × ميالبي",
+    "time": "2026-11-26T17:30:00",
+    "team1": {
+      "name": "كيرات",
+      "flag": "https://imgs.ysscores.com/teams/128/5591718101124.png"
+    },
+    "team2": {
+      "name": "ميالبي",
+      "flag": "https://imgs.ysscores.com/teams/128/6581690370514.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري المؤتمر الأوروبي",
+    "title": "أياكس أمستردام × ثون",
+    "time": "2026-11-26T19:45:00",
+    "team1": {
+      "name": "أياكس أمستردام",
+      "flag": "https://imgs.ysscores.com/teams/128/1361751718344.png"
+    },
+    "team2": {
+      "name": "ثون",
+      "flag": "https://imgs.ysscores.com/teams/128/5581718442236.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري المؤتمر الأوروبي",
+    "title": "برايتون × كرايوفا",
+    "time": "2026-11-26T19:45:00",
+    "team1": {
+      "name": "برايتون",
+      "flag": "https://imgs.ysscores.com/teams/128/2271696710594.png"
+    },
+    "team2": {
+      "name": "كرايوفا",
+      "flag": "https://imgs.ysscores.com/teams/128/2521753234950.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري المؤتمر الأوروبي",
+    "title": "هارتس × موناكو",
+    "time": "2026-11-26T19:45:00",
+    "team1": {
+      "name": "هارتس",
+      "flag": "https://imgs.ysscores.com/teams/128/7521690370544.png"
+    },
+    "team2": {
+      "name": "موناكو",
+      "flag": "https://imgs.ysscores.com/teams/128/3861690287583.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "الدوري الاوروبي",
+    "title": "أولمبياكوس × ميلان",
+    "time": "2026-11-26T19:45:00",
+    "team1": {
+      "name": "أولمبياكوس",
+      "flag": "https://imgs.ysscores.com/teams/128/1401690370533.png"
+    },
+    "team2": {
+      "name": "ميلان",
+      "flag": "https://imgs.ysscores.com/teams/128/3181690283002.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "الدوري الاوروبي",
+    "title": "مارسيليا × ليفسكي",
+    "time": "2026-11-26T19:45:00",
+    "team1": {
+      "name": "مارسيليا",
+      "flag": "https://imgs.ysscores.com/teams/128/17816370094121.png"
+    },
+    "team2": {
+      "name": "ليفسكي",
+      "flag": "https://imgs.ysscores.com/teams/128/8501717488667.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "الدوري الاوروبي",
+    "title": "فيكتوريا بيلزن × بنفيكا",
+    "time": "2026-11-26T19:45:00",
+    "team1": {
+      "name": "فيكتوريا بيلزن",
+      "flag": "https://imgs.ysscores.com/teams/128/1111690370499.png"
+    },
+    "team2": {
+      "name": "بنفيكا",
+      "flag": "https://imgs.ysscores.com/teams/128/4491690386690.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "الدوري الاوروبي",
+    "title": "دينامو زغرب × باير ليفركوزن",
+    "time": "2026-11-26T19:45:00",
+    "team1": {
+      "name": "دينامو زغرب",
+      "flag": "https://imgs.ysscores.com/teams/128/7051690823026.png"
+    },
+    "team2": {
+      "name": "باير ليفركوزن",
+      "flag": "https://imgs.ysscores.com/teams/128/7151690288816.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "الدوري الاوروبي",
+    "title": "سيلتا فيغو × بورنموث",
+    "time": "2026-11-26T19:45:00",
+    "team1": {
+      "name": "سيلتا فيغو",
+      "flag": "https://imgs.ysscores.com/teams/128/9611690196747.png"
+    },
+    "team2": {
+      "name": "بورنموث",
+      "flag": "https://imgs.ysscores.com/teams/128/7651690118769.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري المؤتمر الأوروبي",
+    "title": "فرايبورغ × تفينتي أنشخيده",
+    "time": "2026-11-26T22:00:00",
+    "team1": {
+      "name": "فرايبورغ",
+      "flag": "https://imgs.ysscores.com/teams/128/4771690288817.png"
+    },
+    "team2": {
+      "name": "تفينتي أنشخيده",
+      "flag": "https://imgs.ysscores.com/teams/128/7451690996868.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري المؤتمر الأوروبي",
+    "title": "سسكا صوفيا × طرابزون سبور",
+    "time": "2026-11-26T22:00:00",
+    "team1": {
+      "name": "سسكا صوفيا",
+      "flag": "https://imgs.ysscores.com/teams/128/2341748285214.png"
+    },
+    "team2": {
+      "name": "طرابزون سبور",
+      "flag": "https://imgs.ysscores.com/teams/128/7531690127980.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "الدوري الاوروبي",
+    "title": "يوفنتوس × نيقوسيا",
+    "time": "2026-11-26T22:00:00",
+    "team1": {
+      "name": "يوفنتوس",
+      "flag": "https://imgs.ysscores.com/teams/128/9331690283003.png"
+    },
+    "team2": {
+      "name": "نيقوسيا",
+      "flag": "https://imgs.ysscores.com/teams/128/7401723595077.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "الدوري الاوروبي",
+    "title": "ليون × ليلستروم",
+    "time": "2026-11-26T22:00:00",
+    "team1": {
+      "name": "ليون",
+      "flag": "https://imgs.ysscores.com/teams/128/4081690287528.png"
+    },
+    "team2": {
+      "name": "ليلستروم",
+      "flag": "https://imgs.ysscores.com/teams/128/5381690370526.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "الدوري الاوروبي",
+    "title": "كريستال بالاس × ريال سوسيداد",
+    "time": "2026-11-26T22:00:00",
+    "team1": {
+      "name": "كريستال بالاس",
+      "flag": "https://imgs.ysscores.com/teams/128/6121690118883.png"
+    },
+    "team2": {
+      "name": "ريال سوسيداد",
+      "flag": "https://imgs.ysscores.com/teams/128/9441690196745.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "الدوري الاوروبي",
+    "title": "سندرلاند × بياليستوك",
+    "time": "2026-11-26T22:00:00",
+    "team1": {
+      "name": "سندرلاند",
+      "flag": "https://imgs.ysscores.com/teams/128/10001690823905.png"
+    },
+    "team2": {
+      "name": "بياليستوك",
+      "flag": "https://imgs.ysscores.com/teams/128/7871722374006.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "الدوري الاوروبي",
+    "title": "نيميخن × رين",
+    "time": "2026-11-26T22:00:00",
+    "team1": {
+      "name": "نيميخن",
+      "flag": "https://imgs.ysscores.com/teams/128/2531690996921.png"
+    },
+    "team2": {
+      "name": "رين",
+      "flag": "https://imgs.ysscores.com/teams/128/5061690287944.png"
+    },
+    "extra": false,
+    "channels": []
   }
 ]
