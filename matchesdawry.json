@@ -13945,7 +13945,12 @@
       "flag": "https://imgs.ysscores.com/teams/128/4491690386690.png"
     },
     "extra": false,
-    "channels": []
+    "channels": [
+      {
+        "name": "ALWAN 4",
+        "url": "go:ALWAN4"
+      }
+    ]
   },
   {
     "league": "الدوري الاوروبي",
