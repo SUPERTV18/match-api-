@@ -12881,6 +12881,21 @@
     "channels": []
   },
   {
+    "league": "دوري ابطال اسيا 2 x",
+    "title": "ملبورن × فيتيل",
+    "time": "2026-11-25T09:45:00",
+    "team1": {
+      "name": "ملبورن",
+      "flag": "https://imgs.ysscores.com/teams/128/291739527561.png"
+    },
+    "team2": {
+      "name": "فيتيل",
+      "flag": "https://imgs.ysscores.com/teams/128/17871748833612.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
     "league": "دوري ابطال اسيا للنخبة x",
     "title": "غامبا أوساكا × تاي بورت",
     "time": "2026-11-25T12:00:00",
