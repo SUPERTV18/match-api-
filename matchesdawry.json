@@ -15290,7 +15290,7 @@
     ]
   },
   {
-    "league": "الدوري الاسباني x",
+    "league": "الدوري الاسباني",
     "title": "ليفانتي × راسينغ",
     "time": "2026-11-27T22:00:00",
     "team1": {
@@ -15302,7 +15302,32 @@
       "flag": "https://imgs.ysscores.com/teams/128/3011761516113.png"
     },
     "extra": false,
-    "channels": []
+    "channels": [
+      {
+        "name": "SUPER TV 3",
+        "url": "go:supertv3"
+      },
+      {
+        "name": "ALWAN 2",
+        "url": "go:ALWAN2"
+      },
+      {
+        "name": "FHD",
+        "url": "go:Bein3hd"
+      },
+      {
+        "name": "HD",
+        "url": "go:Bein3hd2"
+      },
+      {
+        "name": "SD",
+        "url": "go:Bein3sd"
+      },
+      {
+        "name": "LOW",
+        "url": "go:Bein3low"
+      }
+    ]
   },
   {
     "league": "الدوري الانجليزي x",
