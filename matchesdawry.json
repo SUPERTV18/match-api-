@@ -15194,7 +15194,7 @@
     "channels": []
   },
   {
-    "league": "الدوري الالماني x",
+    "league": "الدوري الالماني",
     "title": "فيردر بريمن × مونشنغلادباخ",
     "time": "2026-11-27T21:30:00",
     "team1": {
@@ -15206,7 +15206,16 @@
       "flag": "https://imgs.ysscores.com/teams/128/4571690288818.png"
     },
     "extra": false,
-    "channels": []
+    "channels": [
+      {
+        "name": "ALWAN 4",
+        "url": "go:ALWAN4"
+      },
+      {
+        "name": "MBC شاهد | رياضة",
+        "url": "go:ssc11"
+      }
+    ]
   },
   {
     "league": "الدوري الفرنسي x",
