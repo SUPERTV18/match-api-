@@ -15330,7 +15330,7 @@
     ]
   },
   {
-    "league": "الدوري الانجليزي x",
+    "league": "الدوري الانجليزي",
     "title": "نوتينغهام × تشيلسي",
     "time": "2026-11-27T22:00:00",
     "team1": {
@@ -15342,7 +15342,36 @@
       "flag": "https://imgs.ysscores.com/teams/128/2571690118280.png"
     },
     "extra": false,
-    "channels": []
+    "channels": [
+      {
+        "name": "SUPER TV 1",
+        "url": "go:supertv1"
+      },
+      {
+        "name": "ALWAN 1",
+        "url": "go:ALWAN1"
+      },
+      {
+        "name": "TOD",
+        "url": "go:TOD11"
+      },
+      {
+        "name": "FHD",
+        "url": "go:Bein1hd"
+      },
+      {
+        "name": "HD",
+        "url": "go:Bein1hd2"
+      },
+      {
+        "name": "SD",
+        "url": "go:Bein1sd"
+      },
+      {
+        "name": "LOW",
+        "url": "go:Bein1low"
+      }
+    ]
   },
   {
     "league": "الدوري البرتغالي الممتاز x",
