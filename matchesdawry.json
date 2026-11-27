@@ -15557,7 +15557,36 @@
       "flag": "https://imgs.ysscores.com/teams/128/7391693665631.png"
     },
     "extra": false,
-    "channels": []
+    "channels": [
+      {
+        "name": "SUPER TV 2",
+        "url": "go:supertv2"
+      },
+      {
+        "name": "TOD",
+        "url": "go:TOD12"
+      },
+      {
+        "name": "ALWAN 4",
+        "url": "go:ALWAN4"
+      },
+      {
+        "name": "FHD",
+        "url": "go:Bein2hd"
+      },
+      {
+        "name": "HD",
+        "url": "go:Bein2hd2"
+      },
+      {
+        "name": "SD",
+        "url": "go:Bein2sd"
+      },
+      {
+        "name": "LOW",
+        "url": "go:Bein2low"
+      }
+    ]
   },
   {
     "league": "دوري نجوم العراق x",
