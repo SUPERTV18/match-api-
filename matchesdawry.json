@@ -15824,7 +15824,7 @@
     "channels": []
   },
   {
-    "league": "الدوري الاسباني x",
+    "league": "الدوري الاسباني",
     "title": "إلتشي × أتلتيكو مدريد",
     "time": "2026-11-28T19:30:00",
     "team1": {
@@ -15836,7 +15836,28 @@
       "flag": "https://imgs.ysscores.com/teams/128/1431719588699.png"
     },
     "extra": false,
-    "channels": []
+    "channels": [
+      {
+        "name": "ALWAN 2",
+        "url": "go:ALWAN2"
+      },
+      {
+        "name": "FHD",
+        "url": "go:Bein5hd"
+      },
+      {
+        "name": "HD",
+        "url": "go:Bein5hd2"
+      },
+      {
+        "name": "SD",
+        "url": "go:Bein5sd"
+      },
+      {
+        "name": "LOW",
+        "url": "go:Bein5low"
+      }
+    ]
   },
   {
     "league": "الدوري الالماني x",
