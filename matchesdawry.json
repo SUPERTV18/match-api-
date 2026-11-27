@@ -16065,7 +16065,7 @@
     "channels": []
   },
   {
-    "league": "الدوري الايطالي x",
+    "league": "الدوري الايطالي",
     "title": "إنتر ميلان × جنوى",
     "time": "2026-11-28T21:45:00",
     "team1": {
@@ -16077,7 +16077,24 @@
       "flag": "https://imgs.ysscores.com/teams/128/1891690283004.png"
     },
     "extra": false,
-    "channels": []
+    "channels": [
+      {
+        "name": "MULTI",
+        "url": "go:Premfhd1"
+      },
+      {
+        "name": "HD",
+        "url": "go:Premhd1"
+      },
+      {
+        "name": "SHASHA",
+        "url": "go:SHASHA2"
+      },
+      {
+        "name": "ALWAN 3",
+        "url": "go:ALWAN3"
+      }
+    ]
   },
   {
     "league": "الدوري الاسباني",
