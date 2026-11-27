@@ -15651,6 +15651,21 @@
     "channels": []
   },
   {
+    "league": "دوري أدنوك للمحترفين x",
+    "title": "الوصل × الظفرة",
+    "time": "2026-11-28T16:15:00",
+    "team1": {
+      "name": "الوصل",
+      "flag": "https://imgs.ysscores.com/teams/128/5291690300472.png"
+    },
+    "team2": {
+      "name": "الظفرة",
+      "flag": "https://imgs.ysscores.com/teams/128/7361755293874.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
     "league": "دوري روشن السعودي",
     "title": "الاتفاق × الهلال",
     "time": "2026-11-28T16:20:00",
@@ -16248,6 +16263,21 @@
         "url": "go:Thman1SD"
       }
     ]
+  },
+  {
+    "league": "دوري روشن السعودي x",
+    "title": "الأهلي × التعاون",
+    "time": "2026-11-28T19:30:00",
+    "team1": {
+      "name": "الأهلي",
+      "flag": "https://imgs.ysscores.com/teams/128/9591694714907.png"
+    },
+    "team2": {
+      "name": "التعاون",
+      "flag": "https://imgs.ysscores.com/teams/128/9971724321815.png"
+    },
+    "extra": false,
+    "channels": []
   },
   {
     "league": "الدوري البرتغالي الممتاز x",
