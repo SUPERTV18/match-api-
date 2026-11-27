@@ -15654,7 +15654,7 @@
     "channels": []
   },
   {
-    "league": "الدوري الالماني x",
+    "league": "الدوري الالماني",
     "title": "هامبورغ × بايرن ميونخ",
     "time": "2026-11-28T16:30:00",
     "team1": {
@@ -15666,7 +15666,16 @@
       "flag": "https://imgs.ysscores.com/teams/128/2351690288818.png"
     },
     "extra": false,
-    "channels": []
+    "channels": [
+      {
+        "name": "ALWAN 4",
+        "url": "go:ALWAN4"
+      },
+      {
+        "name": "MBC شاهد | رياضة",
+        "url": "go:ssc11"
+      }
+    ]
   },
   {
     "league": "الدوري الالماني x",
