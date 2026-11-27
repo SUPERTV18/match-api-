@@ -15668,12 +15668,12 @@
     "extra": false,
     "channels": [
       {
-        "name": "ALWAN 4",
-        "url": "go:ALWAN4"
-      },
-      {
         "name": "MBC شاهد | رياضة",
         "url": "go:ssc11"
+      },
+      {
+        "name": "ALWAN 3",
+        "url": "go:ALWAN3"
       }
     ]
   },
