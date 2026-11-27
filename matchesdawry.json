@@ -15708,7 +15708,7 @@
     "channels": []
   },
   {
-    "league": "الدوري الانجليزي x",
+    "league": "الدوري الانجليزي",
     "title": "ليدز يونايتد × كوفنتري",
     "time": "2026-11-28T17:00:00",
     "team1": {
@@ -15720,7 +15720,28 @@
       "flag": "https://imgs.ysscores.com/teams/128/3861690370535.png"
     },
     "extra": false,
-    "channels": []
+    "channels": [
+      {
+        "name": "ALWAN 2",
+        "url": "go:ALWAN2"
+      },
+      {
+        "name": "FHD",
+        "url": "go:Bein6hd"
+      },
+      {
+        "name": "HD",
+        "url": "go:Bein6hd2"
+      },
+      {
+        "name": "SD",
+        "url": "go:Bein6sd"
+      },
+      {
+        "name": "LOW",
+        "url": "go:Bein6low"
+      }
+    ]
   },
   {
     "league": "الدوري الانجليزي x",
