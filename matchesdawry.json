@@ -15590,7 +15590,7 @@
     "channels": []
   },
   {
-    "league": "دوري روشن السعودي x",
+    "league": "دوري روشن السعودي",
     "title": "الاتفاق × الهلال",
     "time": "2026-11-28T16:20:00",
     "team1": {
@@ -15602,7 +15602,24 @@
       "flag": "https://imgs.ysscores.com/teams/128/8761690298716.png"
     },
     "extra": false,
-    "channels": []
+    "channels": [
+      {
+        "name": "MULTI",
+        "url": "go:server9"
+      },
+      {
+        "name": "MULTI HDR",
+        "url": "go:Thman1LOW"
+      },
+      {
+        "name": "FHD",
+        "url": "go:Thman1HD"
+      },
+      {
+        "name": "HD",
+        "url": "go:Thman1SD"
+      }
+    ]
   },
   {
     "league": "الدوري الالماني x",
