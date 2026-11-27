@@ -15847,7 +15847,7 @@
     "channels": []
   },
   {
-    "league": "الدوري الايطالي x",
+    "league": "الدوري الايطالي",
     "title": "تورينو × لاتسيو",
     "time": "2026-11-28T19:00:00",
     "team1": {
@@ -15859,7 +15859,24 @@
       "flag": "https://imgs.ysscores.com/teams/128/5111690283002.png"
     },
     "extra": false,
-    "channels": []
+    "channels": [
+      {
+        "name": "MULTI",
+        "url": "go:Premfhd1"
+      },
+      {
+        "name": "HD",
+        "url": "go:Premhd1"
+      },
+      {
+        "name": "SHASHA",
+        "url": "go:SHASHA2"
+      },
+      {
+        "name": "ALWAN 3",
+        "url": "go:ALWAN3"
+      }
+    ]
   },
   {
     "league": "الدوري الاسباني",
