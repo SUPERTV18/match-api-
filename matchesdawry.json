@@ -15560,7 +15560,7 @@
     "channels": []
   },
   {
-    "league": "الدوري الايطالي x",
+    "league": "الدوري الايطالي",
     "title": "فروزينوني × بارما",
     "time": "2026-11-28T16:00:00",
     "team1": {
@@ -15572,7 +15572,24 @@
       "flag": "https://imgs.ysscores.com/teams/128/4061690823331.png"
     },
     "extra": false,
-    "channels": []
+    "channels": [
+      {
+        "name": "MULTI",
+        "url": "go:Premfhd1"
+      },
+      {
+        "name": "HD",
+        "url": "go:Premhd1"
+      },
+      {
+        "name": "SHASHA",
+        "url": "go:SHASHA2"
+      },
+      {
+        "name": "ALWAN 3",
+        "url": "go:ALWAN3"
+      }
+    ]
   },
   {
     "league": "الدوري الأردني x",
