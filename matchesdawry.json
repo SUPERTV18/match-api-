@@ -16097,7 +16097,7 @@
     "channels": []
   },
   {
-    "league": "كأس الكونفيدرالية x",
+    "league": "كأس الكونفيدرالية",
     "title": "الرجاء الرياضي × أسكو كارا",
     "time": "2026-11-28T21:00:00",
     "team1": {
@@ -16109,7 +16109,36 @@
       "flag": "https://imgs.ysscores.com/teams/128/8761692283271.png"
     },
     "extra": false,
-    "channels": []
+    "channels": [
+      {
+        "name": "SUPER TV 2",
+        "url": "go:supertv2"
+      },
+      {
+        "name": "TOD",
+        "url": "go:TOD12"
+      },
+      {
+        "name": "ALWAN 5",
+        "url": "go:ALWAN5"
+      },
+      {
+        "name": "FHD",
+        "url": "go:Bein2hd"
+      },
+      {
+        "name": "HD",
+        "url": "go:Bein2hd2"
+      },
+      {
+        "name": "SD",
+        "url": "go:Bein2sd"
+      },
+      {
+        "name": "LOW",
+        "url": "go:Bein2low"
+      }
+    ]
   },
   {
     "league": "كأس الكونفيدرالية x",
