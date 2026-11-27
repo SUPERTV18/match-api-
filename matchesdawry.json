@@ -15404,7 +15404,7 @@
     "channels": []
   },
   {
-    "league": "دوري روشن السعودي x",
+    "league": "دوري روشن السعودي",
     "title": "الحزم × النصر",
     "time": "2026-11-28T14:15:00",
     "team1": {
@@ -15416,7 +15416,28 @@
       "flag": "https://imgs.ysscores.com/teams/128/1371747772080.png"
     },
     "extra": false,
-    "channels": []
+    "channels": [
+      {
+        "name": "ALWAN 1",
+        "url": "go:ALWAN1"
+      },
+      {
+        "name": "MULTI",
+        "url": "go:server10"
+      },
+      {
+        "name": "MULTI HDR",
+        "url": "go:Thman2LOW"
+      },
+      {
+        "name": "FHD",
+        "url": "go:Thman2HD"
+      },
+      {
+        "name": "HD",
+        "url": "go:Thman2SD"
+      }
+    ]
   },
   {
     "league": "الدوري الاسباني x",
