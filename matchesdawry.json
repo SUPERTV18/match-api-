@@ -15545,6 +15545,21 @@
     "channels": []
   },
   {
+    "league": "دوري أبطال أفريقيا",
+    "title": "يانغ أفريكانز × مولودية الجزائر",
+    "time": "2026-11-28T15:00:00",
+    "team1": {
+      "name": "يانغ أفريكانز",
+      "flag": "https://imgs.ysscores.com/teams/128/2951692283216.png"
+    },
+    "team2": {
+      "name": "مولودية الجزائر",
+      "flag": "https://imgs.ysscores.com/teams/128/7391693665631.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
     "league": "دوري نجوم العراق x",
     "title": "الطلبة × الميناء",
     "time": "2026-11-28T15:45:00",
@@ -15878,6 +15893,51 @@
     "channels": []
   },
   {
+    "league": "دوري أبطال أفريقيا",
+    "title": "الزمالك × الإفريقي",
+    "time": "2026-11-28T18:00:00",
+    "team1": {
+      "name": "الزمالك",
+      "flag": "https://imgs.ysscores.com/teams/128/7971694082496.png"
+    },
+    "team2": {
+      "name": "الإفريقي",
+      "flag": "https://imgs.ysscores.com/teams/128/5191692795665.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري أبطال أفريقيا",
+    "title": "بيراميدز × المغرب الفاسي",
+    "time": "2026-11-28T18:00:00",
+    "team1": {
+      "name": "بيراميدز",
+      "flag": "https://imgs.ysscores.com/teams/128/5771692283569.png"
+    },
+    "team2": {
+      "name": "المغرب الفاسي",
+      "flag": "https://imgs.ysscores.com/teams/128/17869850204497.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "دوري أبطال أفريقيا",
+    "title": "الترجي × ويليتي",
+    "time": "2026-11-28T18:00:00",
+    "team1": {
+      "name": "الترجي",
+      "flag": "https://imgs.ysscores.com/teams/128/9451695299186.png"
+    },
+    "team2": {
+      "name": "ويليتي",
+      "flag": "https://imgs.ysscores.com/teams/128/971755466856.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
     "league": "الدوري الفرنسي x",
     "title": "أنجيه × لانس",
     "time": "2026-11-28T18:15:00",
@@ -16171,6 +16231,21 @@
         "url": "go:Bein7low"
       }
     ]
+  },
+  {
+    "league": "دوري أبطال أفريقيا",
+    "title": "نهضة بركان × كولومب سبورتيف",
+    "time": "2026-11-28T21:00:00",
+    "team1": {
+      "name": "نهضة بركان",
+      "flag": "https://imgs.ysscores.com/teams/128/17854447724936.png"
+    },
+    "team2": {
+      "name": "كولومب سبورتيف",
+      "flag": "https://imgs.ysscores.com/teams/128/6581755468192.png"
+    },
+    "extra": false,
+    "channels": []
   },
   {
     "league": "الدوري الفرنسي x",
