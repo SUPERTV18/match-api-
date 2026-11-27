@@ -16032,5 +16032,35 @@
     },
     "extra": false,
     "channels": []
+  },
+  {
+    "league": "كأس عاصمة مصر x",
+    "title": "البنك الأهلي × سموحة",
+    "time": "2026-12-01T17:00:00",
+    "team1": {
+      "name": "البنك الأهلي",
+      "flag": "https://imgs.ysscores.com/teams/128/7591694081941.png"
+    },
+    "team2": {
+      "name": "سموحة",
+      "flag": "https://imgs.ysscores.com/teams/128/481694082088.png"
+    },
+    "extra": false,
+    "channels": []
+  },
+  {
+    "league": "كأس عاصمة مصر x",
+    "title": "بيراميدز × مودرن سبورت",
+    "time": "2026-12-01T20:00:00",
+    "team1": {
+      "name": "بيراميدز",
+      "flag": "https://imgs.ysscores.com/teams/128/5771692283569.png"
+    },
+    "team2": {
+      "name": "مودرن سبورت",
+      "flag": "https://imgs.ysscores.com/teams/128/5391724147326.png"
+    },
+    "extra": false,
+    "channels": []
   }
 ]
