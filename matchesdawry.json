@@ -16006,7 +16006,7 @@
     "channels": []
   },
   {
-    "league": "الدوري الانجليزي x",
+    "league": "الدوري الانجليزي",
     "title": "إيبسويتش × أستون فيلا",
     "time": "2026-11-28T19:30:00",
     "team1": {
@@ -16018,7 +16018,36 @@
       "flag": "https://imgs.ysscores.com/teams/128/9921723414870.png"
     },
     "extra": false,
-    "channels": []
+    "channels": [
+      {
+        "name": "SUPER TV 1",
+        "url": "go:supertv1"
+      },
+      {
+        "name": "TOD",
+        "url": "go:TOD11"
+      },
+      {
+        "name": "ALWAN 1",
+        "url": "go:ALWAN1"
+      },
+      {
+        "name": "FHD",
+        "url": "go:Bein1hd"
+      },
+      {
+        "name": "HD",
+        "url": "go:Bein1hd2"
+      },
+      {
+        "name": "SD",
+        "url": "go:Bein1sd"
+      },
+      {
+        "name": "LOW",
+        "url": "go:Bein1low"
+      }
+    ]
   },
   {
     "league": "دوري روشن السعودي",
